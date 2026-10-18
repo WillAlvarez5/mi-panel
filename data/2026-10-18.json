@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T20:00:00+02:00",
+  "is_sample": true,
+  "headline": {
+    "es": "Ejemplo: así se verá el titular del día, con lo más relevante en una o dos frases.",
+    "en": "Example: this is how the headline of the day will look, with the key story in one or two sentences."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": { "es": "Ejemplo: un laboratorio lanza un nuevo modelo de IA", "en": "Example: a lab releases a new AI model" },
+      "body": {
+        "es": "Aquí irá un resumen de dos o tres frases con lo esencial de la noticia, escrito con palabras propias.",
+        "en": "Here you will find a two or three sentence summary of the story, written in plain words."
+      },
+      "why_it_matters": {
+        "es": "Por qué importa: una frase que explica el impacto para ti o para el sector.",
+        "en": "Why it matters: one sentence explaining the impact for you or for the industry."
+      },
+      "source": { "name": "Fuente de ejemplo", "url": "https://www.reuters.com/technology/" }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": { "es": "Ejemplo: cumbre internacional sobre comercio", "en": "Example: international summit on trade" },
+      "body": {
+        "es": "Los líderes debaten nuevos acuerdos arancelarios. Aquí irá el contexto necesario para entender la noticia.",
+        "en": "Leaders are discussing new tariff agreements. This is where the context needed to understand the story will go."
+      },
+      "source": { "name": "Fuente de ejemplo", "url": "https://apnews.com/world-news" }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": { "es": "Ejemplo: el Congreso debate los presupuestos", "en": "Example: Parliament debates the budget" },
+      "body": {
+        "es": "Resumen breve y neutral de la noticia política o social más relevante del día en España.",
+        "en": "A short, neutral summary of the most relevant political or social story of the day in Spain."
+      },
+      "source": { "name": "Fuente de ejemplo", "url": "https://www.rtve.es/noticias/" }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": { "es": "Ejemplo: la CNMC publica la retribución de las redes", "en": "Example: the regulator publishes grid remuneration" },
+      "body": {
+        "es": "Noticia sobre regulación, distribución eléctrica o renovables, con foco en lo que te sirve para las prácticas.",
+        "en": "A story about regulation, electricity distribution or renewables, focused on what helps you at your internship."
+      },
+      "why_it_matters": {
+        "es": "Por qué importa: afecta a cuánto pueden invertir las distribuidoras como i-DE.",
+        "en": "Why it matters: it affects how much distributors such as i-DE can invest."
+      },
+      "source": { "name": "Fuente de ejemplo", "url": "https://www.cnmc.es/" }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": { "es": "Ejemplo: el IBEX 35 cierra la semana en positivo", "en": "Example: the IBEX 35 ends the week higher" },
+      "body": {
+        "es": "Cierre de mercados con los movimientos principales y su causa.",
+        "en": "Market close with the main moves and what drove them."
+      },
+      "source": { "name": "Fuente de ejemplo", "url": "https://www.expansion.com/mercados.html" }
+    }
+  ],
+  "watch_today": [
+    { "es": "Ejemplo: publicación del dato de inflación de la eurozona.", "en": "Example: eurozone inflation data release." },
+    { "es": "Ejemplo: resultados trimestrales de una gran tecnológica.", "en": "Example: quarterly earnings from a big tech company." }
+  ],
+  "glossary": [
+    { "term": "release", "translation": "lanzar / publicar", "pos": "verbo", "example": "The lab will release a new model." },
+    { "term": "tariff", "translation": "arancel", "pos": "sustantivo", "example": "New tariffs on steel imports." },
+    { "term": "remuneration", "translation": "retribución", "pos": "sustantivo", "example": "Grid remuneration is set by the regulator." },
+    { "term": "drove", "translation": "impulsó / provocó (pasado de drive)", "pos": "verbo", "example": "What drove the market higher?" },
+    { "term": "earnings", "translation": "resultados / beneficios", "pos": "sustantivo", "example": "Quarterly earnings beat expectations." }
+  ],
+  "sentences": [
+    { "en": "Why it matters: it affects how much distributors such as i-DE can invest.", "es": "Por qué importa: afecta a cuánto pueden invertir las distribuidoras como i-DE." }
+  ],
+  "word_of_the_day": {
+    "term": "headwind",
+    "pos": "sustantivo",
+    "translation": "viento en contra; factor que frena",
+    "definition_en": "A force or circumstance that makes progress more difficult.",
+    "example_en": "Higher interest rates are a headwind for utilities.",
+    "example_es": "Los tipos de interés más altos son un viento en contra para las eléctricas."
+  },
+  "recommendations": [
+    {
+      "id": "rec-ejemplo-1",
+      "type": "podcast",
+      "title": "Ejemplo: entrevista a un CEO del sector energético",
+      "speaker": "Nombre del invitado",
+      "outlet": "Nombre del podcast",
+      "duration_min": 45,
+      "language": "es",
+      "topics": ["energía", "empresa"],
+      "summary": "Resumen de 2-3 líneas sobre de qué va la entrevista y las ideas principales.",
+      "why": "Te ayuda a entender cómo piensa la dirección de una gran eléctrica.",
+      "url": "https://open.spotify.com/"
+    },
+    {
+      "id": "rec-ejemplo-2",
+      "type": "video",
+      "title": "Example: a tech leader interviewed on the future of AI",
+      "speaker": "Guest name",
+      "outlet": "YouTube channel",
+      "duration_min": 30,
+      "language": "en",
+      "topics": ["IA", "tecnología"],
+      "summary": "Resumen en español de la entrevista para decidir si te interesa verla.",
+      "why": "Buena práctica de inglés con un tema que te interesa.",
+      "url": "https://www.youtube.com/"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Ejemplo: aquí irá un comentario diario de lo que ha pasado en los mercados, por qué y qué dicen los analistas, sin recomendaciones de compra o venta.",
+      "en": "Example: a daily comment on what happened in markets, why, and what analysts say, without buy or sell recommendations."
+    },
+    "indices": [],
+    "learn": {
+      "concept": "CAPEX y OPEX",
+      "explanation": "El CAPEX es la inversión en activos que duran años (una subestación, una línea). El OPEX es el gasto del día a día para operarlos (mantenimiento, personal). En redes reguladas, el CAPEX es clave porque buena parte de la retribución depende de los activos que la distribuidora pone en servicio."
+    }
+  },
+  "leisure": { "movies": [], "books": [] }
+}
