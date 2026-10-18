@@ -3,7 +3,7 @@ import { applyTheme } from '../theme.js';
 import { esc, setHeader, toast, downloadJSON, todayISO } from '../util.js';
 import { resetCache } from '../data.js';
 
-const APP_VERSION = '0.1.0';
+const APP_VERSION = '0.2.0';
 
 export async function render(root) {
   setHeader('Ajustes');

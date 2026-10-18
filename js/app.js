@@ -1,6 +1,7 @@
 // Arranque de la app y navegación entre pestañas.
 import { requestPersistence } from './db.js';
 import { applyTheme } from './theme.js';
+import { resetCache } from './data.js';
 import * as inicio from './views/inicio.js';
 import * as noticias from './views/noticias.js';
 import * as escuchar from './views/escuchar.js';
@@ -45,6 +46,16 @@ async function render() {
   }
 }
 
+// Al volver a la app tras un rato, recarga los datos del día por si hay novedades.
+let lastLoad = Date.now();
+function onVisible() {
+  if (document.visibilityState !== 'visible') return;
+  if (Date.now() - lastLoad < 5 * 60 * 1000) return;
+  lastLoad = Date.now();
+  resetCache();
+  if (['inicio', 'noticias', 'escuchar', 'mercados'].includes(currentRoute())) render();
+}
+
 function onScroll() {
   document.querySelector('.topbar').classList.toggle('is-scrolled', window.scrollY > 4);
 }
@@ -53,6 +64,7 @@ async function start() {
   await applyTheme();
   window.addEventListener('hashchange', render);
   window.addEventListener('scroll', onScroll, { passive: true });
+  document.addEventListener('visibilitychange', onVisible);
   if (!location.hash) history.replaceState(null, '', `#/${DEFAULT_ROUTE}`);
   render();
   requestPersistence();

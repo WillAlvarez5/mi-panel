@@ -1,6 +1,6 @@
 // Service worker: permite instalar la app y usarla sin conexión.
 // Sube CACHE_VERSION cada vez que cambies archivos de la app.
-const CACHE_VERSION = 'v0.1.0';
+const CACHE_VERSION = 'v0.2.0';
 const SHELL_CACHE = `shell-${CACHE_VERSION}`;
 const DATA_CACHE = 'data';
 
@@ -28,7 +28,7 @@ const SHELL = [
 ];
 
 self.addEventListener('install', (event) => {
-  event.waitUntil(caches.open(SHELL_CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  event.waitUntil(caches.open(SHELL_CACHE).then((c) => c.addAll(SHELL.map((u) => new Request(u, { cache: 'reload' })))).then(() => self.skipWaiting()));
 });
 
 self.addEventListener('activate', (event) => {

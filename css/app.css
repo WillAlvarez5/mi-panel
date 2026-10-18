@@ -255,3 +255,4 @@ svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width:
 
 .row .label .subtle { display: block; margin-top: 2px; }
 label.btn { cursor: pointer; }
+.tag--new { background: var(--accent-soft); color: var(--accent); }

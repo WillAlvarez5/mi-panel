@@ -1,6 +1,6 @@
 import { loadIndex, loadDay } from '../data.js';
 import { getSetting, setSetting } from '../db.js';
-import { esc, safeUrl, formatDate, setHeader, SECTIONS } from '../util.js';
+import { esc, safeUrl, formatDate, setHeader, SECTIONS, freshBadge, hhmm } from '../util.js';
 
 const state = { lang: null, section: 'all', date: null };
 
@@ -19,7 +19,8 @@ export async function render(root) {
 
   const day = await loadDay(state.date);
   const L = state.lang;
-  setHeader(L === 'en' ? 'News' : 'Noticias', formatDate(day.date));
+  const updated = day.last_updated ? ` · ${L === 'en' ? 'updated' : 'act.'} ${hhmm(day.last_updated)}` : '';
+  setHeader(L === 'en' ? 'News' : 'Noticias', formatDate(day.date) + updated);
 
   const sectionsPresent = Object.keys(SECTIONS).filter((s) => (day.news || []).some((n) => n.section === s));
   const news = (day.news || []).filter((n) => state.section === 'all' || n.section === state.section);
@@ -60,11 +61,14 @@ export async function render(root) {
 
   const groups = sectionsPresent.filter((s) => state.section === 'all' || s === state.section);
   for (const s of groups) {
-    const items = news.filter((n) => n.section === s);
+    // Lo nuevo del día arriba dentro de cada sección.
+    const items = news.filter((n) => n.section === s).sort((a, b) =>
+      new Date(b.updated_at || b.added_at || 0) - new Date(a.updated_at || a.added_at || 0));
     if (!items.length) continue;
     html.push(`<div class="news-section-head"><span>${SECTIONS[s].icon}</span><h2>${esc(SECTIONS[s][L])}</h2></div>`);
     html.push(`<div class="stack" lang="${L}">${items.map((n) => `
       <article class="card news-item">
+        ${freshBadge(n, L)}
         <h3>${esc(n.title?.[L])}</h3>
         <p>${esc(n.body?.[L])}</p>
         ${n.why_it_matters?.[L] ? `<p class="why">${esc(n.why_it_matters[L])}</p>` : ''}

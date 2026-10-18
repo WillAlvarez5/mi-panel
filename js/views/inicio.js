@@ -1,5 +1,5 @@
 import { loadLatest } from '../data.js';
-import { esc, safeUrl, formatDate, greeting, setHeader, SECTIONS, REC_TYPES } from '../util.js';
+import { esc, safeUrl, formatDate, greeting, setHeader, hhmm, freshBadge, freshNews, SECTIONS, REC_TYPES } from '../util.js';
 
 const TILES = [
   { href: '#/noticias', title: 'Noticias', text: 'Español e inglés', icon: '<rect x="3" y="4" width="14" height="16" rx="2"/><path d="M17 8h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H7M7 8h6M7 12h6M7 16h3"/>' },
@@ -31,14 +31,27 @@ export async function render(root) {
   } else {
     parts.push(`
       <a class="card hero" href="#/noticias" style="display:block;color:inherit;margin-top:14px">
-        <span class="subtle">Titular del día · ${esc(formatDate(day.date, { day: 'numeric', month: 'short' }))}</span>
+        <span class="subtle">Titular del día · ${esc(formatDate(day.date, { day: 'numeric', month: 'short' }))}${day.last_updated ? ` · actualizado ${esc(hhmm(day.last_updated))}` : ''}</span>
         <h2>${esc(day.headline?.es)}</h2>
       </a>`);
+
+    // Novedades durante el día (máx. 3)
+    const fresh = freshNews(day).slice(0, 3);
+    if (fresh.length) {
+      parts.push(`<div class="section-title"><span>Última hora</span><a href="#/noticias">Ver todo</a></div>`);
+      parts.push(`<div class="stack">${fresh.map((n) => `
+        <a class="card card--flat news-item" href="#/noticias" style="color:inherit">
+          ${freshBadge(n)} <span class="tag">${SECTIONS[n.section]?.icon ?? ''} ${esc(SECTIONS[n.section]?.es ?? n.section)}</span>
+          <h3>${esc(n.title?.es)}</h3>
+          <p class="muted">${esc(n.body?.es)}</p>
+        </a>`).join('')}</div>`);
+    }
 
     // Una noticia destacada de cada sección (máx. 3)
     const seen = new Set();
     const top = [];
     for (const n of day.news || []) {
+      if (fresh.includes(n)) continue;
       if (!seen.has(n.section)) { seen.add(n.section); top.push(n); }
       if (top.length === 3) break;
     }

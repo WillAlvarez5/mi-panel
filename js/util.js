@@ -65,6 +65,28 @@ export function downloadJSON(obj, filename) {
   setTimeout(() => URL.revokeObjectURL(url), 1000);
 }
 
+// "14:05" a partir de una fecha ISO (hora de Madrid).
+export function hhmm(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return '';
+  return d.toLocaleTimeString('es-ES', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Madrid' });
+}
+
+// Etiqueta para noticias añadidas o actualizadas durante el día.
+export function freshBadge(n, lang = 'es') {
+  if (n.updated_at) return `<span class="tag tag--new">${lang === 'en' ? 'Updated' : 'Actualizado'} · ${esc(hhmm(n.updated_at))}</span>`;
+  if (n.added_at) return `<span class="tag tag--new">${lang === 'en' ? 'New' : 'Nuevo'} · ${esc(hhmm(n.added_at))}</span>`;
+  return '';
+}
+
+// Noticias añadidas/actualizadas durante el día, de la más reciente a la más antigua.
+export function freshNews(day) {
+  return (day?.news || [])
+    .filter((n) => n.added_at || n.updated_at)
+    .sort((a, b) => new Date(b.updated_at || b.added_at) - new Date(a.updated_at || a.added_at));
+}
+
 export const SECTIONS = {
   ia: { es: 'Inteligencia artificial', en: 'Artificial intelligence', icon: '🤖' },
   mundo: { es: 'Mundo', en: 'World', icon: '🌍' },

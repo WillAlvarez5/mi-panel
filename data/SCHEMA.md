@@ -17,7 +17,8 @@ Cada mañana la tarea programada de Claude escribe **un fichero por día** en es
 |---|---|---|
 | `schema_version` | número | Siempre `1` por ahora. |
 | `date` | `"AAAA-MM-DD"` | Fecha del repaso. |
-| `generated_at` | ISO 8601 | Hora de generación. |
+| `generated_at` | ISO 8601 | Hora del repaso de la mañana. |
+| `last_updated` | ISO 8601 | Hora de la última actualización (mañana, mediodía o tarde). |
 | `is_sample` | booleano | `true` solo en datos de ejemplo. Omitir o `false` en los reales. |
 | `headline` | `{es, en}` | Titular del día (1-2 frases). |
 | `news[]` | lista | Noticias (ver abajo). |
@@ -43,6 +44,13 @@ Cada mañana la tarea programada de Claude escribe **un fichero por día** en es
 ```
 
 `why_it_matters` es opcional. Las versiones `es` y `en` cuentan la misma noticia.
+
+Campos opcionales para las actualizaciones durante el día:
+
+- `added_at` (ISO 8601 con zona, p. ej. `2026-10-19T14:02:00+02:00`): la noticia se añadió en una actualización posterior a la de la mañana. La app la marca como **Nuevo** y la muestra en *Última hora*.
+- `updated_at` (ISO 8601): una noticia de la mañana que ha cambiado de forma importante. La app la marca como **Actualizado**.
+
+Las noticias de la mañana no llevan ninguno de los dos.
 
 ### Recomendación (`recommendations[]`)
 
