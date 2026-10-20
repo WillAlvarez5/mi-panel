@@ -1,0 +1,1018 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T07:01:50+02:00",
+  "last_updated": "2026-10-20T07:01:50+02:00",
+  "headline": {
+    "es": "Los disturbios en Francia y las dudas sobre su deuda hunden a las bolsas europeas (el Ibex cae un 1,49%), mientras la luz marca su máximo del año y OpenAI busca una valoración de más de 1,4 billones antes de la salida a bolsa de Anthropic.",
+    "en": "Riots in France and worries about its debt dragged European stocks lower (the Ibex fell 1.49%), while Spanish power prices hit a yearly high and OpenAI seeks a valuation above $1.4 trillion ahead of Anthropic's IPO."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "OpenAI acelera una ronda que la valoraría en más de 1,4 billones de dólares",
+        "en": "OpenAI speeds up a funding round that could value it above $1.4 trillion"
+      },
+      "body": {
+        "es": "OpenAI estaría acelerando una ronda de unos 30.000 millones de dólares que valoraría la empresa en más de 1,4 billones, con SoftBank y el fondo MGX de Abu Dabi entre los inversores en conversaciones. El momento no es casual: se espera que Anthropic salga a bolsa a mediados de noviembre y OpenAI quiere asegurarse capital nuevo antes de que la atención de los inversores se desplace. Llega justo después de una semana en la que las tecnológicas sufrieron por las dudas sobre si el gasto en IA será rentable.",
+        "en": "OpenAI is reportedly pushing to close a round of roughly $30 billion that would value the company at more than $1.4 trillion, with SoftBank and Abu Dhabi's MGX among the investors in talks. The timing is no accident: Anthropic is expected to go public in mid-November, and OpenAI wants to lock in fresh capital before investors' attention shifts. It comes just after a week in which tech stocks were hit by doubts over whether AI spending will pay off."
+      },
+      "why_it_matters": {
+        "es": "Los dos grandes laboratorios de IA compiten ya por el mismo dinero, y sus valoraciones marcarán el tono de todo el sector.",
+        "en": "The two leading AI labs are now competing for the same pool of capital, and their valuations will set the tone for the whole sector."
+      },
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic negocia con Nscale un contrato de computación de unos 45.000 millones",
+        "en": "Anthropic in talks with Nscale over a roughly $45 billion compute deal"
+      },
+      "body": {
+        "es": "Anthropic y el proveedor de nube Nscale negocian un segundo acuerdo valorado en unos 45.000 millones de dólares, según Bloomberg. Cubriría 460 megavatios de capacidad en el campus de Nscale en Virginia Occidental, con los chips Vera Rubin de próxima generación de Nvidia. Los acuerdos de este tamaño se miden cada vez más en megavatios que en número de chips.",
+        "en": "Anthropic and the cloud provider Nscale are negotiating a second agreement worth about $45 billion, according to Bloomberg. It would cover 460 megawatts of capacity at Nscale's campus in West Virginia, running on Nvidia's next-generation Vera Rubin chips. Deals of this size are increasingly measured in megawatts rather than in number of chips."
+      },
+      "why_it_matters": {
+        "es": "Para quien trabaja en redes eléctricas, esta es la señal clave: la demanda de la IA es ya una cuestión de conseguir conexiones a la red.",
+        "en": "For anyone working in power grids, this is the key signal: AI demand is now a question of securing electricity connections."
+      },
+      "source": {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "Meta muestra por dentro Prometheus, su supercomputador de escala gigavatio",
+        "en": "Meta takes the wraps off Prometheus, its gigawatt-scale supercluster"
+      },
+      "body": {
+        "es": "Meta publicó un análisis detallado de Prometheus, su supercomputador de IA en New Albany (Ohio), con un consumo a escala de gigavatios. La primera fase conecta cientos de miles de GPU y el proyecto completo aspira a llegar a cerca de un millón para entrenar su familia de modelos Muse. Meta asegura que ha reducido un 99% las interrupciones durante el entrenamiento.",
+        "en": "Meta published a detailed look at Prometheus, its AI supercluster in New Albany, Ohio, which draws power on a gigawatt scale. The first phase links hundreds of thousands of GPUs, and the full build is meant to reach around one million to train its Muse family of models. Meta says it has cut training interruptions by 99%."
+      },
+      "source": {
+        "name": "Meta Engineering",
+        "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "Un hacker usa agentes de IA para asaltar webs de más de 100 empresas",
+        "en": "A hacker used AI agents to break into more than 100 company websites"
+      },
+      "body": {
+        "es": "Un hacker de habla china habría vulnerado las webs de más de 100 empresas delegando la mayor parte del trabajo en agentes de IA, con un gasto de apenas unos miles de dólares. Ese mismo día, Microsoft presentó herramientas que evalúan el riesgo de cada agente y permiten a los administradores exigir aprobación humana o desactivarlos. Tanto el ataque como la defensa se están automatizando.",
+        "en": "A Chinese-speaking hacker reportedly breached the websites of over 100 companies by handing most of the work to AI agents, spending only a few thousand dollars. On the same day, Microsoft unveiled tools that score individual agents for risk and let administrators require human approval or shut them down. Attack and defence are both becoming automated."
+      },
+      "why_it_matters": {
+        "es": "Los ataques baratos y automatizados rebajan la barrera de entrada al cibercrimen, algo relevante para infraestructuras críticas como las redes eléctricas.",
+        "en": "Cheap, automated attacks lower the barrier for cybercrime, which matters for critical infrastructure such as electricity networks."
+      },
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "EE. UU. ordena retirar DeepSeek de los sistemas federales",
+        "en": "US orders DeepSeek removed from federal systems"
+      },
+      "body": {
+        "es": "El Departamento de Seguridad Nacional ordenó retirar la tecnología de DeepSeek de los sistemas informáticos civiles federales y prohibió futuras compras de sus productos. Al mismo tiempo, China prepara restricciones a la exportación de unas 40 tecnologías, entre ellas IA, chips y fabricación solar.",
+        "en": "The Department of Homeland Security ordered DeepSeek's technology to be removed from federal civilian IT systems and barred future purchases of its products. At the same time, China is preparing to restrict exports of some 40 technologies, including AI, chips and solar manufacturing."
+      },
+      "why_it_matters": {
+        "es": "La rivalidad tecnológica entre Washington y Pekín sigue ampliándose, desde el software hasta los paneles solares de la transición energética europea.",
+        "en": "The tech rivalry between Washington and Beijing keeps widening, from software to the solar panels used in Europe's energy transition."
+      },
+      "source": {
+        "name": "The Wall Street Journal",
+        "url": "https://www.wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "Tenstorrent capta 1.500 millones y Amazon facilita usar sus chips con PyTorch",
+        "en": "Tenstorrent raises $1.5 billion as Amazon makes its chips easier to use"
+      },
+      "body": {
+        "es": "Tenstorrent, la empresa de chips de Jim Keller, levantó 1.500 millones de dólares con una valoración de 6.200 millones, más del doble que antes, para escalar la producción de sus servidores RISC-V. Por otro lado, Amazon lanzó TorchNeuron, una herramienta de código abierto que permite ejecutar código PyTorch en sus chips Trainium con un simple cambio de dispositivo. Ambos movimientos erosionan la ventaja de software de Nvidia.",
+        "en": "Jim Keller's chip startup Tenstorrent raised $1.5 billion at a $6.2 billion valuation, more than doubling its previous price, to scale up production of its RISC-V servers. Separately, Amazon launched TorchNeuron, an open-source tool that lets developers run PyTorch code on its Trainium chips with a simple device change. Both moves chip away at Nvidia's software advantage."
+      },
+      "source": {
+        "name": "SiliconANGLE",
+        "url": "https://siliconangle.com/2026/10/19/chip-legend-jim-kellers-tenstorrent-raises-1-5b-to-expand-its-open-compute-ecosystem/"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Disturbios en Francia: el Gobierno de Lecornu se juega hoy parte de su presupuesto",
+        "en": "Riots in France pile pressure on Lecornu ahead of a key budget vote"
+      },
+      "body": {
+        "es": "Las protestas por el coste de la vida y la situación de los colegios derivaron en violencia en toda Francia durante el fin de semana, con saqueos en varias ciudades y un incendio que arrasó el histórico ayuntamiento de Limoges. El Gobierno en minoría de Sébastien Lecornu afronta este martes la votación de la parte de ingresos del presupuesto de 2027.",
+        "en": "Protests over the cost of living and school conditions turned violent across France over the weekend, with looting in several cities and a fire that gutted Limoges' historic town hall. Sébastien Lecornu's minority government faces a vote on Tuesday on the revenue side of the 2027 budget."
+      },
+      "why_it_matters": {
+        "es": "Un presupuesto fallido aumentaría las dudas sobre la deuda francesa, y eso contagia a los mercados españoles y europeos.",
+        "en": "A failed budget would deepen doubts about French debt, and that spills over into Spanish and European markets."
+      },
+      "source": {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/economy/policy/articles/frances-riots-highlight-growing-risk-064002890.html"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Ucrania golpea San Petersburgo y crece la tensión con Trump",
+        "en": "Ukraine strikes St Petersburg as tensions with Trump grow"
+      },
+      "body": {
+        "es": "Drones ucranianos atacaron San Petersburgo, incluida una gran terminal petrolera, en el mayor ataque contra la ciudad desde el inicio de la guerra, tras el colapso de una breve tregua energética. Trump criticó a Zelenski y ha dejado en suspenso nuevas sanciones a Rusia, mientras Putin habría propuesto una cumbre con Trump y Xi el mes que viene.",
+        "en": "Ukrainian drones hit St Petersburg, including a major oil terminal, in the largest attack on the city since the war began, after a short energy truce collapsed. Trump criticised Zelensky and has put new Russia sanctions on hold, while Putin has reportedly floated a summit with Trump and Xi next month."
+      },
+      "source": {
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "Ormuz sigue cerrado: dos petroleros arden tras chocar con minas",
+        "en": "Hormuz stays shut as two tankers catch fire after hitting mines"
+      },
+      "body": {
+        "es": "Dos petroleros se incendiaron tras chocar con minas en el estrecho de Ormuz, según la marina de la Guardia Revolucionaria iraní. El ministro de Exteriores iraní dijo que la oferta de reabrir el estrecho en siete días sigue en pie, mientras el nuevo ministro de Defensa advirtió a EE. UU. contra reanudar los ataques.",
+        "en": "Two oil tankers caught fire after striking mines in the Strait of Hormuz, according to Iran's Revolutionary Guard navy. Iran's foreign minister said Tehran's offer to reopen the strait within seven days still stands, while its new defence minister warned the US against resuming strikes."
+      },
+      "why_it_matters": {
+        "es": "Ormuz es la principal razón de que el petróleo cotice por encima de 100 dólares y de que el gas, y con él la luz en España, esté tan caro.",
+        "en": "Hormuz is the main reason oil trades above $100 and why gas, and therefore Spanish electricity, is so expensive."
+      },
+      "source": {
+        "name": "FDD Overnight Brief",
+        "url": "https://www.fdd.org/overnight-brief/october-19-2026/"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Los hutíes intensifican sus ataques contra el petróleo saudí",
+        "en": "Houthis step up attacks on Saudi oil infrastructure"
+      },
+      "body": {
+        "es": "Los hutíes reivindicaron seis ataques contra objetivos petroleros y aeroportuarios saudíes, lo que hizo subir el crudo el lunes. Según varios informes, el apoyo de inteligencia iraní ha hecho estos ataques más sofisticados, dejando al descubierto carencias en la defensa aérea saudí.",
+        "en": "The Houthis claimed six attacks on Saudi oil and airport targets, which pushed crude prices higher on Monday. Reports suggest Iranian intelligence support has made these strikes more sophisticated, exposing gaps in Saudi air defences."
+      },
+      "source": {
+        "name": "FDD Overnight Brief",
+        "url": "https://www.fdd.org/overnight-brief/october-19-2026/"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Israel vota la semana que viene y Trump respalda a Netanyahu",
+        "en": "Israel heads to the polls next week as Trump endorses Netanyahu"
+      },
+      "body": {
+        "es": "Trump respaldó a Benjamín Netanyahu antes de las elecciones israelíes de la semana que viene, una carrera ajustada en la que el primer ministro se juega su supervivencia política. Mientras, una delegación libanesa se reúne hoy en Tampa para presentar las exigencias de Beirut para detener los ataques israelíes.",
+        "en": "Trump endorsed Benjamin Netanyahu ahead of next week's Israeli election, a tight race in which the prime minister is fighting for his political survival. Meanwhile, Lebanese officials meet in Tampa today to present Beirut's demands to halt Israeli attacks."
+      },
+      "source": {
+        "name": "FDD Overnight Brief",
+        "url": "https://www.fdd.org/overnight-brief/october-19-2026/"
+      }
+    },
+    {
+      "id": "mundo-6",
+      "section": "mundo",
+      "title": {
+        "es": "EE. UU., a dos semanas de las legislativas, dividido por el acuerdo de diésel con Rusia",
+        "en": "Trump's Russian diesel deal splits Republicans two weeks before the midterms"
+      },
+      "body": {
+        "es": "El sorprendente acuerdo de Trump para permitir el diésel ruso, junto con una exención de sanciones, pone en un aprieto a los candidatos republicanos a dos semanas de las elecciones legislativas. Algunos de ellos han empezado a desmarcarse de la Casa Blanca en lo relativo a Rusia.",
+        "en": "Trump's surprise deal to allow Russian diesel imports, along with a sanctions waiver, is putting Republican candidates in an awkward position two weeks before the midterm elections. Some of them have started to break with the White House on Russia."
+      },
+      "source": {
+        "name": "FDD Overnight Brief",
+        "url": "https://www.fdd.org/overnight-brief/october-19-2026/"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "Elecciones del 29N: mañana se abre el plazo para presentar las listas",
+        "en": "Spain's 29 November election: candidate lists can be filed from tomorrow"
+      },
+      "body": {
+        "es": "Los partidos ultiman sus listas para las generales del 29 de noviembre; el plazo de presentación va del 21 al 26 de octubre y la campaña oficial arranca el 13 de noviembre. Aún no se sabe si Vox renunciará a presentarse en algunas circunscripciones del Senado en respuesta al pacto de las izquierdas para la Cámara Alta.",
+        "en": "Parties are finalising their candidate lists for the 29 November general election; the filing window runs from 21 to 26 October, and the official campaign starts on 13 November. It is still unclear whether Vox will step aside in some Senate races in response to the left-wing pact for the upper house."
+      },
+      "source": {
+        "name": "El Español",
+        "url": "https://www.elespanol.com/espana/20261005/llega-calendario-elecciones-generales-cierran-listas-electorales/1003744408570_0.html"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "La DANA Adam sigue dejando lluvias en el Mediterráneo",
+        "en": "Storm Adam keeps drenching Spain's Mediterranean coast"
+      },
+      "body": {
+        "es": "Las lluvias de la DANA Adam seguirán en Cataluña, la Comunidad Valenciana, Baleares, el sureste peninsular y El Hierro, con un descenso general de las temperaturas. EFE cifra en cuatro los fallecidos hasta ahora.",
+        "en": "Heavy rain from the cut-off low known as DANA Adam will continue in Catalonia, Valencia, the Balearic Islands, the south-east and El Hierro, with temperatures falling across the country. EFE puts the death toll so far at four."
+      },
+      "source": {
+        "name": "EFE (vía Infobae)",
+        "url": "https://www.infobae.com/espana/agencias/2026/10/19/temas-del-dia-de-efe-espana-del-martes-20-de-octubre-de-2026/"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "El Consejo de Ministros aprueba un paquete de medidas sociales",
+        "en": "Cabinet approves a package of social measures"
+      },
+      "body": {
+        "es": "El Consejo de Ministros aprobará una mayor protección de la Seguridad Social para la incapacidad asociada a la menopausia, una nueva prestación para víctimas de violencia de género y mejoras en pensiones como la de viudedad. El Gobierno destinará además 45 millones de euros a 2.000 plazas en residencias universitarias en seis comunidades.",
+        "en": "The Cabinet is set to approve broader Social Security protection for menopause-related incapacity, a new benefit for victims of gender violence and improvements to pensions such as widows' benefits. The government will also earmark €45 million for 2,000 university residence places in six regions."
+      },
+      "source": {
+        "name": "EFE (vía Infobae)",
+        "url": "https://www.infobae.com/espana/agencias/2026/10/19/temas-del-dia-de-efe-espana-del-martes-20-de-octubre-de-2026/"
+      }
+    },
+    {
+      "id": "espana-4",
+      "section": "espana",
+      "title": {
+        "es": "El Constitucional decide sobre la amnistía de Turull",
+        "en": "Constitutional Court weighs Turull's amnesty appeal"
+      },
+      "body": {
+        "es": "El Tribunal Constitucional celebra un pleno en el que podría dar la razón al exconseller Jordi Turull frente al Supremo, que no le aplicó la amnistía a la condena por malversación. Hoy se cumplen además quince años del anuncio del fin de la violencia de ETA.",
+        "en": "The Constitutional Court holds a plenary session in which it could side with former Catalan minister Jordi Turull against the Supreme Court, which refused to apply the amnesty to his embezzlement conviction. Today also marks fifteen years since ETA announced the end of its violence."
+      },
+      "source": {
+        "name": "EFE (vía Infobae)",
+        "url": "https://www.infobae.com/espana/agencias/2026/10/19/temas-del-dia-de-efe-espana-del-martes-20-de-octubre-de-2026/"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "La luz baja hoy a 195 €/MWh tras marcar el lunes el máximo del año",
+        "en": "Power prices ease to €195/MWh after Monday's annual high"
+      },
+      "body": {
+        "es": "El precio mayorista de la electricidad en España promedió 215 €/MWh el lunes, el más alto del año y casi el triple que el domingo, con un pico cercano a 300 € a las 21:00. Detrás del salto están el gas más caro por la guerra con Irán y los cielos nublados de la DANA Adam, que redujeron la producción solar. Hoy la media baja a unos 195 €, pero 17 horas siguen por encima de 200 €.",
+        "en": "Spain's wholesale electricity price averaged €215 per MWh on Monday, the highest this year and nearly three times Sunday's level, peaking close to €300 at 9 pm. Costlier gas because of the war with Iran and cloudy skies from DANA Adam, which cut solar output, were behind the jump. Today's average eases to about €195, but 17 hours remain above €200."
+      },
+      "why_it_matters": {
+        "es": "Muestra cuánto depende aún el precio en España del gas cuando no hay sol, un buen argumento a favor del almacenamiento y de redes mejor conectadas.",
+        "en": "It shows how much Spain's price still depends on gas when the sun doesn't shine, a strong argument for storage and better-connected grids."
+      },
+      "source": {
+        "name": "El Debate",
+        "url": "https://eldebate.com/economia/20261019/luz-marca-este-lunes-maximo-anual-rozar-300-euros-megavatio-hora-noche_471046.html"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "IRENA: sin redes, las renovables chocan con un techo",
+        "en": "IRENA warns that renewables will hit a ceiling without new grids"
+      },
+      "body": {
+        "es": "En su Perspectiva de la Transición Energética Mundial, IRENA afirma que las redes no han avanzado al ritmo de las renovables y pide reformas profundas, además de más almacenamiento y flexibilidad. Su escenario exige unos 10,3 billones de dólares de inversión al año hasta 2050, con la electricidad alcanzando el 35% del consumo final de energía en 2035.",
+        "en": "In its World Energy Transitions Outlook, IRENA says grids have not kept pace with renewables and calls for major reforms, along with more storage and flexibility. Its pathway requires around $10.3 trillion a year in investment until 2050, with electricity reaching 35% of final energy use by 2035."
+      },
+      "why_it_matters": {
+        "es": "Refuerza los argumentos a favor de los planes de inversión en redes con los que trabajas en i-DE.",
+        "en": "It reinforces the case for the network investment plans you work on at i-DE."
+      },
+      "source": {
+        "name": "Energy News",
+        "url": "https://energynews.es/irena-advierte-de-los-limites-de-las-energias-renovables-sin-nuevas-redes-electricas-y-mas-inversion"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "México vota hoy 12.500 millones en renovables con Iberdrola en juego",
+        "en": "Mexico's CFE votes today on $12.5 billion of renewables, with Iberdrola in the mix"
+      },
+      "body": {
+        "es": "El consejo de la eléctrica estatal mexicana CFE se reúne hoy para dar el visto bueno preliminar a más de 60 proyectos, sobre todo eólicos y solares, que suman unos 8,2 GW y 12.500 millones de dólares de inversión. Iberdrola, Acciona y Repsol tienen intereses en juego, aunque los costes de transmisión y la norma que obliga al Estado a mantener al menos el 54% de cada central siguen abiertos.",
+        "en": "The board of Mexico's state utility CFE meets today to give preliminary approval to more than 60 mostly wind and solar projects, adding about 8.2 GW and $12.5 billion of investment. Iberdrola, Acciona and Repsol have interests at stake, although transmission costs and the rule that the state must hold at least 54% of each plant remain open questions."
+      },
+      "source": {
+        "name": "Moncloa.com",
+        "url": "https://moncloa.com/2026/10/19/cfe-proyectos-renovables-mexico-3451216"
+      }
+    },
+    {
+      "id": "energia-4",
+      "section": "energia",
+      "title": {
+        "es": "Endesa invertirá casi 9 millones en la red de Granada",
+        "en": "Endesa to invest almost €9 million in Granada's grid"
+      },
+      "body": {
+        "es": "Endesa prevé invertir cerca de 9 millones de euros en su red de distribución en Granada, un 45% más que en los últimos cinco años.",
+        "en": "Endesa plans to invest close to €9 million in its distribution network in Granada, 45% more than over the past five years."
+      },
+      "why_it_matters": {
+        "es": "Planes locales como este muestran cómo las distribuidoras están acelerando la inversión con el nuevo marco retributivo.",
+        "en": "Local plans like this show how distributors are ramping up spending under the new remuneration framework."
+      },
+      "source": {
+        "name": "El Mira",
+        "url": "https://elmira.es/articulo/granada/endesa-invertira-cerca-nueve-millones-euros-red-electrica-granada-45-mas-que-ultimos-cinco-anos/20261019144732623023.html"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "Los bonos franceses caen y el diferencial con Alemania ronda los 140 puntos",
+        "en": "French bonds slide as the gap with Germany nears 140 basis points"
+      },
+      "body": {
+        "es": "La rentabilidad del bono francés a 10 años subió hasta el 4,86% el lunes mientras la alemana se mantenía en el 3,41%, dejando el diferencial en torno a 140 puntos básicos. Los analistas advierten de que el déficit podría superar el 6% del PIB si fracasa el presupuesto de 2027, y algunos esperan que el diferencial llegue a 200 puntos a finales de 2027.",
+        "en": "France's 10-year yield climbed to about 4.86% on Monday while Germany's held at 3.41%, leaving the spread around 140 basis points. Analysts warn the deficit could exceed 6% of GDP if the 2027 budget fails, and some expect the spread to reach 200 points by the end of 2027."
+      },
+      "source": {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/economy/policy/articles/frances-riots-highlight-growing-risk-064002890.html"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "Santander firma un acuerdo de IA a tres años con Nvidia",
+        "en": "Santander signs a three-year AI agreement with Nvidia"
+      },
+      "body": {
+        "es": "Banco Santander anunció un acuerdo de inteligencia artificial a tres años con Nvidia, aunque sus acciones cayeron cerca de un 1,6% en una mala jornada para las bolsas europeas. Iberdrola publicará mañana, 21 de octubre, sus resultados de los nueve primeros meses.",
+        "en": "Banco Santander announced a three-year artificial intelligence agreement with Nvidia, although its shares fell about 1.6% on a weak day for European markets. Iberdrola will publish its nine-month results tomorrow, 21 October."
+      },
+      "source": {
+        "name": "Benzinga España",
+        "url": "https://es.benzinga.com/news/spain/indices/ibex-35-francia-tecnologicas-191026/"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "Francia: votación de la parte de ingresos del presupuesto de 2027 del Gobierno de Lecornu.",
+      "en": "France: vote on the revenue side of the Lecornu government's 2027 budget."
+    },
+    {
+      "es": "Resultados de Netflix y SpaceX tras el cierre de Wall Street; mañana, Tesla, Meta e Iberdrola (9 meses).",
+      "en": "Netflix and SpaceX report after Wall Street closes; Tesla, Meta and Iberdrola (nine months) follow tomorrow."
+    },
+    {
+      "es": "La CFE mexicana vota más de 60 proyectos renovables por 12.500 millones de dólares.",
+      "en": "Mexico's CFE votes on more than 60 renewable projects worth $12.5 billion."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "reportedly",
+      "translation": "según se informa / al parecer",
+      "pos": "adverbio",
+      "example": "OpenAI is reportedly pushing to close a round of roughly $30 billion."
+    },
+    {
+      "term": "lock in",
+      "translation": "asegurarse / fijar",
+      "pos": "phrasal verb",
+      "example": "OpenAI wants to lock in fresh capital."
+    },
+    {
+      "term": "pay off",
+      "translation": "dar fruto / ser rentable",
+      "pos": "phrasal verb",
+      "example": "Doubts over whether AI spending will pay off."
+    },
+    {
+      "term": "pool",
+      "translation": "fondo común / reserva",
+      "pos": "sustantivo",
+      "example": "Competing for the same pool of capital."
+    },
+    {
+      "term": "set the tone",
+      "translation": "marcar la pauta",
+      "pos": "expresión",
+      "example": "Their valuations will set the tone for the whole sector."
+    },
+    {
+      "term": "takes the wraps off",
+      "translation": "presenta / desvela",
+      "pos": "expresión",
+      "example": "Meta takes the wraps off Prometheus."
+    },
+    {
+      "term": "draws power",
+      "translation": "consume electricidad",
+      "pos": "expresión",
+      "example": "An AI supercluster which draws power on a gigawatt scale."
+    },
+    {
+      "term": "breached",
+      "translation": "vulneró / penetró",
+      "pos": "verbo",
+      "example": "A hacker breached the websites of over 100 companies."
+    },
+    {
+      "term": "unveiled",
+      "translation": "presentó / dio a conocer",
+      "pos": "verbo",
+      "example": "Microsoft unveiled tools that score individual agents for risk."
+    },
+    {
+      "term": "shut them down",
+      "translation": "desactivarlos / apagarlos",
+      "pos": "phrasal verb",
+      "example": "Administrators can require human approval or shut them down."
+    },
+    {
+      "term": "barred",
+      "translation": "prohibió",
+      "pos": "verbo",
+      "example": "DHS barred future purchases of its products."
+    },
+    {
+      "term": "widening",
+      "translation": "ampliándose",
+      "pos": "verbo",
+      "example": "The tech rivalry keeps widening."
+    },
+    {
+      "term": "scale up",
+      "translation": "ampliar / escalar",
+      "pos": "phrasal verb",
+      "example": "To scale up production of its RISC-V servers."
+    },
+    {
+      "term": "chip away at",
+      "translation": "erosionar poco a poco",
+      "pos": "phrasal verb",
+      "example": "Both moves chip away at Nvidia's software advantage."
+    },
+    {
+      "term": "pile pressure on",
+      "translation": "aumentar la presión sobre",
+      "pos": "expresión",
+      "example": "Riots pile pressure on Lecornu."
+    },
+    {
+      "term": "looting",
+      "translation": "saqueos",
+      "pos": "sustantivo",
+      "example": "Looting in several cities."
+    },
+    {
+      "term": "gutted",
+      "translation": "arrasó / destruyó por dentro",
+      "pos": "verbo",
+      "example": "A fire that gutted Limoges' historic town hall."
+    },
+    {
+      "term": "spills over",
+      "translation": "se contagia / se extiende",
+      "pos": "phrasal verb",
+      "example": "That spills over into Spanish markets."
+    },
+    {
+      "term": "truce",
+      "translation": "tregua",
+      "pos": "sustantivo",
+      "example": "A short energy truce collapsed."
+    },
+    {
+      "term": "on hold",
+      "translation": "en suspenso",
+      "pos": "expresión",
+      "example": "He has put new Russia sanctions on hold."
+    },
+    {
+      "term": "floated",
+      "translation": "planteó / sugirió",
+      "pos": "verbo",
+      "example": "Putin has reportedly floated a summit."
+    },
+    {
+      "term": "still stands",
+      "translation": "sigue en pie",
+      "pos": "expresión",
+      "example": "Tehran's offer still stands."
+    },
+    {
+      "term": "step up",
+      "translation": "intensificar",
+      "pos": "phrasal verb",
+      "example": "Houthis step up attacks on Saudi oil."
+    },
+    {
+      "term": "exposing",
+      "translation": "dejando al descubierto",
+      "pos": "verbo",
+      "example": "Exposing gaps in Saudi air defences."
+    },
+    {
+      "term": "endorsed",
+      "translation": "respaldó / dio su apoyo",
+      "pos": "verbo",
+      "example": "Trump endorsed Benjamin Netanyahu."
+    },
+    {
+      "term": "tight race",
+      "translation": "carrera ajustada",
+      "pos": "expresión",
+      "example": "A tight race in which the prime minister is fighting for survival."
+    },
+    {
+      "term": "waiver",
+      "translation": "exención / dispensa",
+      "pos": "sustantivo",
+      "example": "Along with a sanctions waiver."
+    },
+    {
+      "term": "awkward",
+      "translation": "incómodo / delicado",
+      "pos": "adjetivo",
+      "example": "Putting Republican candidates in an awkward position."
+    },
+    {
+      "term": "break with",
+      "translation": "desmarcarse de / romper con",
+      "pos": "phrasal verb",
+      "example": "Some have started to break with the White House."
+    },
+    {
+      "term": "filing window",
+      "translation": "plazo de presentación",
+      "pos": "expresión",
+      "example": "The filing window runs from 21 to 26 October."
+    },
+    {
+      "term": "step aside",
+      "translation": "hacerse a un lado / retirarse",
+      "pos": "phrasal verb",
+      "example": "Whether Vox will step aside in some Senate races."
+    },
+    {
+      "term": "drenching",
+      "translation": "empapando",
+      "pos": "verbo",
+      "example": "Storm Adam keeps drenching the coast."
+    },
+    {
+      "term": "death toll",
+      "translation": "número de víctimas mortales",
+      "pos": "sustantivo",
+      "example": "EFE puts the death toll so far at four."
+    },
+    {
+      "term": "earmark",
+      "translation": "destinar / asignar",
+      "pos": "verbo",
+      "example": "The government will earmark €45 million."
+    },
+    {
+      "term": "embezzlement",
+      "translation": "malversación",
+      "pos": "sustantivo",
+      "example": "His embezzlement conviction."
+    },
+    {
+      "term": "ease",
+      "translation": "bajar / suavizarse",
+      "pos": "verbo",
+      "example": "Power prices ease to €195/MWh."
+    },
+    {
+      "term": "kept pace with",
+      "translation": "seguido el ritmo de",
+      "pos": "expresión",
+      "example": "Grids have not kept pace with renewables."
+    },
+    {
+      "term": "at stake",
+      "translation": "en juego",
+      "pos": "expresión",
+      "example": "Iberdrola has interests at stake."
+    },
+    {
+      "term": "ramping up",
+      "translation": "aumentando / acelerando",
+      "pos": "phrasal verb",
+      "example": "Distributors are ramping up spending."
+    },
+    {
+      "term": "slide",
+      "translation": "caer / deslizarse",
+      "pos": "verbo",
+      "example": "French bonds slide."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "OpenAI is reportedly pushing to close a round of roughly $30 billion that would value the company at more than $1.4 trillion, with SoftBank and Abu Dhabi's MGX among the investors in talks.",
+      "es": "OpenAI estaría acelerando una ronda de unos 30.000 millones de dólares que valoraría la empresa en más de 1,4 billones, con SoftBank y el fondo MGX de Abu Dabi entre los inversores en conversaciones."
+    },
+    {
+      "en": "The timing is no accident: Anthropic is expected to go public in mid-November, and OpenAI wants to lock in fresh capital before investors' attention shifts.",
+      "es": "El momento no es casual: se espera que Anthropic salga a bolsa a mediados de noviembre y OpenAI quiere asegurarse capital nuevo antes de que la atención de los inversores se desplace."
+    },
+    {
+      "en": "It comes just after a week in which tech stocks were hit by doubts over whether AI spending will pay off.",
+      "es": "Llega justo después de una semana en la que las tecnológicas sufrieron por las dudas sobre si el gasto en IA será rentable."
+    },
+    {
+      "en": "The two leading AI labs are now competing for the same pool of capital, and their valuations will set the tone for the whole sector.",
+      "es": "Los dos grandes laboratorios de IA compiten ya por el mismo dinero, y sus valoraciones marcarán el tono de todo el sector."
+    },
+    {
+      "en": "Anthropic and the cloud provider Nscale are negotiating a second agreement worth about $45 billion, according to Bloomberg.",
+      "es": "Anthropic y el proveedor de nube Nscale negocian un segundo acuerdo valorado en unos 45.000 millones de dólares, según Bloomberg."
+    },
+    {
+      "en": "It would cover 460 megawatts of capacity at Nscale's campus in West Virginia, running on Nvidia's next-generation Vera Rubin chips.",
+      "es": "Cubriría 460 megavatios de capacidad en el campus de Nscale en Virginia Occidental, con los chips Vera Rubin de próxima generación de Nvidia."
+    },
+    {
+      "en": "Deals of this size are increasingly measured in megawatts rather than in number of chips.",
+      "es": "Los acuerdos de este tamaño se miden cada vez más en megavatios que en número de chips."
+    },
+    {
+      "en": "For anyone working in power grids, this is the key signal: AI demand is now a question of securing electricity connections.",
+      "es": "Para quien trabaja en redes eléctricas, esta es la señal clave: la demanda de la IA es ya una cuestión de conseguir conexiones a la red."
+    },
+    {
+      "en": "Meta published a detailed look at Prometheus, its AI supercluster in New Albany, Ohio, which draws power on a gigawatt scale.",
+      "es": "Meta publicó un análisis detallado de Prometheus, su supercomputador de IA en New Albany (Ohio), con un consumo a escala de gigavatios."
+    },
+    {
+      "en": "The first phase links hundreds of thousands of GPUs, and the full build is meant to reach around one million to train its Muse family of models.",
+      "es": "La primera fase conecta cientos de miles de GPU y el proyecto completo aspira a llegar a cerca de un millón para entrenar su familia de modelos Muse."
+    },
+    {
+      "en": "Meta says it has cut training interruptions by 99%.",
+      "es": "Meta asegura que ha reducido un 99% las interrupciones durante el entrenamiento."
+    },
+    {
+      "en": "A Chinese-speaking hacker reportedly breached the websites of over 100 companies by handing most of the work to AI agents, spending only a few thousand dollars.",
+      "es": "Un hacker de habla china habría vulnerado las webs de más de 100 empresas delegando la mayor parte del trabajo en agentes de IA, con un gasto de apenas unos miles de dólares."
+    },
+    {
+      "en": "On the same day, Microsoft unveiled tools that score individual agents for risk and let administrators require human approval or shut them down.",
+      "es": "Ese mismo día, Microsoft presentó herramientas que evalúan el riesgo de cada agente y permiten a los administradores exigir aprobación humana o desactivarlos."
+    },
+    {
+      "en": "Attack and defence are both becoming automated.",
+      "es": "Tanto el ataque como la defensa se están automatizando."
+    },
+    {
+      "en": "Cheap, automated attacks lower the barrier for cybercrime, which matters for critical infrastructure such as electricity networks.",
+      "es": "Los ataques baratos y automatizados rebajan la barrera de entrada al cibercrimen, algo relevante para infraestructuras críticas como las redes eléctricas."
+    },
+    {
+      "en": "The Department of Homeland Security ordered DeepSeek's technology to be removed from federal civilian IT systems and barred future purchases of its products.",
+      "es": "El Departamento de Seguridad Nacional ordenó retirar la tecnología de DeepSeek de los sistemas informáticos civiles federales y prohibió futuras compras de sus productos."
+    },
+    {
+      "en": "At the same time, China is preparing to restrict exports of some 40 technologies, including AI, chips and solar manufacturing.",
+      "es": "Al mismo tiempo, China prepara restricciones a la exportación de unas 40 tecnologías, entre ellas IA, chips y fabricación solar."
+    },
+    {
+      "en": "The tech rivalry between Washington and Beijing keeps widening, from software to the solar panels used in Europe's energy transition.",
+      "es": "La rivalidad tecnológica entre Washington y Pekín sigue ampliándose, desde el software hasta los paneles solares de la transición energética europea."
+    },
+    {
+      "en": "Jim Keller's chip startup Tenstorrent raised $1.5 billion at a $6.2 billion valuation, more than doubling its previous price, to scale up production of its RISC-V servers.",
+      "es": "Tenstorrent, la empresa de chips de Jim Keller, levantó 1.500 millones de dólares con una valoración de 6.200 millones, más del doble que antes, para escalar la producción de sus servidores RISC-V."
+    },
+    {
+      "en": "Separately, Amazon launched TorchNeuron, an open-source tool that lets developers run PyTorch code on its Trainium chips with a simple device change.",
+      "es": "Por otro lado, Amazon lanzó TorchNeuron, una herramienta de código abierto que permite ejecutar código PyTorch en sus chips Trainium con un simple cambio de dispositivo."
+    },
+    {
+      "en": "Both moves chip away at Nvidia's software advantage.",
+      "es": "Ambos movimientos erosionan la ventaja de software de Nvidia."
+    },
+    {
+      "en": "Protests over the cost of living and school conditions turned violent across France over the weekend, with looting in several cities and a fire that gutted Limoges' historic town hall.",
+      "es": "Las protestas por el coste de la vida y la situación de los colegios derivaron en violencia en toda Francia durante el fin de semana, con saqueos en varias ciudades y un incendio que arrasó el histórico ayuntamiento de Limoges."
+    },
+    {
+      "en": "Sébastien Lecornu's minority government faces a vote on Tuesday on the revenue side of the 2027 budget.",
+      "es": "El Gobierno en minoría de Sébastien Lecornu afronta este martes la votación de la parte de ingresos del presupuesto de 2027."
+    },
+    {
+      "en": "A failed budget would deepen doubts about French debt, and that spills over into Spanish and European markets.",
+      "es": "Un presupuesto fallido aumentaría las dudas sobre la deuda francesa, y eso contagia a los mercados españoles y europeos."
+    },
+    {
+      "en": "Ukrainian drones hit St Petersburg, including a major oil terminal, in the largest attack on the city since the war began, after a short energy truce collapsed.",
+      "es": "Drones ucranianos atacaron San Petersburgo, incluida una gran terminal petrolera, en el mayor ataque contra la ciudad desde el inicio de la guerra, tras el colapso de una breve tregua energética."
+    },
+    {
+      "en": "Trump criticised Zelensky and has put new Russia sanctions on hold, while Putin has reportedly floated a summit with Trump and Xi next month.",
+      "es": "Trump criticó a Zelenski y ha dejado en suspenso nuevas sanciones a Rusia, mientras Putin habría propuesto una cumbre con Trump y Xi el mes que viene."
+    },
+    {
+      "en": "Two oil tankers caught fire after striking mines in the Strait of Hormuz, according to Iran's Revolutionary Guard navy.",
+      "es": "Dos petroleros se incendiaron tras chocar con minas en el estrecho de Ormuz, según la marina de la Guardia Revolucionaria iraní."
+    },
+    {
+      "en": "Iran's foreign minister said Tehran's offer to reopen the strait within seven days still stands, while its new defence minister warned the US against resuming strikes.",
+      "es": "El ministro de Exteriores iraní dijo que la oferta de reabrir el estrecho en siete días sigue en pie, mientras el nuevo ministro de Defensa advirtió a EE. UU. contra reanudar los ataques."
+    },
+    {
+      "en": "Hormuz is the main reason oil trades above $100 and why gas, and therefore Spanish electricity, is so expensive.",
+      "es": "Ormuz es la principal razón de que el petróleo cotice por encima de 100 dólares y de que el gas, y con él la luz en España, esté tan caro."
+    },
+    {
+      "en": "The Houthis claimed six attacks on Saudi oil and airport targets, which pushed crude prices higher on Monday.",
+      "es": "Los hutíes reivindicaron seis ataques contra objetivos petroleros y aeroportuarios saudíes, lo que hizo subir el crudo el lunes."
+    },
+    {
+      "en": "Reports suggest Iranian intelligence support has made these strikes more sophisticated, exposing gaps in Saudi air defences.",
+      "es": "Según varios informes, el apoyo de inteligencia iraní ha hecho estos ataques más sofisticados, dejando al descubierto carencias en la defensa aérea saudí."
+    },
+    {
+      "en": "Trump endorsed Benjamin Netanyahu ahead of next week's Israeli election, a tight race in which the prime minister is fighting for his political survival.",
+      "es": "Trump respaldó a Benjamín Netanyahu antes de las elecciones israelíes de la semana que viene, una carrera ajustada en la que el primer ministro se juega su supervivencia política."
+    },
+    {
+      "en": "Meanwhile, Lebanese officials meet in Tampa today to present Beirut's demands to halt Israeli attacks.",
+      "es": "Mientras, una delegación libanesa se reúne hoy en Tampa para presentar las exigencias de Beirut para detener los ataques israelíes."
+    },
+    {
+      "en": "Trump's surprise deal to allow Russian diesel imports, along with a sanctions waiver, is putting Republican candidates in an awkward position two weeks before the midterm elections.",
+      "es": "El sorprendente acuerdo de Trump para permitir el diésel ruso, junto con una exención de sanciones, pone en un aprieto a los candidatos republicanos a dos semanas de las elecciones legislativas."
+    },
+    {
+      "en": "Some of them have started to break with the White House on Russia.",
+      "es": "Algunos de ellos han empezado a desmarcarse de la Casa Blanca en lo relativo a Rusia."
+    },
+    {
+      "en": "Parties are finalising their candidate lists for the 29 November general election; the filing window runs from 21 to 26 October, and the official campaign starts on 13 November.",
+      "es": "Los partidos ultiman sus listas para las generales del 29 de noviembre; el plazo de presentación va del 21 al 26 de octubre y la campaña oficial arranca el 13 de noviembre."
+    },
+    {
+      "en": "It is still unclear whether Vox will step aside in some Senate races in response to the left-wing pact for the upper house.",
+      "es": "Aún no se sabe si Vox renunciará a presentarse en algunas circunscripciones del Senado en respuesta al pacto de las izquierdas para la Cámara Alta."
+    },
+    {
+      "en": "Heavy rain from the cut-off low known as DANA Adam will continue in Catalonia, Valencia, the Balearic Islands, the south-east and El Hierro, with temperatures falling across the country.",
+      "es": "Las lluvias de la DANA Adam seguirán en Cataluña, la Comunidad Valenciana, Baleares, el sureste peninsular y El Hierro, con un descenso general de las temperaturas."
+    },
+    {
+      "en": "EFE puts the death toll so far at four.",
+      "es": "EFE cifra en cuatro los fallecidos hasta ahora."
+    },
+    {
+      "en": "The Cabinet is set to approve broader Social Security protection for menopause-related incapacity, a new benefit for victims of gender violence and improvements to pensions such as widows' benefits.",
+      "es": "El Consejo de Ministros aprobará una mayor protección de la Seguridad Social para la incapacidad asociada a la menopausia, una nueva prestación para víctimas de violencia de género y mejoras en pensiones como la de viudedad."
+    },
+    {
+      "en": "The government will also earmark €45 million for 2,000 university residence places in six regions.",
+      "es": "El Gobierno destinará además 45 millones de euros a 2.000 plazas en residencias universitarias en seis comunidades."
+    },
+    {
+      "en": "The Constitutional Court holds a plenary session in which it could side with former Catalan minister Jordi Turull against the Supreme Court, which refused to apply the amnesty to his embezzlement conviction.",
+      "es": "El Tribunal Constitucional celebra un pleno en el que podría dar la razón al exconseller Jordi Turull frente al Supremo, que no le aplicó la amnistía a la condena por malversación."
+    },
+    {
+      "en": "Today also marks fifteen years since ETA announced the end of its violence.",
+      "es": "Hoy se cumplen además quince años del anuncio del fin de la violencia de ETA."
+    },
+    {
+      "en": "Spain's wholesale electricity price averaged €215 per MWh on Monday, the highest this year and nearly three times Sunday's level, peaking close to €300 at 9 pm.",
+      "es": "El precio mayorista de la electricidad en España promedió 215 €/MWh el lunes, el más alto del año y casi el triple que el domingo, con un pico cercano a 300 € a las 21:00."
+    },
+    {
+      "en": "Costlier gas because of the war with Iran and cloudy skies from DANA Adam, which cut solar output, were behind the jump.",
+      "es": "Detrás del salto están el gas más caro por la guerra con Irán y los cielos nublados de la DANA Adam, que redujeron la producción solar."
+    },
+    {
+      "en": "Today's average eases to about €195, but 17 hours remain above €200.",
+      "es": "Hoy la media baja a unos 195 €, pero 17 horas siguen por encima de 200 €."
+    },
+    {
+      "en": "It shows how much Spain's price still depends on gas when the sun doesn't shine, a strong argument for storage and better-connected grids.",
+      "es": "Muestra cuánto depende aún el precio en España del gas cuando no hay sol, un buen argumento a favor del almacenamiento y de redes mejor conectadas."
+    },
+    {
+      "en": "In its World Energy Transitions Outlook, IRENA says grids have not kept pace with renewables and calls for major reforms, along with more storage and flexibility.",
+      "es": "En su Perspectiva de la Transición Energética Mundial, IRENA afirma que las redes no han avanzado al ritmo de las renovables y pide reformas profundas, además de más almacenamiento y flexibilidad."
+    },
+    {
+      "en": "Its pathway requires around $10.3 trillion a year in investment until 2050, with electricity reaching 35% of final energy use by 2035.",
+      "es": "Su escenario exige unos 10,3 billones de dólares de inversión al año hasta 2050, con la electricidad alcanzando el 35% del consumo final de energía en 2035."
+    },
+    {
+      "en": "It reinforces the case for the network investment plans you work on at i-DE.",
+      "es": "Refuerza los argumentos a favor de los planes de inversión en redes con los que trabajas en i-DE."
+    },
+    {
+      "en": "The board of Mexico's state utility CFE meets today to give preliminary approval to more than 60 mostly wind and solar projects, adding about 8.2 GW and $12.5 billion of investment.",
+      "es": "El consejo de la eléctrica estatal mexicana CFE se reúne hoy para dar el visto bueno preliminar a más de 60 proyectos, sobre todo eólicos y solares, que suman unos 8,2 GW y 12.500 millones de dólares de inversión."
+    },
+    {
+      "en": "Iberdrola, Acciona and Repsol have interests at stake, although transmission costs and the rule that the state must hold at least 54% of each plant remain open questions.",
+      "es": "Iberdrola, Acciona y Repsol tienen intereses en juego, aunque los costes de transmisión y la norma que obliga al Estado a mantener al menos el 54% de cada central siguen abiertos."
+    },
+    {
+      "en": "Endesa plans to invest close to €9 million in its distribution network in Granada, 45% more than over the past five years.",
+      "es": "Endesa prevé invertir cerca de 9 millones de euros en su red de distribución en Granada, un 45% más que en los últimos cinco años."
+    },
+    {
+      "en": "Local plans like this show how distributors are ramping up spending under the new remuneration framework.",
+      "es": "Planes locales como este muestran cómo las distribuidoras están acelerando la inversión con el nuevo marco retributivo."
+    },
+    {
+      "en": "France's 10-year yield climbed to about 4.86% on Monday while Germany's held at 3.41%, leaving the spread around 140 basis points.",
+      "es": "La rentabilidad del bono francés a 10 años subió hasta el 4,86% el lunes mientras la alemana se mantenía en el 3,41%, dejando el diferencial en torno a 140 puntos básicos."
+    },
+    {
+      "en": "Analysts warn the deficit could exceed 6% of GDP if the 2027 budget fails, and some expect the spread to reach 200 points by the end of 2027.",
+      "es": "Los analistas advierten de que el déficit podría superar el 6% del PIB si fracasa el presupuesto de 2027, y algunos esperan que el diferencial llegue a 200 puntos a finales de 2027."
+    },
+    {
+      "en": "Banco Santander announced a three-year artificial intelligence agreement with Nvidia, although its shares fell about 1.6% on a weak day for European markets.",
+      "es": "Banco Santander anunció un acuerdo de inteligencia artificial a tres años con Nvidia, aunque sus acciones cayeron cerca de un 1,6% en una mala jornada para las bolsas europeas."
+    },
+    {
+      "en": "Iberdrola will publish its nine-month results tomorrow, 21 October.",
+      "es": "Iberdrola publicará mañana, 21 de octubre, sus resultados de los nueve primeros meses."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "headwind",
+    "pos": "sustantivo",
+    "translation": "viento en contra / factor adverso",
+    "definition_en": "A condition or situation that makes progress or growth more difficult, especially for a company or an economy.",
+    "example_en": "High gas prices are a major headwind for European industry this winter.",
+    "example_es": "Los altos precios del gas son un gran viento en contra para la industria europea este invierno."
+  },
+  "recommendations": [
+    {
+      "id": "csis-ai-policy-data-center-backlash-jasmine-sun",
+      "type": "podcast",
+      "title": "Unpacking the Data Center Backlash with Jasmine Sun",
+      "speaker": "Jasmine Sun; presenta Aalok Mehta",
+      "outlet": "CSIS – The AI Policy Podcast",
+      "duration_min": 45,
+      "language": "en",
+      "topics": [
+        "IA",
+        "centros de datos",
+        "energía",
+        "política"
+      ],
+      "summary": "Por qué crece el rechazo local a los centros de datos de IA: consumo eléctrico, agua, precios de la luz y permisos. Analiza cómo responden comunidades y reguladores en EE. UU.",
+      "why": "Conecta directamente IA con redes eléctricas, justo el día en que se habla de acuerdos de 460 MW y superclusters de un gigavatio.",
+      "url": "https://www.csis.org/podcasts/ai-policy-podcast/unpacking-data-center-backlash-jasmine-sun"
+    },
+    {
+      "id": "csis-ai-policy-super-intelligence-force",
+      "type": "podcast",
+      "title": "Trump Launches Super Intelligence Force + OpenAI Does More Math",
+      "speaker": "Aalok Mehta y Nicole Errera",
+      "outlet": "CSIS – The AI Policy Podcast",
+      "duration_min": 40,
+      "language": "en",
+      "topics": [
+        "IA",
+        "regulación",
+        "política"
+      ],
+      "summary": "Repaso semanal de la política de IA en EE. UU.: la nueva iniciativa de superinteligencia de la Casa Blanca y los últimos avances de OpenAI en matemáticas.",
+      "why": "Formato corto y claro para seguir la regulación de la IA y practicar inglés de política pública.",
+      "url": "https://www.csis.org/podcasts/ai-policy-podcast/trump-launches-super-intelligence-force-openai-does-more-math"
+    },
+    {
+      "id": "a16z-david-george-jack-altman-25-trillion",
+      "type": "podcast",
+      "title": "David George & Jack Altman on AI, Autonomy, and the Next $25 Trillion",
+      "speaker": "David George y Jack Altman",
+      "outlet": "a16z Show",
+      "duration_min": 60,
+      "language": "en",
+      "topics": [
+        "IA",
+        "inversión",
+        "economía"
+      ],
+      "summary": "Dos inversores de referencia discuten dónde se creará valor con la IA y la autonomía, y por qué creen que puede mover billones de dólares.",
+      "why": "Ayuda a entender la lógica de los inversores detrás de valoraciones como la de OpenAI (1,4 billones).",
+      "url": "https://a16z.com/podcast/david-george-jack-altman-on-ai-autonomy-and-the-next-25-trillion/"
+    },
+    {
+      "id": "meta-engineering-inside-prometheus",
+      "type": "article",
+      "title": "Inside Prometheus: Meta's gigawatt-scale supercluster",
+      "speaker": "Equipo de ingeniería de Meta",
+      "outlet": "Engineering at Meta",
+      "duration_min": 15,
+      "language": "en",
+      "topics": [
+        "IA",
+        "centros de datos",
+        "ingeniería",
+        "energía"
+      ],
+      "summary": "Meta explica cómo ha construido y opera su supercomputador de IA en Ohio: escala de gigavatio, cientos de miles de GPU y cómo redujo las interrupciones del entrenamiento.",
+      "why": "Lectura técnica y gratuita, ideal para un ingeniero: cuantifica cuánta potencia eléctrica exige la IA de frontera.",
+      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+    },
+    {
+      "id": "on-podcast-bombeo-hidroelectrico-ey",
+      "type": "podcast",
+      "title": "Las centrales de bombeo hidroeléctrico, la gran ventaja competitiva en España a la que no se ha prestado atención",
+      "speaker": "Antonio Hernández (EY)",
+      "outlet": "ÓN, el podcast de El Periódico de la Energía",
+      "duration_min": 48,
+      "language": "es",
+      "topics": [
+        "energía",
+        "almacenamiento",
+        "España"
+      ],
+      "summary": "Por qué el bombeo hidroeléctrico puede ser clave para almacenar energía en España y suavizar los picos de precio cuando no hay sol ni viento.",
+      "why": "Muy oportuno tras el pico de 300 €/MWh del lunes: explica una de las soluciones de almacenamiento con más potencial en el sistema español.",
+      "url": "https://www.ivoox.com/en/centrales-bombeo-hidroelectrico-gran-ventaja-audios-mp3_rf_171034488_1.html"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Lunes de caídas en Europa: el Ibex 35 cedió un 1,49% hasta 19.039 puntos y el Euro Stoxx 50 un 0,96%, por los disturbios en Francia y el temor a que el Gobierno de Lecornu no saque adelante su presupuesto; el bono francés a 10 años subió al 4,86%. Wall Street fue en dirección contraria: el Nasdaq ganó un 1,1% y el S&P 500 un 0,4% gracias al rebote de las tecnológicas tras la venta masiva de la semana pasada, mientras el Dow quedó plano. El petróleo sigue por encima de 100 dólares por Ormuz y los ataques hutíes, y el oro ronda los 4.190 dólares. Los analistas vigilan la votación francesa de hoy y los resultados de Netflix, Tesla y Meta para ver si se confirma el rebote.",
+      "en": "A down day in Europe: the Ibex 35 lost 1.49% to 19,039 points and the Euro Stoxx 50 fell 0.96%, as riots in France fuelled fears that the Lecornu government won't pass its budget; France's 10-year yield rose to 4.86%. Wall Street went the other way: the Nasdaq gained 1.1% and the S&P 500 0.4% on a rebound in tech after last week's selloff, while the Dow was flat. Oil remains above $100 because of Hormuz and Houthi attacks, and gold is near $4,190. Analysts are watching today's French vote and results from Netflix, Tesla and Meta to see whether the rebound holds."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35",
+        "value": 19039.3,
+        "change_pct": -1.49
+      },
+      {
+        "name": "Euro Stoxx 50",
+        "value": 6144.81,
+        "change_pct": -0.96
+      },
+      {
+        "name": "OMIE hoy (€/MWh)",
+        "value": 195.52,
+        "change_pct": -9.11
+      }
+    ],
+    "learn": {
+      "concept": "EBITDA",
+      "explanation": "Es el resultado bruto de explotación: lo que gana una empresa con su negocio antes de intereses, impuestos, amortizaciones y depreciaciones. Sirve para comparar la rentabilidad operativa sin que influyan la deuda ni el ritmo de amortización de los activos. En una eléctrica como Iberdrola (que publica mañana sus resultados de 9 meses), el EBITDA de Redes depende sobre todo de la retribución regulada, que crece con la base de activos (RAB): por eso cada euro invertido en red que la CNMC reconoce acaba reflejándose en el EBITDA de los años siguientes."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
