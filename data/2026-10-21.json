@@ -1,0 +1,1022 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T07:12:25+02:00",
+  "last_updated": "2026-10-21T07:12:25+02:00",
+  "headline": {
+    "es": "Las bolsas respiran por la bajada del petróleo ante posibles contactos entre EE. UU. e Irán, mientras la IA ya es el mayor negocio de SpaceX y Anthropic recibe críticas por su borrador de ley; hoy presenta resultados Iberdrola.",
+    "en": "Markets caught their breath as oil eased on hopes of US-Iran contacts, while AI became SpaceX's biggest business and Anthropic faced criticism over its draft bill; Iberdrola reports results today."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "Se filtra el borrador de ley de seguridad de IA de Anthropic y llueven las críticas",
+        "en": "Anthropic's leaked AI safety bill draws fire from all sides"
+      },
+      "body": {
+        "es": "Un borrador de ley federal sobre seguridad de la IA que Anthropic ha estado presentando a congresistas se filtró la semana pasada, y ahora la empresa está a la defensiva. Los defensores de la seguridad creen que se queda corto y que anula injustamente las leyes de los estados, mientras OpenAI aprovechó para decir que ninguna empresa debería escribir las reglas en solitario. Anthropic asegura que revisará el texto.",
+        "en": "A draft federal AI safety bill that Anthropic had been pitching to lawmakers leaked last week, and the company now finds itself on the defensive. Safety advocates argue it falls short and unfairly overrides state laws, while OpenAI seized the moment to say that no single company should write the rules on its own. Anthropic says it will revise the text."
+      },
+      "why_it_matters": {
+        "es": "El debate sobre quién redacta las reglas de la IA en EE. UU. se intensifica justo antes de la salida a bolsa de Anthropic.",
+        "en": "The fight over who gets to write America's AI rules is heating up just ahead of Anthropic's stock market debut."
+      },
+      "source": {
+        "name": "Semafor",
+        "url": "https://semafor.com/article/10/20/2026/anthropics-leaked-ai-bill-sparks-backlash"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "OpenAI deja de presionar por limitar la venta de chips a China",
+        "en": "OpenAI goes quiet on China chip controls, a win for Nvidia"
+      },
+      "body": {
+        "es": "Según Politico, OpenAI ha dejado de reclamar restricciones estrictas a la venta de chips avanzados a China, después de defenderlas abiertamente en 2025. Asesores del Congreso lo ven como un regalo a Nvidia, que ha invertido 30.000 millones en OpenAI. Mientras, ByteDance, Alibaba y Tencent habrían encargado chips de Nvidia por más de 35.000 millones de dólares.",
+        "en": "According to Politico, OpenAI has stopped lobbying for tight limits on advanced chip sales to China, after openly backing them in 2025. Congressional aides see the shift as a gift to Nvidia, which has poured $30 billion into OpenAI. Meanwhile, ByteDance, Alibaba and Tencent have reportedly ordered more than $35 billion worth of Nvidia chips."
+      },
+      "why_it_matters": {
+        "es": "Los controles a la exportación de chips son la principal palanca de EE. UU. frente a China en IA, y los grandes laboratorios ya no van en la misma dirección.",
+        "en": "Export controls are Washington's main lever against China in AI, and the leading labs are no longer pulling in the same direction."
+      },
+      "source": {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/news/openai-china-chip-export-controls-retreat-nvidia"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "La IA ya es el mayor negocio de SpaceX: ingresos +161% y la acción sube un 8%",
+        "en": "AI is now SpaceX's biggest business as revenue jumps 161%"
+      },
+      "body": {
+        "es": "SpaceX ingresó 14.600 millones de dólares en el tercer trimestre, un 161% más, y su unidad de IA, Super Intelligence, facturó 7.600 millones, por encima de Starlink. Ganó 4.400 millones, frente a pérdidas hace un año, y prevé gastar entre 35.000 y 40.000 millones en inversión solo en el cuarto trimestre. Además, los consejos de SpaceX y Tesla han creado comités para estudiar una posible fusión.",
+        "en": "SpaceX brought in $14.6 billion in the third quarter, up 161%, and its AI unit, Super Intelligence, generated $7.6 billion, overtaking Starlink. It posted a $4.4 billion profit, versus a loss a year earlier, and plans to spend $35-40 billion on capital expenditure in the fourth quarter alone. Separately, the boards of SpaceX and Tesla have set up committees to explore a possible merger."
+      },
+      "why_it_matters": {
+        "es": "Muestra el ritmo brutal al que se está gastando en capacidad de cálculo para IA, y quién empieza a cobrarlo.",
+        "en": "It shows the breakneck pace of spending on AI compute, and who is starting to cash in on it."
+      },
+      "source": {
+        "name": "The Motley Fool (transcripción)",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "DeepSeek libera su motor de inferencia, compatible con chips de Nvidia y Huawei",
+        "en": "DeepSeek open-sources its inference engine, built for Nvidia and Huawei chips"
+      },
+      "body": {
+        "es": "DeepSeek ha publicado con licencia abierta Apache 2.0 DeepInfer, el motor que usa en producción para servir sus modelos. Funciona tanto con las GPU más recientes de Nvidia como con los procesadores Ascend 950 de Huawei. Llega un día después de que EE. UU. ordenara retirar los productos de DeepSeek de los sistemas federales.",
+        "en": "DeepSeek has released DeepInfer, the engine it uses in production to serve its models, under the open Apache 2.0 licence. It runs on both Nvidia's latest GPUs and Huawei's Ascend 950 processors. The move comes a day after the US ordered DeepSeek products to be removed from federal systems."
+      },
+      "why_it_matters": {
+        "es": "Facilita que otros sirvan modelos chinos sobre hardware chino, reduciendo la dependencia de Nvidia.",
+        "en": "It makes it easier to run Chinese models on Chinese hardware, loosening the grip of Nvidia."
+      },
+      "source": {
+        "name": "GitHub (DeepSeek)",
+        "url": "https://github.com/deepseek-ai/DeepInfer"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "Google lanza Gemini for Government para las administraciones de EE. UU.",
+        "en": "Google rolls out Gemini for Government"
+      },
+      "body": {
+        "es": "Google ha abierto en fase de prueba Gemini for Government, una versión de su asistente pensada para agencias federales, estatales y locales de EE. UU. El Departamento de Salud (HHS) ya lo utiliza. Las grandes tecnológicas compiten por los contratos públicos de IA, uno de los clientes más estables del sector.",
+        "en": "Google has launched Gemini for Government in preview, a version of its assistant tailored for US federal, state and local agencies. The Department of Health and Human Services is already on board. Big Tech is racing for public-sector AI contracts, one of the industry's most reliable sources of revenue."
+      },
+      "source": {
+        "name": "FedScoop",
+        "url": "https://fedscoop.com/google-launches-gemini-for-government-services/"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "Documentos filtrados revelan un programa del Ejército de EE. UU. de agentes de IA ofensivos",
+        "en": "Leaked documents reveal a US Army program for offensive AI agents"
+      },
+      "body": {
+        "es": "The Intercept ha publicado documentos sobre ECHOTRIBBLE, un programa del Pentágono para desarrollar agentes de IA autónomos, sobre todo ofensivos, capaces de operar contra redes aisladas de internet. Se suma al debate sobre los agentes que actúan sin supervisión humana: en Reino Unido, unas enmiendas a la ley de ciberseguridad obligarían a notificar incidentes con este tipo de agentes.",
+        "en": "The Intercept has published documents on ECHOTRIBBLE, a Pentagon program to build autonomous, largely offensive AI agents that can operate against air-gapped networks. It feeds into the wider debate over agents acting without human oversight: in the UK, proposed amendments to a cybersecurity bill would require companies to report incidents involving such agents."
+      },
+      "source": {
+        "name": "The Intercept",
+        "url": "https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Mediadores intentan acercar a EE. UU. e Irán y el petróleo se modera",
+        "en": "Mediators try to bring the US and Iran together, cooling oil prices"
+      },
+      "body": {
+        "es": "Varios mediadores, entre ellos el jefe del Ejército paquistaní, que está de visita en Teherán, intentan reunir a EE. UU. e Irán para hablar del fin del conflicto. Sin embargo, un diplomático negó que haya un acuerdo inminente y funcionarios iraníes admiten que alargan las conversaciones para debilitar a Trump antes de las legislativas.",
+        "en": "Several mediators, including Pakistan's army chief, who is visiting Tehran, are trying to bring the US and Iran to the table to discuss ending the conflict. However, one diplomat denied that a deal is imminent, and Iranian officials admit they are dragging out the talks to weaken Trump ahead of the midterms."
+      },
+      "why_it_matters": {
+        "es": "Con Ormuz cerrado, cualquier señal de diálogo mueve el precio del petróleo y, con él, la inflación y la factura energética.",
+        "en": "With Hormuz shut, any hint of dialogue moves oil prices, and with them inflation and energy bills."
+      },
+      "source": {
+        "name": "Just Security",
+        "url": "https://www.justsecurity.org/161419/early-edition-october-20-2026/"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Trump se desmarca de negociar sobre Ucrania mientras Witkoff viaja a Noruega y Rusia",
+        "en": "Trump steps back from Ukraine talks as Witkoff heads to Norway and Russia"
+      },
+      "body": {
+        "es": "Trump dijo que se reunirá con Putin y Xi para hablar de desnuclearización, no de Ucrania, y pidió a Zelenski que busque a otro para negociar la paz. Aun así, el enviado Steve Witkoff se reunirá con Zelenski y líderes europeos en Noruega antes de ir a ver a Putin, mientras Kiev sigue esperando misiles Patriot que Washington no ha aprobado.",
+        "en": "Trump said he would meet Putin and Xi to discuss denuclearisation, not Ukraine, and told Zelensky to find someone else to broker peace. Even so, envoy Steve Witkoff will meet Zelensky and European leaders in Norway before travelling on to see Putin, while Kyiv is still waiting for Patriot missiles that Washington has not signed off on."
+      },
+      "source": {
+        "name": "Just Security",
+        "url": "https://www.justsecurity.org/161419/early-edition-october-20-2026/"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "Francia impone toques de queda nocturnos tras perder el control en algunos barrios",
+        "en": "France imposes overnight curfews after losing control of some areas"
+      },
+      "body": {
+        "es": "La policía francesa ha decretado toques de queda nocturnos en zonas de París y otras ciudades, y el ministro del Interior admitió que en algunos lugares se había 'perdido el control'. Los colectivos convocantes preparan nuevas protestas para el sábado.",
+        "en": "French police have imposed overnight curfews in parts of Paris and other cities, and the interior minister admitted that authorities had 'lost control' in some places. Protest groups are planning fresh demonstrations for Saturday."
+      },
+      "why_it_matters": {
+        "es": "La inestabilidad en Francia ya se nota en su deuda y en las bolsas europeas.",
+        "en": "France's unrest is already weighing on its bonds and on European stock markets."
+      },
+      "source": {
+        "name": "Just Security",
+        "url": "https://www.justsecurity.org/161419/early-edition-october-20-2026/"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Un ataque hutí mata a 58 personas en Yemen y Riad aplaza su gran foro inversor",
+        "en": "Houthi strike kills 58 in Yemen as Riyadh postpones its flagship investment forum"
+      },
+      "body": {
+        "es": "Un ataque hutí contra un campo de entrenamiento de las fuerzas del Gobierno yemení en Shabwa dejó 58 muertos y más de 200 heridos. Reino Unido amplía su apoyo militar a Arabia Saudí con patrullas aéreas de la RAF, y Riad ha aplazado al año que viene su conferencia Future Investment Initiative.",
+        "en": "A Houthi attack on a Yemeni government training camp in Shabwa killed 58 people and wounded more than 200. The UK is stepping up military support for Saudi Arabia with RAF air patrols, and Riyadh has postponed its Future Investment Initiative conference until next year."
+      },
+      "source": {
+        "name": "Just Security",
+        "url": "https://www.justsecurity.org/161419/early-edition-october-20-2026/"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Un ataque con drones en Abyei, entre Sudán y Sudán del Sur, mata al menos a 73 personas",
+        "en": "Drone strike on a market in Abyei kills at least 73"
+      },
+      "body": {
+        "es": "Un ataque con drones contra un mercado de Abyei, región disputada entre Sudán y Sudán del Sur, causó al menos 73 muertos. Las autoridades locales culpan al Ejército sudanés y Sudán del Sur ha convocado al embajador de Sudán.",
+        "en": "A drone strike on a market in Abyei, a region contested by Sudan and South Sudan, killed at least 73 people. Local officials blamed Sudan's army, and South Sudan summoned the Sudanese ambassador."
+      },
+      "source": {
+        "name": "Just Security",
+        "url": "https://www.justsecurity.org/161419/early-edition-october-20-2026/"
+      }
+    },
+    {
+      "id": "mundo-6",
+      "section": "mundo",
+      "title": {
+        "es": "Alberta rechaza con claridad iniciar el camino hacia la independencia, según las proyecciones",
+        "en": "Albertans reject starting down the road to independence, projections suggest"
+      },
+      "body": {
+        "es": "Los resultados proyectados del referéndum del lunes indican que una amplia mayoría de Alberta votó en contra de abrir el proceso legal para un futuro referéndum de independencia de Canadá. El movimiento separatista se alimenta sobre todo del descontento con la política energética federal.",
+        "en": "Projected results from Monday's referendum suggest a large majority of Albertans voted against launching the legal process towards a future independence vote. The separatist movement is fuelled mainly by resentment over federal energy policy."
+      },
+      "source": {
+        "name": "Just Security",
+        "url": "https://www.justsecurity.org/161419/early-edition-october-20-2026/"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "Trump acusa a España de no actuar ante la llegada masiva de inmigrantes",
+        "en": "Trump accuses Spain of doing nothing about a surge in migrant arrivals"
+      },
+      "body": {
+        "es": "Desde el Despacho Oval, Trump afirmó que España fue 'invadida' de forma repentina por inmigrantes en julio y que el Gobierno no hace nada al respecto. Sus palabras llegan en plena precampaña de las generales del 29 de noviembre.",
+        "en": "Speaking from the Oval Office, Trump claimed that Spain had been suddenly 'invaded' by migrants in July and that the government was doing nothing about it. His remarks land in the middle of the run-up to the 29 November general election."
+      },
+      "source": {
+        "name": "Infobae",
+        "url": "https://www.infobae.com/espana/2026/10/20/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-las-pensiones-la-ley-de-nietos-y-el-consejo-de-ministros/"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "El Supremo estudia suspender el voto de algunos nacionalizados por la 'ley de nietos'",
+        "en": "Supreme Court weighs suspending votes of some citizens naturalised under the 'grandchildren's law'"
+      },
+      "body": {
+        "es": "El Tribunal Supremo ha dado de plazo hasta hoy a las 15:00 a las partes para opinar sobre cómo suspender cautelarmente el voto de los nacionalizados que no puedan acreditar que descienden de exiliados. La petición viene de la Junta Electoral Central, que prevé enviar la documentación electoral entre el 24 y el 30 de octubre.",
+        "en": "The Supreme Court has given the parties until 3 p.m. today to submit their views on how to provisionally suspend the voting rights of naturalised citizens who cannot prove they descend from exiles. The request came from the Central Electoral Board, which plans to send out election paperwork between 24 and 30 October."
+      },
+      "source": {
+        "name": "Infobae",
+        "url": "https://www.infobae.com/espana/2026/10/20/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-las-pensiones-la-ley-de-nietos-y-el-consejo-de-ministros/"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "Seis delegados del Gobierno dejan el cargo para ir en las listas del PSOE",
+        "en": "Six government delegates step down to run on PSOE's lists"
+      },
+      "body": {
+        "es": "El Consejo de Ministros aprobó relevar a los delegados del Gobierno en Cataluña, Andalucía, Asturias, Comunidad Valenciana, Aragón y Extremadura, que se incorporan a las candidaturas socialistas. Los partidos siguen cerrando nombres: el PP sitúa a Miguel Tellado en A Coruña, Sumar-Frente Amplio a Ada Colau en Barcelona y Podemos a Irene Montero en Madrid.",
+        "en": "The cabinet approved replacing the government delegates in Catalonia, Andalusia, Asturias, Valencia, Aragon and Extremadura, who are joining the Socialist candidate lists. Parties are still finalising names: the PP is fielding Miguel Tellado in A Coruña, Frente Amplio is running Ada Colau in Barcelona and Podemos has picked Irene Montero for Madrid."
+      },
+      "source": {
+        "name": "Infobae",
+        "url": "https://www.infobae.com/espana/2026/10/20/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-las-pensiones-la-ley-de-nietos-y-el-consejo-de-ministros/"
+      }
+    },
+    {
+      "id": "espana-4",
+      "section": "espana",
+      "title": {
+        "es": "PP y Vox negocian para el Senado; PSOE y Frente Amplio irán juntos",
+        "en": "PP and Vox in talks over the Senate as PSOE and Frente Amplio team up"
+      },
+      "body": {
+        "es": "Feijóo confirmó que negocia con Vox para asegurar una mayoría de derechas en el Senado, mientras PSOE y Frente Amplio presentarán candidaturas conjuntas a la Cámara Alta. Las encuestas dan ventaja al bloque de PP y Vox.",
+        "en": "Feijóo confirmed he is negotiating with Vox to secure a right-wing majority in the Senate, while PSOE and Frente Amplio will field joint candidates for the upper house. Polls put the PP-Vox bloc ahead."
+      },
+      "source": {
+        "name": "Infobae",
+        "url": "https://www.infobae.com/espana/2026/10/20/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-las-pensiones-la-ley-de-nietos-y-el-consejo-de-ministros/"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "La CNMC ve 'rápida y eficaz' la reposición tras el apagón, pero detecta planes desfasados",
+        "en": "CNMC calls the post-blackout restoration fast and effective, but flags outdated plans"
+      },
+      "body": {
+        "es": "La investigación de la CNMC sobre el apagón del 28 de abril de 2025 concluye que la reposición fue rápida y eficaz, pero encontró centrales que no arrancaron bien, protocolos de 2016 y 2017 sin actualizar y fallos de telemando en subestaciones de una distribuidora, que obligaron a operar a mano. Pide actualizar los planes y hacer simulacros conjuntos de plantas, redes y centros de control.",
+        "en": "The CNMC's investigation into the 28 April 2025 blackout concludes that power was restored quickly and effectively, but it found plants that struggled to start up, restoration protocols from 2016 and 2017 that had never been updated, and remote-control failures at one distributor's substations that forced crews to operate equipment by hand. It calls for updated plans and joint drills involving plants, grids and control centres."
+      },
+      "why_it_matters": {
+        "es": "Afecta directamente a las distribuidoras como i-DE: el telecontrol y la ciberresiliencia de las subestaciones ganan peso como inversión regulada.",
+        "en": "It hits distributors like i-DE directly: remote control and substation resilience are becoming a bigger part of the regulated investment case."
+      },
+      "source": {
+        "name": "Qué!",
+        "url": "https://www.que.es/2026/10/20/investigacion-apagon-cnmc/"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "El gas europeo supera los 90 euros por primera vez desde 2022",
+        "en": "European gas tops €90 for the first time since 2022"
+      },
+      "body": {
+        "es": "El precio del gas en Europa superó ayer los 90 euros por megavatio hora por primera vez desde 2022, empujado por el bloqueo de Ormuz. Como el gas suele marcar el precio de la luz en las horas sin sol ni viento, esto presiona al alza la factura eléctrica.",
+        "en": "European gas prices climbed above €90 per megawatt hour yesterday for the first time since 2022, driven by the Hormuz blockade. Because gas often sets the electricity price when the sun and wind are not available, this pushes power bills higher."
+      },
+      "source": {
+        "name": "Estrategias de Inversión",
+        "url": "https://www.estrategiasdeinversion.com/actualidad/la-bolsa-hoy-en-directo/20-10-2026"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "Iberdrola presenta hoy sus resultados de nueve meses; HSBC eleva su precio objetivo",
+        "en": "Iberdrola reports nine-month results today; HSBC lifts its price target"
+      },
+      "body": {
+        "es": "Iberdrola publica hoy sus cuentas de enero a septiembre, tras un primer semestre en el que el beneficio creció gracias a las redes en Reino Unido y EE. UU. En la víspera, HSBC subió su precio objetivo a 24,10 euros, un 13,5% por encima de su cotización, y mantuvo la recomendación de compra.",
+        "en": "Iberdrola releases its January-September results today, following a first half in which profit rose on the back of its networks in the UK and the US. On the eve of the release, HSBC raised its price target to €24.10, about 13.5% above the current share price, and kept its buy rating."
+      },
+      "why_it_matters": {
+        "es": "Para tu departamento: fíjate en la inversión en redes (CAPEX) por país y en cualquier comentario sobre la retribución en España.",
+        "en": "For your team: keep an eye on grid investment (capex) by country and on any comments about the regulated return in Spain."
+      },
+      "source": {
+        "name": "Estrategias de Inversión",
+        "url": "https://www.estrategiasdeinversion.com/actualidad/la-bolsa-hoy-en-directo/20-10-2026"
+      }
+    },
+    {
+      "id": "energia-4",
+      "section": "energia",
+      "title": {
+        "es": "Enel niega que vaya a reducir su participación en Endesa",
+        "en": "Enel denies plans to cut its stake in Endesa"
+      },
+      "body": {
+        "es": "Enel ha desmentido que tenga previsto reducir su participación en Endesa, su filial española. Mientras, Enagás subió en bolsa tras presentar resultados y Repsol podría ampliar sus recompras de acciones cuando publique el día 29.",
+        "en": "Enel has denied that it plans to reduce its stake in Endesa, its Spanish subsidiary. Meanwhile, Enagás shares rose after it reported results, and Repsol may expand its share buybacks when it reports on the 29th."
+      },
+      "source": {
+        "name": "Estrategias de Inversión",
+        "url": "https://www.estrategiasdeinversion.com/actualidad/la-bolsa-hoy-en-directo/20-10-2026"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "Netflix cae casi un 6% tras unas previsiones flojas",
+        "en": "Netflix slides almost 6% after soft guidance"
+      },
+      "body": {
+        "es": "Netflix ingresó 12.874 millones de dólares en el tercer trimestre, un 12% más pero algo por debajo de lo esperado, y sus previsiones para el cuarto trimestre decepcionaron. La acción cayó cerca de un 5,8% fuera de hora, mientras Super Micro se disparó un 15% al subir su previsión de ventas por la demanda de servidores de IA.",
+        "en": "Netflix brought in $12.874 billion in third-quarter revenue, up 12% but slightly short of forecasts, and its fourth-quarter guidance disappointed. The stock fell about 5.8% in after-hours trading, while Super Micro jumped 15% after raising its sales outlook on demand for AI servers."
+      },
+      "source": {
+        "name": "Benzinga",
+        "url": "https://www.benzinga.com/markets/equities/26/10/62485513/spacex-netflix-super-micro-computer-tesla-and-meta-why-these-5-stocks-are-on-investors-radars-today"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "Las ventas pendientes de viviendas en EE. UU. se desploman un 7,3%",
+        "en": "US pending home sales plunge 7.3%"
+      },
+      "body": {
+        "es": "Las ventas pendientes de viviendas en EE. UU. cayeron un 7,3% en septiembre, muy por encima del descenso del 0,4% que se esperaba. Con el bono a 10 años por encima del 5%, las hipotecas caras están frenando el mercado inmobiliario.",
+        "en": "US pending home sales fell 7.3% in September, far worse than the 0.4% drop that had been expected. With the 10-year Treasury yield above 5%, expensive mortgages are putting the brakes on the housing market."
+      },
+      "source": {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-20-2026-103252254.html"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "Iberdrola presenta sus resultados de nueve meses (antes de la apertura) y Meta y Tesla, tras el cierre de Wall Street.",
+      "en": "Iberdrola reports nine-month results before the open; Meta and Tesla report after Wall Street closes."
+    },
+    {
+      "es": "Jensen Huang (Nvidia) da la conferencia principal de GTC Berlín a las 11:00.",
+      "en": "Nvidia's Jensen Huang delivers the GTC Berlin keynote at 11:00."
+    },
+    {
+      "es": "A las 15:00 vence el plazo del Supremo sobre el voto de los nacionalizados por la 'ley de nietos'.",
+      "en": "At 3 p.m. the Supreme Court's deadline on the voting rights of citizens naturalised under the 'grandchildren's law' expires."
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "El IBEX 35 subió un 0,28% hasta 19.092 puntos tras una sesión de remontada: el petróleo se alejó de máximos de cinco meses y bajó la rentabilidad de la deuda francesa. En Wall Street, el Dow ganó un 1% gracias a valores como 3M, el S&P 500 un 0,28% y el Nasdaq quedó plano, con Meta en su quinta caída seguida antes de resultados. El Brent cerró en torno a 109 dólares, el oro bajó a unos 4.140 dólares y el bitcoin rondó los 82.400. Wells Fargo cree que el pesimismo sobre la financiación de la IA, las legislativas e Irán puede ser excesivo, aunque avisa de que los beneficios crecen más despacio.",
+      "en": "The IBEX 35 rose 0.28% to 19,092 after a comeback session, as oil pulled back from five-month highs and French bond yields eased. On Wall Street, the Dow gained 1% helped by stocks such as 3M, the S&P 500 added 0.28% and the Nasdaq was flat, with Meta falling for a fifth straight day ahead of its results. Brent settled around $109, gold slipped to about $4,140 and bitcoin hovered near $82,400. Wells Fargo argues that gloom over AI financing, the midterms and Iran may be overdone, though it warns that earnings growth is slowing."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35",
+        "value": 19092.4,
+        "change_pct": 0.28
+      },
+      {
+        "name": "Dow Jones",
+        "value": 52495.88,
+        "change_pct": 1.02
+      },
+      {
+        "name": "S&P 500",
+        "value": 7712.57,
+        "change_pct": 0.28
+      },
+      {
+        "name": "Nasdaq",
+        "value": 26424.82,
+        "change_pct": -0.02
+      },
+      {
+        "name": "EUR/USD",
+        "value": 1.1229,
+        "change_pct": -0.08
+      },
+      {
+        "name": "Brent ($)",
+        "value": 109.3,
+        "change_pct": -0.2
+      },
+      {
+        "name": "Oro ($/oz)",
+        "value": 4140,
+        "change_pct": -0.5
+      }
+    ],
+    "learn": {
+      "concept": "Backlog (cartera de pedidos)",
+      "explanation": "Es el valor de los contratos ya firmados que una empresa todavía no ha convertido en ingresos. SpaceX, por ejemplo, declara 63.000 millones de backlog, de los que espera reconocer unos 42.000 en 12 meses. Sirve para anticipar ingresos futuros con más certeza que una simple previsión. En el mundo de las redes, el equivalente sería la cartera de proyectos aprobados o comprometidos pero aún no ejecutados ni puestos en servicio: lo que ya está 'en el tubo' del plan de inversiones."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  },
+  "glossary": [
+    {
+      "term": "draws fire",
+      "translation": "recibe críticas",
+      "pos": "phrase",
+      "example": "The plan drew fire from unions."
+    },
+    {
+      "term": "pitching",
+      "translation": "presentando/proponiendo",
+      "pos": "verb",
+      "example": "She is pitching the idea to investors."
+    },
+    {
+      "term": "on the defensive",
+      "translation": "a la defensiva",
+      "pos": "phrase",
+      "example": "The minister was on the defensive all week."
+    },
+    {
+      "term": "falls short",
+      "translation": "se queda corto",
+      "pos": "phrase verb",
+      "example": "The offer falls short of expectations."
+    },
+    {
+      "term": "overrides",
+      "translation": "anula / prevalece sobre",
+      "pos": "verb",
+      "example": "Federal law overrides state rules."
+    },
+    {
+      "term": "seized the moment",
+      "translation": "aprovechó el momento",
+      "pos": "phrase",
+      "example": "The rival seized the moment to attack."
+    },
+    {
+      "term": "heating up",
+      "translation": "calentándose / intensificándose",
+      "pos": "phrase verb",
+      "example": "Competition is heating up."
+    },
+    {
+      "term": "lobbying",
+      "translation": "presionando (hacer lobby)",
+      "pos": "verb",
+      "example": "They are lobbying for lower taxes."
+    },
+    {
+      "term": "poured",
+      "translation": "ha volcado / invertido mucho",
+      "pos": "verb",
+      "example": "Investors poured money into AI."
+    },
+    {
+      "term": "lever",
+      "translation": "palanca",
+      "pos": "noun",
+      "example": "Interest rates are the main policy lever."
+    },
+    {
+      "term": "overtaking",
+      "translation": "adelantando / superando",
+      "pos": "verb",
+      "example": "Solar is overtaking coal."
+    },
+    {
+      "term": "breakneck",
+      "translation": "vertiginoso",
+      "pos": "adjective",
+      "example": "The company grew at a breakneck pace."
+    },
+    {
+      "term": "cash in on",
+      "translation": "sacar partido / beneficio de",
+      "pos": "phrasal verb",
+      "example": "Firms want to cash in on the boom."
+    },
+    {
+      "term": "loosening the grip",
+      "translation": "aflojando el control",
+      "pos": "phrase",
+      "example": "The new rules are loosening the grip of incumbents."
+    },
+    {
+      "term": "tailored",
+      "translation": "adaptado a medida",
+      "pos": "adjective",
+      "example": "A plan tailored to small firms."
+    },
+    {
+      "term": "on board",
+      "translation": "dentro / participando",
+      "pos": "phrase",
+      "example": "Three banks are already on board."
+    },
+    {
+      "term": "air-gapped",
+      "translation": "aislado de la red",
+      "pos": "adjective",
+      "example": "The plant uses air-gapped control systems."
+    },
+    {
+      "term": "oversight",
+      "translation": "supervisión",
+      "pos": "noun",
+      "example": "The project lacked proper oversight."
+    },
+    {
+      "term": "dragging out",
+      "translation": "alargando",
+      "pos": "phrasal verb",
+      "example": "They keep dragging out the negotiations."
+    },
+    {
+      "term": "broker",
+      "translation": "mediar / negociar",
+      "pos": "verb",
+      "example": "Qatar helped broker the deal."
+    },
+    {
+      "term": "signed off on",
+      "translation": "aprobado / dado el visto bueno",
+      "pos": "phrasal verb",
+      "example": "The board signed off on the budget."
+    },
+    {
+      "term": "weighing on",
+      "translation": "pesando sobre",
+      "pos": "phrasal verb",
+      "example": "Uncertainty is weighing on markets."
+    },
+    {
+      "term": "stepping up",
+      "translation": "intensificando",
+      "pos": "phrasal verb",
+      "example": "The EU is stepping up its efforts."
+    },
+    {
+      "term": "contested",
+      "translation": "disputado",
+      "pos": "adjective",
+      "example": "A contested border region."
+    },
+    {
+      "term": "fuelled",
+      "translation": "alimentado",
+      "pos": "verb",
+      "example": "Inflation was fuelled by energy prices."
+    },
+    {
+      "term": "run-up",
+      "translation": "periodo previo",
+      "pos": "noun",
+      "example": "In the run-up to the vote, polls tightened."
+    },
+    {
+      "term": "fielding",
+      "translation": "presentando (candidatos)",
+      "pos": "verb",
+      "example": "The party is fielding new faces."
+    },
+    {
+      "term": "flags",
+      "translation": "señala / advierte de",
+      "pos": "verb",
+      "example": "The report flags several risks."
+    },
+    {
+      "term": "drills",
+      "translation": "simulacros",
+      "pos": "noun",
+      "example": "Staff take part in regular fire drills."
+    },
+    {
+      "term": "tops",
+      "translation": "supera",
+      "pos": "verb",
+      "example": "Brent tops $100 a barrel."
+    },
+    {
+      "term": "on the eve of",
+      "translation": "en la víspera de",
+      "pos": "phrase",
+      "example": "On the eve of the vote, he resigned."
+    },
+    {
+      "term": "price target",
+      "translation": "precio objetivo",
+      "pos": "noun",
+      "example": "Analysts raised their price target."
+    },
+    {
+      "term": "buybacks",
+      "translation": "recompras de acciones",
+      "pos": "noun",
+      "example": "The bank announced new buybacks."
+    },
+    {
+      "term": "slides",
+      "translation": "cae / se desliza",
+      "pos": "verb",
+      "example": "The euro slides against the dollar."
+    },
+    {
+      "term": "guidance",
+      "translation": "previsiones (de la empresa)",
+      "pos": "noun",
+      "example": "The firm cut its full-year guidance."
+    },
+    {
+      "term": "putting the brakes on",
+      "translation": "frenando",
+      "pos": "phrase",
+      "example": "High rates are putting the brakes on lending."
+    },
+    {
+      "term": "caught their breath",
+      "translation": "tomaron aire / respiraron",
+      "pos": "phrase",
+      "example": "Markets caught their breath after the sell-off."
+    },
+    {
+      "term": "overdone",
+      "translation": "exagerado",
+      "pos": "adjective",
+      "example": "Fears of a recession may be overdone."
+    },
+    {
+      "term": "hovered",
+      "translation": "rondó / se mantuvo cerca",
+      "pos": "verb",
+      "example": "Inflation hovered around 3%."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A draft federal AI safety bill that Anthropic had been pitching to lawmakers leaked last week, and the company now finds itself on the defensive.",
+      "es": "Un borrador de ley federal sobre seguridad de la IA que Anthropic ha estado presentando a congresistas se filtró la semana pasada, y ahora la empresa está a la defensiva."
+    },
+    {
+      "en": "Safety advocates argue it falls short and unfairly overrides state laws, while OpenAI seized the moment to say that no single company should write the rules on its own.",
+      "es": "Los defensores de la seguridad creen que se queda corto y que anula injustamente las leyes de los estados, mientras OpenAI aprovechó para decir que ninguna empresa debería escribir las reglas en solitario."
+    },
+    {
+      "en": "Anthropic says it will revise the text.",
+      "es": "Anthropic asegura que revisará el texto."
+    },
+    {
+      "en": "The fight over who gets to write America's AI rules is heating up just ahead of Anthropic's stock market debut.",
+      "es": "El debate sobre quién redacta las reglas de la IA en EE. UU. se intensifica justo antes de la salida a bolsa de Anthropic."
+    },
+    {
+      "en": "According to Politico, OpenAI has stopped lobbying for tight limits on advanced chip sales to China, after openly backing them in 2025.",
+      "es": "Según Politico, OpenAI ha dejado de reclamar restricciones estrictas a la venta de chips avanzados a China, después de defenderlas abiertamente en 2025."
+    },
+    {
+      "en": "Congressional aides see the shift as a gift to Nvidia, which has poured $30 billion into OpenAI.",
+      "es": "Asesores del Congreso lo ven como un regalo a Nvidia, que ha invertido 30.000 millones en OpenAI."
+    },
+    {
+      "en": "Meanwhile, ByteDance, Alibaba and Tencent have reportedly ordered more than $35 billion worth of Nvidia chips.",
+      "es": "Mientras, ByteDance, Alibaba y Tencent habrían encargado chips de Nvidia por más de 35.000 millones de dólares."
+    },
+    {
+      "en": "Export controls are Washington's main lever against China in AI, and the leading labs are no longer pulling in the same direction.",
+      "es": "Los controles a la exportación de chips son la principal palanca de EE. UU. frente a China en IA, y los grandes laboratorios ya no van en la misma dirección."
+    },
+    {
+      "en": "SpaceX brought in $14.6 billion in the third quarter, up 161%, and its AI unit, Super Intelligence, generated $7.6 billion, overtaking Starlink.",
+      "es": "SpaceX ingresó 14.600 millones de dólares en el tercer trimestre, un 161% más, y su unidad de IA, Super Intelligence, facturó 7.600 millones, por encima de Starlink."
+    },
+    {
+      "en": "It posted a $4.4 billion profit, versus a loss a year earlier, and plans to spend $35-40 billion on capital expenditure in the fourth quarter alone.",
+      "es": "Ganó 4.400 millones, frente a pérdidas hace un año, y prevé gastar entre 35.000 y 40.000 millones en inversión solo en el cuarto trimestre."
+    },
+    {
+      "en": "Separately, the boards of SpaceX and Tesla have set up committees to explore a possible merger.",
+      "es": "Además, los consejos de SpaceX y Tesla han creado comités para estudiar una posible fusión."
+    },
+    {
+      "en": "It shows the breakneck pace of spending on AI compute, and who is starting to cash in on it.",
+      "es": "Muestra el ritmo brutal al que se está gastando en capacidad de cálculo para IA, y quién empieza a cobrarlo."
+    },
+    {
+      "en": "DeepSeek has released DeepInfer, the engine it uses in production to serve its models, under the open Apache 2.0 licence.",
+      "es": "DeepSeek ha publicado con licencia abierta Apache 2.0 DeepInfer, el motor que usa en producción para servir sus modelos."
+    },
+    {
+      "en": "It runs on both Nvidia's latest GPUs and Huawei's Ascend 950 processors.",
+      "es": "Funciona tanto con las GPU más recientes de Nvidia como con los procesadores Ascend 950 de Huawei."
+    },
+    {
+      "en": "The move comes a day after the US ordered DeepSeek products to be removed from federal systems.",
+      "es": "Llega un día después de que EE. UU. ordenara retirar los productos de DeepSeek de los sistemas federales."
+    },
+    {
+      "en": "It makes it easier to run Chinese models on Chinese hardware, loosening the grip of Nvidia.",
+      "es": "Facilita que otros sirvan modelos chinos sobre hardware chino, reduciendo la dependencia de Nvidia."
+    },
+    {
+      "en": "Google has launched Gemini for Government in preview, a version of its assistant tailored for US federal, state and local agencies.",
+      "es": "Google ha abierto en fase de prueba Gemini for Government, una versión de su asistente pensada para agencias federales, estatales y locales de EE. UU."
+    },
+    {
+      "en": "The Department of Health and Human Services is already on board.",
+      "es": "El Departamento de Salud (HHS) ya lo utiliza."
+    },
+    {
+      "en": "Big Tech is racing for public-sector AI contracts, one of the industry's most reliable sources of revenue.",
+      "es": "Las grandes tecnológicas compiten por los contratos públicos de IA, uno de los clientes más estables del sector."
+    },
+    {
+      "en": "The Intercept has published documents on ECHOTRIBBLE, a Pentagon program to build autonomous, largely offensive AI agents that can operate against air-gapped networks.",
+      "es": "The Intercept ha publicado documentos sobre ECHOTRIBBLE, un programa del Pentágono para desarrollar agentes de IA autónomos, sobre todo ofensivos, capaces de operar contra redes aisladas de internet."
+    },
+    {
+      "en": "It feeds into the wider debate over agents acting without human oversight: in the UK, proposed amendments to a cybersecurity bill would require companies to report incidents involving such agents.",
+      "es": "Se suma al debate sobre los agentes que actúan sin supervisión humana: en Reino Unido, unas enmiendas a la ley de ciberseguridad obligarían a notificar incidentes con este tipo de agentes."
+    },
+    {
+      "en": "Several mediators, including Pakistan's army chief, who is visiting Tehran, are trying to bring the US and Iran to the table to discuss ending the conflict.",
+      "es": "Varios mediadores, entre ellos el jefe del Ejército paquistaní, que está de visita en Teherán, intentan reunir a EE. UU. e Irán para hablar del fin del conflicto."
+    },
+    {
+      "en": "However, one diplomat denied that a deal is imminent, and Iranian officials admit they are dragging out the talks to weaken Trump ahead of the midterms.",
+      "es": "Sin embargo, un diplomático negó que haya un acuerdo inminente y funcionarios iraníes admiten que alargan las conversaciones para debilitar a Trump antes de las legislativas."
+    },
+    {
+      "en": "With Hormuz shut, any hint of dialogue moves oil prices, and with them inflation and energy bills.",
+      "es": "Con Ormuz cerrado, cualquier señal de diálogo mueve el precio del petróleo y, con él, la inflación y la factura energética."
+    },
+    {
+      "en": "Trump said he would meet Putin and Xi to discuss denuclearisation, not Ukraine, and told Zelensky to find someone else to broker peace.",
+      "es": "Trump dijo que se reunirá con Putin y Xi para hablar de desnuclearización, no de Ucrania, y pidió a Zelenski que busque a otro para negociar la paz."
+    },
+    {
+      "en": "Even so, envoy Steve Witkoff will meet Zelensky and European leaders in Norway before travelling on to see Putin, while Kyiv is still waiting for Patriot missiles that Washington has not signed off on.",
+      "es": "Aun así, el enviado Steve Witkoff se reunirá con Zelenski y líderes europeos en Noruega antes de ir a ver a Putin, mientras Kiev sigue esperando misiles Patriot que Washington no ha aprobado."
+    },
+    {
+      "en": "French police have imposed overnight curfews in parts of Paris and other cities, and the interior minister admitted that authorities had 'lost control' in some places.",
+      "es": "La policía francesa ha decretado toques de queda nocturnos en zonas de París y otras ciudades, y el ministro del Interior admitió que en algunos lugares se había 'perdido el control'."
+    },
+    {
+      "en": "Protest groups are planning fresh demonstrations for Saturday.",
+      "es": "Los colectivos convocantes preparan nuevas protestas para el sábado."
+    },
+    {
+      "en": "France's unrest is already weighing on its bonds and on European stock markets.",
+      "es": "La inestabilidad en Francia ya se nota en su deuda y en las bolsas europeas."
+    },
+    {
+      "en": "A Houthi attack on a Yemeni government training camp in Shabwa killed 58 people and wounded more than 200.",
+      "es": "Un ataque hutí contra un campo de entrenamiento de las fuerzas del Gobierno yemení en Shabwa dejó 58 muertos y más de 200 heridos."
+    },
+    {
+      "en": "The UK is stepping up military support for Saudi Arabia with RAF air patrols, and Riyadh has postponed its Future Investment Initiative conference until next year.",
+      "es": "Reino Unido amplía su apoyo militar a Arabia Saudí con patrullas aéreas de la RAF, y Riad ha aplazado al año que viene su conferencia Future Investment Initiative."
+    },
+    {
+      "en": "A drone strike on a market in Abyei, a region contested by Sudan and South Sudan, killed at least 73 people.",
+      "es": "Un ataque con drones contra un mercado de Abyei, región disputada entre Sudán y Sudán del Sur, causó al menos 73 muertos."
+    },
+    {
+      "en": "Local officials blamed Sudan's army, and South Sudan summoned the Sudanese ambassador.",
+      "es": "Las autoridades locales culpan al Ejército sudanés y Sudán del Sur ha convocado al embajador de Sudán."
+    },
+    {
+      "en": "Projected results from Monday's referendum suggest a large majority of Albertans voted against launching the legal process towards a future independence vote.",
+      "es": "Los resultados proyectados del referéndum del lunes indican que una amplia mayoría de Alberta votó en contra de abrir el proceso legal para un futuro referéndum de independencia de Canadá."
+    },
+    {
+      "en": "The separatist movement is fuelled mainly by resentment over federal energy policy.",
+      "es": "El movimiento separatista se alimenta sobre todo del descontento con la política energética federal."
+    },
+    {
+      "en": "Speaking from the Oval Office, Trump claimed that Spain had been suddenly 'invaded' by migrants in July and that the government was doing nothing about it.",
+      "es": "Desde el Despacho Oval, Trump afirmó que España fue 'invadida' de forma repentina por inmigrantes en julio y que el Gobierno no hace nada al respecto."
+    },
+    {
+      "en": "His remarks land in the middle of the run-up to the 29 November general election.",
+      "es": "Sus palabras llegan en plena precampaña de las generales del 29 de noviembre."
+    },
+    {
+      "en": "The Supreme Court has given the parties until 3 p.m. today to submit their views on how to provisionally suspend the voting rights of naturalised citizens who cannot prove they descend from exiles.",
+      "es": "El Tribunal Supremo ha dado de plazo hasta hoy a las 15:00 a las partes para opinar sobre cómo suspender cautelarmente el voto de los nacionalizados que no puedan acreditar que descienden de exiliados."
+    },
+    {
+      "en": "The request came from the Central Electoral Board, which plans to send out election paperwork between 24 and 30 October.",
+      "es": "La petición viene de la Junta Electoral Central, que prevé enviar la documentación electoral entre el 24 y el 30 de octubre."
+    },
+    {
+      "en": "The cabinet approved replacing the government delegates in Catalonia, Andalusia, Asturias, Valencia, Aragon and Extremadura, who are joining the Socialist candidate lists.",
+      "es": "El Consejo de Ministros aprobó relevar a los delegados del Gobierno en Cataluña, Andalucía, Asturias, Comunidad Valenciana, Aragón y Extremadura, que se incorporan a las candidaturas socialistas."
+    },
+    {
+      "en": "Parties are still finalising names: the PP is fielding Miguel Tellado in A Coruña, Frente Amplio is running Ada Colau in Barcelona and Podemos has picked Irene Montero for Madrid.",
+      "es": "Los partidos siguen cerrando nombres: el PP sitúa a Miguel Tellado en A Coruña, Sumar-Frente Amplio a Ada Colau en Barcelona y Podemos a Irene Montero en Madrid."
+    },
+    {
+      "en": "Feijóo confirmed he is negotiating with Vox to secure a right-wing majority in the Senate, while PSOE and Frente Amplio will field joint candidates for the upper house.",
+      "es": "Feijóo confirmó que negocia con Vox para asegurar una mayoría de derechas en el Senado, mientras PSOE y Frente Amplio presentarán candidaturas conjuntas a la Cámara Alta."
+    },
+    {
+      "en": "Polls put the PP-Vox bloc ahead.",
+      "es": "Las encuestas dan ventaja al bloque de PP y Vox."
+    },
+    {
+      "en": "The CNMC's investigation into the 28 April 2025 blackout concludes that power was restored quickly and effectively, but it found plants that struggled to start up, restoration protocols from 2016 and 2017 that had never been updated, and remote-control failures at one distributor's substations that forced crews to operate equipment by hand.",
+      "es": "La investigación de la CNMC sobre el apagón del 28 de abril de 2025 concluye que la reposición fue rápida y eficaz, pero encontró centrales que no arrancaron bien, protocolos de 2016 y 2017 sin actualizar y fallos de telemando en subestaciones de una distribuidora, que obligaron a operar a mano."
+    },
+    {
+      "en": "It calls for updated plans and joint drills involving plants, grids and control centres.",
+      "es": "Pide actualizar los planes y hacer simulacros conjuntos de plantas, redes y centros de control."
+    },
+    {
+      "en": "It hits distributors like i-DE directly: remote control and substation resilience are becoming a bigger part of the regulated investment case.",
+      "es": "Afecta directamente a las distribuidoras como i-DE: el telecontrol y la ciberresiliencia de las subestaciones ganan peso como inversión regulada."
+    },
+    {
+      "en": "European gas prices climbed above €90 per megawatt hour yesterday for the first time since 2022, driven by the Hormuz blockade.",
+      "es": "El precio del gas en Europa superó ayer los 90 euros por megavatio hora por primera vez desde 2022, empujado por el bloqueo de Ormuz."
+    },
+    {
+      "en": "Because gas often sets the electricity price when the sun and wind are not available, this pushes power bills higher.",
+      "es": "Como el gas suele marcar el precio de la luz en las horas sin sol ni viento, esto presiona al alza la factura eléctrica."
+    },
+    {
+      "en": "Iberdrola releases its January-September results today, following a first half in which profit rose on the back of its networks in the UK and the US.",
+      "es": "Iberdrola publica hoy sus cuentas de enero a septiembre, tras un primer semestre en el que el beneficio creció gracias a las redes en Reino Unido y EE. UU."
+    },
+    {
+      "en": "On the eve of the release, HSBC raised its price target to €24.10, about 13.5% above the current share price, and kept its buy rating.",
+      "es": "En la víspera, HSBC subió su precio objetivo a 24,10 euros, un 13,5% por encima de su cotización, y mantuvo la recomendación de compra."
+    },
+    {
+      "en": "For your team: keep an eye on grid investment (capex) by country and on any comments about the regulated return in Spain.",
+      "es": "Para tu departamento: fíjate en la inversión en redes (CAPEX) por país y en cualquier comentario sobre la retribución en España."
+    },
+    {
+      "en": "Enel has denied that it plans to reduce its stake in Endesa, its Spanish subsidiary.",
+      "es": "Enel ha desmentido que tenga previsto reducir su participación en Endesa, su filial española."
+    },
+    {
+      "en": "Meanwhile, Enagás shares rose after it reported results, and Repsol may expand its share buybacks when it reports on the 29th.",
+      "es": "Mientras, Enagás subió en bolsa tras presentar resultados y Repsol podría ampliar sus recompras de acciones cuando publique el día 29."
+    },
+    {
+      "en": "Netflix brought in $12.874 billion in third-quarter revenue, up 12% but slightly short of forecasts, and its fourth-quarter guidance disappointed.",
+      "es": "Netflix ingresó 12.874 millones de dólares en el tercer trimestre, un 12% más pero algo por debajo de lo esperado, y sus previsiones para el cuarto trimestre decepcionaron."
+    },
+    {
+      "en": "The stock fell about 5.8% in after-hours trading, while Super Micro jumped 15% after raising its sales outlook on demand for AI servers.",
+      "es": "La acción cayó cerca de un 5,8% fuera de hora, mientras Super Micro se disparó un 15% al subir su previsión de ventas por la demanda de servidores de IA."
+    },
+    {
+      "en": "US pending home sales fell 7.3% in September, far worse than the 0.4% drop that had been expected.",
+      "es": "Las ventas pendientes de viviendas en EE. UU. cayeron un 7,3% en septiembre, muy por encima del descenso del 0,4% que se esperaba."
+    },
+    {
+      "en": "With the 10-year Treasury yield above 5%, expensive mortgages are putting the brakes on the housing market.",
+      "es": "Con el bono a 10 años por encima del 5%, las hipotecas caras están frenando el mercado inmobiliario."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "guidance",
+    "pos": "noun",
+    "translation": "previsiones (orientación que da una empresa sobre sus resultados futuros)",
+    "definition_en": "The forecast a company gives investors about its expected revenue, earnings or spending in coming periods.",
+    "example_en": "Netflix shares fell after hours because its fourth-quarter guidance came in below analysts' expectations.",
+    "example_es": "Las acciones de Netflix cayeron fuera de hora porque sus previsiones para el cuarto trimestre quedaron por debajo de lo que esperaban los analistas."
+  },
+  "recommendations": [
+    {
+      "id": "bbva-domenech-inflacion-petroleo-2026",
+      "type": "podcast",
+      "title": "Inflación, petróleo y crecimiento en España: claves económicas con Rafael Doménech",
+      "speaker": "Rafael Doménech",
+      "outlet": "BBVA Podcast",
+      "duration_min": 20,
+      "language": "es",
+      "topics": [
+        "economía",
+        "energía",
+        "España"
+      ],
+      "summary": "El responsable de análisis económico de BBVA Research explica cómo el conflicto en Oriente Medio y la tensión en Ormuz afectan a la inflación, los tipos y el PIB español, y qué margen tiene el BCE.",
+      "why": "En 20 minutos tienes el marco para entender por qué el Brent a 110 dólares importa tanto para España.",
+      "url": "https://www.bbva.com/es/economia-y-finanzas/podcast-inflacion-petroleo-y-crecimiento-en-espana-claves-economicas-con-rafael-domenech/"
+    },
+    {
+      "id": "energy-transitions-uk-spain-lessons",
+      "type": "podcast",
+      "title": "What energy lessons can the UK and Spain learn from each other?",
+      "speaker": "Sarah Merrick y Daniel Serrano (Ricardo)",
+      "outlet": "Energy Transitions Podcast",
+      "duration_min": 17,
+      "language": "en",
+      "topics": [
+        "energía",
+        "redes",
+        "renovables"
+      ],
+      "summary": "Dos consultores comparan la transición energética de Reino Unido y España: almacenamiento, despliegue solar, planificación de redes, reforma del mercado y lecciones del apagón ibérico.",
+      "why": "Iberdrola opera en ambos países: es un repaso en inglés claro de los dos marcos que más vas a oír en tu departamento.",
+      "url": "https://energy-transitions.castos.com/episodes/what-energy-lessons-can-the-uk-and-spain-learn-from-each-other"
+    },
+    {
+      "id": "fool-spacex-q3-2026-call",
+      "type": "article",
+      "title": "SpaceX (SPCX) Q3 2026 Earnings Call Transcript",
+      "speaker": "Elon Musk, Gwynne Shotwell, Bret Johnsen",
+      "outlet": "The Motley Fool",
+      "duration_min": 40,
+      "language": "en",
+      "topics": [
+        "IA",
+        "empresas",
+        "resultados"
+      ],
+      "summary": "Transcripción de la presentación de resultados de SpaceX: ingresos, inversión en capacidad de cálculo, backlog y previsiones, con preguntas de analistas.",
+      "why": "Buena práctica de inglés financiero real (capex, backlog, guidance, EBITDA) y de cómo se explica un plan de inversión a los mercados.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/"
+    },
+    {
+      "id": "aljazeera-alberta-referendum-separatists",
+      "type": "article",
+      "title": "Alberta independence referendum: Will separatists survive a loss?",
+      "speaker": "Tamara Khandaker",
+      "outlet": "Al Jazeera",
+      "duration_min": 10,
+      "language": "en",
+      "topics": [
+        "política",
+        "energía",
+        "Canadá"
+      ],
+      "summary": "Explica el origen del independentismo de Alberta, muy ligado a la política energética federal, y qué puede pasar con el movimiento tras una derrota.",
+      "why": "Un caso donde energía y política territorial se cruzan; lectura corta y bien escrita.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss"
+    },
+    {
+      "id": "tnw-openai-china-chip-controls",
+      "type": "article",
+      "title": "OpenAI goes quiet on China chip controls, in a win for Nvidia",
+      "speaker": "The Next Web",
+      "outlet": "The Next Web",
+      "duration_min": 5,
+      "language": "en",
+      "topics": [
+        "IA",
+        "chips",
+        "geopolítica"
+      ],
+      "summary": "Cuenta cómo OpenAI ha dejado de defender limitar la venta de chips a China y por qué eso beneficia a Nvidia, con el contexto de la política de exportaciones de EE. UU.",
+      "why": "Ayuda a entender la relación entre laboratorios de IA, fabricantes de chips y Washington.",
+      "url": "https://thenextweb.com/news/openai-china-chip-export-controls-retreat-nvidia"
+    }
+  ]
+}
