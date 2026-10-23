@@ -1,0 +1,1013 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T07:00:55+02:00",
+  "last_updated": "2026-10-23T07:00:55+02:00",
+  "headline": {
+    "es": "El gasto en IA pasa factura: Meta se desploma un 7% y arrastra al Nasdaq, mientras el Brent a 113 dólares y el gas en máximos desde 2022 hunden a la banca europea y al IBEX por debajo de 19.000 puntos.",
+    "en": "AI spending takes its toll: Meta tumbles 7% and drags the Nasdaq lower, while Brent at 113 dollars and gas at 2022 highs sink European banks and push the IBEX below 19,000."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "Meta dispara su gasto en IA y Wall Street castiga a las tecnológicas",
+        "en": "Meta ramps up AI spending and Wall Street punishes tech stocks"
+      },
+      "body": {
+        "es": "Meta ingresó 64.600 millones de dólares en el tercer trimestre, un 26% más, y elevó su previsión de inversión para 2026 hasta 135.000-145.000 millones. Aun así, sus acciones cayeron casi un 7% el jueves, porque el gasto en centros de datos ya supera el flujo de caja que genera el negocio. La caída arrastró al Nasdaq y a fabricantes de chips como Lam Research y CoreWeave.",
+        "en": "Meta brought in 64.6 billion dollars in third-quarter revenue, up 26%, and raised its 2026 spending forecast to between 135 and 145 billion. Even so, its shares slid almost 7% on Thursday, because data-centre outlays now exceed the cash the business generates. The sell-off dragged down the Nasdaq and chip-related names such as Lam Research and CoreWeave."
+      },
+      "why_it_matters": {
+        "es": "Los inversores empiezan a exigir pruebas de que la enorme inversión en IA dará beneficios.",
+        "en": "Investors are starting to demand proof that the huge bets on AI will actually pay off."
+      },
+      "source": {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "Los modelos de OpenAI llegan a Google Cloud",
+        "en": "OpenAI's models are coming to Google Cloud"
+      },
+      "body": {
+        "es": "Los clientes de Google Cloud podrán usar los modelos más avanzados de OpenAI y su herramienta de programación Codex a través de Model Garden, y pagarlos en el marketplace de Google. La disponibilidad general está prevista para las próximas semanas.",
+        "en": "Google Cloud customers will be able to tap OpenAI's frontier models and its Codex coding tool through Model Garden, and pay for them via Google's marketplace. General availability is expected in the coming weeks."
+      },
+      "why_it_matters": {
+        "es": "OpenAI reduce su dependencia de Microsoft y Google gana atractivo como plataforma neutral para empresas.",
+        "en": "OpenAI is loosening its reliance on Microsoft, while Google strengthens its pitch as a neutral platform for businesses."
+      },
+      "source": {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/openai-models-google-cloud/"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "Dos fallos críticos en PHP, hallados con ayuda de IA, obligan a parchear con urgencia",
+        "en": "Two critical PHP flaws found with AI help trigger emergency patching"
+      },
+      "body": {
+        "es": "Dos vulnerabilidades en PHP permiten a un atacante ejecutar código en servidores sin necesidad de credenciales. Finlandia apagó temporalmente webs del Gobierno y la BBC retiró algunas páginas mientras aplicaban los parches. OpenAI, que las detectó con ayuda de IA, defiende dar a los defensores una ventaja de tiempo antes de hacerlas públicas.",
+        "en": "Two vulnerabilities in PHP let an attacker run code on servers without any login credentials. Finland temporarily took government websites offline and the BBC pulled some pages while patches were rolled out. OpenAI, which uncovered the bugs with AI assistance, argues that defenders should get a head start before such flaws are made public."
+      },
+      "why_it_matters": {
+        "es": "La IA acelera tanto el descubrimiento de fallos como su explotación, y cambia las reglas de la ciberseguridad.",
+        "en": "AI is speeding up both the discovery and the exploitation of flaws, rewriting the rules of cybersecurity."
+      },
+      "source": {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic abre lista de espera para Claude Duet, un agente proactivo",
+        "en": "Anthropic opens a waitlist for Claude Duet, a proactive agent"
+      },
+      "body": {
+        "es": "Anthropic ha presentado Claude Duet, un asistente para web y móvil que detecta tareas que podrían requerir tu atención y pide permiso antes de actuar. De momento es una versión preliminar de investigación para suscriptores Pro y Max en Estados Unidos.",
+        "en": "Anthropic has unveiled Claude Duet, a web and mobile assistant that flags tasks that may need your attention and asks for permission before taking action. For now it is a research preview for Pro and Max subscribers in the United States."
+      },
+      "why_it_matters": {
+        "es": "La carrera de la IA se desplaza de los chatbots que responden a agentes que se adelantan al usuario.",
+        "en": "The AI race is shifting from chatbots that answer questions to agents that anticipate what users need."
+      },
+      "source": {
+        "name": "Anthropic",
+        "url": "https://claude.com/resources/articles/claude-duet"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "Mistral y Nvidia se alían para llevar la IA a la ingeniería industrial",
+        "en": "Mistral and Nvidia team up to bring AI into industrial engineering"
+      },
+      "body": {
+        "es": "La francesa Mistral conectará sus modelos con las herramientas de simulación y computación de Nvidia para automatizar flujos de trabajo de ingeniería. También publicarán datos abiertos y pruebas de referencia para medir cómo rinden los agentes de IA en diseño industrial y de chips.",
+        "en": "France's Mistral will plug its models into Nvidia's simulation and computing tools to automate engineering workflows. The pair will also release open datasets and benchmarks to measure how well AI agents perform on industrial and chip-design tasks."
+      },
+      "why_it_matters": {
+        "es": "Es un ejemplo claro de cómo la IA puede entrar en la simulación y el diseño que usa un ingeniero mecánico.",
+        "en": "It is a clear example of how AI could move into the simulation and design work a mechanical engineer does every day."
+      },
+      "source": {
+        "name": "Mistral AI",
+        "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "Dimisiones en Google DeepMind por el trabajo militar con IA",
+        "en": "Google DeepMind staff quit over military AI work"
+      },
+      "body": {
+        "es": "Una ingeniera de investigación de Google DeepMind dimitió esta semana en protesta por los contratos de defensa, tras la salida de otro investigador a principios de mes. Google asegura que sus contratos con el sector público pasan revisiones de cumplimiento.",
+        "en": "A research engineer at Google DeepMind resigned this week in protest at defence contracts, following another researcher's departure earlier in the month. Google says its public-sector deals go through compliance reviews."
+      },
+      "source": {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/cmreyvepnv0po"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Ataques en el Golfo disparan la tensión y el petróleo",
+        "en": "Attacks in the Gulf ratchet up tension and oil prices"
+      },
+      "body": {
+        "es": "Aramco ordenó evacuar su sede de Dhahran después de que un misil matara a dos personas en el aeropuerto de Dammam, en Arabia Saudí. La Guardia Revolucionaria iraní afirmó que al menos siete barcos fueron atacados o chocaron con minas en Ormuz, algo que no se ha confirmado y que, según los informes, no ha afectado a las exportaciones.",
+        "en": "Aramco ordered staff to evacuate its Dhahran headquarters after a missile killed two people at Dammam airport in Saudi Arabia. Iran's Revolutionary Guards claimed at least seven ships were attacked or hit mines in the Strait of Hormuz, a claim that has not been confirmed and that reportedly has not disrupted exports."
+      },
+      "why_it_matters": {
+        "es": "El Brent ronda los 113 dólares, su nivel más alto desde mayo, y eso encarece la energía en Europa.",
+        "en": "Brent is hovering around 113 dollars, its highest level since May, which pushes up energy costs in Europe."
+      },
+      "source": {
+        "name": "Foreign Exchanges",
+        "url": "https://www.foreignexchanges.news/p/world-roundup-october-22-2026"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Ucrania: nuevos ataques rusos e intercambio de cuerpos",
+        "en": "Ukraine: fresh Russian strikes and an exchange of bodies"
+      },
+      "body": {
+        "es": "Los ataques nocturnos rusos mataron al menos a cuatro personas, mientras Moscú dijo haber derribado más de 800 drones ucranianos. Ambos países intercambiaron restos mortales: 252 ucranianos y 25 rusos.",
+        "en": "Overnight Russian strikes killed at least four people, while Moscow said it had shot down more than 800 Ukrainian drones. The two countries also swapped remains: 252 Ukrainian and 25 Russian."
+      },
+      "why_it_matters": {
+        "es": "Se habla de retomar negociaciones a tres bandas con Estados Unidos hacia el 10 de noviembre.",
+        "en": "There is talk of resuming three-way negotiations with the United States around 10 November."
+      },
+      "source": {
+        "name": "Foreign Exchanges",
+        "url": "https://www.foreignexchanges.news/p/world-roundup-october-22-2026"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "Serbia vota el domingo con los estudiantes pisando los talones a Vučić",
+        "en": "Serbia votes on Sunday with students hot on Vučić's heels"
+      },
+      "body": {
+        "es": "Serbia celebra elecciones parlamentarias el 25 de octubre. Un nuevo bloque surgido del movimiento estudiantil de protesta aparece en las encuestas muy cerca del partido del presidente Aleksandar Vučić.",
+        "en": "Serbia holds parliamentary elections on 25 October. A new bloc born out of the student protest movement is polling neck and neck with President Aleksandar Vučić's party."
+      },
+      "source": {
+        "name": "Foreign Exchanges",
+        "url": "https://www.foreignexchanges.news/p/world-roundup-october-22-2026"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Siguen los combates en la frontera entre Afganistán y Pakistán",
+        "en": "Fighting rages on along the Afghanistan-Pakistan border"
+      },
+      "body": {
+        "es": "Pakistán asegura haber destruido un campamento militar afgano, mientras Afganistán lo niega y dice haber matado a 13 soldados pakistaníes. Ninguna de las dos versiones se ha verificado de forma independiente.",
+        "en": "Pakistan says it destroyed an Afghan military camp, while Afghanistan denies this and claims it killed 13 Pakistani soldiers. Neither account has been independently verified."
+      },
+      "source": {
+        "name": "Foreign Exchanges",
+        "url": "https://www.foreignexchanges.news/p/world-roundup-october-22-2026"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Canadá y Turquía firman una asociación estratégica",
+        "en": "Canada and Turkey sign a strategic partnership"
+      },
+      "body": {
+        "es": "El primer ministro canadiense, Mark Carney, y el presidente turco, Recep Tayyip Erdoğan, firmaron un acuerdo que abarca comercio, defensa y energía. Canadá busca diversificar sus alianzas en un momento de relaciones tensas con Estados Unidos.",
+        "en": "Canadian Prime Minister Mark Carney and Turkish President Recep Tayyip Erdoğan signed a deal covering trade, defence and energy. Canada is looking to diversify its partnerships at a time of strained relations with the United States."
+      },
+      "source": {
+        "name": "Foreign Exchanges",
+        "url": "https://www.foreignexchanges.news/p/world-roundup-october-22-2026"
+      }
+    },
+    {
+      "id": "mundo-6",
+      "section": "mundo",
+      "title": {
+        "es": "El Parlamento Europeo concede el Premio Sájarov a la Corte Penal Internacional",
+        "en": "The European Parliament awards its Sakharov Prize to the International Criminal Court"
+      },
+      "body": {
+        "es": "La Eurocámara ha otorgado su premio de derechos humanos a la Corte Penal Internacional, un gesto de apoyo a un tribunal que está bajo fuerte presión política.",
+        "en": "The European Parliament has handed its human rights prize to the International Criminal Court, a show of support for a tribunal under heavy political pressure."
+      },
+      "source": {
+        "name": "Foreign Exchanges",
+        "url": "https://www.foreignexchanges.news/p/world-roundup-october-22-2026"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "Los partidos cierran sus listas para el 29N",
+        "en": "Parties finalise their candidate lists for the 29 November election"
+      },
+      "body": {
+        "es": "A cinco semanas de las generales anticipadas, los partidos completan sus candidaturas: el PP sitúa a Cayetana Álvarez de Toledo y Borja Sémper tras Feijóo en Madrid, y Comuns aprobó la lista de Ada Colau. La precampaña también viene marcada por incidentes en actos de Vox en A Coruña, con tres detenidos.",
+        "en": "Five weeks before the snap general election, parties are rounding out their tickets: the PP has placed Cayetana Álvarez de Toledo and Borja Sémper behind Feijóo in Madrid, and Comuns approved Ada Colau's list. The pre-campaign has also been marked by clashes at Vox events in A Coruña, with three people arrested."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/10/22/temas-del-dia-de-efe-espana-del-jueves-22-de-octubre-de-2026-1330-horas/"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "CCOO y UGT piden servicios mínimos “proporcionados” para la huelga general del 11N",
+        "en": "Unions call for “proportionate” minimum services for the 11 November general strike"
+      },
+      "body": {
+        "es": "Los dos grandes sindicatos han entregado al Ministerio de Transportes su propuesta de servicios mínimos para la huelga general. Sostienen que deben garantizar lo esencial, no un funcionamiento normal, y la decisión final corresponde al Ministerio.",
+        "en": "The two main unions have submitted their proposal for minimum transport services during the general strike to the Transport Ministry. They argue these should cover essential needs rather than normal operations, and the final decision rests with the ministry."
+      },
+      "why_it_matters": {
+        "es": "Si vas a la oficina ese día, conviene prever cómo funcionarán el Metro y Cercanías.",
+        "en": "If you commute to the office that day, it is worth planning ahead for how the Metro and commuter trains will run."
+      },
+      "source": {
+        "name": "Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/10/22/ugt-y-ccoo-piden-servicios-minimos-en-transporte-proporcionados-para-la-huelga-del-11-n/"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "Entra en vigor la reforma de la dependencia",
+        "en": "Spain's reform of long-term care comes into force"
+      },
+      "body": {
+        "es": "Desde hoy se amplían servicios y prestaciones para personas dependientes y con discapacidad. La reforma fija además un plazo máximo de tres meses para resolver el reconocimiento de la dependencia.",
+        "en": "From today, services and benefits for dependent and disabled people are expanded. The reform also sets a maximum of three months to process applications for dependency status."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/10/22/hoy-sera-noticia-viernes-23-de-octubre/"
+      }
+    },
+    {
+      "id": "espana-4",
+      "section": "espana",
+      "title": {
+        "es": "Las universidades públicas madrileñas irán a la huelga",
+        "en": "Madrid's public universities will go on strike"
+      },
+      "body": {
+        "es": "Las universidades públicas de Madrid anunciaron una huelga por lo que describen como asfixia económica, mientras los docentes de la región también se movilizan para pedir una negociación con el Gobierno autonómico.",
+        "en": "Madrid's public universities announced a strike over what they describe as a funding squeeze, while teachers in the region are also mobilising to push for negotiations with the regional government."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/10/22/temas-del-dia-de-efe-espana-del-jueves-22-de-octubre-de-2026-1330-horas/"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "El gas TTF supera los 90 €/MWh por primera vez desde 2022",
+        "en": "TTF gas tops 90 euros per MWh for the first time since 2022"
+      },
+      "body": {
+        "es": "El gas de referencia europeo subió casi un 4% hasta superar los 90 €/MWh, con un alza de más del 220% en lo que va de año. Los analistas lo atribuyen a la tensión en Oriente Próximo y a unas reservas de la UE en torno al 75%, un nivel inusualmente bajo para octubre.",
+        "en": "Europe's benchmark gas price rose almost 4% to above 90 euros per MWh, and is up more than 220% so far this year. Analysts blame tensions in the Middle East and EU storage levels of around 75%, unusually low for October."
+      },
+      "why_it_matters": {
+        "es": "El gas suele marcar el precio marginal del mercado eléctrico, así que presiona al alza la factura de la luz este invierno.",
+        "en": "Gas often sets the marginal price in the power market, so it puts upward pressure on electricity bills this winter."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/el-gas-natural-ttf-supera-los-90-euros-por-megavatio-hora-por-primera-vez-desde-2022/"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "McKinsey: la red eléctrica no avanza al ritmo de la IA",
+        "en": "McKinsey: the power grid is failing to keep pace with AI"
+      },
+      "body": {
+        "es": "Un informe de McKinsey calcula que la falta de capacidad de red mantiene bloqueados más de 2.500 GW de energía en el mundo. Los centros de datos se construyen más rápido que las líneas y subestaciones que necesitan, y los transformadores tardan más de dos años en entregarse en varios mercados.",
+        "en": "A McKinsey report estimates that grid shortfalls are leaving more than 2,500 GW of energy stranded worldwide. Data centres are going up faster than the lines and substations they rely on, and transformers take over two years to deliver in several markets."
+      },
+      "why_it_matters": {
+        "es": "Es justo el cuello de botella que justifica los planes de inversión en redes de distribuidoras como i-DE.",
+        "en": "This is exactly the bottleneck behind the grid investment plans of distributors such as i-DE."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/la-red-electrica-no-avanza-al-ritmo-de-la-ia-y-bloquea-2-500-gw-de-energia-en-el-mundo/"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "La CNMC da luz verde a la subasta de cogeneración de 600 MW",
+        "en": "The CNMC gives the green light to a 600 MW cogeneration auction"
+      },
+      "body": {
+        "es": "El regulador aprobó la subasta de 600 MW para plantas de cogeneración, aunque recomienda salvaguardas para proteger la competencia entre participantes.",
+        "en": "The regulator approved the 600 MW auction for cogeneration plants, although it recommends safeguards to protect competition among bidders."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/la-cnmc-da-luz-verde-a-la-subasta-de-cogeneracion-de-600-mw-pero-recomienda-salvaguardas-para-garantizar-la-competencia/"
+      }
+    },
+    {
+      "id": "energia-4",
+      "section": "energia",
+      "title": {
+        "es": "El decreto de centros de datos sigue sin fecha",
+        "en": "Still no date for Spain's data-centre decree"
+      },
+      "body": {
+        "es": "El Gobierno no ha fijado fecha para el real decreto que regulará los centros de datos, aunque asegura que la norma protegerá las inversiones previstas. La conexión a red de estos grandes consumidores es uno de los asuntos clave para las distribuidoras.",
+        "en": "The government has not set a date for the royal decree that will regulate data centres, although it insists the rules will safeguard planned investments. Connecting these large consumers to the grid is one of the key issues for distribution companies."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/lopez-no-fija-fecha-para-real-decreto-de-centros-de-datos-y-garantiza-que-la-norma-asegurara-inversiones/"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "La banca europea sufre su peor día desde marzo",
+        "en": "European banks suffer their worst day since March"
+      },
+      "body": {
+        "es": "Los bancos de la zona euro cayeron un 4,2%, con Bankinter hundiéndose más de un 7% porque el mayor coste de los depósitos estrechó sus márgenes en el tercer trimestre. Barclays también cedió tras presentar un beneficio inferior al esperado y anunciar unos 5.000 despidos.",
+        "en": "Euro zone banks fell 4.2%, with Bankinter plunging more than 7% as higher deposit costs squeezed its third-quarter margins. Barclays also slipped after reporting lower-than-expected profit and announcing around 5,000 job cuts."
+      },
+      "why_it_matters": {
+        "es": "La banca pesa mucho en el IBEX, por eso la bolsa española cayó más que sus vecinas.",
+        "en": "Banks carry a heavy weight in the IBEX, which is why the Spanish market fell harder than its peers."
+      },
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.streetinsider.com/Reuters/STOXX+600+slips+as+Barclays,+Hermes+disappoint;+oil+climbs/27217881.html"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "La prima de riesgo francesa toca máximos de 15 años",
+        "en": "France's bond spread hits a 15-year high"
+      },
+      "body": {
+        "es": "La diferencia entre el bono francés a diez años y el alemán superó los 170 puntos básicos, con la rentabilidad francesa cerca del 5,06%, por la incertidumbre política y las protestas en Francia. Capital Economics espera que el diferencial siga ampliándose en los próximos meses.",
+        "en": "The gap between French and German ten-year bond yields widened beyond 170 basis points, with the French yield near 5.06%, amid political uncertainty and protests in France. Capital Economics expects the spread to keep widening in the coming months."
+      },
+      "why_it_matters": {
+        "es": "Un mayor coste de la deuda pública se traslada a la financiación de empresas, incluidas las eléctricas.",
+        "en": "Higher government borrowing costs feed through into corporate funding, including for utilities."
+      },
+      "source": {
+        "name": "Tiempo de Inversión",
+        "url": "https://tiempodeinversion.com/2026/10/22/cierre-ibex-35-22-octubre-2026/"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "Los Reyes entregan los Premios Princesa de Asturias en el Teatro Campoamor de Oviedo.",
+      "en": "The King and Queen present the Princess of Asturias Awards at the Campoamor Theatre in Oviedo."
+    },
+    {
+      "es": "Entra en vigor la reforma de la dependencia y la discapacidad.",
+      "en": "Spain's reform of long-term care and disability support takes effect."
+    },
+    {
+      "es": "Los mercados digieren los resultados de Meta y Tesla y vigilan el Brent por encima de 110 dólares.",
+      "en": "Markets digest Meta and Tesla earnings while keeping an eye on Brent above 110 dollars."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "ramps up",
+      "translation": "aumenta con fuerza",
+      "pos": "phrasal verb",
+      "example": "The company ramps up production every winter."
+    },
+    {
+      "term": "outlays",
+      "translation": "desembolsos, gastos",
+      "pos": "noun",
+      "example": "Capital outlays rose sharply this year."
+    },
+    {
+      "term": "slid",
+      "translation": "cayó, retrocedió",
+      "pos": "verb",
+      "example": "The shares slid after the report."
+    },
+    {
+      "term": "sell-off",
+      "translation": "venta masiva",
+      "pos": "noun",
+      "example": "The sell-off wiped billions off tech stocks."
+    },
+    {
+      "term": "dragged down",
+      "translation": "arrastró a la baja",
+      "pos": "phrasal verb",
+      "example": "Weak banks dragged down the index."
+    },
+    {
+      "term": "pay off",
+      "translation": "dar fruto, salir rentable",
+      "pos": "phrasal verb",
+      "example": "The investment should pay off in five years."
+    },
+    {
+      "term": "tap",
+      "translation": "aprovechar, acceder a",
+      "pos": "verb",
+      "example": "Utilities can tap EU funds for grid upgrades."
+    },
+    {
+      "term": "loosening",
+      "translation": "aflojando, reduciendo",
+      "pos": "verb",
+      "example": "The firm is loosening its ties with its main supplier."
+    },
+    {
+      "term": "pitch",
+      "translation": "argumento de venta, propuesta",
+      "pos": "noun",
+      "example": "Her pitch convinced the investors."
+    },
+    {
+      "term": "flaws",
+      "translation": "fallos, defectos",
+      "pos": "noun",
+      "example": "Engineers found several flaws in the design."
+    },
+    {
+      "term": "rolled out",
+      "translation": "desplegado, implantado",
+      "pos": "phrasal verb",
+      "example": "Smart meters were rolled out across the region."
+    },
+    {
+      "term": "uncovered",
+      "translation": "descubrió, sacó a la luz",
+      "pos": "verb",
+      "example": "The audit uncovered errors in the budget."
+    },
+    {
+      "term": "head start",
+      "translation": "ventaja inicial",
+      "pos": "noun",
+      "example": "Early planning gives you a head start."
+    },
+    {
+      "term": "flags",
+      "translation": "señala, avisa de",
+      "pos": "verb",
+      "example": "The software flags unusual spending."
+    },
+    {
+      "term": "anticipate",
+      "translation": "anticiparse a, prever",
+      "pos": "verb",
+      "example": "Planners must anticipate future demand."
+    },
+    {
+      "term": "plug",
+      "translation": "conectar, integrar",
+      "pos": "verb",
+      "example": "They want to plug renewables into the grid faster."
+    },
+    {
+      "term": "benchmarks",
+      "translation": "pruebas de referencia",
+      "pos": "noun",
+      "example": "New benchmarks compare model performance."
+    },
+    {
+      "term": "ratchet up",
+      "translation": "intensificar, subir",
+      "pos": "phrasal verb",
+      "example": "The strikes ratchet up the pressure on oil."
+    },
+    {
+      "term": "hovering",
+      "translation": "rondando",
+      "pos": "verb",
+      "example": "Inflation is hovering around 3%."
+    },
+    {
+      "term": "swapped",
+      "translation": "intercambiaron",
+      "pos": "verb",
+      "example": "The two sides swapped prisoners."
+    },
+    {
+      "term": "hot on",
+      "translation": "pisando los talones a",
+      "pos": "expression",
+      "example": "Rivals are hot on the leader's heels."
+    },
+    {
+      "term": "neck and neck",
+      "translation": "codo con codo, muy igualados",
+      "pos": "idiom",
+      "example": "The two parties are neck and neck in the polls."
+    },
+    {
+      "term": "strained",
+      "translation": "tensas, deterioradas",
+      "pos": "adjective",
+      "example": "Relations between the countries are strained."
+    },
+    {
+      "term": "snap",
+      "translation": "anticipadas (elecciones)",
+      "pos": "adjective",
+      "example": "The prime minister called a snap election."
+    },
+    {
+      "term": "rounding out",
+      "translation": "completando",
+      "pos": "phrasal verb",
+      "example": "They are rounding out the project team."
+    },
+    {
+      "term": "commute",
+      "translation": "desplazarse al trabajo",
+      "pos": "verb",
+      "example": "I commute to the office by train."
+    },
+    {
+      "term": "funding squeeze",
+      "translation": "asfixia financiera",
+      "pos": "noun",
+      "example": "Hospitals face a funding squeeze."
+    },
+    {
+      "term": "benchmark",
+      "translation": "de referencia",
+      "pos": "adjective",
+      "example": "The benchmark rate was left unchanged."
+    },
+    {
+      "term": "upward pressure",
+      "translation": "presión al alza",
+      "pos": "noun",
+      "example": "Weak supply puts upward pressure on prices."
+    },
+    {
+      "term": "shortfalls",
+      "translation": "déficits, carencias",
+      "pos": "noun",
+      "example": "Budget shortfalls delayed the project."
+    },
+    {
+      "term": "stranded",
+      "translation": "bloqueados, varados",
+      "pos": "adjective",
+      "example": "Stranded assets lose value quickly."
+    },
+    {
+      "term": "bottleneck",
+      "translation": "cuello de botella",
+      "pos": "noun",
+      "example": "Permits are the main bottleneck for new lines."
+    },
+    {
+      "term": "bidders",
+      "translation": "licitadores, pujadores",
+      "pos": "noun",
+      "example": "Five bidders entered the auction."
+    },
+    {
+      "term": "safeguard",
+      "translation": "proteger, salvaguardar",
+      "pos": "verb",
+      "example": "The rules safeguard consumers."
+    },
+    {
+      "term": "plunging",
+      "translation": "desplomándose",
+      "pos": "verb",
+      "example": "Prices are plunging after the announcement."
+    },
+    {
+      "term": "squeezed",
+      "translation": "estrechó, apretó",
+      "pos": "verb",
+      "example": "Higher costs squeezed profit margins."
+    },
+    {
+      "term": "peers",
+      "translation": "competidores comparables",
+      "pos": "noun",
+      "example": "The bank outperformed its peers."
+    },
+    {
+      "term": "widened",
+      "translation": "se amplió",
+      "pos": "verb",
+      "example": "The spread widened during the crisis."
+    },
+    {
+      "term": "feed through",
+      "translation": "trasladarse, repercutir",
+      "pos": "phrasal verb",
+      "example": "Rate hikes take time to feed through into the economy."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Meta brought in 64.6 billion dollars in third-quarter revenue, up 26%, and raised its 2026 spending forecast to between 135 and 145 billion.",
+      "es": "Meta ingresó 64.600 millones de dólares en el tercer trimestre, un 26% más, y elevó su previsión de inversión para 2026 hasta 135.000-145.000 millones."
+    },
+    {
+      "en": "Even so, its shares slid almost 7% on Thursday, because data-centre outlays now exceed the cash the business generates.",
+      "es": "Aun así, sus acciones cayeron casi un 7% el jueves, porque el gasto en centros de datos ya supera el flujo de caja que genera el negocio."
+    },
+    {
+      "en": "The sell-off dragged down the Nasdaq and chip-related names such as Lam Research and CoreWeave.",
+      "es": "La caída arrastró al Nasdaq y a fabricantes de chips como Lam Research y CoreWeave."
+    },
+    {
+      "en": "Investors are starting to demand proof that the huge bets on AI will actually pay off.",
+      "es": "Los inversores empiezan a exigir pruebas de que la enorme inversión en IA dará beneficios."
+    },
+    {
+      "en": "Google Cloud customers will be able to tap OpenAI's frontier models and its Codex coding tool through Model Garden, and pay for them via Google's marketplace.",
+      "es": "Los clientes de Google Cloud podrán usar los modelos más avanzados de OpenAI y su herramienta de programación Codex a través de Model Garden, y pagarlos en el marketplace de Google."
+    },
+    {
+      "en": "General availability is expected in the coming weeks.",
+      "es": "La disponibilidad general está prevista para las próximas semanas."
+    },
+    {
+      "en": "OpenAI is loosening its reliance on Microsoft, while Google strengthens its pitch as a neutral platform for businesses.",
+      "es": "OpenAI reduce su dependencia de Microsoft y Google gana atractivo como plataforma neutral para empresas."
+    },
+    {
+      "en": "Two vulnerabilities in PHP let an attacker run code on servers without any login credentials.",
+      "es": "Dos vulnerabilidades en PHP permiten a un atacante ejecutar código en servidores sin necesidad de credenciales."
+    },
+    {
+      "en": "Finland temporarily took government websites offline and the BBC pulled some pages while patches were rolled out.",
+      "es": "Finlandia apagó temporalmente webs del Gobierno y la BBC retiró algunas páginas mientras aplicaban los parches."
+    },
+    {
+      "en": "OpenAI, which uncovered the bugs with AI assistance, argues that defenders should get a head start before such flaws are made public.",
+      "es": "OpenAI, que las detectó con ayuda de IA, defiende dar a los defensores una ventaja de tiempo antes de hacerlas públicas."
+    },
+    {
+      "en": "AI is speeding up both the discovery and the exploitation of flaws, rewriting the rules of cybersecurity.",
+      "es": "La IA acelera tanto el descubrimiento de fallos como su explotación, y cambia las reglas de la ciberseguridad."
+    },
+    {
+      "en": "Anthropic has unveiled Claude Duet, a web and mobile assistant that flags tasks that may need your attention and asks for permission before taking action.",
+      "es": "Anthropic ha presentado Claude Duet, un asistente para web y móvil que detecta tareas que podrían requerir tu atención y pide permiso antes de actuar."
+    },
+    {
+      "en": "For now it is a research preview for Pro and Max subscribers in the United States.",
+      "es": "De momento es una versión preliminar de investigación para suscriptores Pro y Max en Estados Unidos."
+    },
+    {
+      "en": "The AI race is shifting from chatbots that answer questions to agents that anticipate what users need.",
+      "es": "La carrera de la IA se desplaza de los chatbots que responden a agentes que se adelantan al usuario."
+    },
+    {
+      "en": "France's Mistral will plug its models into Nvidia's simulation and computing tools to automate engineering workflows.",
+      "es": "La francesa Mistral conectará sus modelos con las herramientas de simulación y computación de Nvidia para automatizar flujos de trabajo de ingeniería."
+    },
+    {
+      "en": "The pair will also release open datasets and benchmarks to measure how well AI agents perform on industrial and chip-design tasks.",
+      "es": "También publicarán datos abiertos y pruebas de referencia para medir cómo rinden los agentes de IA en diseño industrial y de chips."
+    },
+    {
+      "en": "It is a clear example of how AI could move into the simulation and design work a mechanical engineer does every day.",
+      "es": "Es un ejemplo claro de cómo la IA puede entrar en la simulación y el diseño que usa un ingeniero mecánico."
+    },
+    {
+      "en": "A research engineer at Google DeepMind resigned this week in protest at defence contracts, following another researcher's departure earlier in the month.",
+      "es": "Una ingeniera de investigación de Google DeepMind dimitió esta semana en protesta por los contratos de defensa, tras la salida de otro investigador a principios de mes."
+    },
+    {
+      "en": "Google says its public-sector deals go through compliance reviews.",
+      "es": "Google asegura que sus contratos con el sector público pasan revisiones de cumplimiento."
+    },
+    {
+      "en": "Aramco ordered staff to evacuate its Dhahran headquarters after a missile killed two people at Dammam airport in Saudi Arabia.",
+      "es": "Aramco ordenó evacuar su sede de Dhahran después de que un misil matara a dos personas en el aeropuerto de Dammam, en Arabia Saudí."
+    },
+    {
+      "en": "Iran's Revolutionary Guards claimed at least seven ships were attacked or hit mines in the Strait of Hormuz, a claim that has not been confirmed and that reportedly has not disrupted exports.",
+      "es": "La Guardia Revolucionaria iraní afirmó que al menos siete barcos fueron atacados o chocaron con minas en Ormuz, algo que no se ha confirmado y que, según los informes, no ha afectado a las exportaciones."
+    },
+    {
+      "en": "Brent is hovering around 113 dollars, its highest level since May, which pushes up energy costs in Europe.",
+      "es": "El Brent ronda los 113 dólares, su nivel más alto desde mayo, y eso encarece la energía en Europa."
+    },
+    {
+      "en": "Overnight Russian strikes killed at least four people, while Moscow said it had shot down more than 800 Ukrainian drones.",
+      "es": "Los ataques nocturnos rusos mataron al menos a cuatro personas, mientras Moscú dijo haber derribado más de 800 drones ucranianos."
+    },
+    {
+      "en": "The two countries also swapped remains: 252 Ukrainian and 25 Russian.",
+      "es": "Ambos países intercambiaron restos mortales: 252 ucranianos y 25 rusos."
+    },
+    {
+      "en": "There is talk of resuming three-way negotiations with the United States around 10 November.",
+      "es": "Se habla de retomar negociaciones a tres bandas con Estados Unidos hacia el 10 de noviembre."
+    },
+    {
+      "en": "Serbia holds parliamentary elections on 25 October.",
+      "es": "Serbia celebra elecciones parlamentarias el 25 de octubre."
+    },
+    {
+      "en": "A new bloc born out of the student protest movement is polling neck and neck with President Aleksandar Vučić's party.",
+      "es": "Un nuevo bloque surgido del movimiento estudiantil de protesta aparece en las encuestas muy cerca del partido del presidente Aleksandar Vučić."
+    },
+    {
+      "en": "Pakistan says it destroyed an Afghan military camp, while Afghanistan denies this and claims it killed 13 Pakistani soldiers.",
+      "es": "Pakistán asegura haber destruido un campamento militar afgano, mientras Afganistán lo niega y dice haber matado a 13 soldados pakistaníes."
+    },
+    {
+      "en": "Neither account has been independently verified.",
+      "es": "Ninguna de las dos versiones se ha verificado de forma independiente."
+    },
+    {
+      "en": "Canadian Prime Minister Mark Carney and Turkish President Recep Tayyip Erdoğan signed a deal covering trade, defence and energy.",
+      "es": "El primer ministro canadiense, Mark Carney, y el presidente turco, Recep Tayyip Erdoğan, firmaron un acuerdo que abarca comercio, defensa y energía."
+    },
+    {
+      "en": "Canada is looking to diversify its partnerships at a time of strained relations with the United States.",
+      "es": "Canadá busca diversificar sus alianzas en un momento de relaciones tensas con Estados Unidos."
+    },
+    {
+      "en": "The European Parliament has handed its human rights prize to the International Criminal Court, a show of support for a tribunal under heavy political pressure.",
+      "es": "La Eurocámara ha otorgado su premio de derechos humanos a la Corte Penal Internacional, un gesto de apoyo a un tribunal que está bajo fuerte presión política."
+    },
+    {
+      "en": "Five weeks before the snap general election, parties are rounding out their tickets: the PP has placed Cayetana Álvarez de Toledo and Borja Sémper behind Feijóo in Madrid, and Comuns approved Ada Colau's list.",
+      "es": "A cinco semanas de las generales anticipadas, los partidos completan sus candidaturas: el PP sitúa a Cayetana Álvarez de Toledo y Borja Sémper tras Feijóo en Madrid, y Comuns aprobó la lista de Ada Colau."
+    },
+    {
+      "en": "The pre-campaign has also been marked by clashes at Vox events in A Coruña, with three people arrested.",
+      "es": "La precampaña también viene marcada por incidentes en actos de Vox en A Coruña, con tres detenidos."
+    },
+    {
+      "en": "The two main unions have submitted their proposal for minimum transport services during the general strike to the Transport Ministry.",
+      "es": "Los dos grandes sindicatos han entregado al Ministerio de Transportes su propuesta de servicios mínimos para la huelga general."
+    },
+    {
+      "en": "They argue these should cover essential needs rather than normal operations, and the final decision rests with the ministry.",
+      "es": "Sostienen que deben garantizar lo esencial, no un funcionamiento normal, y la decisión final corresponde al Ministerio."
+    },
+    {
+      "en": "If you commute to the office that day, it is worth planning ahead for how the Metro and commuter trains will run.",
+      "es": "Si vas a la oficina ese día, conviene prever cómo funcionarán el Metro y Cercanías."
+    },
+    {
+      "en": "From today, services and benefits for dependent and disabled people are expanded.",
+      "es": "Desde hoy se amplían servicios y prestaciones para personas dependientes y con discapacidad."
+    },
+    {
+      "en": "The reform also sets a maximum of three months to process applications for dependency status.",
+      "es": "La reforma fija además un plazo máximo de tres meses para resolver el reconocimiento de la dependencia."
+    },
+    {
+      "en": "Madrid's public universities announced a strike over what they describe as a funding squeeze, while teachers in the region are also mobilising to push for negotiations with the regional government.",
+      "es": "Las universidades públicas de Madrid anunciaron una huelga por lo que describen como asfixia económica, mientras los docentes de la región también se movilizan para pedir una negociación con el Gobierno autonómico."
+    },
+    {
+      "en": "Europe's benchmark gas price rose almost 4% to above 90 euros per MWh, and is up more than 220% so far this year.",
+      "es": "El gas de referencia europeo subió casi un 4% hasta superar los 90 €/MWh, con un alza de más del 220% en lo que va de año."
+    },
+    {
+      "en": "Analysts blame tensions in the Middle East and EU storage levels of around 75%, unusually low for October.",
+      "es": "Los analistas lo atribuyen a la tensión en Oriente Próximo y a unas reservas de la UE en torno al 75%, un nivel inusualmente bajo para octubre."
+    },
+    {
+      "en": "Gas often sets the marginal price in the power market, so it puts upward pressure on electricity bills this winter.",
+      "es": "El gas suele marcar el precio marginal del mercado eléctrico, así que presiona al alza la factura de la luz este invierno."
+    },
+    {
+      "en": "A McKinsey report estimates that grid shortfalls are leaving more than 2,500 GW of energy stranded worldwide.",
+      "es": "Un informe de McKinsey calcula que la falta de capacidad de red mantiene bloqueados más de 2.500 GW de energía en el mundo."
+    },
+    {
+      "en": "Data centres are going up faster than the lines and substations they rely on, and transformers take over two years to deliver in several markets.",
+      "es": "Los centros de datos se construyen más rápido que las líneas y subestaciones que necesitan, y los transformadores tardan más de dos años en entregarse en varios mercados."
+    },
+    {
+      "en": "This is exactly the bottleneck behind the grid investment plans of distributors such as i-DE.",
+      "es": "Es justo el cuello de botella que justifica los planes de inversión en redes de distribuidoras como i-DE."
+    },
+    {
+      "en": "The regulator approved the 600 MW auction for cogeneration plants, although it recommends safeguards to protect competition among bidders.",
+      "es": "El regulador aprobó la subasta de 600 MW para plantas de cogeneración, aunque recomienda salvaguardas para proteger la competencia entre participantes."
+    },
+    {
+      "en": "The government has not set a date for the royal decree that will regulate data centres, although it insists the rules will safeguard planned investments.",
+      "es": "El Gobierno no ha fijado fecha para el real decreto que regulará los centros de datos, aunque asegura que la norma protegerá las inversiones previstas."
+    },
+    {
+      "en": "Connecting these large consumers to the grid is one of the key issues for distribution companies.",
+      "es": "La conexión a red de estos grandes consumidores es uno de los asuntos clave para las distribuidoras."
+    },
+    {
+      "en": "Euro zone banks fell 4.2%, with Bankinter plunging more than 7% as higher deposit costs squeezed its third-quarter margins.",
+      "es": "Los bancos de la zona euro cayeron un 4,2%, con Bankinter hundiéndose más de un 7% porque el mayor coste de los depósitos estrechó sus márgenes en el tercer trimestre."
+    },
+    {
+      "en": "Barclays also slipped after reporting lower-than-expected profit and announcing around 5,000 job cuts.",
+      "es": "Barclays también cedió tras presentar un beneficio inferior al esperado y anunciar unos 5.000 despidos."
+    },
+    {
+      "en": "Banks carry a heavy weight in the IBEX, which is why the Spanish market fell harder than its peers.",
+      "es": "La banca pesa mucho en el IBEX, por eso la bolsa española cayó más que sus vecinas."
+    },
+    {
+      "en": "The gap between French and German ten-year bond yields widened beyond 170 basis points, with the French yield near 5.06%, amid political uncertainty and protests in France.",
+      "es": "La diferencia entre el bono francés a diez años y el alemán superó los 170 puntos básicos, con la rentabilidad francesa cerca del 5,06%, por la incertidumbre política y las protestas en Francia."
+    },
+    {
+      "en": "Capital Economics expects the spread to keep widening in the coming months.",
+      "es": "Capital Economics espera que el diferencial siga ampliándose en los próximos meses."
+    },
+    {
+      "en": "Higher government borrowing costs feed through into corporate funding, including for utilities.",
+      "es": "Un mayor coste de la deuda pública se traslada a la financiación de empresas, incluidas las eléctricas."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "bottleneck",
+    "pos": "noun",
+    "translation": "cuello de botella",
+    "definition_en": "A point of congestion or constraint that slows down a whole process or system.",
+    "example_en": "Transformer delivery times have become the main bottleneck for connecting new demand to the grid.",
+    "example_es": "Los plazos de entrega de transformadores se han convertido en el principal cuello de botella para conectar nueva demanda a la red."
+  },
+  "recommendations": [
+    {
+      "id": "a16z-1-trillion-ai-buildout-state-of-markets",
+      "type": "podcast",
+      "title": "The $1 Trillion AI Buildout | State of Markets",
+      "speaker": "David George, Sarah Wang, Alex Immerman y Santiago Rodriguez",
+      "outlet": "a16z",
+      "duration_min": 60,
+      "language": "en",
+      "topics": [
+        "IA",
+        "mercados",
+        "inversión"
+      ],
+      "summary": "El equipo de inversión de a16z repasa el billón de dólares que se está invirtiendo en infraestructura de IA: quién gasta, cómo se financia y qué significa para los mercados.",
+      "why": "Contexto perfecto para entender por qué ayer cayó Meta pese a sus buenos resultados.",
+      "url": "https://a16z.com/podcast/the-1-trillion-ai-buildout-state-of-markets/"
+    },
+    {
+      "id": "a16z-beyond-the-god-model-atallah-masad",
+      "type": "podcast",
+      "title": "Beyond the God Model",
+      "speaker": "Alex Atallah y Amjad Masad",
+      "outlet": "a16z",
+      "duration_min": 50,
+      "language": "en",
+      "topics": [
+        "IA",
+        "emprendimiento"
+      ],
+      "summary": "Los fundadores de OpenRouter y Replit discuten si el futuro será un único modelo dominante o muchos modelos especializados, y qué implica para las empresas que construyen sobre ellos.",
+      "why": "Buen inglés técnico y conversacional de líderes tecnológicos.",
+      "url": "https://a16z.com/podcast/beyond-the-god-model-alex-atallah-amjad-masad/"
+    },
+    {
+      "id": "openai-coordinated-disclosure-php-2026",
+      "type": "article",
+      "title": "Coordinated disclosure of critical vulnerabilities",
+      "speaker": "OpenAI",
+      "outlet": "OpenAI",
+      "duration_min": 8,
+      "language": "en",
+      "topics": [
+        "IA",
+        "ciberseguridad"
+      ],
+      "summary": "OpenAI explica cómo detectó con IA dos fallos críticos de PHP y por qué propone una 'ventana del defensor' antes de publicarlos.",
+      "why": "Las redes eléctricas son infraestructura crítica: la ciberseguridad con IA les afecta directamente.",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+    },
+    {
+      "id": "pde-mckinsey-red-ia-2500-gw",
+      "type": "article",
+      "title": "La red eléctrica no avanza al ritmo de la IA y bloquea 2.500 GW de energía en el mundo",
+      "speaker": "McKinsey (resumen de El Periódico de la Energía)",
+      "outlet": "El Periódico de la Energía",
+      "duration_min": 5,
+      "language": "es",
+      "topics": [
+        "energía",
+        "redes",
+        "IA"
+      ],
+      "summary": "Resumen del informe tecnológico de McKinsey: la red y los plazos de conexión son ya el principal freno a la expansión de la IA, con transformadores que tardan más de dos años.",
+      "why": "Datos útiles para tu día a día en planificación de inversiones en redes.",
+      "url": "https://elperiodicodelaenergia.com/la-red-electrica-no-avanza-al-ritmo-de-la-ia-y-bloquea-2-500-gw-de-energia-en-el-mundo/"
+    },
+    {
+      "id": "on-podcast-joan-groizard-control-tension",
+      "type": "podcast",
+      "title": "Joan Groizard: \"Si el problema es de control de tensión, la respuesta desde luego no es la nuclear\"",
+      "speaker": "Joan Groizard",
+      "outlet": "ÓN, el podcast de El Periódico de la Energía",
+      "duration_min": 49,
+      "language": "es",
+      "topics": [
+        "energía",
+        "redes",
+        "regulación"
+      ],
+      "summary": "Entrevista sobre el control de tensión en el sistema eléctrico español, el papel de las renovables y qué tecnologías ayudan a estabilizar la red.",
+      "why": "Explica con claridad un tema técnico clave para las redes, muy ligado a tu formación de ingeniero.",
+      "url": "https://www.ivoox.com/en/joan-groizard-si-problema-es-control-audios-mp3_rf_169323834_1.html"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Jornada de aversión al riesgo. El IBEX 35 cayó un 2,12% hasta 18.913 puntos, lastrado por la banca (Bankinter, -7,6%) y por el repunte del Brent hasta unos 113 dólares, su máximo desde mayo, por los ataques en el Golfo. El STOXX 600 bajó más de un 1% y la prima de riesgo francesa marcó máximos de 15 años. En Wall Street, el S&P 500 perdió un 1,2% y el Nasdaq un 2,6% por las dudas sobre el retorno del gasto en IA tras los resultados de Meta, mientras el Dow cerró plano. Los inversores se refugiaron en bonos: el rendimiento del Treasury a 10 años bajó del 5%. Los analistas esperan volatilidad mientras dure el conflicto en Oriente Próximo.",
+      "en": "A risk-off session. The IBEX 35 fell 2.12% to 18,913 points, weighed down by banks (Bankinter, -7.6%) and by Brent climbing to about 113 dollars, its highest since May, on attacks in the Gulf. The STOXX 600 lost more than 1% and France's bond spread hit a 15-year high. On Wall Street, the S&P 500 shed 1.2% and the Nasdaq 2.6% on doubts over returns from AI spending after Meta's results, while the Dow ended flat. Investors sought safety in bonds, pushing the 10-year Treasury yield below 5%. Analysts expect volatility to persist as long as the Middle East conflict lasts."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35",
+        "value": 18913,
+        "change_pct": -2.12
+      },
+      {
+        "name": "Dow Jones",
+        "value": 52867.98,
+        "change_pct": 0.02
+      },
+      {
+        "name": "Oro ($/oz)",
+        "value": 4034.1,
+        "change_pct": -0.65
+      },
+      {
+        "name": "Bitcoin ($)",
+        "value": 81862,
+        "change_pct": -1.2
+      }
+    ],
+    "learn": {
+      "concept": "CAPEX y OPEX",
+      "explanation": "El CAPEX (capital expenditure) es la inversión en activos que duran varios años: una subestación, una línea o un centro de datos. Se registra en el balance y se va amortizando. El OPEX (operating expenditure) es el gasto corriente para operar: mantenimiento, personal, energía. En una distribuidora regulada como i-DE la distinción es clave, porque la retribución se calcula sobre los activos invertidos (CAPEX), mientras que el OPEX se retribuye con valores unitarios de operación y mantenimiento. Por eso Meta asusta al mercado: su CAPEX de hasta 145.000 millones ya supera el efectivo que genera su negocio."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
