@@ -1,0 +1,985 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T07:05:36+02:00",
+  "last_updated": "2026-10-24T07:05:36+02:00",
+  "headline": {
+    "es": "Los ataques hutíes contra Arabia Saudí llevan el Brent a unos 116 dólares y Wall Street cierra su segunda semana en rojo, mientras OpenAI negocia captar 30.000 millones a una valoración de 1,25 billones.",
+    "en": "Houthi attacks on Saudi Arabia push Brent to around $116 and Wall Street closes a second losing week, while OpenAI is in talks to raise $30 billion at a $1.25 trillion valuation."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "OpenAI negocia captar 30.000 millones a una valoración de 1,25 billones",
+        "en": "OpenAI in talks to raise $30 billion at a $1.25 trillion valuation"
+      },
+      "body": {
+        "es": "OpenAI estaría preparando una nueva ronda de financiación de unos 30.000 millones de dólares que valoraría la empresa en torno a 1,25 billones. La operación llegaría antes de una posible salida a bolsa, mientras la compañía intenta financiar sus enormes necesidades de computación. Llega en una semana nerviosa para las tecnológicas de IA, después de que los inversores castigaran a Meta por su gasto de capital disparado.",
+        "en": "OpenAI is reportedly working on a new funding round of around $30 billion that would value the company at roughly $1.25 trillion. The deal would come ahead of a potential stock market listing, as the company tries to fund its enormous computing needs. It lands in a nervous week for AI stocks, after investors punished Meta for its soaring capital spending."
+      },
+      "why_it_matters": {
+        "es": "Una valoración así situaría a OpenAI entre las empresas más valiosas del mundo antes incluso de cotizar.",
+        "en": "A valuation of this size would put OpenAI among the most valuable companies in the world before it even goes public."
+      },
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "La IA médica de Microsoft supera a los médicos generalistas en casos difíciles",
+        "en": "Microsoft's medical AI beats general doctors on hard cases"
+      },
+      "body": {
+        "es": "Microsoft ha desarrollado un sistema de diagnóstico que analiza cada caso paso a paso, pidiendo pruebas y afinando su hipótesis como lo haría un médico. En un estudio publicado en la revista Science, acertó más del doble que los médicos generalistas en casos complejos. Algunos expertos señalan que buena parte de la mejora podría deberse a los modelos de base y no tanto a las herramientas propias de Microsoft.",
+        "en": "Microsoft has developed a diagnostic system that works through a case step by step, ordering tests and refining its hypothesis the way a doctor would. In a study published in the journal Science, it was more than twice as accurate as general physicians on complex cases. Some experts point out that much of the gain may come from the underlying models rather than from Microsoft's own tooling."
+      },
+      "why_it_matters": {
+        "es": "La sanidad se está convirtiendo en uno de los primeros campos donde la IA se mide con profesionales en investigación revisada por pares.",
+        "en": "Healthcare is becoming one of the first fields where AI is being tested against professionals in peer-reviewed research."
+      },
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "Evaluadores externos encuentran fallos en la vigilancia de agentes de OpenAI",
+        "en": "Outside evaluators find flaws in OpenAI's agent-monitoring system"
+      },
+      "body": {
+        "es": "Los grupos de seguridad METR y Redwood Research pasaron tres semanas dentro de OpenAI probando las herramientas que usa para detectar agentes de IA que se comportan mal. Encontraron varias debilidades, entre ellas una que podría haber permitido a los agentes ocultar cientos de acciones a la supervisión. Por otro lado, OpenAI despidió a tres investigadores de seguridad por gestionar mal información sensible en chats privados.",
+        "en": "The safety groups METR and Redwood Research spent three weeks inside OpenAI testing the tools it uses to detect misbehaving AI agents. They found several weaknesses, including one that could have allowed agents to hide hundreds of actions from oversight. Separately, OpenAI dismissed three safety researchers for mishandling sensitive information in private chats."
+      },
+      "why_it_matters": {
+        "es": "A medida que los agentes ganan autonomía, las auditorías independientes de cómo se vigilan se convierten en una pieza clave de la seguridad de la IA.",
+        "en": "As agents get more autonomy, independent audits of how they are monitored are becoming a key part of AI safety."
+      },
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/ai-safety-group-metr-finds-flaws-openais-internal-monitoring-system-2026-10-22/"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic usa Claude para verificar matemáticamente 123 librerías de código abierto",
+        "en": "Anthropic uses Claude to mathematically verify 123 open-source libraries"
+      },
+      "body": {
+        "es": "Anthropic afirma que Claude logró demostrar propiedades de seguridad en 123 librerías de código abierto mediante pruebas matemáticas formales. El trabajo destapó errores que llevaban años sin detectarse, y la empresa sostiene que los modelos de lenguaje hacen viable este tipo de verificación a gran escala. Anthropic también cede su estándar Agent Skills, ya adoptado por más de 70 plataformas, a la Agentic AI Foundation.",
+        "en": "Anthropic says Claude was able to prove security properties across 123 open-source libraries using formal mathematical proofs. The work uncovered bugs that had gone unnoticed for years, and the company argues language models make this kind of verification feasible at scale. Anthropic is also donating its Agent Skills standard, already adopted by more than 70 platforms, to the Agentic AI Foundation."
+      },
+      "source": {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/research/formal-verification"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "Hackers vinculados a China usaron agentes de IA en un ataque a la cadena de suministro",
+        "en": "China-linked hackers used AI agents in a supply-chain attack"
+      },
+      "body": {
+        "es": "Microsoft explicó que un grupo al que sigue como Storm-0940 se apoyó en una herramienta agéntica de pruebas de intrusión durante el ataque a ConnectWise, un proveedor de gestión informática. Los agentes automatizaron gran parte del ataque y abusaron de credenciales de aplicaciones en entornos de Microsoft 365. Mientras tanto, los grandes bancos se apresuran a controlar los agentes de IA de terceros que pueden acceder a las cuentas de sus clientes.",
+        "en": "Microsoft said a group it tracks as Storm-0940 relied on an agentic penetration-testing tool during the compromise of ConnectWise, an IT management provider. The agents automated much of the attack and abused application credentials across Microsoft 365 environments. Meanwhile, big banks are scrambling to control third-party AI agents that can access customer accounts."
+      },
+      "why_it_matters": {
+        "es": "Es uno de los casos públicos más claros de agentes de IA usados para atacar, y no solo para defenderse.",
+        "en": "It is one of the clearest public cases of AI agents being used offensively, not just defensively."
+      },
+      "source": {
+        "name": "Microsoft Security Blog",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Los ataques hutíes contra Arabia Saudí llevan el Brent a máximos de seis meses",
+        "en": "Houthi attacks on Saudi Arabia push Brent to a six-month high"
+      },
+      "body": {
+        "es": "Saudi Aramco evacuó al personal que quedaba en su sede de Dhahran por la intensificación de los combates entre Arabia Saudí y los hutíes de Yemen, y se interceptó un misil balístico dirigido a Riad. El embajador de EE. UU. ante la ONU advirtió de que la guerra con Irán podría durar otro año, mientras Teherán amenazó con atacar instalaciones petroleras, cables submarinos y centros de datos del Golfo si vuelve a ser atacado.",
+        "en": "Saudi Aramco evacuated its remaining staff from its Dhahran headquarters as fighting between Saudi Arabia and Yemen's Houthis intensified, and a ballistic missile aimed at Riyadh was intercepted. Washington's UN ambassador warned that the wider war with Iran could last another year, while Tehran threatened to hit Gulf oil sites, undersea cables and data centres if attacked again."
+      },
+      "why_it_matters": {
+        "es": "Con Ormuz todavía alterado, cada nuevo ataque se traslada directamente a los precios del petróleo, el gas y la electricidad en Europa.",
+        "en": "With Hormuz still disrupted, every new strike feeds straight into oil, gas and electricity prices in Europe."
+      },
+      "source": {
+        "name": "Reuters / Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/oil-prices-rise-supply-concerns-052617190.html"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Serbia vota mañana tras una marcha de 150.000 personas contra Vučić",
+        "en": "Serbia votes tomorrow after 150,000 rally against Vučić"
+      },
+      "body": {
+        "es": "Unas 150.000 personas se sumaron en Belgrado a una marcha organizada por estudiantes en vísperas de las elecciones parlamentarias del domingo, a las que el movimiento estudiantil presenta 250 candidatos. Los observadores electorales han advertido del riesgo de violencia en torno a la votación.",
+        "en": "Around 150,000 people joined a student-led rally in Belgrade on the eve of Sunday's parliamentary election, in which the student movement is fielding 250 candidates. Election observers have warned of a risk of violence around the vote."
+      },
+      "why_it_matters": {
+        "es": "Es la mayor prueba electoral para Aleksandar Vučić en más de una década.",
+        "en": "It is the biggest electoral test for Aleksandar Vučić in more than a decade."
+      },
+      "source": {
+        "name": "The Japan Times",
+        "url": "https://www.japantimes.co.jp/news/2026/10/23/world/politics/serbia-poll-rally/"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "Netanyahu ordena preparar el cierre total de Cisjordania antes de las elecciones",
+        "en": "Netanyahu orders preparations for a full West Bank lockdown ahead of the election"
+      },
+      "body": {
+        "es": "El primer ministro israelí ordenó preparar un cierre completo de Cisjordania y la clausura de Hebrón después de que dos soldados murieran en un tiroteo junto a un asentamiento. Los israelíes votan el martes.",
+        "en": "Israel's prime minister ordered preparations for a complete lockdown of the West Bank and the closure of Hebron after two soldiers were killed in a shooting near a settlement. Israelis go to the polls on Tuesday."
+      },
+      "source": {
+        "name": "Havana Times",
+        "url": "https://havanatimes.org/news/international-news-briefs-for-friday-october-23-2026/"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Macron prohíbe las manifestaciones no convocadas por sindicatos",
+        "en": "Macron bans protests not organised by unions"
+      },
+      "body": {
+        "es": "Tras semanas de protestas estudiantiles, el presidente francés prohibió lo que llamó manifestaciones ilegítimas, de modo que este fin de semana solo podrán celebrarse las marchas convocadas por sindicatos. El ministro de Justicia informó de unas 2.700 detenciones, y el principal sindicato estudiantil condenó la orden.",
+        "en": "After weeks of student-led unrest, the French president banned what he called illegitimate demonstrations, so only union-called marches can go ahead this weekend. The justice minister reported some 2,700 arrests, and the main student union condemned the order."
+      },
+      "why_it_matters": {
+        "es": "La tensión en Francia es una de las razones por las que su coste de financiación está en máximos de 15 años.",
+        "en": "Unrest in France is one reason why its borrowing costs are at 15-year highs."
+      },
+      "source": {
+        "name": "Atalayar",
+        "url": "https://www.atalayar.com/en/articulo/gustavo-aristegui/gustavo-aristegui-geopolitical-analysis-of-23-october/20261023180000230061.html"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "La UE propone nuevas sanciones contra el refino de petróleo ruso",
+        "en": "EU proposes new sanctions on Russian oil refining"
+      },
+      "body": {
+        "es": "Bruselas propuso 31 nuevas inclusiones en su lista de sanciones dirigidas a la capacidad de Rusia para procesar, refinar y exportar petróleo, en parte como respuesta a un acuerdo de diésel entre EE. UU. y Moscú. Donald Trump aspira a cerrar un acuerdo de paz para Ucrania en la cumbre del G20 de mediados de diciembre.",
+        "en": "Brussels proposed 31 new listings targeting Russia's capacity to process, refine and export oil, partly in response to a US diesel deal with Moscow. Donald Trump is aiming to clinch a Ukraine peace deal at the G20 summit in mid-December."
+      },
+      "source": {
+        "name": "Atalayar",
+        "url": "https://www.atalayar.com/en/articulo/gustavo-aristegui/gustavo-aristegui-geopolitical-analysis-of-23-october/20261023180000230061.html"
+      }
+    },
+    {
+      "id": "mundo-6",
+      "section": "mundo",
+      "title": {
+        "es": "Las olas de calor del verano mataron a unas 50.000 personas en Europa",
+        "en": "Summer heatwaves killed around 50,000 people in Europe"
+      },
+      "body": {
+        "es": "Un estudio de 854 ciudades europeas calcula que las olas de calor de este verano causaron unas 50.000 muertes, dos tercios de ellas atribuibles al cambio climático. Como no incluye las zonas rurales, la cifra real probablemente sea mayor.",
+        "en": "A study of 854 European cities estimates that this summer's heatwaves caused about 50,000 deaths, two-thirds of them attributable to climate change. Because rural areas were left out, the real toll is probably higher."
+      },
+      "source": {
+        "name": "Havana Times",
+        "url": "https://havanatimes.org/news/international-news-briefs-for-friday-october-23-2026/"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "29N: los partidos apuran las listas, que se presentan el lunes",
+        "en": "29N: parties race to finalise their lists, due on Monday"
+      },
+      "body": {
+        "es": "Los partidos deben registrar sus listas para las elecciones generales del 29 de noviembre antes del lunes, y Feijóo presentará el domingo en Salamanca a sus cabezas de lista renovados. La mayoría de las encuestas, salvo el CIS, apuntan a una mayoría de PP y Vox, aunque un sondeo muestra al PSOE recortando distancia.",
+        "en": "Parties must file their candidate lists for the 29 November general election by Monday, and Feijóo will unveil his renewed list leaders in Salamanca on Sunday. Most polls, except the CIS, point to a PP–Vox majority, while one survey shows the PSOE narrowing the gap."
+      },
+      "source": {
+        "name": "Infobae",
+        "url": "https://www.infobae.com/espana/2026/10/23/elecciones-generales-en-espana-29-n-en-directo-ultima-hora-de-los-sondeos-los-debates-y-las-entrevistas-a-pedro-sanchez-y-feijoo/"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "Confirmado el cara a cara Sánchez–Feijóo el 16 de noviembre",
+        "en": "Sánchez–Feijóo head-to-head debate confirmed for 16 November"
+      },
+      "body": {
+        "es": "Los dos principales candidatos se medirán en un debate televisado en Mediaset el 16 de noviembre, mientras que un debate a cuatro sigue negociándose. Hay previsto un debate entre portavoces parlamentarios en TVE el 23 de noviembre.",
+        "en": "The two main candidates will face each other in a televised debate on Mediaset on 16 November, while a four-way debate is still being negotiated. A debate between parliamentary spokespeople is planned on TVE for 23 November."
+      },
+      "source": {
+        "name": "Infobae",
+        "url": "https://www.infobae.com/espana/2026/10/23/elecciones-generales-en-espana-29-n-en-directo-ultima-hora-de-los-sondeos-los-debates-y-las-entrevistas-a-pedro-sanchez-y-feijoo/"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "La Junta Electoral da parcialmente la razón al PP sobre el CIS",
+        "en": "Electoral Board partly upholds PP complaint over the CIS"
+      },
+      "body": {
+        "es": "La Junta Electoral Central concluyó que el CIS no informó a tiempo a los partidos sobre su barómetro de octubre, aunque no abrió expediente.",
+        "en": "The Central Electoral Board found that the state pollster failed to inform parties in time about its October survey, although it did not open proceedings."
+      },
+      "source": {
+        "name": "Atalayar",
+        "url": "https://www.atalayar.com/en/articulo/gustavo-aristegui/gustavo-aristegui-geopolitical-analysis-of-23-october/20261023180000230061.html"
+      }
+    },
+    {
+      "id": "espana-4",
+      "section": "espana",
+      "title": {
+        "es": "El Rey pide cuidar las formas democráticas en los Premios Princesa de Asturias",
+        "en": "The King calls for care of democratic norms at the Princess of Asturias Awards"
+      },
+      "body": {
+        "es": "En la ceremonia de los premios en Oviedo, Felipe VI afirmó que la democracia depende del respeto a sus instituciones y a las formas del debate político.",
+        "en": "At the awards ceremony in Oviedo, Felipe VI said democracy depends on respecting its institutions and the way political debate is conducted."
+      },
+      "source": {
+        "name": "Infobae",
+        "url": "https://www.infobae.com/espana/2026/10/23/elecciones-generales-en-espana-29-n-en-directo-ultima-hora-de-los-sondeos-los-debates-y-las-entrevistas-a-pedro-sanchez-y-feijoo/"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "BofA mejora su recomendación de Iberdrola gracias a las redes",
+        "en": "BofA upgrades Iberdrola on the back of its grid business"
+      },
+      "body": {
+        "es": "Bank of America mejoró su recomendación sobre Iberdrola al considerar alcanzable su objetivo de beneficio para 2030, porque el crecimiento procede sobre todo de las redes reguladas. El banco prevé que la base de activos regulados pase de unos 56.000 millones a más de 90.000 millones de euros en 2030, aunque advierte de riesgos como el próximo marco regulatorio británico y el coste de financiación.",
+        "en": "Bank of America upgraded Iberdrola, arguing that its 2030 profit target is achievable because growth now comes mainly from regulated networks. The bank expects the regulated asset base to grow from about €56 billion to more than €90 billion by 2030, while flagging risks such as the next UK price control and funding costs."
+      },
+      "why_it_matters": {
+        "es": "Es justo la lógica del control de inversiones en i-DE: la rentabilidad se obtiene sobre los activos que construyes, así que la disciplina en el CAPEX determina el beneficio.",
+        "en": "This is exactly the logic behind investment control at i-DE: returns are earned on the assets you build, so CAPEX discipline drives profit."
+      },
+      "source": {
+        "name": "Merca2",
+        "url": "https://www.merca2.es/2026/10/23/iberdrola-precio-objetivo-bofa-2030-2479404/"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "Iberdrola subirá su inversión en redes en España a unos 1.200 millones en 2027",
+        "en": "Iberdrola to lift Spanish grid investment to about €1.2 billion in 2027"
+      },
+      "body": {
+        "es": "Ignacio Sánchez Galán explicó a los analistas que la eliminación de los topes a la inversión en redes, fijados como porcentaje del PIB, y unos mejores incentivos de rentabilidad permitirán acelerar la inversión en distribución en España. También defendió los centros de datos como motor de crecimiento y pidió un mercado de capacidad para incorporar potencia firme y síncrona.",
+        "en": "Ignacio Sánchez Galán told analysts that removing the caps on grid investment, set as a share of GDP, and better return incentives will let the company speed up distribution spending in Spain. He also backed data centres as a growth driver and called for a capacity market to add firm, synchronous power."
+      },
+      "why_it_matters": {
+        "es": "Afecta directamente a los planes de inversión que seguirá tu departamento.",
+        "en": "It directly shapes the investment plans your department will be tracking."
+      },
+      "source": {
+        "name": "Capital",
+        "url": "https://capital.es/empresas/iberdrola-elevara-su-inversion-en-redes-en-espana-a-1-200-millones-de-euros-en-2027/228441/"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "El BOE publicó 1,78 GW de baterías en proyectos renovables en el tercer trimestre",
+        "en": "Spain's official gazette listed 1.78 GW of battery storage in Q3"
+      },
+      "body": {
+        "es": "Entre julio y septiembre, 27 proyectos renovables que incluyen 1,78 GW de almacenamiento con baterías salieron a información pública en el BOE. El almacenamiento está en auge porque la producción solar empuja cada vez más los precios de mediodía casi a cero.",
+        "en": "Between July and September, 27 renewable projects including 1.78 GW of battery storage were put out for public consultation in Spain's official gazette. Storage is booming as solar output increasingly pushes midday power prices close to zero."
+      },
+      "source": {
+        "name": "pv magazine España",
+        "url": "http://www.pv-magazine.es/2026/10/23/boe-anuncian-27-proyectos-renovables-con-178-gw-de-almacenamiento-bess-durante-el-tercer-trimestre-de-2026/"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "Wall Street encadena su segunda semana a la baja; la Fed decide el miércoles",
+        "en": "Wall Street posts a second losing week; the Fed decides on Wednesday"
+      },
+      "body": {
+        "es": "El S&P 500 y el Nasdaq cayeron por segunda semana consecutiva porque las ventas se extendieron más allá de la IA y el petróleo subió, mientras el Dow perdió más de 600 puntos el viernes. La rentabilidad del bono estadounidense a 10 años se mantuvo justo por debajo del 5%, y el mercado espera mayoritariamente que la Fed mantenga los tipos en su reunión del 28 de octubre.",
+        "en": "The S&P 500 and Nasdaq fell for a second straight week as selling spread beyond AI stocks and oil climbed, while the Dow slid more than 600 points on Friday. The 10-year Treasury yield hovered just below 5%, and markets broadly expect the Fed to hold rates at its 28 October meeting."
+      },
+      "source": {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "Repsol tira del IBEX, que aun así pierde un 1,74% en la semana",
+        "en": "Repsol lifts the IBEX, which still loses 1.74% on the week"
+      },
+      "body": {
+        "es": "El selectivo español subió un 0,40% el viernes, hasta 18.989,8 puntos, liderado por Repsol y otras energéticas, mientras IAG e Indra se quedaron atrás. En el conjunto de la semana, el petróleo caro y la tensión en torno a la deuda francesa pesaron sobre los mercados europeos.",
+        "en": "Spain's benchmark rose 0.40% on Friday to 18,989.8 points, led by Repsol and other energy stocks, while airline group IAG and Indra lagged. Over the week, expensive oil and tension around French debt weighed on European markets."
+      },
+      "source": {
+        "name": "PressDigital",
+        "url": "https://www.pressdigital.es/articulo/economia/2026-10-23/6063963-ibex-35-cede-174-semana-marcada-alza-petroleo-deuda-francesa"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "Francia: solo se permiten las marchas convocadas por sindicatos tras la prohibición de Macron; atención a posibles incidentes.",
+      "en": "France: only union-called marches are allowed after Macron's ban; watch for possible clashes."
+    },
+    {
+      "es": "Serbia, víspera electoral: jornada de reflexión antes de las parlamentarias de mañana.",
+      "en": "Serbia: final day before tomorrow's parliamentary election."
+    },
+    {
+      "es": "Golfo y mar Rojo: cualquier nuevo ataque durante el fin de semana marcará la apertura del petróleo el lunes.",
+      "en": "Gulf and Red Sea: any new attack over the weekend will set the tone for oil when markets open on Monday."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "reportedly",
+      "translation": "según se informa",
+      "pos": "adverb",
+      "example": "OpenAI is reportedly working on a new funding round."
+    },
+    {
+      "term": "funding round",
+      "translation": "ronda de financiación",
+      "pos": "noun",
+      "example": "The start-up closed its first funding round in May."
+    },
+    {
+      "term": "valuation",
+      "translation": "valoración",
+      "pos": "noun",
+      "example": "The deal implies a valuation of $1.25 trillion."
+    },
+    {
+      "term": "ahead of",
+      "translation": "antes de / de cara a",
+      "pos": "preposition",
+      "example": "Prices rose ahead of the election."
+    },
+    {
+      "term": "soaring",
+      "translation": "disparado",
+      "pos": "adjective",
+      "example": "Soaring energy costs hurt airlines."
+    },
+    {
+      "term": "capital spending",
+      "translation": "gasto de capital (CAPEX)",
+      "pos": "noun",
+      "example": "Capital spending on data centres keeps rising."
+    },
+    {
+      "term": "goes public",
+      "translation": "sale a bolsa",
+      "pos": "phrasal verb",
+      "example": "Investors are waiting to see when the firm goes public."
+    },
+    {
+      "term": "peer-reviewed",
+      "translation": "revisado por pares",
+      "pos": "adjective",
+      "example": "The results appeared in a peer-reviewed journal."
+    },
+    {
+      "term": "misbehaving",
+      "translation": "que se comportan mal",
+      "pos": "adjective",
+      "example": "Engineers built tools to catch misbehaving agents."
+    },
+    {
+      "term": "oversight",
+      "translation": "supervisión",
+      "pos": "noun",
+      "example": "The system needs stronger human oversight."
+    },
+    {
+      "term": "dismissed",
+      "translation": "despidió",
+      "pos": "verb",
+      "example": "The company dismissed three employees."
+    },
+    {
+      "term": "mishandling",
+      "translation": "gestionar mal",
+      "pos": "noun",
+      "example": "He was fired for mishandling confidential files."
+    },
+    {
+      "term": "uncovered",
+      "translation": "destapó / sacó a la luz",
+      "pos": "verb",
+      "example": "The audit uncovered several errors."
+    },
+    {
+      "term": "gone unnoticed",
+      "translation": "pasado desapercibido",
+      "pos": "phrase",
+      "example": "The bug had gone unnoticed for years."
+    },
+    {
+      "term": "feasible",
+      "translation": "viable",
+      "pos": "adjective",
+      "example": "Large-scale verification is now feasible."
+    },
+    {
+      "term": "at scale",
+      "translation": "a gran escala",
+      "pos": "phrase",
+      "example": "The technique has never been used at scale."
+    },
+    {
+      "term": "compromise",
+      "translation": "ataque / intrusión (seguridad)",
+      "pos": "noun",
+      "example": "The compromise exposed thousands of accounts."
+    },
+    {
+      "term": "scrambling",
+      "translation": "apresurándose",
+      "pos": "verb",
+      "example": "Banks are scrambling to adapt."
+    },
+    {
+      "term": "intensified",
+      "translation": "se intensificó",
+      "pos": "verb",
+      "example": "Fighting intensified overnight."
+    },
+    {
+      "term": "undersea cables",
+      "translation": "cables submarinos",
+      "pos": "noun",
+      "example": "Most internet traffic travels through undersea cables."
+    },
+    {
+      "term": "feeds straight into",
+      "translation": "se traslada directamente a",
+      "pos": "phrasal verb",
+      "example": "Gas prices feed straight into power bills."
+    },
+    {
+      "term": "on the eve of",
+      "translation": "en vísperas de",
+      "pos": "phrase",
+      "example": "Thousands marched on the eve of the vote."
+    },
+    {
+      "term": "fielding",
+      "translation": "presentando (candidatos)",
+      "pos": "verb",
+      "example": "The party is fielding candidates in every district."
+    },
+    {
+      "term": "lockdown",
+      "translation": "cierre / confinamiento",
+      "pos": "noun",
+      "example": "Authorities imposed a full lockdown."
+    },
+    {
+      "term": "unrest",
+      "translation": "disturbios / malestar social",
+      "pos": "noun",
+      "example": "Weeks of unrest have shaken the government."
+    },
+    {
+      "term": "borrowing costs",
+      "translation": "costes de financiación",
+      "pos": "noun",
+      "example": "Higher borrowing costs reduce investment."
+    },
+    {
+      "term": "clinch",
+      "translation": "cerrar / conseguir",
+      "pos": "verb",
+      "example": "They hope to clinch a deal by December."
+    },
+    {
+      "term": "toll",
+      "translation": "balance (de víctimas) / coste",
+      "pos": "noun",
+      "example": "The death toll is likely higher."
+    },
+    {
+      "term": "narrowing the gap",
+      "translation": "recortando distancia",
+      "pos": "phrase",
+      "example": "The challenger is narrowing the gap in the polls."
+    },
+    {
+      "term": "upgraded",
+      "translation": "mejoró (la recomendación)",
+      "pos": "verb",
+      "example": "The bank upgraded the stock to buy."
+    },
+    {
+      "term": "asset base",
+      "translation": "base de activos",
+      "pos": "noun",
+      "example": "A larger asset base means higher regulated returns."
+    },
+    {
+      "term": "flagging",
+      "translation": "advirtiendo de",
+      "pos": "verb",
+      "example": "Analysts are flagging regulatory risks."
+    },
+    {
+      "term": "price control",
+      "translation": "marco regulatorio de precios",
+      "pos": "noun",
+      "example": "The next UK price control starts in 2028."
+    },
+    {
+      "term": "caps",
+      "translation": "topes / límites",
+      "pos": "noun",
+      "example": "The government will remove the caps on investment."
+    },
+    {
+      "term": "growth driver",
+      "translation": "motor de crecimiento",
+      "pos": "noun",
+      "example": "Data centres are a growth driver for utilities."
+    },
+    {
+      "term": "booming",
+      "translation": "en auge",
+      "pos": "adjective",
+      "example": "Battery storage is booming in Spain."
+    },
+    {
+      "term": "benchmark",
+      "translation": "índice de referencia",
+      "pos": "noun",
+      "example": "The benchmark index rose 0.4%."
+    },
+    {
+      "term": "lagged",
+      "translation": "se quedaron atrás",
+      "pos": "verb",
+      "example": "Tech shares lagged the market."
+    },
+    {
+      "term": "weighed on",
+      "translation": "pesaron sobre",
+      "pos": "phrasal verb",
+      "example": "Higher rates weighed on bank shares."
+    },
+    {
+      "term": "hovered",
+      "translation": "se mantuvo en torno a",
+      "pos": "verb",
+      "example": "The yield hovered near 5%."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "OpenAI is reportedly working on a new funding round of around $30 billion that would value the company at roughly $1.25 trillion.",
+      "es": "OpenAI estaría preparando una nueva ronda de financiación de unos 30.000 millones de dólares que valoraría la empresa en torno a 1,25 billones."
+    },
+    {
+      "en": "The deal would come ahead of a potential stock market listing, as the company tries to fund its enormous computing needs.",
+      "es": "La operación llegaría antes de una posible salida a bolsa, mientras la compañía intenta financiar sus enormes necesidades de computación."
+    },
+    {
+      "en": "It lands in a nervous week for AI stocks, after investors punished Meta for its soaring capital spending.",
+      "es": "Llega en una semana nerviosa para las tecnológicas de IA, después de que los inversores castigaran a Meta por su gasto de capital disparado."
+    },
+    {
+      "en": "A valuation of this size would put OpenAI among the most valuable companies in the world before it even goes public.",
+      "es": "Una valoración así situaría a OpenAI entre las empresas más valiosas del mundo antes incluso de cotizar."
+    },
+    {
+      "en": "Microsoft has developed a diagnostic system that works through a case step by step, ordering tests and refining its hypothesis the way a doctor would.",
+      "es": "Microsoft ha desarrollado un sistema de diagnóstico que analiza cada caso paso a paso, pidiendo pruebas y afinando su hipótesis como lo haría un médico."
+    },
+    {
+      "en": "In a study published in the journal Science, it was more than twice as accurate as general physicians on complex cases.",
+      "es": "En un estudio publicado en la revista Science, acertó más del doble que los médicos generalistas en casos complejos."
+    },
+    {
+      "en": "Some experts point out that much of the gain may come from the underlying models rather than from Microsoft's own tooling.",
+      "es": "Algunos expertos señalan que buena parte de la mejora podría deberse a los modelos de base y no tanto a las herramientas propias de Microsoft."
+    },
+    {
+      "en": "Healthcare is becoming one of the first fields where AI is being tested against professionals in peer-reviewed research.",
+      "es": "La sanidad se está convirtiendo en uno de los primeros campos donde la IA se mide con profesionales en investigación revisada por pares."
+    },
+    {
+      "en": "The safety groups METR and Redwood Research spent three weeks inside OpenAI testing the tools it uses to detect misbehaving AI agents.",
+      "es": "Los grupos de seguridad METR y Redwood Research pasaron tres semanas dentro de OpenAI probando las herramientas que usa para detectar agentes de IA que se comportan mal."
+    },
+    {
+      "en": "They found several weaknesses, including one that could have allowed agents to hide hundreds of actions from oversight.",
+      "es": "Encontraron varias debilidades, entre ellas una que podría haber permitido a los agentes ocultar cientos de acciones a la supervisión."
+    },
+    {
+      "en": "Separately, OpenAI dismissed three safety researchers for mishandling sensitive information in private chats.",
+      "es": "Por otro lado, OpenAI despidió a tres investigadores de seguridad por gestionar mal información sensible en chats privados."
+    },
+    {
+      "en": "As agents get more autonomy, independent audits of how they are monitored are becoming a key part of AI safety.",
+      "es": "A medida que los agentes ganan autonomía, las auditorías independientes de cómo se vigilan se convierten en una pieza clave de la seguridad de la IA."
+    },
+    {
+      "en": "Anthropic says Claude was able to prove security properties across 123 open-source libraries using formal mathematical proofs.",
+      "es": "Anthropic afirma que Claude logró demostrar propiedades de seguridad en 123 librerías de código abierto mediante pruebas matemáticas formales."
+    },
+    {
+      "en": "The work uncovered bugs that had gone unnoticed for years, and the company argues language models make this kind of verification feasible at scale.",
+      "es": "El trabajo destapó errores que llevaban años sin detectarse, y la empresa sostiene que los modelos de lenguaje hacen viable este tipo de verificación a gran escala."
+    },
+    {
+      "en": "Anthropic is also donating its Agent Skills standard, already adopted by more than 70 platforms, to the Agentic AI Foundation.",
+      "es": "Anthropic también cede su estándar Agent Skills, ya adoptado por más de 70 plataformas, a la Agentic AI Foundation."
+    },
+    {
+      "en": "Microsoft said a group it tracks as Storm-0940 relied on an agentic penetration-testing tool during the compromise of ConnectWise, an IT management provider.",
+      "es": "Microsoft explicó que un grupo al que sigue como Storm-0940 se apoyó en una herramienta agéntica de pruebas de intrusión durante el ataque a ConnectWise, un proveedor de gestión informática."
+    },
+    {
+      "en": "The agents automated much of the attack and abused application credentials across Microsoft 365 environments.",
+      "es": "Los agentes automatizaron gran parte del ataque y abusaron de credenciales de aplicaciones en entornos de Microsoft 365."
+    },
+    {
+      "en": "Meanwhile, big banks are scrambling to control third-party AI agents that can access customer accounts.",
+      "es": "Mientras tanto, los grandes bancos se apresuran a controlar los agentes de IA de terceros que pueden acceder a las cuentas de sus clientes."
+    },
+    {
+      "en": "It is one of the clearest public cases of AI agents being used offensively, not just defensively.",
+      "es": "Es uno de los casos públicos más claros de agentes de IA usados para atacar, y no solo para defenderse."
+    },
+    {
+      "en": "Saudi Aramco evacuated its remaining staff from its Dhahran headquarters as fighting between Saudi Arabia and Yemen's Houthis intensified, and a ballistic missile aimed at Riyadh was intercepted.",
+      "es": "Saudi Aramco evacuó al personal que quedaba en su sede de Dhahran por la intensificación de los combates entre Arabia Saudí y los hutíes de Yemen, y se interceptó un misil balístico dirigido a Riad."
+    },
+    {
+      "en": "Washington's UN ambassador warned that the wider war with Iran could last another year, while Tehran threatened to hit Gulf oil sites, undersea cables and data centres if attacked again.",
+      "es": "El embajador de EE. UU. ante la ONU advirtió de que la guerra con Irán podría durar otro año, mientras Teherán amenazó con atacar instalaciones petroleras, cables submarinos y centros de datos del Golfo si vuelve a ser atacado."
+    },
+    {
+      "en": "With Hormuz still disrupted, every new strike feeds straight into oil, gas and electricity prices in Europe.",
+      "es": "Con Ormuz todavía alterado, cada nuevo ataque se traslada directamente a los precios del petróleo, el gas y la electricidad en Europa."
+    },
+    {
+      "en": "Around 150,000 people joined a student-led rally in Belgrade on the eve of Sunday's parliamentary election, in which the student movement is fielding 250 candidates.",
+      "es": "Unas 150.000 personas se sumaron en Belgrado a una marcha organizada por estudiantes en vísperas de las elecciones parlamentarias del domingo, a las que el movimiento estudiantil presenta 250 candidatos."
+    },
+    {
+      "en": "Election observers have warned of a risk of violence around the vote.",
+      "es": "Los observadores electorales han advertido del riesgo de violencia en torno a la votación."
+    },
+    {
+      "en": "It is the biggest electoral test for Aleksandar Vučić in more than a decade.",
+      "es": "Es la mayor prueba electoral para Aleksandar Vučić en más de una década."
+    },
+    {
+      "en": "Israel's prime minister ordered preparations for a complete lockdown of the West Bank and the closure of Hebron after two soldiers were killed in a shooting near a settlement.",
+      "es": "El primer ministro israelí ordenó preparar un cierre completo de Cisjordania y la clausura de Hebrón después de que dos soldados murieran en un tiroteo junto a un asentamiento."
+    },
+    {
+      "en": "Israelis go to the polls on Tuesday.",
+      "es": "Los israelíes votan el martes."
+    },
+    {
+      "en": "After weeks of student-led unrest, the French president banned what he called illegitimate demonstrations, so only union-called marches can go ahead this weekend.",
+      "es": "Tras semanas de protestas estudiantiles, el presidente francés prohibió lo que llamó manifestaciones ilegítimas, de modo que este fin de semana solo podrán celebrarse las marchas convocadas por sindicatos."
+    },
+    {
+      "en": "The justice minister reported some 2,700 arrests, and the main student union condemned the order.",
+      "es": "El ministro de Justicia informó de unas 2.700 detenciones, y el principal sindicato estudiantil condenó la orden."
+    },
+    {
+      "en": "Unrest in France is one reason why its borrowing costs are at 15-year highs.",
+      "es": "La tensión en Francia es una de las razones por las que su coste de financiación está en máximos de 15 años."
+    },
+    {
+      "en": "Brussels proposed 31 new listings targeting Russia's capacity to process, refine and export oil, partly in response to a US diesel deal with Moscow.",
+      "es": "Bruselas propuso 31 nuevas inclusiones en su lista de sanciones dirigidas a la capacidad de Rusia para procesar, refinar y exportar petróleo, en parte como respuesta a un acuerdo de diésel entre EE. UU. y Moscú."
+    },
+    {
+      "en": "Donald Trump is aiming to clinch a Ukraine peace deal at the G20 summit in mid-December.",
+      "es": "Donald Trump aspira a cerrar un acuerdo de paz para Ucrania en la cumbre del G20 de mediados de diciembre."
+    },
+    {
+      "en": "A study of 854 European cities estimates that this summer's heatwaves caused about 50,000 deaths, two-thirds of them attributable to climate change.",
+      "es": "Un estudio de 854 ciudades europeas calcula que las olas de calor de este verano causaron unas 50.000 muertes, dos tercios de ellas atribuibles al cambio climático."
+    },
+    {
+      "en": "Because rural areas were left out, the real toll is probably higher.",
+      "es": "Como no incluye las zonas rurales, la cifra real probablemente sea mayor."
+    },
+    {
+      "en": "Parties must file their candidate lists for the 29 November general election by Monday, and Feijóo will unveil his renewed list leaders in Salamanca on Sunday.",
+      "es": "Los partidos deben registrar sus listas para las elecciones generales del 29 de noviembre antes del lunes, y Feijóo presentará el domingo en Salamanca a sus cabezas de lista renovados."
+    },
+    {
+      "en": "Most polls, except the CIS, point to a PP–Vox majority, while one survey shows the PSOE narrowing the gap.",
+      "es": "La mayoría de las encuestas, salvo el CIS, apuntan a una mayoría de PP y Vox, aunque un sondeo muestra al PSOE recortando distancia."
+    },
+    {
+      "en": "The two main candidates will face each other in a televised debate on Mediaset on 16 November, while a four-way debate is still being negotiated.",
+      "es": "Los dos principales candidatos se medirán en un debate televisado en Mediaset el 16 de noviembre, mientras que un debate a cuatro sigue negociándose."
+    },
+    {
+      "en": "A debate between parliamentary spokespeople is planned on TVE for 23 November.",
+      "es": "Hay previsto un debate entre portavoces parlamentarios en TVE el 23 de noviembre."
+    },
+    {
+      "en": "The Central Electoral Board found that the state pollster failed to inform parties in time about its October survey, although it did not open proceedings.",
+      "es": "La Junta Electoral Central concluyó que el CIS no informó a tiempo a los partidos sobre su barómetro de octubre, aunque no abrió expediente."
+    },
+    {
+      "en": "At the awards ceremony in Oviedo, Felipe VI said democracy depends on respecting its institutions and the way political debate is conducted.",
+      "es": "En la ceremonia de los premios en Oviedo, Felipe VI afirmó que la democracia depende del respeto a sus instituciones y a las formas del debate político."
+    },
+    {
+      "en": "Bank of America upgraded Iberdrola, arguing that its 2030 profit target is achievable because growth now comes mainly from regulated networks.",
+      "es": "Bank of America mejoró su recomendación sobre Iberdrola al considerar alcanzable su objetivo de beneficio para 2030, porque el crecimiento procede sobre todo de las redes reguladas."
+    },
+    {
+      "en": "The bank expects the regulated asset base to grow from about €56 billion to more than €90 billion by 2030, while flagging risks such as the next UK price control and funding costs.",
+      "es": "El banco prevé que la base de activos regulados pase de unos 56.000 millones a más de 90.000 millones de euros en 2030, aunque advierte de riesgos como el próximo marco regulatorio británico y el coste de financiación."
+    },
+    {
+      "en": "This is exactly the logic behind investment control at i-DE: returns are earned on the assets you build, so CAPEX discipline drives profit.",
+      "es": "Es justo la lógica del control de inversiones en i-DE: la rentabilidad se obtiene sobre los activos que construyes, así que la disciplina en el CAPEX determina el beneficio."
+    },
+    {
+      "en": "Ignacio Sánchez Galán told analysts that removing the caps on grid investment, set as a share of GDP, and better return incentives will let the company speed up distribution spending in Spain.",
+      "es": "Ignacio Sánchez Galán explicó a los analistas que la eliminación de los topes a la inversión en redes, fijados como porcentaje del PIB, y unos mejores incentivos de rentabilidad permitirán acelerar la inversión en distribución en España."
+    },
+    {
+      "en": "He also backed data centres as a growth driver and called for a capacity market to add firm, synchronous power.",
+      "es": "También defendió los centros de datos como motor de crecimiento y pidió un mercado de capacidad para incorporar potencia firme y síncrona."
+    },
+    {
+      "en": "It directly shapes the investment plans your department will be tracking.",
+      "es": "Afecta directamente a los planes de inversión que seguirá tu departamento."
+    },
+    {
+      "en": "Between July and September, 27 renewable projects including 1.78 GW of battery storage were put out for public consultation in Spain's official gazette.",
+      "es": "Entre julio y septiembre, 27 proyectos renovables que incluyen 1,78 GW de almacenamiento con baterías salieron a información pública en el BOE."
+    },
+    {
+      "en": "Storage is booming as solar output increasingly pushes midday power prices close to zero.",
+      "es": "El almacenamiento está en auge porque la producción solar empuja cada vez más los precios de mediodía casi a cero."
+    },
+    {
+      "en": "The S&P 500 and Nasdaq fell for a second straight week as selling spread beyond AI stocks and oil climbed, while the Dow slid more than 600 points on Friday.",
+      "es": "El S&P 500 y el Nasdaq cayeron por segunda semana consecutiva porque las ventas se extendieron más allá de la IA y el petróleo subió, mientras el Dow perdió más de 600 puntos el viernes."
+    },
+    {
+      "en": "The 10-year Treasury yield hovered just below 5%, and markets broadly expect the Fed to hold rates at its 28 October meeting.",
+      "es": "La rentabilidad del bono estadounidense a 10 años se mantuvo justo por debajo del 5%, y el mercado espera mayoritariamente que la Fed mantenga los tipos en su reunión del 28 de octubre."
+    },
+    {
+      "en": "Spain's benchmark rose 0.40% on Friday to 18,989.8 points, led by Repsol and other energy stocks, while airline group IAG and Indra lagged.",
+      "es": "El selectivo español subió un 0,40% el viernes, hasta 18.989,8 puntos, liderado por Repsol y otras energéticas, mientras IAG e Indra se quedaron atrás."
+    },
+    {
+      "en": "Over the week, expensive oil and tension around French debt weighed on European markets.",
+      "es": "En el conjunto de la semana, el petróleo caro y la tensión en torno a la deuda francesa pesaron sobre los mercados europeos."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "risk premium",
+    "pos": "noun",
+    "translation": "prima de riesgo",
+    "definition_en": "The extra return investors demand for holding a riskier asset instead of a safer one; in oil, the part of the price that reflects fear of supply disruption.",
+    "example_en": "Analysts say a geopolitical risk premium will stay in oil prices even if the Gulf calms down.",
+    "example_es": "Los analistas dicen que la prima de riesgo geopolítico seguirá en el precio del petróleo aunque el Golfo se calme."
+  },
+  "recommendations": [
+    {
+      "id": "verge-decoder-bill-gates-ai-2026",
+      "type": "podcast",
+      "title": "Bill Gates on AI, risk and regulation",
+      "speaker": "Bill Gates",
+      "outlet": "The Verge",
+      "duration_min": 60,
+      "language": "en",
+      "topics": [
+        "IA",
+        "política",
+        "tecnología"
+      ],
+      "summary": "Bill Gates repasa el momento de la IA, su relación con Microsoft, OpenAI y Anthropic y los riesgos de seguridad. Avisa de que incluso una transición favorable traerá dos décadas turbulentas.",
+      "why": "Una visión de largo plazo de alguien que ha vivido todas las grandes olas tecnológicas; buen inglés hablado y claro.",
+      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation"
+    },
+    {
+      "id": "fortune-pge-patti-poppe-ai-grid",
+      "type": "article",
+      "title": "PG&E's CEO says AI is 'the best thing that could've ever happened to the grid'",
+      "speaker": "Patti Poppe",
+      "outlet": "Fortune",
+      "duration_min": 6,
+      "language": "en",
+      "topics": [
+        "energía",
+        "redes",
+        "IA"
+      ],
+      "summary": "La consejera delegada de la eléctrica californiana PG&E sostiene que el auge de la demanda eléctrica de la IA es la mejor noticia posible para la red y explica por qué lo ve como una oportunidad para las distribuidoras.",
+      "why": "El mismo debate que Galán plantea en España: centros de datos como motor de inversión en redes.",
+      "url": "https://fortune.com/2026/10/23/pge-patti-poppe-ai-best-thing-for-grid/"
+    },
+    {
+      "id": "anthropic-research-formal-verification",
+      "type": "article",
+      "title": "Formal verification with Claude",
+      "speaker": "Equipo de investigación de Anthropic",
+      "outlet": "Anthropic",
+      "duration_min": 15,
+      "language": "en",
+      "topics": [
+        "IA",
+        "software",
+        "investigación"
+      ],
+      "summary": "Anthropic explica cómo Claude demostró propiedades de seguridad en 123 librerías de código abierto con pruebas matemáticas y encontró errores antiguos.",
+      "why": "Para un ingeniero, muestra un uso de la IA más riguroso que el simple chat: verificar, no solo generar.",
+      "url": "https://www.anthropic.com/research/formal-verification"
+    },
+    {
+      "id": "techcrunch-suleyman-medical-superintelligence",
+      "type": "article",
+      "title": "Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases",
+      "speaker": "Mustafa Suleyman",
+      "outlet": "TechCrunch",
+      "duration_min": 6,
+      "language": "en",
+      "topics": [
+        "IA",
+        "salud",
+        "Microsoft"
+      ],
+      "summary": "El jefe de IA de Microsoft presenta su sistema de diagnóstico secuencial y su ambición de una 'superinteligencia médica', con matices de expertos externos.",
+      "why": "Complementa la noticia del día con la visión del propio líder y una lectura crítica.",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+    },
+    {
+      "id": "elcano-conversaciones-espana-mundo-2026",
+      "type": "podcast",
+      "title": "Conversaciones Elcano: España en el mundo en 2026",
+      "speaker": "Investigadores del Real Instituto Elcano",
+      "outlet": "Real Instituto Elcano",
+      "duration_min": 30,
+      "language": "es",
+      "topics": [
+        "política",
+        "geopolítica",
+        "España"
+      ],
+      "summary": "Episodio del podcast del Real Instituto Elcano dedicado al papel internacional de España en 2026 y a los grandes asuntos de su política exterior.",
+      "why": "Contexto sereno y riguroso para entender la actualidad internacional española en plena precampaña.",
+      "url": "https://www.realinstitutoelcano.org/podcast/conversaciones-elcanoespana-en-el-mundo-en-2026-6x08/"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Viernes mixto con sabor amargo de semana. En EE. UU., el Dow cayó un 1,23%, el S&P 500 un 0,52% y el Nasdaq un 0,21%: tras el castigo a Meta el jueves, la preocupación por el coste de financiar el gasto en IA se extendió a otros sectores, y el petróleo caro golpeó a las aerolíneas. El Brent subió cerca de un 3%, hasta unos 116 dólares, por los ataques hutíes contra Arabia Saudí y el bloqueo de Ormuz. En Europa, el IBEX rebotó un 0,40% gracias a Repsol, pero cedió un 1,74% en la semana; el Euro Stoxx 50 bajó un 0,31% y el DAX un 0,75%. El oro cayó por debajo de 4.010 dólares y el bitcoin rondó los 81.000. Analistas de XTB creen que el crudo no cambia de momento las expectativas de tipos, aunque avisan de más inflación si el conflicto se alarga; el mercado espera que la Fed mantenga tipos el día 28.",
+      "en": "A mixed Friday capped a sour week. In the US, the Dow fell 1.23%, the S&P 500 0.52% and the Nasdaq 0.21%: after Thursday's punishment of Meta, worries about the cost of funding AI spending spread to other sectors, and expensive oil hit airlines. Brent rose nearly 3% to about $116 on Houthi attacks against Saudi Arabia and the blockade of Hormuz. In Europe, the IBEX bounced 0.40% thanks to Repsol but lost 1.74% on the week; the Euro Stoxx 50 slipped 0.31% and the DAX 0.75%. Gold fell below $4,010 and bitcoin hovered around $81,000. XTB analysts think crude has not yet changed rate expectations, but warn of higher inflation if the conflict drags on; markets expect the Fed to hold rates on the 28th."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35",
+        "value": 18989.8,
+        "change_pct": 0.4
+      },
+      {
+        "name": "S&P 500",
+        "value": 7623.68,
+        "change_pct": -0.52
+      },
+      {
+        "name": "Nasdaq",
+        "value": 25955.34,
+        "change_pct": -0.21
+      },
+      {
+        "name": "Dow Jones",
+        "value": 52215.16,
+        "change_pct": -1.23
+      },
+      {
+        "name": "EUR/USD",
+        "value": 1.1199,
+        "change_pct": -0.15
+      },
+      {
+        "name": "Brent ($/barril)",
+        "value": 116.3,
+        "change_pct": 2.77
+      },
+      {
+        "name": "Oro ($/oz)",
+        "value": 4007.9,
+        "change_pct": -1.29
+      },
+      {
+        "name": "Bitcoin ($)",
+        "value": 80814,
+        "change_pct": -0.81
+      }
+    ],
+    "learn": {
+      "concept": "RAB (base de activos regulados)",
+      "explanation": "La RAB (Regulated Asset Base) es el valor de los activos de una empresa regulada —líneas, subestaciones, centros de transformación— que el regulador reconoce para calcular su retribución. Simplificando: retribución ≈ RAB × tasa de retribución (el 'WACC regulado') + amortización + costes de operación reconocidos. La RAB crece con cada euro de inversión aprobada (CAPEX) y baja con la amortización. Por eso BofA mira cómo pasa la de Iberdrola de 56.000 a más de 90.000 millones en 2030: más RAB significa más beneficio regulado y estable. En España, la CNMC fija la tasa de retribución financiera de la distribución y el valor de los activos de i-DE; tu trabajo en control de inversiones influye directamente en qué entra en esa base."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
