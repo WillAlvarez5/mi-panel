@@ -1,0 +1,951 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T07:06:56+01:00",
+  "last_updated": "2026-10-28T07:06:56+01:00",
+  "headline": {
+    "es": "Israel queda sin ganador claro: el Likud de Netanyahu sería la lista más votada, pero el bloque opositor suma más; hoy decide la Fed y presentan resultados Microsoft y Alphabet, y en España el paro vuelve a superar el 10%.",
+    "en": "Israel's election produced no clear winner: Netanyahu's Likud looks set to be the largest party, but the opposition bloc has more seats; the Fed decides today as Microsoft and Alphabet report, and Spain's unemployment is back above 10%."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic compra una biotecnológica de una sola persona y presume de avances en fármacos con Claude",
+        "en": "Anthropic buys a one-person biotech and touts drug-discovery progress with Claude"
+      },
+      "body": {
+        "es": "Anthropic ha comprado Mithril Medicine, una startup de enfermedades raras con un solo empleado, y asegura que Claude coordinó el trabajo de 11 laboratorios externos en un posible tratamiento contra la distrofia muscular. El compuesto ha dado resultados prometedores en ratones y los ensayos en humanos podrían empezar a finales de 2028. La empresa también anunció alianzas con Bristol Myers Squibb y varias compañías de descubrimiento de fármacos.",
+        "en": "Anthropic has acquired Mithril Medicine, a rare-disease startup with a single employee, and says Claude coordinated the work of 11 outside labs on a candidate treatment for muscular dystrophy. The compound showed promising results in mice, and human trials could start by late 2028. The company also announced partnerships with Bristol Myers Squibb and several drug-discovery firms."
+      },
+      "why_it_matters": {
+        "es": "Es una apuesta muy visible a que los agentes de IA pueden dirigir proyectos científicos reales y no solo responder preguntas, justo cuando Anthropic se presenta ante los inversores de su salida a bolsa.",
+        "en": "It is a high-profile bet that AI agents can run real scientific projects, not just answer questions, just as Anthropic pitches itself to IPO investors."
+      },
+      "source": {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/research/early-progress-drug-development"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "OpenAI comprará chips de Google y lleva ChatGPT a los productos de Oracle",
+        "en": "OpenAI to buy Google chips as ChatGPT comes to Oracle's products"
+      },
+      "body": {
+        "es": "OpenAI, desde hace años uno de los mayores clientes de Nvidia, planea comprar los chips TPU de Google, según The Information, y ya está contratando ingenieros para optimizar sus modelos para ellos. Por otro lado, en la conferencia AI World de Oracle, Sam Altman y el codirector ejecutivo de Oracle, Clay Magouyrk, anunciaron que ChatGPT y Codex se integrarán en el software empresarial de Oracle. La nube de Oracle ofrecerá además TPU de Google, el chip de inferencia propio de OpenAI y sistemas de Cerebras.",
+        "en": "OpenAI, long one of Nvidia's biggest customers, plans to buy Google's TPU chips, according to The Information, and is already hiring engineers to optimise its models for them. Separately, at Oracle's AI World conference, Sam Altman and Oracle co-CEO Clay Magouyrk announced that ChatGPT and Codex will be built into Oracle's business software. Oracle's cloud will also offer Google TPUs, OpenAI's own inference chip and Cerebras systems."
+      },
+      "why_it_matters": {
+        "es": "Los laboratorios de IA están repartiendo sus apuestas entre varios proveedores de chips para reducir costes y su dependencia de Nvidia.",
+        "en": "AI labs are spreading their bets across chip suppliers to cut costs and reduce their dependence on Nvidia."
+      },
+      "source": {
+        "name": "The Information",
+        "url": "https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "SK Hynix multiplica por siete su beneficio gracias a la memoria para IA",
+        "en": "SK Hynix's profit soars more than sevenfold on AI memory demand"
+      },
+      "body": {
+        "es": "La surcoreana SK Hynix, proveedora clave de memoria de alto ancho de banda para los chips de IA de Nvidia, ingresó unos 104,6 billones de wones (unos 79.000 millones de dólares) en el tercer trimestre, más del cuádruple que hace un año y por encima de lo previsto. El beneficio operativo se disparó un 632% interanual, hasta unos 83,3 billones de wones. La fuerte subida de los precios de la memoria explica el salto.",
+        "en": "South Korea's SK Hynix, a key supplier of high-bandwidth memory for Nvidia's AI chips, reported third-quarter revenue of about 104.6 trillion won (roughly $79 billion), more than four times last year's figure and above forecasts. Operating profit jumped 632% year on year to about 83.3 trillion won. Soaring memory prices are behind the surge."
+      },
+      "why_it_matters": {
+        "es": "La memoria se ha convertido en uno de los mayores cuellos de botella del despliegue de la IA, y sus fabricantes se están quedando con una parte enorme del gasto.",
+        "en": "Memory has become one of the tightest bottlenecks in the AI build-out, and its makers are capturing a huge share of the spending."
+      },
+      "source": {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "Google DeepMind presenta Genie 4, un simulador de mundos interactivos con sonido y diálogo",
+        "en": "Google DeepMind unveils Genie 4, an interactive world simulator with sound and dialogue"
+      },
+      "body": {
+        "es": "Google DeepMind ha presentado Genie 4, un «modelo del mundo» que genera escenas 3D explorables en tiempo real, ahora con audio y diálogo hablado. Un modelo Gemini actúa como agente dentro de la simulación. Por ahora solo está disponible como versión preliminar de investigación para un grupo de probadores de confianza.",
+        "en": "Google DeepMind has released Genie 4, a 'world model' that generates explorable 3D scenes in real time, now with audio and spoken dialogue. A Gemini model acts as an agent inside the simulation. For now it is only available as a research preview to a group of trusted testers."
+      },
+      "why_it_matters": {
+        "es": "Los modelos del mundo se consideran una vía para entrenar robots y agentes de IA en entornos simulados antes de que actúen en el mundo real.",
+        "en": "World models are seen as a way to train robots and AI agents in simulated environments before they act in the real world."
+      },
+      "source": {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "La FTC exige declaraciones bajo juramento a directivos de Anthropic",
+        "en": "FTC demands sworn testimony from Anthropic executives"
+      },
+      "body": {
+        "es": "La Comisión Federal de Comercio de EE. UU. (FTC) ha endurecido su investigación sobre los daños de la IA a los consumidores al exigir declaraciones bajo juramento a directivos de Anthropic, según Axios. Otras empresas de IA están recibiendo requerimientos similares. Mientras tanto, una familia ha demandado a OpenAI en San Francisco al alegar que ChatGPT dio consejos mortales sobre cómo reducir un medicamento para la epilepsia.",
+        "en": "The US Federal Trade Commission has stepped up its investigation into consumer harm from AI by demanding sworn testimony from Anthropic executives, Axios reports. Similar demands are going to other AI companies. Meanwhile, a family has sued OpenAI in San Francisco, alleging that ChatGPT gave fatal advice on tapering an epilepsy drug."
+      },
+      "why_it_matters": {
+        "es": "La presión regulatoria y judicial sobre las empresas de IA aumenta justo cuando Anthropic se prepara para salir a bolsa.",
+        "en": "Regulatory and legal pressure on AI firms is building just as Anthropic prepares to go public."
+      },
+      "source": {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "Microsoft ofrece bajas voluntarias a unos 60.000 empleados",
+        "en": "Microsoft offers voluntary buyouts to around 60,000 staff"
+      },
+      "body": {
+        "es": "Microsoft ofrece bajas voluntarias incentivadas a unos 60.000 empleados de nivel vicepresidente o inferior en determinados equipos de EE. UU., Canadá, la India y Reino Unido, según varias informaciones. Quedan excluidos los puestos de centros de datos, ventas y marketing, y quienes acepten saldrán el 31 de diciembre.",
+        "en": "Microsoft is offering buyouts to roughly 60,000 employees at vice-president level and below on selected teams in the US, Canada, India and the UK, according to reports. Data-centre, sales and marketing roles are excluded, and those who accept will leave on 31 December."
+      },
+      "why_it_matters": {
+        "es": "Las grandes tecnológicas recortan plantilla mientras invierten cifras récord en infraestructura de IA; Microsoft presenta resultados hoy.",
+        "en": "Big Tech is trimming payrolls while pouring record sums into AI infrastructure; Microsoft reports results today."
+      },
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Israel: los sondeos dan a Netanyahu la mayor lista, pero sin camino claro para gobernar",
+        "en": "Israel exit polls: Netanyahu's party leads but his path to power is unclear"
+      },
+      "body": {
+        "es": "Los sondeos a pie de urna dan al Likud de Netanyahu unos 25 de los 120 escaños de la Knesset, por delante del nuevo partido Yashar de Gadi Eisenkot, con 21 a 23. Sin embargo, el bloque contrario a Netanyahu sigue apareciendo unos escaños por delante, y los partidos de extrema derecha de Ben-Gvir y Smotrich salen debilitados, con unos seis escaños cada uno.",
+        "en": "Exit polls give Netanyahu's Likud about 25 of the Knesset's 120 seats, ahead of Gadi Eisenkot's new Yashar party with 21 to 23. However, the anti-Netanyahu bloc still appears to be a few seats ahead, and the far-right parties of Ben-Gvir and Smotrich look weaker, with about six seats each."
+      },
+      "why_it_matters": {
+        "es": "Para formar gobierno hacen falta 61 escaños, así que las negociaciones podrían alargarse semanas, y los partidos árabes podrían tener la llave.",
+        "en": "Forming a government needs 61 seats, so coalition talks could drag on for weeks, with Arab parties possibly holding the balance."
+      },
+      "source": {
+        "name": "ABC News (Australia)",
+        "url": "https://www.abc.net.au/news/2026-10-28/israel-election-blog-october-28/107259780"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Arranca un alto el fuego local en Oleshky, en el sur de Ucrania",
+        "en": "A local ceasefire takes hold in Oleshky, southern Ukraine"
+      },
+      "body": {
+        "es": "Una tregua limitada se mantiene en la localidad ocupada por Rusia de Oleshky, en la región de Jersón, para dejar entrar ayuda y evacuar a civiles; se negoció con la participación de la primera dama de EE. UU., Melania Trump. Un ataque ruso contra infraestructuras de Kiev ese mismo día dejó claro que la pausa es estrictamente local.",
+        "en": "A limited truce is holding in the Russian-occupied town of Oleshky, in the Kherson region, so that aid can get in and civilians can be evacuated; it was brokered with the involvement of US First Lady Melania Trump. A Russian strike on Kyiv's infrastructure the same day showed that the pause is strictly local."
+      },
+      "why_it_matters": {
+        "es": "Los líderes de Finlandia y Noruega también hablaron con Putin y Zelenski antes de unas reuniones previstas en Abu Dabi, señal de un nuevo impulso diplomático.",
+        "en": "The leaders of Finland and Norway also spoke to Putin and Zelensky ahead of planned talks in Abu Dhabi, a sign of renewed diplomacy."
+      },
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/russia-ukraine-begin-localised-ceasefire-allow-humanitarian-operation-oleshky-2026-10-27/"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "Los hutíes lanzan misiles contra Arabia Saudí y Egipto autoriza ayuda militar a Riad",
+        "en": "Houthis fire missiles at Saudi Arabia as Egypt authorises military support"
+      },
+      "body": {
+        "es": "La coalición liderada por Arabia Saudí afirmó haber interceptado misiles balísticos y drones lanzados por los hutíes de Yemen contra el reino. Después, el Parlamento egipcio votó a favor de que el presidente al Sisi envíe apoyo militar a Arabia Saudí, mientras sigue el bloqueo estadounidense del estrecho de Ormuz y las conversaciones con Irán siguen estancadas.",
+        "en": "The Saudi-led coalition said it intercepted ballistic missiles and drones fired by Yemen's Houthis at the kingdom. Egypt's parliament then voted to let President el-Sisi send military support to Saudi Arabia, while the US blockade of the Strait of Hormuz continues and talks with Iran remain stalled."
+      },
+      "why_it_matters": {
+        "es": "Cualquier escalada en el Golfo afecta directamente al precio del petróleo, con el Brent todavía por encima de 110 dólares.",
+        "en": "Any escalation in the Gulf directly affects oil prices, with Brent still above $110."
+      },
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepted-houthi-missiles-drones-attacking-kingdom-2026-10-27/"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "La ONU califica los ataques rusos a la red eléctrica ucraniana de crimen contra la humanidad",
+        "en": "UN inquiry calls Russia's strikes on Ukraine's power grid a crime against humanity"
+      },
+      "body": {
+        "es": "Una comisión de la ONU concluyó que los bombardeos rusos contra la infraestructura energética de Ucrania buscan dañar a la población civil y constituyen un crimen contra la humanidad. Otro panel de la ONU afirmó que Israel ha cometido actos genocidas en Gaza pese al alto el fuego, una conclusión que Israel rechazó de plano.",
+        "en": "A UN commission concluded that Russia's bombing of Ukraine's energy infrastructure is designed to harm civilians and amounts to a crime against humanity. Another UN panel said Israel had committed genocidal acts in Gaza despite the ceasefire, a finding Israel rejected outright."
+      },
+      "source": {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Brasil: el Supremo retira el pasaporte a Flávio Bolsonaro tras la victoria de Lula",
+        "en": "Brazil's top court seizes Flávio Bolsonaro's passports after Lula's win"
+      },
+      "body": {
+        "es": "Dos días después de la reelección de Lula, el Supremo de Brasil ordenó retirar los pasaportes a Flávio Bolsonaro dentro de una investigación por blanqueo de capitales. El partido de Bolsonaro ha aceptado el resultado, pero Donald Trump calificó la votación de «amañada», aunque dijo que se lleva bien con Lula.",
+        "en": "Two days after Lula won re-election, Brazil's Supreme Court ordered the passports of Flávio Bolsonaro seized as part of a money-laundering probe. Bolsonaro's party has accepted the result, but Donald Trump called the vote 'rigged' while saying he gets along with Lula."
+      },
+      "source": {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html"
+      }
+    },
+    {
+      "id": "mundo-6",
+      "section": "mundo",
+      "title": {
+        "es": "EE. UU. y Canadá negocian rebajar los aranceles al acero y los coches",
+        "en": "US and Canada work on a deal to ease steel and car tariffs"
+      },
+      "body": {
+        "es": "Canadá y Estados Unidos trabajan en un acuerdo para suavizar los aranceles estadounidenses al acero y los automóviles, según varias fuentes, y el primer ministro Carney dijo que las conversaciones se han acelerado un poco.",
+        "en": "Canada and the United States are working on a deal to ease US tariffs on steel and cars, according to sources, and Prime Minister Carney said talks have picked up slightly."
+      },
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/us-canada-working-deal-ease-steel-auto-tariffs-sources-say-2026-10-26/"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "El paro vuelve a superar el 10% tras sumar 95.900 personas en verano",
+        "en": "Spain's unemployment rate climbs back above 10%"
+      },
+      "body": {
+        "es": "La tasa de paro en España subió al 10,18% en el tercer trimestre, con 95.900 parados más, el mayor aumento en un verano desde 2020. Aun así, el empleo marcó un récord de casi 22,9 millones, pero la creación de puestos fue la más débil de un tercer trimestre desde 2019, y la Comunidad de Madrid fue la que más empleo perdió, unos 49.200.",
+        "en": "Spain's unemployment rate rose to 10.18% in the third quarter, as the number of jobless people increased by 95,900, the biggest summer rise since 2020. Employment still hit a record of almost 22.9 million, but job creation was the weakest for a third quarter since 2019, and the Madrid region lost the most jobs, about 49,200."
+      },
+      "why_it_matters": {
+        "es": "El sector privado destruyó empleo mientras crecía el público, una combinación que alimentará el debate de cara a las elecciones.",
+        "en": "The private sector shed jobs while public employment grew, a mix that will feed the debate ahead of the elections."
+      },
+      "source": {
+        "name": "Qué!",
+        "url": "https://www.que.es/2026/10/27/epa-tercer-trimestre-2026-paro/"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "El Gobierno suaviza el decreto de centros de datos: más plazo para las renovables a cambio de desconexiones",
+        "en": "Spain softens its data-centre decree: more time on renewables in exchange for disconnections"
+      },
+      "body": {
+        "es": "El Gobierno ha suavizado su borrador para los centros de datos: en lugar de un 80% de suministro renovable hora a hora desde el primer día, podrán optar por una transición de hasta cinco años que empieza con un 60% en horas punta. A cambio, esos centros deberán unirse al sistema de reducción automática de potencia de Red Eléctrica y podrán ser los primeros en desconectarse, sin compensación, cuando la red esté congestionada. El Gobierno asegura que ya se han concedido 12 GW de acceso a la red, aunque el sector solo considera viables entre 2 y 4 GW.",
+        "en": "The government has relaxed its draft rules for data centres: instead of 80% hourly renewable supply from day one, they can opt for a transition of up to five years, starting at 60% during peak hours. In return, those centres must join Red Eléctrica's automatic power-reduction scheme and can be disconnected first, without compensation, when the grid is congested. The government says 12 GW of grid access has already been granted, though the industry considers only 2 to 4 GW viable."
+      },
+      "why_it_matters": {
+        "es": "La demanda de los centros de datos está cambiando la planificación de redes, y reglas de flexibilidad como estas influyen directamente en cuánta capacidad de distribución nueva deben construir empresas como i-DE.",
+        "en": "Data-centre demand is reshaping grid planning, and flexibility rules like these directly affect how much new distribution capacity companies like i-DE must build."
+      },
+      "source": {
+        "name": "elDiario.es",
+        "url": "https://www.eldiario.es/economia/gobierno-suaviza-exigencia-renovables-centros-datos-cambio-aceptar-desconexiones_1_13610844.html"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "La CNMC autoriza a Iberdrola a comprar Contigo Energía y sus 100.000 clientes",
+        "en": "Spain's competition watchdog clears Iberdrola's purchase of Contigo Energía"
+      },
+      "body": {
+        "es": "La CNMC ha aprobado, sin condiciones, la compra por Iberdrola del negocio de comercialización eléctrica de Contigo Energía, que aporta unos 100.000 clientes. Es la primera adquisición de una comercializadora que hace Iberdrola en España, y la marca seguirá operando de forma independiente dentro del grupo.",
+        "en": "The CNMC has approved, without conditions, Iberdrola's purchase of the electricity retail business of Contigo Energía, which brings around 100,000 customers. It is Iberdrola's first acquisition of a retailer in Spain, and the brand will keep operating independently within the group."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/la-cnmc-da-luz-verde-a-la-compra-de-contigo-energia-por-iberdrola-que-sumara-una-cartera-de-100-000-clientes"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "Iberdrola coloca 1.600 millones de dólares en bonos verdes con una demanda de más de 5.000 millones",
+        "en": "Iberdrola raises $1.6 billion in green bonds, with orders above $5 billion"
+      },
+      "body": {
+        "es": "Iberdrola ha emitido 1.600 millones de dólares (unos 1.430 millones de euros) en bonos verdes en dólares, y la demanda de los inversores superó los 5.000 millones, más del triple de lo ofrecido.",
+        "en": "Iberdrola has issued $1.6 billion (about €1.43 billion) of green bonds in dollars, and investor demand topped $5 billion, more than three times the amount on offer."
+      },
+      "why_it_matters": {
+        "es": "Una demanda tan fuerte mantiene bajo el coste de financiación del plan de inversión en redes y renovables de la eléctrica.",
+        "en": "Strong demand keeps the cost of financing low for the utility's grid and renewables investment plan."
+      },
+      "source": {
+        "name": "Diario Siglo XXI / Europa Press",
+        "url": "https://www.diariosigloxxi.com/texto-ep/mostrar/20261027180119/ibex-35-avanza-067-situa-191606-puntos-cierre-sesion"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "Los chips tiran del Nasdaq mientras Boeing frena al Dow antes de la Fed",
+        "en": "Chip stocks lift the Nasdaq as Boeing drags on the Dow ahead of the Fed"
+      },
+      "body": {
+        "es": "El Nasdaq ganó un 1,2% y el S&P 500 un 0,6% el martes, mientras el índice de semiconductores de Filadelfia subía un 3,6% tras conocerse un acuerdo de financiación de 63.000 millones de dólares de Broadcom para las compras de chips de Anthropic. El Dow apenas se movió porque Boeing se hundió casi un 11% tras anticipar un ritmo de producción más lento del 737 Max.",
+        "en": "The Nasdaq gained 1.2% and the S&P 500 0.6% on Tuesday, as the Philadelphia semiconductor index jumped 3.6% on reports of a $63 billion Broadcom financing deal for Anthropic's chip purchases. The Dow barely moved because Boeing sank almost 11% after signalling slower 737 Max production."
+      },
+      "why_it_matters": {
+        "es": "Los mercados esperan que la Fed mantenga hoy los tipos en el 3,75%-4%, con solo una pequeña probabilidad de subida.",
+        "en": "Markets expect the Fed to hold rates at 3.75%-4% today, with only a small chance of a hike."
+      },
+      "source": {
+        "name": "HDFC Sky",
+        "url": "https://hdfcsky.com/news/nasdaq-jumps-1-2percent-as-chip-stocks-rally-oil-slides-and-fed-meeting-begins-october-28-2026"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "Solaria y Ferrovial disparan al IBEX; Repsol cae con el petróleo",
+        "en": "Solaria and Ferrovial power the IBEX higher while Repsol falls with oil"
+      },
+      "body": {
+        "es": "El IBEX 35 subió un 0,67%, hasta 19.160,6 puntos, su tercera subida seguida, liderado por Solaria, que ganó un 9,6% tras la suavización de las normas para centros de datos, y Ferrovial, con un 8,4% tras aclarar la financiación de una autopista en EE. UU. Repsol cayó un 3,3% por la bajada del crudo y tras poner fin antes de tiempo a su recompra de acciones.",
+        "en": "The IBEX 35 rose 0.67% to 19,160.6 points, its third gain in a row, led by Solaria, up 9.6% after the softer data-centre rules, and Ferrovial, up 8.4% after clarifying the financing of a US highway. Repsol fell 3.3% as oil prices dropped and it ended its share buyback early."
+      },
+      "source": {
+        "name": "JKN / Europa Press",
+        "url": "https://news.jkn.co.kr/editions/spanish/post/1053090"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "Decisión de tipos de la Reserva Federal a las 19:00 (hora de Madrid) y rueda de prensa a las 19:30; se espera que mantenga el 3,75%-4%.",
+      "en": "Federal Reserve rate decision at 7 pm Madrid time, with the press conference at 7:30 pm; rates are expected to stay at 3.75%-4%."
+    },
+    {
+      "es": "Resultados de Microsoft y Alphabet tras el cierre de Wall Street, y de Banco Santander y Aena en España.",
+      "en": "Microsoft and Alphabet report after the Wall Street close; in Spain, Banco Santander and Aena publish results."
+    },
+    {
+      "es": "Recuento final en Israel y primeros movimientos para formar coalición.",
+      "en": "Final vote count in Israel and the first moves towards building a coalition."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Anthropic has acquired Mithril Medicine, a rare-disease startup with a single employee, and says Claude coordinated the work of 11 outside labs on a candidate treatment for muscular dystrophy.",
+      "es": "Anthropic ha comprado Mithril Medicine, una startup de enfermedades raras con un solo empleado, y asegura que Claude coordinó el trabajo de 11 laboratorios externos en un posible tratamiento contra la distrofia muscular."
+    },
+    {
+      "en": "The compound showed promising results in mice, and human trials could start by late 2028.",
+      "es": "El compuesto ha dado resultados prometedores en ratones y los ensayos en humanos podrían empezar a finales de 2028."
+    },
+    {
+      "en": "The company also announced partnerships with Bristol Myers Squibb and several drug-discovery firms.",
+      "es": "La empresa también anunció alianzas con Bristol Myers Squibb y varias compañías de descubrimiento de fármacos."
+    },
+    {
+      "en": "It is a high-profile bet that AI agents can run real scientific projects, not just answer questions, just as Anthropic pitches itself to IPO investors.",
+      "es": "Es una apuesta muy visible a que los agentes de IA pueden dirigir proyectos científicos reales y no solo responder preguntas, justo cuando Anthropic se presenta ante los inversores de su salida a bolsa."
+    },
+    {
+      "en": "OpenAI, long one of Nvidia's biggest customers, plans to buy Google's TPU chips, according to The Information, and is already hiring engineers to optimise its models for them.",
+      "es": "OpenAI, desde hace años uno de los mayores clientes de Nvidia, planea comprar los chips TPU de Google, según The Information, y ya está contratando ingenieros para optimizar sus modelos para ellos."
+    },
+    {
+      "en": "Separately, at Oracle's AI World conference, Sam Altman and Oracle co-CEO Clay Magouyrk announced that ChatGPT and Codex will be built into Oracle's business software.",
+      "es": "Por otro lado, en la conferencia AI World de Oracle, Sam Altman y el codirector ejecutivo de Oracle, Clay Magouyrk, anunciaron que ChatGPT y Codex se integrarán en el software empresarial de Oracle."
+    },
+    {
+      "en": "Oracle's cloud will also offer Google TPUs, OpenAI's own inference chip and Cerebras systems.",
+      "es": "La nube de Oracle ofrecerá además TPU de Google, el chip de inferencia propio de OpenAI y sistemas de Cerebras."
+    },
+    {
+      "en": "AI labs are spreading their bets across chip suppliers to cut costs and reduce their dependence on Nvidia.",
+      "es": "Los laboratorios de IA están repartiendo sus apuestas entre varios proveedores de chips para reducir costes y su dependencia de Nvidia."
+    },
+    {
+      "en": "South Korea's SK Hynix, a key supplier of high-bandwidth memory for Nvidia's AI chips, reported third-quarter revenue of about 104.6 trillion won (roughly $79 billion), more than four times last year's figure and above forecasts.",
+      "es": "La surcoreana SK Hynix, proveedora clave de memoria de alto ancho de banda para los chips de IA de Nvidia, ingresó unos 104,6 billones de wones (unos 79.000 millones de dólares) en el tercer trimestre, más del cuádruple que hace un año y por encima de lo previsto."
+    },
+    {
+      "en": "Operating profit jumped 632% year on year to about 83.3 trillion won.",
+      "es": "El beneficio operativo se disparó un 632% interanual, hasta unos 83,3 billones de wones."
+    },
+    {
+      "en": "Soaring memory prices are behind the surge.",
+      "es": "La fuerte subida de los precios de la memoria explica el salto."
+    },
+    {
+      "en": "Memory has become one of the tightest bottlenecks in the AI build-out, and its makers are capturing a huge share of the spending.",
+      "es": "La memoria se ha convertido en uno de los mayores cuellos de botella del despliegue de la IA, y sus fabricantes se están quedando con una parte enorme del gasto."
+    },
+    {
+      "en": "Google DeepMind has released Genie 4, a 'world model' that generates explorable 3D scenes in real time, now with audio and spoken dialogue.",
+      "es": "Google DeepMind ha presentado Genie 4, un «modelo del mundo» que genera escenas 3D explorables en tiempo real, ahora con audio y diálogo hablado."
+    },
+    {
+      "en": "A Gemini model acts as an agent inside the simulation.",
+      "es": "Un modelo Gemini actúa como agente dentro de la simulación."
+    },
+    {
+      "en": "For now it is only available as a research preview to a group of trusted testers.",
+      "es": "Por ahora solo está disponible como versión preliminar de investigación para un grupo de probadores de confianza."
+    },
+    {
+      "en": "World models are seen as a way to train robots and AI agents in simulated environments before they act in the real world.",
+      "es": "Los modelos del mundo se consideran una vía para entrenar robots y agentes de IA en entornos simulados antes de que actúen en el mundo real."
+    },
+    {
+      "en": "The US Federal Trade Commission has stepped up its investigation into consumer harm from AI by demanding sworn testimony from Anthropic executives, Axios reports.",
+      "es": "La Comisión Federal de Comercio de EE. UU. (FTC) ha endurecido su investigación sobre los daños de la IA a los consumidores al exigir declaraciones bajo juramento a directivos de Anthropic, según Axios."
+    },
+    {
+      "en": "Similar demands are going to other AI companies.",
+      "es": "Otras empresas de IA están recibiendo requerimientos similares."
+    },
+    {
+      "en": "Meanwhile, a family has sued OpenAI in San Francisco, alleging that ChatGPT gave fatal advice on tapering an epilepsy drug.",
+      "es": "Mientras tanto, una familia ha demandado a OpenAI en San Francisco al alegar que ChatGPT dio consejos mortales sobre cómo reducir un medicamento para la epilepsia."
+    },
+    {
+      "en": "Regulatory and legal pressure on AI firms is building just as Anthropic prepares to go public.",
+      "es": "La presión regulatoria y judicial sobre las empresas de IA aumenta justo cuando Anthropic se prepara para salir a bolsa."
+    },
+    {
+      "en": "Microsoft is offering buyouts to roughly 60,000 employees at vice-president level and below on selected teams in the US, Canada, India and the UK, according to reports.",
+      "es": "Microsoft ofrece bajas voluntarias incentivadas a unos 60.000 empleados de nivel vicepresidente o inferior en determinados equipos de EE. UU., Canadá, la India y Reino Unido, según varias informaciones."
+    },
+    {
+      "en": "Data-centre, sales and marketing roles are excluded, and those who accept will leave on 31 December.",
+      "es": "Quedan excluidos los puestos de centros de datos, ventas y marketing, y quienes acepten saldrán el 31 de diciembre."
+    },
+    {
+      "en": "Big Tech is trimming payrolls while pouring record sums into AI infrastructure; Microsoft reports results today.",
+      "es": "Las grandes tecnológicas recortan plantilla mientras invierten cifras récord en infraestructura de IA; Microsoft presenta resultados hoy."
+    },
+    {
+      "en": "Exit polls give Netanyahu's Likud about 25 of the Knesset's 120 seats, ahead of Gadi Eisenkot's new Yashar party with 21 to 23.",
+      "es": "Los sondeos a pie de urna dan al Likud de Netanyahu unos 25 de los 120 escaños de la Knesset, por delante del nuevo partido Yashar de Gadi Eisenkot, con 21 a 23."
+    },
+    {
+      "en": "However, the anti-Netanyahu bloc still appears to be a few seats ahead, and the far-right parties of Ben-Gvir and Smotrich look weaker, with about six seats each.",
+      "es": "Sin embargo, el bloque contrario a Netanyahu sigue apareciendo unos escaños por delante, y los partidos de extrema derecha de Ben-Gvir y Smotrich salen debilitados, con unos seis escaños cada uno."
+    },
+    {
+      "en": "Forming a government needs 61 seats, so coalition talks could drag on for weeks, with Arab parties possibly holding the balance.",
+      "es": "Para formar gobierno hacen falta 61 escaños, así que las negociaciones podrían alargarse semanas, y los partidos árabes podrían tener la llave."
+    },
+    {
+      "en": "A limited truce is holding in the Russian-occupied town of Oleshky, in the Kherson region, so that aid can get in and civilians can be evacuated; it was brokered with the involvement of US First Lady Melania Trump.",
+      "es": "Una tregua limitada se mantiene en la localidad ocupada por Rusia de Oleshky, en la región de Jersón, para dejar entrar ayuda y evacuar a civiles; se negoció con la participación de la primera dama de EE. UU., Melania Trump."
+    },
+    {
+      "en": "A Russian strike on Kyiv's infrastructure the same day showed that the pause is strictly local.",
+      "es": "Un ataque ruso contra infraestructuras de Kiev ese mismo día dejó claro que la pausa es estrictamente local."
+    },
+    {
+      "en": "The leaders of Finland and Norway also spoke to Putin and Zelensky ahead of planned talks in Abu Dhabi, a sign of renewed diplomacy.",
+      "es": "Los líderes de Finlandia y Noruega también hablaron con Putin y Zelenski antes de unas reuniones previstas en Abu Dabi, señal de un nuevo impulso diplomático."
+    },
+    {
+      "en": "The Saudi-led coalition said it intercepted ballistic missiles and drones fired by Yemen's Houthis at the kingdom.",
+      "es": "La coalición liderada por Arabia Saudí afirmó haber interceptado misiles balísticos y drones lanzados por los hutíes de Yemen contra el reino."
+    },
+    {
+      "en": "Egypt's parliament then voted to let President el-Sisi send military support to Saudi Arabia, while the US blockade of the Strait of Hormuz continues and talks with Iran remain stalled.",
+      "es": "Después, el Parlamento egipcio votó a favor de que el presidente al Sisi envíe apoyo militar a Arabia Saudí, mientras sigue el bloqueo estadounidense del estrecho de Ormuz y las conversaciones con Irán siguen estancadas."
+    },
+    {
+      "en": "Any escalation in the Gulf directly affects oil prices, with Brent still above $110.",
+      "es": "Cualquier escalada en el Golfo afecta directamente al precio del petróleo, con el Brent todavía por encima de 110 dólares."
+    },
+    {
+      "en": "A UN commission concluded that Russia's bombing of Ukraine's energy infrastructure is designed to harm civilians and amounts to a crime against humanity.",
+      "es": "Una comisión de la ONU concluyó que los bombardeos rusos contra la infraestructura energética de Ucrania buscan dañar a la población civil y constituyen un crimen contra la humanidad."
+    },
+    {
+      "en": "Another UN panel said Israel had committed genocidal acts in Gaza despite the ceasefire, a finding Israel rejected outright.",
+      "es": "Otro panel de la ONU afirmó que Israel ha cometido actos genocidas en Gaza pese al alto el fuego, una conclusión que Israel rechazó de plano."
+    },
+    {
+      "en": "Two days after Lula won re-election, Brazil's Supreme Court ordered the passports of Flávio Bolsonaro seized as part of a money-laundering probe.",
+      "es": "Dos días después de la reelección de Lula, el Supremo de Brasil ordenó retirar los pasaportes a Flávio Bolsonaro dentro de una investigación por blanqueo de capitales."
+    },
+    {
+      "en": "Bolsonaro's party has accepted the result, but Donald Trump called the vote 'rigged' while saying he gets along with Lula.",
+      "es": "El partido de Bolsonaro ha aceptado el resultado, pero Donald Trump calificó la votación de «amañada», aunque dijo que se lleva bien con Lula."
+    },
+    {
+      "en": "Canada and the United States are working on a deal to ease US tariffs on steel and cars, according to sources, and Prime Minister Carney said talks have picked up slightly.",
+      "es": "Canadá y Estados Unidos trabajan en un acuerdo para suavizar los aranceles estadounidenses al acero y los automóviles, según varias fuentes, y el primer ministro Carney dijo que las conversaciones se han acelerado un poco."
+    },
+    {
+      "en": "Spain's unemployment rate rose to 10.18% in the third quarter, as the number of jobless people increased by 95,900, the biggest summer rise since 2020.",
+      "es": "La tasa de paro en España subió al 10,18% en el tercer trimestre, con 95.900 parados más, el mayor aumento en un verano desde 2020."
+    },
+    {
+      "en": "Employment still hit a record of almost 22.9 million, but job creation was the weakest for a third quarter since 2019, and the Madrid region lost the most jobs, about 49,200.",
+      "es": "Aun así, el empleo marcó un récord de casi 22,9 millones, pero la creación de puestos fue la más débil de un tercer trimestre desde 2019, y la Comunidad de Madrid fue la que más empleo perdió, unos 49.200."
+    },
+    {
+      "en": "The private sector shed jobs while public employment grew, a mix that will feed the debate ahead of the elections.",
+      "es": "El sector privado destruyó empleo mientras crecía el público, una combinación que alimentará el debate de cara a las elecciones."
+    },
+    {
+      "en": "The government has relaxed its draft rules for data centres: instead of 80% hourly renewable supply from day one, they can opt for a transition of up to five years, starting at 60% during peak hours.",
+      "es": "El Gobierno ha suavizado su borrador para los centros de datos: en lugar de un 80% de suministro renovable hora a hora desde el primer día, podrán optar por una transición de hasta cinco años que empieza con un 60% en horas punta."
+    },
+    {
+      "en": "In return, those centres must join Red Eléctrica's automatic power-reduction scheme and can be disconnected first, without compensation, when the grid is congested.",
+      "es": "A cambio, esos centros deberán unirse al sistema de reducción automática de potencia de Red Eléctrica y podrán ser los primeros en desconectarse, sin compensación, cuando la red esté congestionada."
+    },
+    {
+      "en": "The government says 12 GW of grid access has already been granted, though the industry considers only 2 to 4 GW viable.",
+      "es": "El Gobierno asegura que ya se han concedido 12 GW de acceso a la red, aunque el sector solo considera viables entre 2 y 4 GW."
+    },
+    {
+      "en": "Data-centre demand is reshaping grid planning, and flexibility rules like these directly affect how much new distribution capacity companies like i-DE must build.",
+      "es": "La demanda de los centros de datos está cambiando la planificación de redes, y reglas de flexibilidad como estas influyen directamente en cuánta capacidad de distribución nueva deben construir empresas como i-DE."
+    },
+    {
+      "en": "The CNMC has approved, without conditions, Iberdrola's purchase of the electricity retail business of Contigo Energía, which brings around 100,000 customers.",
+      "es": "La CNMC ha aprobado, sin condiciones, la compra por Iberdrola del negocio de comercialización eléctrica de Contigo Energía, que aporta unos 100.000 clientes."
+    },
+    {
+      "en": "It is Iberdrola's first acquisition of a retailer in Spain, and the brand will keep operating independently within the group.",
+      "es": "Es la primera adquisición de una comercializadora que hace Iberdrola en España, y la marca seguirá operando de forma independiente dentro del grupo."
+    },
+    {
+      "en": "Iberdrola has issued $1.6 billion (about €1.43 billion) of green bonds in dollars, and investor demand topped $5 billion, more than three times the amount on offer.",
+      "es": "Iberdrola ha emitido 1.600 millones de dólares (unos 1.430 millones de euros) en bonos verdes en dólares, y la demanda de los inversores superó los 5.000 millones, más del triple de lo ofrecido."
+    },
+    {
+      "en": "Strong demand keeps the cost of financing low for the utility's grid and renewables investment plan.",
+      "es": "Una demanda tan fuerte mantiene bajo el coste de financiación del plan de inversión en redes y renovables de la eléctrica."
+    },
+    {
+      "en": "The Nasdaq gained 1.2% and the S&P 500 0.6% on Tuesday, as the Philadelphia semiconductor index jumped 3.6% on reports of a $63 billion Broadcom financing deal for Anthropic's chip purchases.",
+      "es": "El Nasdaq ganó un 1,2% y el S&P 500 un 0,6% el martes, mientras el índice de semiconductores de Filadelfia subía un 3,6% tras conocerse un acuerdo de financiación de 63.000 millones de dólares de Broadcom para las compras de chips de Anthropic."
+    },
+    {
+      "en": "The Dow barely moved because Boeing sank almost 11% after signalling slower 737 Max production.",
+      "es": "El Dow apenas se movió porque Boeing se hundió casi un 11% tras anticipar un ritmo de producción más lento del 737 Max."
+    },
+    {
+      "en": "Markets expect the Fed to hold rates at 3.75%-4% today, with only a small chance of a hike.",
+      "es": "Los mercados esperan que la Fed mantenga hoy los tipos en el 3,75%-4%, con solo una pequeña probabilidad de subida."
+    },
+    {
+      "en": "The IBEX 35 rose 0.67% to 19,160.6 points, its third gain in a row, led by Solaria, up 9.6% after the softer data-centre rules, and Ferrovial, up 8.4% after clarifying the financing of a US highway.",
+      "es": "El IBEX 35 subió un 0,67%, hasta 19.160,6 puntos, su tercera subida seguida, liderado por Solaria, que ganó un 9,6% tras la suavización de las normas para centros de datos, y Ferrovial, con un 8,4% tras aclarar la financiación de una autopista en EE. UU."
+    },
+    {
+      "en": "Repsol fell 3.3% as oil prices dropped and it ended its share buyback early.",
+      "es": "Repsol cayó un 3,3% por la bajada del crudo y tras poner fin antes de tiempo a su recompra de acciones."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "touts",
+      "translation": "promociona, presume de",
+      "pos": "verb",
+      "example": "The company touts its new model as the fastest yet."
+    },
+    {
+      "term": "rare-disease",
+      "translation": "de enfermedades raras",
+      "pos": "adjective",
+      "example": "Rare-disease research often struggles to attract funding."
+    },
+    {
+      "term": "candidate treatment",
+      "translation": "posible tratamiento, candidato a fármaco",
+      "pos": "noun phrase",
+      "example": "The candidate treatment will now be tested in larger animals."
+    },
+    {
+      "term": "trials",
+      "translation": "ensayos (clínicos)",
+      "pos": "noun",
+      "example": "Human trials could start within two years."
+    },
+    {
+      "term": "pitches itself",
+      "translation": "se presenta, se vende",
+      "pos": "verb phrase",
+      "example": "The startup pitches itself as a cheaper alternative."
+    },
+    {
+      "term": "spreading their bets",
+      "translation": "diversificando sus apuestas",
+      "pos": "idiom",
+      "example": "Investors are spreading their bets across several markets."
+    },
+    {
+      "term": "soars",
+      "translation": "se dispara",
+      "pos": "verb",
+      "example": "Demand soars every winter."
+    },
+    {
+      "term": "sevenfold",
+      "translation": "siete veces",
+      "pos": "adverb",
+      "example": "Sales have grown sevenfold since 2020."
+    },
+    {
+      "term": "high-bandwidth memory",
+      "translation": "memoria de alto ancho de banda",
+      "pos": "noun phrase",
+      "example": "High-bandwidth memory is essential for training large models."
+    },
+    {
+      "term": "year on year",
+      "translation": "interanual",
+      "pos": "adverb",
+      "example": "Profits rose 12% year on year."
+    },
+    {
+      "term": "bottlenecks",
+      "translation": "cuellos de botella",
+      "pos": "noun",
+      "example": "Grid connections are one of the main bottlenecks for new projects."
+    },
+    {
+      "term": "build-out",
+      "translation": "despliegue, construcción a gran escala",
+      "pos": "noun",
+      "example": "The build-out of data centres is driving power demand."
+    },
+    {
+      "term": "research preview",
+      "translation": "versión preliminar de investigación",
+      "pos": "noun phrase",
+      "example": "The tool is only available as a research preview."
+    },
+    {
+      "term": "stepped up",
+      "translation": "intensificó",
+      "pos": "phrasal verb",
+      "example": "Regulators have stepped up their scrutiny of the sector."
+    },
+    {
+      "term": "sworn testimony",
+      "translation": "declaración bajo juramento",
+      "pos": "noun phrase",
+      "example": "The executives must give sworn testimony next month."
+    },
+    {
+      "term": "tapering",
+      "translation": "reducir gradualmente (una dosis)",
+      "pos": "verb",
+      "example": "Tapering a medication should be supervised by a doctor."
+    },
+    {
+      "term": "buyouts",
+      "translation": "bajas voluntarias incentivadas",
+      "pos": "noun",
+      "example": "The firm offered buyouts instead of layoffs."
+    },
+    {
+      "term": "trimming payrolls",
+      "translation": "recortando plantillas",
+      "pos": "verb phrase",
+      "example": "Banks are trimming payrolls as they automate."
+    },
+    {
+      "term": "exit polls",
+      "translation": "sondeos a pie de urna",
+      "pos": "noun",
+      "example": "Exit polls pointed to a hung parliament."
+    },
+    {
+      "term": "drag on",
+      "translation": "alargarse",
+      "pos": "phrasal verb",
+      "example": "The negotiations could drag on until Christmas."
+    },
+    {
+      "term": "holding the balance",
+      "translation": "tener la llave (del poder)",
+      "pos": "idiom",
+      "example": "Small parties are holding the balance in parliament."
+    },
+    {
+      "term": "brokered",
+      "translation": "negociado, mediado",
+      "pos": "verb",
+      "example": "The deal was brokered by Qatar."
+    },
+    {
+      "term": "stalled",
+      "translation": "estancado",
+      "pos": "adjective",
+      "example": "The project has stalled due to a lack of funding."
+    },
+    {
+      "term": "amounts to",
+      "translation": "equivale a, constituye",
+      "pos": "phrasal verb",
+      "example": "The delay amounts to a breach of contract."
+    },
+    {
+      "term": "outright",
+      "translation": "de plano, rotundamente",
+      "pos": "adverb",
+      "example": "The minister rejected the proposal outright."
+    },
+    {
+      "term": "money-laundering probe",
+      "translation": "investigación por blanqueo de capitales",
+      "pos": "noun phrase",
+      "example": "The bank is at the centre of a money-laundering probe."
+    },
+    {
+      "term": "rigged",
+      "translation": "amañado",
+      "pos": "adjective",
+      "example": "Observers found no evidence the vote was rigged."
+    },
+    {
+      "term": "picked up",
+      "translation": "se han acelerado, han repuntado",
+      "pos": "phrasal verb",
+      "example": "Sales picked up in the second half."
+    },
+    {
+      "term": "jobless",
+      "translation": "desempleados",
+      "pos": "adjective",
+      "example": "The number of jobless people fell in spring."
+    },
+    {
+      "term": "shed jobs",
+      "translation": "destruyó empleo",
+      "pos": "verb phrase",
+      "example": "Manufacturing shed jobs for the third month."
+    },
+    {
+      "term": "relaxed",
+      "translation": "flexibilizado, suavizado",
+      "pos": "verb",
+      "example": "The regulator relaxed the rules for small producers."
+    },
+    {
+      "term": "peak hours",
+      "translation": "horas punta",
+      "pos": "noun",
+      "example": "Prices are highest during peak hours."
+    },
+    {
+      "term": "without compensation",
+      "translation": "sin compensación",
+      "pos": "phrase",
+      "example": "Plants can be curtailed without compensation."
+    },
+    {
+      "term": "watchdog",
+      "translation": "organismo regulador o supervisor",
+      "pos": "noun",
+      "example": "The competition watchdog opened an investigation."
+    },
+    {
+      "term": "retail business",
+      "translation": "negocio de comercialización (minorista)",
+      "pos": "noun phrase",
+      "example": "The utility sold its retail business last year."
+    },
+    {
+      "term": "topped",
+      "translation": "superó",
+      "pos": "verb",
+      "example": "Orders topped $5 billion."
+    },
+    {
+      "term": "utility",
+      "translation": "empresa de servicios públicos (eléctrica)",
+      "pos": "noun",
+      "example": "The utility plans to invest heavily in its grid."
+    },
+    {
+      "term": "drags on",
+      "translation": "lastra, frena",
+      "pos": "phrasal verb",
+      "example": "Weak demand drags on growth."
+    },
+    {
+      "term": "signalling",
+      "translation": "anticipar, dar a entender",
+      "pos": "verb",
+      "example": "The bank is signalling more rate cuts."
+    },
+    {
+      "term": "share buyback",
+      "translation": "recompra de acciones",
+      "pos": "noun phrase",
+      "example": "The board approved a new share buyback."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "interruptibility",
+    "pos": "noun",
+    "translation": "interrumpibilidad",
+    "definition_en": "The ability of a large electricity consumer to have its supply cut or reduced by the grid operator at short notice, usually to protect the system when it is stressed.",
+    "example_en": "The new decree links faster grid access for data centres to interruptibility during congestion.",
+    "example_es": "El nuevo decreto vincula un acceso más rápido a la red para los centros de datos a su interrumpibilidad en momentos de congestión."
+  },
+  "recommendations": [
+    {
+      "id": "smarterx-ai-show-248-cybersecurity-anthropic",
+      "type": "podcast",
+      "title": "The AI Cybersecurity Crisis, Dario Fights Back on Safety, OpenAI's Monitoring Blind Spots & Claude Duet",
+      "speaker": "Paul Roetzer y Mike Kaput",
+      "outlet": "The Artificial Intelligence Show (SmarterX)",
+      "duration_min": 95,
+      "language": "en",
+      "topics": [
+        "IA",
+        "ciberseguridad",
+        "Anthropic"
+      ],
+      "summary": "Repaso semanal de la actualidad de IA: el auge de los ciberataques asistidos por IA, la defensa de Dario Amodei de la seguridad de Anthropic, las lagunas en la supervisión de agentes de OpenAI y lo que revela el folleto de salida a bolsa de Anthropic.",
+      "why": "Ideal para ponerte al día de la semana en IA en inglés claro, de negocio y sin tecnicismos excesivos.",
+      "url": "https://www.youtube.com/watch?v=QY2qHT29ucc"
+    },
+    {
+      "id": "rieseberg-hunger-beats-tenure",
+      "type": "article",
+      "title": "Hunger beats tenure: advice for junior engineers",
+      "speaker": "Felix Rieseberg",
+      "outlet": "felixrieseberg.com",
+      "duration_min": 8,
+      "language": "en",
+      "topics": [
+        "IA",
+        "carrera profesional",
+        "ingeniería"
+      ],
+      "summary": "Un responsable de ingeniería de Anthropic explica por qué ha dejado de hacer pruebas de programación en las entrevistas (la IA ya las resuelve mejor) y qué deberían cultivar los ingenieros júnior: impacto en el negocio y capacidad de prototipar.",
+      "why": "Muy pertinente para ti, que empiezas tu carrera combinando ingeniería y gestión: habla justo de qué habilidades valdrán más.",
+      "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/"
+    },
+    {
+      "id": "energyconnects-aiq-dennis-jol-ai-energy-security",
+      "type": "article",
+      "title": "Applying AI for maximum impact and value creation in a world seeking energy security",
+      "speaker": "Dennis Jol (CEO de AIQ)",
+      "outlet": "Energy Connects",
+      "duration_min": 5,
+      "language": "en",
+      "topics": [
+        "IA",
+        "energía",
+        "industria"
+      ],
+      "summary": "Entrevista breve con el CEO de AIQ sobre cómo aplicar IA industrial en el sector energético: casos de negocio claros antes que tecnología, IA asistida frente a autónoma y control humano de las decisiones.",
+      "why": "Encaja con tu perfil: el enfoque de que la inversión en IA debe justificarse con un caso de negocio es la lógica de control de inversiones.",
+      "url": "https://www.energyconnects.com/opinion/interviews/2026/october/applying-ai-for-maximum-impact-and-value-creation-in-a-world-seeking-energy-security/"
+    },
+    {
+      "id": "modo-transmission-podcast-es",
+      "type": "podcast",
+      "title": "Transmission: el pódcast de energía y almacenamiento en baterías",
+      "speaker": "Modo Energy",
+      "outlet": "Modo Energy",
+      "duration_min": 45,
+      "language": "es",
+      "topics": [
+        "energía",
+        "almacenamiento",
+        "mercados eléctricos"
+      ],
+      "summary": "Pódcast con entrevistas a directivos e inversores del sector sobre baterías, mercados eléctricos y la integración de renovables en la red.",
+      "why": "Buena puerta de entrada al almacenamiento y la flexibilidad de red, dos temas que pesan cada vez más en la planificación de inversiones de distribución.",
+      "url": "https://modoenergy.com/research/es/what-is-transmission-podcast"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Wall Street subió el martes de la mano de los chips: el Nasdaq ganó un 1,2% y el S&P 500 un 0,6% tras conocerse la financiación de Broadcom para las compras de chips de Anthropic, mientras Boeing (−10,7%) frenó al Dow. El petróleo bajó por las señales de diálogo con Irán, aunque el Brent sigue cerca de 114 dólares. En Europa, el IBEX 35 sumó un 0,67% con Solaria y Ferrovial al frente; Fráncfort subió un 0,7% y Londres cayó un 0,75%. El euro perdió un 0,3% frente al dólar y la prima de riesgo española se mantuvo en torno a 64 puntos. Los analistas esperan que la Fed mantenga hoy los tipos y estarán atentos a las cuentas de Microsoft y Alphabet.",
+      "en": "Wall Street rose on Tuesday, led by chipmakers: the Nasdaq gained 1.2% and the S&P 500 0.6% after news of Broadcom's financing for Anthropic's chip purchases, while Boeing (-10.7%) held back the Dow. Oil slipped on signs of dialogue with Iran, although Brent is still near $114. In Europe, the IBEX 35 added 0.67%, led by Solaria and Ferrovial; Frankfurt rose 0.7% and London fell 0.75%. The euro lost 0.3% against the dollar and Spain's risk premium stayed around 64 basis points. Analysts expect the Fed to hold rates today and will be watching Microsoft's and Alphabet's earnings."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35",
+        "value": 19160.6,
+        "change_pct": 0.67
+      },
+      {
+        "name": "S&P 500",
+        "value": 7722.6,
+        "change_pct": 0.6
+      },
+      {
+        "name": "Nasdaq Composite",
+        "value": 26477.81,
+        "change_pct": 1.18
+      },
+      {
+        "name": "Dow Jones",
+        "value": 52377.57,
+        "change_pct": 0.03
+      },
+      {
+        "name": "EUR/USD",
+        "value": 1.1139,
+        "change_pct": -0.31
+      },
+      {
+        "name": "Brent (USD/barril)",
+        "value": 113.88,
+        "change_pct": -1.67
+      },
+      {
+        "name": "Oro (USD/onza, aprox.)",
+        "value": 4075,
+        "change_pct": 0.9
+      }
+    ],
+    "learn": {
+      "concept": "Bono verde (green bond)",
+      "explanation": "Un bono verde es deuda normal (la empresa recibe dinero hoy y paga intereses y el principal después), pero con el compromiso de destinar los fondos a proyectos ambientales concretos: redes, renovables, almacenamiento… Suele seguir un marco como los Green Bond Principles y un verificador externo revisa el uso del dinero. Para una eléctrica como Iberdrola es clave porque gran parte del CAPEX de redes se financia con deuda: cuando la demanda supera mucho la oferta (como en la emisión de ayer, con más de 5.000 millones pedidos por 1.600), la empresa consigue un tipo de interés más bajo, lo que reduce su coste de capital (WACC) y mejora la rentabilidad de las inversiones reguladas. Al leer una emisión fíjate en el importe, el plazo, el cupón y la sobresuscripción (demanda/oferta)."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
