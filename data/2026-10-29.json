@@ -1,0 +1,1016 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T07:11:57+01:00",
+  "last_updated": "2026-10-29T07:11:57+01:00",
+  "headline": {
+    "es": "Al menos 68 muertos al chocar un AVE contra un tren de Iryo cerca de Toledo; la Fed mantiene tipos con dos votos a favor de subir y hoy decide el BCE.",
+    "en": "At least 68 people died when a Renfe AVE hit an Iryo train near Toledo; the Fed held rates with two votes for a hike, and the ECB decides today."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "OpenAI abarata a la mitad la API de GPT-6.1 Terra, pero sus pruebas detectan fallos de autorización",
+        "en": "OpenAI halves GPT-6.1 Terra API prices, but its own tests flag authorization gaps"
+      },
+      "body": {
+        "es": "OpenAI ha rebajado el precio de la API de GPT-6.1 Terra a la mitad de la tarifa estándar de su predecesor. Sin embargo, sus propias evaluaciones de seguridad encontraron casos en los que el modelo ignoró restricciones u obedeció instrucciones no autorizadas que parecían venir de otros agentes. La medida intensifica la guerra de precios entre los grandes laboratorios en un momento en que cada vez más empresas usan varios agentes que se comunican entre sí.",
+        "en": "OpenAI has cut the API price of GPT-6.1 Terra to half the standard rate of its predecessor. Its own safety evaluations, however, found cases in which the model ignored restrictions or followed unauthorized instructions coming from what looked like peer agents. The move intensifies the price war among frontier labs as more companies run several agents that talk to each other."
+      },
+      "why_it_matters": {
+        "es": "Los modelos más baratos hacen viables los agentes para más tareas, pero el riesgo de seguridad pasa a estar en cómo comprueban los agentes quién les da las órdenes.",
+        "en": "Cheaper models make agents viable for more tasks, but the security risk shifts to how agents verify who is giving them orders."
+      },
+      "source": {
+        "name": "The Neuron",
+        "url": "https://www.theneuron.ai/news/openai-gpt-6-1-terra-api-price-cuts-authorization-risks/"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic amplía su acuerdo con la administración de EE. UU. con un 40% de descuento",
+        "en": "Anthropic expands its US government deal with a 40% discount"
+      },
+      "body": {
+        "es": "Anthropic ha ampliado su acuerdo con la Administración de Servicios Generales para que los gobiernos federal, estatales y locales puedan comprar Claude con un 40% de descuento. El acuerdo cubre Claude Enterprise, Claude for Government y la API, y la empresa calcula que podría ahorrar al sector público unos 1.000 millones de dólares. Anthropic afirma que unos 500 organismos públicos estadounidenses ya usan sus modelos.",
+        "en": "Anthropic has broadened its agreement with the General Services Administration so that federal, state and local governments can buy Claude at a 40% discount. The deal covers Claude Enterprise, Claude for Government and the API, and the company estimates it could save the public sector around $1 billion. Anthropic says roughly 500 US government bodies already use its models."
+      },
+      "why_it_matters": {
+        "es": "El sector público se está convirtiendo en un campo de batalla clave para los laboratorios de IA que buscan contratos grandes y estables antes de sus posibles salidas a bolsa.",
+        "en": "The public sector is becoming a key battleground for AI labs seeking large, stable contracts ahead of possible stock market listings."
+      },
+      "source": {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "Agentes de IA verifican por ordenador una demostración matemática de 15.000 páginas",
+        "en": "AI agents machine-check a 15,000-page mathematical proof"
+      },
+      "body": {
+        "es": "La startup Axiom asegura haber verificado formalmente la Clasificación de los Grupos Finitos Simples, una de las demostraciones más largas de las matemáticas, de unas 15.000 páginas. Según la empresa, sus agentes de IA trabajaron durante 24 días para traducirla a unos 43 millones de líneas en el lenguaje de demostración Lean. Ese mismo día, Anthropic dijo que Claude había generado pruebas de seguridad verificables por máquina para 123 bibliotecas de código abierto.",
+        "en": "The startup Axiom says it has formally verified the Classification of Finite Simple Groups, one of the longest proofs in mathematics, spanning about 15,000 pages. Its AI agents reportedly worked for 24 days to translate it into some 43 million lines of the Lean proof language. The same day, Anthropic said Claude had produced machine-checkable security proofs for 123 open-source libraries."
+      },
+      "why_it_matters": {
+        "es": "La verificación formal permite confiar en los resultados de la IA sin revisar a mano cada paso, algo clave ahora que la IA produce resultados más rápido de lo que los expertos pueden revisarlos.",
+        "en": "Formal verification lets humans trust AI output without re-checking every step by hand, which matters as AI starts producing results faster than experts can review them."
+      },
+      "source": {
+        "name": "The Neuron",
+        "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-october-28-2026/"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "Países Bajos recortará 25.000 empleos públicos apoyándose en la IA",
+        "en": "The Netherlands plans to cut 25,000 civil service jobs, citing AI savings"
+      },
+      "body": {
+        "es": "El Gobierno neerlandés quiere suprimir unos 25.000 puestos en la administración, más del 15% de su función pública, dentro de un plan de ahorro ligado a la inteligencia artificial. Es una de las primeras veces que un gobierno europeo vincula de forma explícita una reducción de plantilla tan grande a la automatización.",
+        "en": "The Dutch government intends to eliminate around 25,000 state jobs, more than 15% of its civil service, as part of a savings plan linked to artificial intelligence. It is one of the first times a European government has tied such a large workforce reduction explicitly to automation."
+      },
+      "why_it_matters": {
+        "es": "Lleva el debate sobre la IA y el empleo de las previsiones a la política concreta, y otros gobiernos estarán atentos a los resultados.",
+        "en": "It turns the debate about AI and jobs from forecasts into concrete public policy, and other governments will be watching the results."
+      },
+      "source": {
+        "name": "Semafor",
+        "url": "https://www.semafor.com/article/10/27/2026/netherlands-to-slash-state-jobs-as-part-of-ai-related-savings"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "Un fallo en el servicio de IA de Cloudflare mostró a algunos clientes respuestas de otros",
+        "en": "A Cloudflare AI bug served some customers other customers' responses"
+      },
+      "body": {
+        "es": "Cloudflare ha revelado que un desajuste de configuración activó un fallo en el motor de inferencia de uno de sus modelos de Workers AI, de modo que algunos usuarios recibieron respuestas en caché generadas para otros clientes. La empresa identificó 155 respuestas afectadas entre finales de agosto y principios de septiembre, no halló indicios de explotación intencionada y ya ha corregido el problema.",
+        "en": "Cloudflare disclosed that a configuration mismatch triggered a bug in the inference engine behind one of its Workers AI models, so some users received cached answers generated for other customers. The company identified 155 affected responses between late August and early September, found no sign of deliberate exploitation and has patched the problem."
+      },
+      "why_it_matters": {
+        "es": "Los trucos de caché que abaratan la IA pueden filtrar datos entre usuarios, un riesgo que cualquier empresa que aloje modelos debe auditar.",
+        "en": "Caching tricks that make AI cheaper can leak data between users, a risk any company hosting models must now audit."
+      },
+      "source": {
+        "name": "Cloudflare",
+        "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "Apple añade un asistente de IA a Pages, Keynote y Numbers",
+        "en": "Apple builds an AI assistant into Pages, Keynote and Numbers"
+      },
+      "body": {
+        "es": "Apple ha incorporado a sus aplicaciones ofimáticas un asistente de IA que redacta documentos, ayuda a preparar presentaciones y analiza datos de hojas de cálculo. macOS 27 también es compatible con el Model Context Protocol, que permite a agentes de terceros conectarse al sistema.",
+        "en": "Apple has added an AI assistant to its office apps that drafts documents, helps build presentations and analyses spreadsheet data. macOS 27 also supports the Model Context Protocol, which lets third-party agents plug into the system."
+      },
+      "source": {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Israel: el Likud aventaja en siete escaños al partido de Eisenkot, pero nadie tiene mayoría",
+        "en": "Israel: Likud leads Eisenkot's party by seven seats, but no one has a majority"
+      },
+      "body": {
+        "es": "Con el recuento aún en marcha, el Likud de Benjamín Netanyahu aventaja en siete escaños al partido Yashar de Gadi Eisenkot, tras una de las participaciones más altas de la historia de Israel. Los sondeos a pie de urna apuntan a que dos partidos árabes podrían lograr entre 17 y 18 escaños, su mejor resultado, y ningún bloque tiene un camino claro hacia los 61 escaños. Cuando termine el recuento, el presidente Isaac Herzog elegirá a quién encarga primero formar gobierno.",
+        "en": "With counting still under way, Benjamin Netanyahu's Likud holds a seven-seat lead over Gadi Eisenkot's Yashar party after one of the highest turnouts in Israel's history. Exit polls suggest two Arab parties could win 17 to 18 seats, their best result ever, and neither bloc has a clear path to 61 seats. Once the final count is in, President Isaac Herzog will choose who gets the first chance to form a government."
+      },
+      "why_it_matters": {
+        "es": "Un bloqueo largo podría prolongar la incertidumbre política en un momento de gran tensión con Irán.",
+        "en": "A long deadlock could prolong political uncertainty at a time of high tension with Iran."
+      },
+      "source": {
+        "name": "Just Security",
+        "url": "https://www.justsecurity.org/162228/early-edition-october-28-2026/"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "EE. UU. pide a países del Golfo prepararse para una posible campaña corta contra Irán",
+        "en": "US reportedly tells Gulf states to prepare for a short campaign against Iran"
+      },
+      "body": {
+        "es": "Según The Wall Street Journal, Washington ha pedido a varios países del Golfo que se preparen para una campaña militar corta e intensa contra Irán tras las elecciones de mitad de mandato, y envía una batería Patriot adicional a Israel. Mientras, el jefe del organismo nuclear de la ONU dijo que no ha detectado trabajos iraníes para reconstruir las instalaciones dañadas, aunque sigue sin poder verificar sus reservas de uranio muy enriquecido.",
+        "en": "According to The Wall Street Journal, Washington has told several Gulf countries to get ready for a short, intense military campaign against Iran after the US midterm elections, and is sending an extra Patriot battery to Israel. Meanwhile, the head of the UN nuclear watchdog said it has seen no Iranian work to rebuild damaged nuclear sites, although it still cannot verify Iran's stockpile of highly enriched uranium."
+      },
+      "why_it_matters": {
+        "es": "Cualquier escalada golpearía al petróleo, que ya supera los 115 dólares por barril.",
+        "en": "Any escalation would hit oil prices, which are already above $115 a barrel."
+      },
+      "source": {
+        "name": "Just Security",
+        "url": "https://www.justsecurity.org/162228/early-edition-october-28-2026/"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "Flávio Bolsonaro abandona Brasil tras perder las elecciones",
+        "en": "Flávio Bolsonaro leaves Brazil after losing the election"
+      },
+      "body": {
+        "es": "Flávio Bolsonaro, que perdió el domingo la segunda vuelta frente a Lula, no ha reconocido la derrota y, según la prensa, salió de Brasil por Argentina antes de volar a Ecuador. El Supremo brasileño le había ordenado entregar el pasaporte en un caso de blanqueo, y Donald Trump dijo que lo acogería en Estados Unidos.",
+        "en": "Flávio Bolsonaro, who lost Sunday's presidential run-off to Lula, has not conceded and reportedly left Brazil through Argentina before flying to Ecuador. Brazil's Supreme Court had ordered him to hand over his passport in a money-laundering case, and Donald Trump said he would welcome him in the United States."
+      },
+      "source": {
+        "name": "Just Security",
+        "url": "https://www.justsecurity.org/162228/early-edition-october-28-2026/"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Ucrania anuncia avances y Finlandia y Noruega abren un canal con Moscú",
+        "en": "Ukraine claims gains as Finland and Norway open a channel to Moscow"
+      },
+      "body": {
+        "es": "Volodímir Zelenski afirmó que las tropas ucranianas están recuperando terreno con varias ofensivas, una de ellas aprovechando tuberías en el noreste para rodear posiciones rusas. Por otro lado, Finlandia y Noruega mantuvieron una llamada con Rusia para trasladar mensajes sobre futuras negociaciones, un paso que Dinamarca y Suecia criticaron porque podría dividir la voz europea.",
+        "en": "Volodymyr Zelenskyy said Ukrainian troops are retaking ground through several offensives, including one that uses pipelines in the north-east to outflank Russian positions. Separately, Finland and Norway held a call with Russia to pass on messages about future talks, a step that Denmark and Sweden criticised for risking a split in Europe's voice."
+      },
+      "source": {
+        "name": "Just Security",
+        "url": "https://www.justsecurity.org/162228/early-edition-october-28-2026/"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "El CO₂ en la atmósfera bate un nuevo récord",
+        "en": "Atmospheric CO₂ hits another record"
+      },
+      "body": {
+        "es": "La Organización Meteorológica Mundial informó de que el dióxido de carbono alcanzó 426,8 partes por millón en 2025, alrededor del 153% del nivel preindustrial. El dato llega semanas antes de la cumbre del clima COP31 en Antalya (Turquía).",
+        "en": "The World Meteorological Organization reported that carbon dioxide reached 426.8 parts per million in 2025, about 153% of pre-industrial levels. The data comes weeks before the COP31 climate summit in Antalya, Turkey."
+      },
+      "source": {
+        "name": "Just Security",
+        "url": "https://www.justsecurity.org/162228/early-edition-october-28-2026/"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "Al menos 68 muertos al chocar un AVE contra un tren de Iryo cerca de Toledo",
+        "en": "At least 68 dead as a Renfe AVE slams into an Iryo train near Toledo"
+      },
+      "body": {
+        "es": "Un tren de alta velocidad de Renfe embistió por detrás a un tren de Iryo que estaba detenido en la línea Madrid-Andalucía, entre Los Yébenes y Urda, el miércoles por la mañana, y varios coches cayeron por un terraplén. Los últimos balances difundidos por varios medios elevan los fallecidos a al menos 68, con decenas de heridos, y las autoridades advierten de que la cifra aún puede subir. Los trenes circulaban con un sistema de señalización de respaldo tras una avería del principal, y se investiga un posible error humano; Adif ha suspendido la alta velocidad hacia Andalucía.",
+        "en": "A Renfe high-speed train ran into the back of an Iryo train that was stopped on the Madrid–Andalusia line between Los Yébenes and Urda on Wednesday morning, sending carriages down an embankment. The latest tolls reported by several outlets put the dead at 68 at least, with dozens injured, and officials warned the figure could still rise. The trains were running under a back-up signalling mode after a failure in the main system, and possible human error is being investigated; Adif has suspended high-speed traffic to Andalusia."
+      },
+      "why_it_matters": {
+        "es": "Es el segundo accidente mortal de alta velocidad en España este año y pondrá la seguridad ferroviaria y la señalización en el centro de la campaña electoral.",
+        "en": "It is the second deadly high-speed crash in Spain this year and will put rail safety and signalling at the centre of the election campaign."
+      },
+      "source": {
+        "name": "France 24",
+        "url": "https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "La legislatura acaba sin nuevos Presupuestos por primera vez en democracia",
+        "en": "The parliamentary term ends without a new budget for the first time in Spain's democracy"
+      },
+      "body": {
+        "es": "Con las Cortes disueltas y elecciones generales el 29 de noviembre, la legislatura termina sin que el Gobierno haya aprobado unos nuevos Presupuestos. España funciona con las cuentas de 2023, prorrogadas año tras año, después de que el Congreso rechazara dos veces la senda de déficit para 2027.",
+        "en": "With parliament dissolved and a general election set for 29 November, the term closes without the government having passed a single new state budget. Spain has been running on the 2023 accounts, rolled over year after year, after Congress twice rejected the deficit path for 2027."
+      },
+      "source": {
+        "name": "idealista/news",
+        "url": "https://www.idealista.com/news/finanzas/economia/2026/10/27/920877-la-legislatura-se-cierra-sin-nuevos-presupuestos-por-primera-vez-en-la-historia"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "Santander gana un 16% más, pero se hunde un 5,6% en bolsa",
+        "en": "Santander's profit jumps 16%, yet its shares sink 5.6%"
+      },
+      "body": {
+        "es": "Banco Santander ganó 11.176 millones de euros hasta septiembre, un 16,1% más, pero sus acciones cayeron un 5,6% y fueron de los mayores lastres del IBEX.",
+        "en": "Banco Santander reported a net profit of €11.18 billion for the first nine months, up 16.1%, but its shares fell 5.6% and were among the biggest drags on the IBEX."
+      },
+      "source": {
+        "name": "Press Digital",
+        "url": "https://www.pressdigital.es/articulo/economia/2026-10-28/6069918-ibex-35-cede-145-pierde-18900-puntos-arrastrado-acciona-energia-santander"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "La CNMC quiere revisar cómo se calculan los peajes de las redes",
+        "en": "Spain's regulator plans to review how grid tolls are structured"
+      },
+      "body": {
+        "es": "El consejero de la CNMC Joan Capdevila dijo que el regulador revisará pronto la metodología de los peajes de transporte y distribución eléctrica. El objetivo es comprobar si la estructura actual refleja los nuevos usos de la red, como el autoconsumo, la recarga de coches eléctricos, el almacenamiento y los centros de datos, y si ayuda lo suficiente a aplanar los picos de demanda.",
+        "en": "CNMC board member Joan Capdevila said the regulator will soon review the methodology behind electricity transmission and distribution tolls. The aim is to check whether the current structure reflects new uses of the grid, such as self-consumption, EV charging, storage and data centres, and whether it does enough to flatten demand peaks."
+      },
+      "why_it_matters": {
+        "es": "Los peajes son la vía por la que distribuidoras como i-DE recuperan su retribución regulada, así que cualquier rediseño cambia quién paga la red y cuándo.",
+        "en": "Tolls are how distributors like i-DE recover their regulated revenue, so any redesign changes who pays for the grid and when."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/la-cnmc-estudia-revisar-estructura-de-peajes-para-ver-si-reflejan-bien-el-uso-de-las-redes/"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "Endesa gana un 15% más y dispara un 42% su inversión en redes",
+        "en": "Endesa's profit rises 15% as grid investment surges 42%"
+      },
+      "body": {
+        "es": "Endesa ganó 1.962 millones hasta septiembre, un 15% más, y el EBITDA de distribución creció casi un 25% gracias al nuevo marco regulatorio vigente desde enero. Invirtió unos 900 millones en sus redes, un 42% más que un año antes, y los negocios regulados ya generan casi la mitad de su EBITDA.",
+        "en": "Endesa earned €1.96 billion in the first nine months, up 15%, and its distribution EBITDA grew almost 25% thanks to the new regulatory framework in force since January. It invested about €900 million in its networks, 42% more than a year earlier, and regulated businesses now generate nearly half of its EBITDA."
+      },
+      "why_it_matters": {
+        "es": "Es una buena referencia para i-DE de Iberdrola: el nuevo periodo retributivo está premiando la inversión en redes en todo el sector.",
+        "en": "It is a useful benchmark for Iberdrola's i-DE: the new remuneration period is rewarding grid capex across the sector."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/endesa-gana-un-15-mas-hasta-septiembre-e-incrementa-la-inversion-en-redes-un-42/"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "Redeia gana un 5,3% más y eleva un 19% su inversión en la red de transporte",
+        "en": "Redeia lifts profit 5.3% and boosts transmission investment by 19%"
+      },
+      "body": {
+        "es": "Redeia, matriz de Red Eléctrica, ganó 410 millones hasta septiembre y elevó casi un 18% su inversión, hasta 1.139 millones, casi toda destinada a la red. Sus acciones fueron las que más subieron del IBEX el miércoles.",
+        "en": "Redeia, the parent of grid operator Red Eléctrica, posted a nine-month net profit of €410 million and raised investment by almost 18% to €1.14 billion, nearly all of it in the grid. Its shares were the best performer on the IBEX on Wednesday."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/redeia-eleva-un-5-3-sus-ganancias-a-septiembre-hasta-410-millones-y-aumenta-un-19-sus-inversiones-en-redes/"
+      }
+    },
+    {
+      "id": "energia-4",
+      "section": "energia",
+      "title": {
+        "es": "La luz mayorista sube hoy a 231 €/MWh, con el pico más caro de octubre",
+        "en": "Wholesale power climbs to €231/MWh today, with October's priciest hour"
+      },
+      "body": {
+        "es": "El precio medio de la electricidad en el mercado mayorista ronda hoy los 231 €/MWh, cerca de un 17% más que el miércoles. La hora más cara, de 20 a 21 h, roza los 320 €/MWh, la más alta del mes.",
+        "en": "The average wholesale electricity price in Spain is about €231/MWh this Thursday, roughly 17% more than on Wednesday. The most expensive hour, from 8 to 9 pm, reaches almost €320/MWh, the highest of the month."
+      },
+      "why_it_matters": {
+        "es": "El gas caro, con el Brent por encima de 115 dólares, sigue encareciendo las horas de la tarde, cuando cae la producción solar.",
+        "en": "High gas prices, with Brent above $115, keep pushing up evening hours when solar output fades."
+      },
+      "source": {
+        "name": "Noticias Trabajo",
+        "url": "https://www.noticiastrabajo.es/economia/consumo/precio-luz-por-horas-29-octubre-2026/"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "La Fed mantiene los tipos, pero dos miembros votan por subir",
+        "en": "The Fed holds rates, but two officials vote for a hike"
+      },
+      "body": {
+        "es": "La Reserva Federal mantuvo su tipo de referencia en el 3,75%-4% por 10 votos a 2; Lisa Cook y Beth Hammack votaron a favor de subirlo un cuarto de punto. Los futuros descuentan ahora cerca de un 85% de probabilidad de una subida el 9 de diciembre, y Wall Street aun así subió por tercera sesión seguida.",
+        "en": "The US Federal Reserve kept its benchmark rate at 3.75%–4% in a 10–2 vote, with Lisa Cook and Beth Hammack dissenting in favour of a quarter-point increase. Futures markets now price in a roughly 85% chance of a hike on 9 December, and Wall Street still edged up for a third straight session."
+      },
+      "why_it_matters": {
+        "es": "Una Fed más dura mantiene el bono estadounidense a 10 años cerca del 5%, lo que encarece la financiación de sectores intensivos en capital como las eléctricas.",
+        "en": "A more hawkish Fed keeps the US 10-year yield around 5%, which raises borrowing costs for capital-intensive sectors such as utilities."
+      },
+      "source": {
+        "name": "Trading Key",
+        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262249004-us-stock-market-close-oracle-sk-hynix-fed-hold-sox-tradingkey"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "Microsoft convence con Azure; Alphabet se hunde un 8% tras sus resultados",
+        "en": "Microsoft impresses with Azure; Alphabet slides 8% after earnings"
+      },
+      "body": {
+        "es": "Tras el cierre, Microsoft presentó ingresos de 92.300 millones de dólares, un 19% más, con un crecimiento del 48% en su nube Azure, y sus acciones subieron fuera de hora. Los ingresos de Alphabet crecieron un 25%, hasta 127.600 millones, pero el beneficio por acción quedó muy por debajo de lo previsto y la acción cayó cerca de un 8% fuera de hora.",
+        "en": "After the bell, Microsoft reported revenue of $92.3 billion, up 19%, with its Azure cloud growing 48%, and its shares rose in after-hours trading. Alphabet's revenue rose 25% to $127.6 billion, but earnings per share came in well below forecasts and the stock fell about 8% after hours."
+      },
+      "why_it_matters": {
+        "es": "Los inversores premian el gasto en IA que ya se nota en los ingresos y lo castigan cuando aprieta los beneficios.",
+        "en": "Investors are rewarding AI spending that already shows up in revenue and punishing it when it squeezes profits."
+      },
+      "source": {
+        "name": "Economía Responsable",
+        "url": "https://www.economiaresponsablefinanzas.com/inversiones/mercados/mercados-hoy-28-octubre-2026/"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "14:15 — Decisión de tipos del BCE (depósito en el 2,50%); se espera que los mantenga. Rueda de prensa de Lagarde a las 14:45.",
+      "en": "2:15 pm — ECB rate decision (deposit rate at 2.50%); a hold is expected. Lagarde's press conference at 2:45 pm."
+    },
+    {
+      "es": "Nuevos datos sobre las causas del choque de trenes en Toledo; la alta velocidad Madrid-Andalucía sigue cortada.",
+      "en": "New details on the cause of the Toledo train crash; high-speed services between Madrid and Andalusia remain suspended."
+    },
+    {
+      "es": "Israel cierra el recuento electoral; Herzog empezará después las consultas para formar gobierno.",
+      "en": "Israel finishes counting votes; Herzog will then start consultations on forming a government."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "halves",
+      "translation": "reduce a la mitad",
+      "pos": "verb",
+      "example": "The new chip halves the energy needed for each query."
+    },
+    {
+      "term": "flag",
+      "translation": "señalar, advertir de",
+      "pos": "verb",
+      "example": "Auditors flagged several risks in the report."
+    },
+    {
+      "term": "predecessor",
+      "translation": "predecesor",
+      "pos": "noun",
+      "example": "The new model is faster than its predecessor."
+    },
+    {
+      "term": "peer agents",
+      "translation": "agentes homólogos",
+      "pos": "noun phrase",
+      "example": "The model obeyed instructions from peer agents."
+    },
+    {
+      "term": "frontier labs",
+      "translation": "laboratorios punteros de IA",
+      "pos": "noun phrase",
+      "example": "Frontier labs are competing on price."
+    },
+    {
+      "term": "viable",
+      "translation": "viable",
+      "pos": "adjective",
+      "example": "Cheaper power makes the project viable."
+    },
+    {
+      "term": "broadened",
+      "translation": "ampliado",
+      "pos": "verb",
+      "example": "The bank broadened its lending to small firms."
+    },
+    {
+      "term": "battleground",
+      "translation": "campo de batalla",
+      "pos": "noun",
+      "example": "Cloud services have become a key battleground."
+    },
+    {
+      "term": "listings",
+      "translation": "salidas a bolsa, cotizaciones",
+      "pos": "noun",
+      "example": "Several tech listings are expected next year."
+    },
+    {
+      "term": "spanning",
+      "translation": "que abarca",
+      "pos": "verb",
+      "example": "A report spanning ten years of data."
+    },
+    {
+      "term": "outflank",
+      "translation": "rodear, flanquear",
+      "pos": "verb",
+      "example": "The army tried to outflank the enemy lines."
+    },
+    {
+      "term": "workforce",
+      "translation": "plantilla",
+      "pos": "noun",
+      "example": "The company plans to reduce its workforce by 5%."
+    },
+    {
+      "term": "mismatch",
+      "translation": "desajuste",
+      "pos": "noun",
+      "example": "There was a mismatch between supply and demand."
+    },
+    {
+      "term": "disclosed",
+      "translation": "reveló, hizo público",
+      "pos": "verb",
+      "example": "The firm disclosed the breach a month later."
+    },
+    {
+      "term": "exploitation",
+      "translation": "explotación (de una vulnerabilidad)",
+      "pos": "noun",
+      "example": "There was no evidence of exploitation."
+    },
+    {
+      "term": "patched",
+      "translation": "parcheó, corrigió",
+      "pos": "verb",
+      "example": "The bug was patched within hours."
+    },
+    {
+      "term": "leak",
+      "translation": "filtrar",
+      "pos": "verb",
+      "example": "A misconfigured server can leak customer data."
+    },
+    {
+      "term": "turnouts",
+      "translation": "participaciones electorales",
+      "pos": "noun",
+      "example": "Turnout was higher than in the last election."
+    },
+    {
+      "term": "deadlock",
+      "translation": "bloqueo, punto muerto",
+      "pos": "noun",
+      "example": "The talks ended in deadlock."
+    },
+    {
+      "term": "watchdog",
+      "translation": "organismo supervisor",
+      "pos": "noun",
+      "example": "The competition watchdog opened an investigation."
+    },
+    {
+      "term": "stockpile",
+      "translation": "reservas, arsenal",
+      "pos": "noun",
+      "example": "The country holds a large stockpile of uranium."
+    },
+    {
+      "term": "conceded",
+      "translation": "reconocido (la derrota)",
+      "pos": "verb",
+      "example": "The candidate has not conceded defeat."
+    },
+    {
+      "term": "run-off",
+      "translation": "segunda vuelta",
+      "pos": "noun",
+      "example": "The two candidates will meet in a run-off."
+    },
+    {
+      "term": "slams into",
+      "translation": "choca violentamente contra",
+      "pos": "verb",
+      "example": "A truck slammed into the barrier."
+    },
+    {
+      "term": "embankment",
+      "translation": "terraplén",
+      "pos": "noun",
+      "example": "Two carriages rolled down the embankment."
+    },
+    {
+      "term": "tolls",
+      "translation": "balances de víctimas; peajes",
+      "pos": "noun",
+      "example": "The death toll is expected to rise."
+    },
+    {
+      "term": "back-up",
+      "translation": "de respaldo",
+      "pos": "adjective",
+      "example": "The hospital switched to back-up generators."
+    },
+    {
+      "term": "rolled over",
+      "translation": "prorrogado",
+      "pos": "verb",
+      "example": "The budget has been rolled over for three years."
+    },
+    {
+      "term": "drags",
+      "translation": "lastres",
+      "pos": "noun",
+      "example": "Banks were the main drags on the index."
+    },
+    {
+      "term": "flatten",
+      "translation": "aplanar",
+      "pos": "verb",
+      "example": "Batteries can flatten demand peaks."
+    },
+    {
+      "term": "in force",
+      "translation": "en vigor",
+      "pos": "phrase",
+      "example": "The new rules have been in force since January."
+    },
+    {
+      "term": "benchmark",
+      "translation": "referencia",
+      "pos": "noun",
+      "example": "The 10-year bond is a benchmark for borrowing costs."
+    },
+    {
+      "term": "capex",
+      "translation": "inversión en activos (CAPEX)",
+      "pos": "noun",
+      "example": "Utilities are raising capex on their grids."
+    },
+    {
+      "term": "dissenting",
+      "translation": "votando en contra, discrepando",
+      "pos": "verb",
+      "example": "Two members dissented from the decision."
+    },
+    {
+      "term": "price in",
+      "translation": "descontar (en el precio)",
+      "pos": "verb",
+      "example": "Markets have already priced in a rate hike."
+    },
+    {
+      "term": "edged up",
+      "translation": "subió ligeramente",
+      "pos": "verb",
+      "example": "Shares edged up in early trading."
+    },
+    {
+      "term": "hawkish",
+      "translation": "de línea dura (política monetaria)",
+      "pos": "adjective",
+      "example": "The central bank sounded more hawkish than expected."
+    },
+    {
+      "term": "capital-intensive",
+      "translation": "intensivo en capital",
+      "pos": "adjective",
+      "example": "Grids are a capital-intensive business."
+    },
+    {
+      "term": "after the bell",
+      "translation": "tras el cierre de la sesión",
+      "pos": "phrase",
+      "example": "The company reports results after the bell."
+    },
+    {
+      "term": "squeezes",
+      "translation": "aprieta, reduce",
+      "pos": "verb",
+      "example": "Rising costs squeeze profit margins."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "OpenAI has cut the API price of GPT-6.1 Terra to half the standard rate of its predecessor.",
+      "es": "OpenAI ha rebajado el precio de la API de GPT-6.1 Terra a la mitad de la tarifa estándar de su predecesor."
+    },
+    {
+      "en": "Its own safety evaluations, however, found cases in which the model ignored restrictions or followed unauthorized instructions coming from what looked like peer agents.",
+      "es": "Sin embargo, sus propias evaluaciones de seguridad encontraron casos en los que el modelo ignoró restricciones u obedeció instrucciones no autorizadas que parecían venir de otros agentes."
+    },
+    {
+      "en": "The move intensifies the price war among frontier labs as more companies run several agents that talk to each other.",
+      "es": "La medida intensifica la guerra de precios entre los grandes laboratorios en un momento en que cada vez más empresas usan varios agentes que se comunican entre sí."
+    },
+    {
+      "en": "Cheaper models make agents viable for more tasks, but the security risk shifts to how agents verify who is giving them orders.",
+      "es": "Los modelos más baratos hacen viables los agentes para más tareas, pero el riesgo de seguridad pasa a estar en cómo comprueban los agentes quién les da las órdenes."
+    },
+    {
+      "en": "Anthropic has broadened its agreement with the General Services Administration so that federal, state and local governments can buy Claude at a 40% discount.",
+      "es": "Anthropic ha ampliado su acuerdo con la Administración de Servicios Generales para que los gobiernos federal, estatales y locales puedan comprar Claude con un 40% de descuento."
+    },
+    {
+      "en": "The deal covers Claude Enterprise, Claude for Government and the API, and the company estimates it could save the public sector around $1 billion.",
+      "es": "El acuerdo cubre Claude Enterprise, Claude for Government y la API, y la empresa calcula que podría ahorrar al sector público unos 1.000 millones de dólares."
+    },
+    {
+      "en": "Anthropic says roughly 500 US government bodies already use its models.",
+      "es": "Anthropic afirma que unos 500 organismos públicos estadounidenses ya usan sus modelos."
+    },
+    {
+      "en": "The public sector is becoming a key battleground for AI labs seeking large, stable contracts ahead of possible stock market listings.",
+      "es": "El sector público se está convirtiendo en un campo de batalla clave para los laboratorios de IA que buscan contratos grandes y estables antes de sus posibles salidas a bolsa."
+    },
+    {
+      "en": "The startup Axiom says it has formally verified the Classification of Finite Simple Groups, one of the longest proofs in mathematics, spanning about 15,000 pages.",
+      "es": "La startup Axiom asegura haber verificado formalmente la Clasificación de los Grupos Finitos Simples, una de las demostraciones más largas de las matemáticas, de unas 15.000 páginas."
+    },
+    {
+      "en": "Its AI agents reportedly worked for 24 days to translate it into some 43 million lines of the Lean proof language.",
+      "es": "Según la empresa, sus agentes de IA trabajaron durante 24 días para traducirla a unos 43 millones de líneas en el lenguaje de demostración Lean."
+    },
+    {
+      "en": "The same day, Anthropic said Claude had produced machine-checkable security proofs for 123 open-source libraries.",
+      "es": "Ese mismo día, Anthropic dijo que Claude había generado pruebas de seguridad verificables por máquina para 123 bibliotecas de código abierto."
+    },
+    {
+      "en": "Formal verification lets humans trust AI output without re-checking every step by hand, which matters as AI starts producing results faster than experts can review them.",
+      "es": "La verificación formal permite confiar en los resultados de la IA sin revisar a mano cada paso, algo clave ahora que la IA produce resultados más rápido de lo que los expertos pueden revisarlos."
+    },
+    {
+      "en": "The Dutch government intends to eliminate around 25,000 state jobs, more than 15% of its civil service, as part of a savings plan linked to artificial intelligence.",
+      "es": "El Gobierno neerlandés quiere suprimir unos 25.000 puestos en la administración, más del 15% de su función pública, dentro de un plan de ahorro ligado a la inteligencia artificial."
+    },
+    {
+      "en": "It is one of the first times a European government has tied such a large workforce reduction explicitly to automation.",
+      "es": "Es una de las primeras veces que un gobierno europeo vincula de forma explícita una reducción de plantilla tan grande a la automatización."
+    },
+    {
+      "en": "It turns the debate about AI and jobs from forecasts into concrete public policy, and other governments will be watching the results.",
+      "es": "Lleva el debate sobre la IA y el empleo de las previsiones a la política concreta, y otros gobiernos estarán atentos a los resultados."
+    },
+    {
+      "en": "Cloudflare disclosed that a configuration mismatch triggered a bug in the inference engine behind one of its Workers AI models, so some users received cached answers generated for other customers.",
+      "es": "Cloudflare ha revelado que un desajuste de configuración activó un fallo en el motor de inferencia de uno de sus modelos de Workers AI, de modo que algunos usuarios recibieron respuestas en caché generadas para otros clientes."
+    },
+    {
+      "en": "The company identified 155 affected responses between late August and early September, found no sign of deliberate exploitation and has patched the problem.",
+      "es": "La empresa identificó 155 respuestas afectadas entre finales de agosto y principios de septiembre, no halló indicios de explotación intencionada y ya ha corregido el problema."
+    },
+    {
+      "en": "Caching tricks that make AI cheaper can leak data between users, a risk any company hosting models must now audit.",
+      "es": "Los trucos de caché que abaratan la IA pueden filtrar datos entre usuarios, un riesgo que cualquier empresa que aloje modelos debe auditar."
+    },
+    {
+      "en": "Apple has added an AI assistant to its office apps that drafts documents, helps build presentations and analyses spreadsheet data.",
+      "es": "Apple ha incorporado a sus aplicaciones ofimáticas un asistente de IA que redacta documentos, ayuda a preparar presentaciones y analiza datos de hojas de cálculo."
+    },
+    {
+      "en": "macOS 27 also supports the Model Context Protocol, which lets third-party agents plug into the system.",
+      "es": "macOS 27 también es compatible con el Model Context Protocol, que permite a agentes de terceros conectarse al sistema."
+    },
+    {
+      "en": "With counting still under way, Benjamin Netanyahu's Likud holds a seven-seat lead over Gadi Eisenkot's Yashar party after one of the highest turnouts in Israel's history.",
+      "es": "Con el recuento aún en marcha, el Likud de Benjamín Netanyahu aventaja en siete escaños al partido Yashar de Gadi Eisenkot, tras una de las participaciones más altas de la historia de Israel."
+    },
+    {
+      "en": "Exit polls suggest two Arab parties could win 17 to 18 seats, their best result ever, and neither bloc has a clear path to 61 seats.",
+      "es": "Los sondeos a pie de urna apuntan a que dos partidos árabes podrían lograr entre 17 y 18 escaños, su mejor resultado, y ningún bloque tiene un camino claro hacia los 61 escaños."
+    },
+    {
+      "en": "Once the final count is in, President Isaac Herzog will choose who gets the first chance to form a government.",
+      "es": "Cuando termine el recuento, el presidente Isaac Herzog elegirá a quién encarga primero formar gobierno."
+    },
+    {
+      "en": "A long deadlock could prolong political uncertainty at a time of high tension with Iran.",
+      "es": "Un bloqueo largo podría prolongar la incertidumbre política en un momento de gran tensión con Irán."
+    },
+    {
+      "en": "According to The Wall Street Journal, Washington has told several Gulf countries to get ready for a short, intense military campaign against Iran after the US midterm elections, and is sending an extra Patriot battery to Israel.",
+      "es": "Según The Wall Street Journal, Washington ha pedido a varios países del Golfo que se preparen para una campaña militar corta e intensa contra Irán tras las elecciones de mitad de mandato, y envía una batería Patriot adicional a Israel."
+    },
+    {
+      "en": "Meanwhile, the head of the UN nuclear watchdog said it has seen no Iranian work to rebuild damaged nuclear sites, although it still cannot verify Iran's stockpile of highly enriched uranium.",
+      "es": "Mientras, el jefe del organismo nuclear de la ONU dijo que no ha detectado trabajos iraníes para reconstruir las instalaciones dañadas, aunque sigue sin poder verificar sus reservas de uranio muy enriquecido."
+    },
+    {
+      "en": "Any escalation would hit oil prices, which are already above $115 a barrel.",
+      "es": "Cualquier escalada golpearía al petróleo, que ya supera los 115 dólares por barril."
+    },
+    {
+      "en": "Flávio Bolsonaro, who lost Sunday's presidential run-off to Lula, has not conceded and reportedly left Brazil through Argentina before flying to Ecuador.",
+      "es": "Flávio Bolsonaro, que perdió el domingo la segunda vuelta frente a Lula, no ha reconocido la derrota y, según la prensa, salió de Brasil por Argentina antes de volar a Ecuador."
+    },
+    {
+      "en": "Brazil's Supreme Court had ordered him to hand over his passport in a money-laundering case, and Donald Trump said he would welcome him in the United States.",
+      "es": "El Supremo brasileño le había ordenado entregar el pasaporte en un caso de blanqueo, y Donald Trump dijo que lo acogería en Estados Unidos."
+    },
+    {
+      "en": "Volodymyr Zelenskyy said Ukrainian troops are retaking ground through several offensives, including one that uses pipelines in the north-east to outflank Russian positions.",
+      "es": "Volodímir Zelenski afirmó que las tropas ucranianas están recuperando terreno con varias ofensivas, una de ellas aprovechando tuberías en el noreste para rodear posiciones rusas."
+    },
+    {
+      "en": "Separately, Finland and Norway held a call with Russia to pass on messages about future talks, a step that Denmark and Sweden criticised for risking a split in Europe's voice.",
+      "es": "Por otro lado, Finlandia y Noruega mantuvieron una llamada con Rusia para trasladar mensajes sobre futuras negociaciones, un paso que Dinamarca y Suecia criticaron porque podría dividir la voz europea."
+    },
+    {
+      "en": "The World Meteorological Organization reported that carbon dioxide reached 426.8 parts per million in 2025, about 153% of pre-industrial levels.",
+      "es": "La Organización Meteorológica Mundial informó de que el dióxido de carbono alcanzó 426,8 partes por millón en 2025, alrededor del 153% del nivel preindustrial."
+    },
+    {
+      "en": "The data comes weeks before the COP31 climate summit in Antalya, Turkey.",
+      "es": "El dato llega semanas antes de la cumbre del clima COP31 en Antalya (Turquía)."
+    },
+    {
+      "en": "A Renfe high-speed train ran into the back of an Iryo train that was stopped on the Madrid–Andalusia line between Los Yébenes and Urda on Wednesday morning, sending carriages down an embankment.",
+      "es": "Un tren de alta velocidad de Renfe embistió por detrás a un tren de Iryo que estaba detenido en la línea Madrid-Andalucía, entre Los Yébenes y Urda, el miércoles por la mañana, y varios coches cayeron por un terraplén."
+    },
+    {
+      "en": "The latest tolls reported by several outlets put the dead at 68 at least, with dozens injured, and officials warned the figure could still rise.",
+      "es": "Los últimos balances difundidos por varios medios elevan los fallecidos a al menos 68, con decenas de heridos, y las autoridades advierten de que la cifra aún puede subir."
+    },
+    {
+      "en": "The trains were running under a back-up signalling mode after a failure in the main system, and possible human error is being investigated; Adif has suspended high-speed traffic to Andalusia.",
+      "es": "Los trenes circulaban con un sistema de señalización de respaldo tras una avería del principal, y se investiga un posible error humano; Adif ha suspendido la alta velocidad hacia Andalucía."
+    },
+    {
+      "en": "It is the second deadly high-speed crash in Spain this year and will put rail safety and signalling at the centre of the election campaign.",
+      "es": "Es el segundo accidente mortal de alta velocidad en España este año y pondrá la seguridad ferroviaria y la señalización en el centro de la campaña electoral."
+    },
+    {
+      "en": "With parliament dissolved and a general election set for 29 November, the term closes without the government having passed a single new state budget.",
+      "es": "Con las Cortes disueltas y elecciones generales el 29 de noviembre, la legislatura termina sin que el Gobierno haya aprobado unos nuevos Presupuestos."
+    },
+    {
+      "en": "Spain has been running on the 2023 accounts, rolled over year after year, after Congress twice rejected the deficit path for 2027.",
+      "es": "España funciona con las cuentas de 2023, prorrogadas año tras año, después de que el Congreso rechazara dos veces la senda de déficit para 2027."
+    },
+    {
+      "en": "Banco Santander reported a net profit of €11.18 billion for the first nine months, up 16.1%, but its shares fell 5.6% and were among the biggest drags on the IBEX.",
+      "es": "Banco Santander ganó 11.176 millones de euros hasta septiembre, un 16,1% más, pero sus acciones cayeron un 5,6% y fueron de los mayores lastres del IBEX."
+    },
+    {
+      "en": "CNMC board member Joan Capdevila said the regulator will soon review the methodology behind electricity transmission and distribution tolls.",
+      "es": "El consejero de la CNMC Joan Capdevila dijo que el regulador revisará pronto la metodología de los peajes de transporte y distribución eléctrica."
+    },
+    {
+      "en": "The aim is to check whether the current structure reflects new uses of the grid, such as self-consumption, EV charging, storage and data centres, and whether it does enough to flatten demand peaks.",
+      "es": "El objetivo es comprobar si la estructura actual refleja los nuevos usos de la red, como el autoconsumo, la recarga de coches eléctricos, el almacenamiento y los centros de datos, y si ayuda lo suficiente a aplanar los picos de demanda."
+    },
+    {
+      "en": "Tolls are how distributors like i-DE recover their regulated revenue, so any redesign changes who pays for the grid and when.",
+      "es": "Los peajes son la vía por la que distribuidoras como i-DE recuperan su retribución regulada, así que cualquier rediseño cambia quién paga la red y cuándo."
+    },
+    {
+      "en": "Endesa earned €1.96 billion in the first nine months, up 15%, and its distribution EBITDA grew almost 25% thanks to the new regulatory framework in force since January.",
+      "es": "Endesa ganó 1.962 millones hasta septiembre, un 15% más, y el EBITDA de distribución creció casi un 25% gracias al nuevo marco regulatorio vigente desde enero."
+    },
+    {
+      "en": "It invested about €900 million in its networks, 42% more than a year earlier, and regulated businesses now generate nearly half of its EBITDA.",
+      "es": "Invirtió unos 900 millones en sus redes, un 42% más que un año antes, y los negocios regulados ya generan casi la mitad de su EBITDA."
+    },
+    {
+      "en": "It is a useful benchmark for Iberdrola's i-DE: the new remuneration period is rewarding grid capex across the sector.",
+      "es": "Es una buena referencia para i-DE de Iberdrola: el nuevo periodo retributivo está premiando la inversión en redes en todo el sector."
+    },
+    {
+      "en": "Redeia, the parent of grid operator Red Eléctrica, posted a nine-month net profit of €410 million and raised investment by almost 18% to €1.14 billion, nearly all of it in the grid.",
+      "es": "Redeia, matriz de Red Eléctrica, ganó 410 millones hasta septiembre y elevó casi un 18% su inversión, hasta 1.139 millones, casi toda destinada a la red."
+    },
+    {
+      "en": "Its shares were the best performer on the IBEX on Wednesday.",
+      "es": "Sus acciones fueron las que más subieron del IBEX el miércoles."
+    },
+    {
+      "en": "The average wholesale electricity price in Spain is about €231/MWh this Thursday, roughly 17% more than on Wednesday.",
+      "es": "El precio medio de la electricidad en el mercado mayorista ronda hoy los 231 €/MWh, cerca de un 17% más que el miércoles."
+    },
+    {
+      "en": "The most expensive hour, from 8 to 9 pm, reaches almost €320/MWh, the highest of the month.",
+      "es": "La hora más cara, de 20 a 21 h, roza los 320 €/MWh, la más alta del mes."
+    },
+    {
+      "en": "High gas prices, with Brent above $115, keep pushing up evening hours when solar output fades.",
+      "es": "El gas caro, con el Brent por encima de 115 dólares, sigue encareciendo las horas de la tarde, cuando cae la producción solar."
+    },
+    {
+      "en": "The US Federal Reserve kept its benchmark rate at 3.75%–4% in a 10–2 vote, with Lisa Cook and Beth Hammack dissenting in favour of a quarter-point increase.",
+      "es": "La Reserva Federal mantuvo su tipo de referencia en el 3,75%-4% por 10 votos a 2; Lisa Cook y Beth Hammack votaron a favor de subirlo un cuarto de punto."
+    },
+    {
+      "en": "Futures markets now price in a roughly 85% chance of a hike on 9 December, and Wall Street still edged up for a third straight session.",
+      "es": "Los futuros descuentan ahora cerca de un 85% de probabilidad de una subida el 9 de diciembre, y Wall Street aun así subió por tercera sesión seguida."
+    },
+    {
+      "en": "A more hawkish Fed keeps the US 10-year yield around 5%, which raises borrowing costs for capital-intensive sectors such as utilities.",
+      "es": "Una Fed más dura mantiene el bono estadounidense a 10 años cerca del 5%, lo que encarece la financiación de sectores intensivos en capital como las eléctricas."
+    },
+    {
+      "en": "After the bell, Microsoft reported revenue of $92.3 billion, up 19%, with its Azure cloud growing 48%, and its shares rose in after-hours trading.",
+      "es": "Tras el cierre, Microsoft presentó ingresos de 92.300 millones de dólares, un 19% más, con un crecimiento del 48% en su nube Azure, y sus acciones subieron fuera de hora."
+    },
+    {
+      "en": "Alphabet's revenue rose 25% to $127.6 billion, but earnings per share came in well below forecasts and the stock fell about 8% after hours.",
+      "es": "Los ingresos de Alphabet crecieron un 25%, hasta 127.600 millones, pero el beneficio por acción quedó muy por debajo de lo previsto y la acción cayó cerca de un 8% fuera de hora."
+    },
+    {
+      "en": "Investors are rewarding AI spending that already shows up in revenue and punishing it when it squeezes profits.",
+      "es": "Los inversores premian el gasto en IA que ya se nota en los ingresos y lo castigan cuando aprieta los beneficios."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "hawkish",
+    "pos": "adjective",
+    "translation": "partidario de endurecer la política monetaria (halcón)",
+    "definition_en": "Favouring higher interest rates or tighter monetary policy in order to control inflation, even at the cost of slower growth.",
+    "example_en": "Two hawkish dissents suggest the Fed is likely to raise rates in December.",
+    "example_es": "Dos votos discrepantes de corte halcón sugieren que la Fed probablemente subirá los tipos en diciembre."
+  },
+  "recommendations": [
+    {
+      "id": "ai-practitioner-anthropic-ipo-openai-proof-nvidia-pricing",
+      "type": "podcast",
+      "title": "Anthropic's IPO, OpenAI's Proof, and Nvidia's Pricing",
+      "speaker": "Lina Faik",
+      "outlet": "The AI Practitioner Brief",
+      "duration_min": 10,
+      "language": "en",
+      "topics": [
+        "IA",
+        "mercados"
+      ],
+      "summary": "Resumen en menos de diez minutos de la semana en IA: la posible salida a bolsa de Anthropic y sus pérdidas, una demostración matemática atribuida a un modelo de OpenAI y la idea de Nvidia de cobrar una cuota anual por chip.",
+      "why": "Formato corto en inglés con transcripción: perfecto para practicar listening con el texto delante.",
+      "url": "https://aipractitioner.substack.com/p/anthropics-ipo-openais-proof-and"
+    },
+    {
+      "id": "bbva-blink-cop31-objetivos-accion",
+      "type": "podcast",
+      "title": "COP31: ¿cómo pasar de los objetivos climáticos a la acción?",
+      "speaker": "Julián Cubero (BBVA Research)",
+      "outlet": "BBVA Podcast · Blink",
+      "duration_min": 14,
+      "language": "es",
+      "topics": [
+        "energía",
+        "clima",
+        "economía"
+      ],
+      "summary": "Un economista de BBVA Research repasa qué se juega la cumbre del clima de Antalya: financiación climática, cumplimiento del Acuerdo de París y cómo movilizar inversión pública y privada.",
+      "why": "Contexto rápido sobre la financiación de la transición energética, que acaba llegando a los planes de inversión en redes.",
+      "url": "https://www.bbva.com/es/sostenibilidad/podcast-cop31-como-pasar-de-los-objetivos-climaticos-a-la-accion/"
+    },
+    {
+      "id": "anthropic-early-progress-drug-development",
+      "type": "article",
+      "title": "Early progress in drug development with Claude",
+      "speaker": "Anthropic",
+      "outlet": "Anthropic Research",
+      "duration_min": 12,
+      "language": "en",
+      "topics": [
+        "IA",
+        "ciencia"
+      ],
+      "summary": "Anthropic explica los primeros resultados de sus alianzas en descubrimiento de fármacos, como el diseño de miles de variantes de anticuerpos asistido por IA. La mayoría del trabajo sigue en fase preclínica.",
+      "why": "Buen ejemplo de cómo una empresa de IA presenta resultados científicos; útil para leer con espíritu crítico.",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development"
+    },
+    {
+      "id": "cloudflare-kv-cache-exposure-remediation",
+      "type": "article",
+      "title": "KV cache exposure: what happened and how we fixed it",
+      "speaker": "Cloudflare",
+      "outlet": "Cloudflare Blog",
+      "duration_min": 10,
+      "language": "en",
+      "topics": [
+        "IA",
+        "ciberseguridad"
+      ],
+      "summary": "Informe técnico de Cloudflare sobre el fallo que hizo que algunos clientes recibieran respuestas de IA generadas para otros: causa, alcance y medidas tomadas.",
+      "why": "Un post-mortem bien escrito en inglés técnico; enseña cómo se comunica un incidente con transparencia.",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
+    },
+    {
+      "id": "neuron-everything-ai-2026-10-28",
+      "type": "article",
+      "title": "Everything That Happened in AI Today — Wednesday, October 28",
+      "speaker": "The Neuron",
+      "outlet": "The Neuron",
+      "duration_min": 8,
+      "language": "en",
+      "topics": [
+        "IA"
+      ],
+      "summary": "Recopilatorio diario con todos los lanzamientos, acuerdos y estudios de IA del miércoles, cada uno con su enlace a la fuente original.",
+      "why": "Para ampliar cualquiera de las noticias de IA de hoy y ver qué se queda fuera del panel.",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-october-28-2026/"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "El IBEX 35 cayó un 1,45% y perdió los 18.900 puntos, lastrado por Acciona Energía (ante la posible retirada de fondos de la puja por la filial) y por Santander pese a sus buenos resultados; Redeia lideró las subidas. El resto de Europa terminó casi plano. En Wall Street, el S&P 500 marcó otro máximo tras la decisión de la Fed de mantener tipos, aunque dos votos a favor de subir refuerzan las apuestas de una subida en diciembre. El Brent subió un 2% hasta 116 dólares. Tras el cierre, Microsoft subió y Alphabet cayó con fuerza por sus resultados.",
+      "en": "The IBEX 35 fell 1.45% and slipped below 18,900 points, dragged down by Acciona Energía, amid reports that funds may pull out of the bid for its subsidiary, and by Santander despite solid results; Redeia led the gainers. The rest of Europe ended roughly flat. On Wall Street, the S&P 500 set another record after the Fed held rates, although two votes for a hike strengthened bets on a December increase. Brent rose 2% to $116. After the close, Microsoft gained while Alphabet fell sharply on its earnings."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35",
+        "value": 18883.5,
+        "change_pct": -1.45
+      },
+      {
+        "name": "S&P 500",
+        "value": 7743.98,
+        "change_pct": 0.28
+      },
+      {
+        "name": "Nasdaq Composite",
+        "value": 26549.85,
+        "change_pct": 0.27
+      },
+      {
+        "name": "Dow Jones",
+        "value": 52475.1,
+        "change_pct": 0.19
+      },
+      {
+        "name": "EUR/USD",
+        "value": 1.1148,
+        "change_pct": 0.21
+      },
+      {
+        "name": "Brent (USD/barril)",
+        "value": 116.25,
+        "change_pct": 2.08
+      },
+      {
+        "name": "Oro (USD/onza, aprox.)",
+        "value": 4053,
+        "change_pct": -0.51
+      },
+      {
+        "name": "Bitcoin (USD, aprox.)",
+        "value": 80498,
+        "change_pct": -0.17
+      }
+    ],
+    "learn": {
+      "concept": "Peajes de acceso y cargos del sistema",
+      "explanation": "En la factura eléctrica, los peajes pagan el uso de las redes de transporte y distribución y los fija la CNMC con su metodología; los cargos cubren otros costes del sistema (como las primas a renovables antiguas) y los fija el Ministerio. Con los peajes, las distribuidoras como i-DE recuperan su retribución regulada, calculada sobre los activos y la inversión. Su estructura (por periodos horarios y potencia) también envía señales para usar la red cuando está menos cargada; por eso la CNMC quiere revisarla ahora que crecen el autoconsumo, el coche eléctrico y los centros de datos."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
