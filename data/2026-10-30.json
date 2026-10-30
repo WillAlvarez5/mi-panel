@@ -1,0 +1,1031 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T07:05:54+01:00",
+  "last_updated": "2026-10-30T07:05:54+01:00",
+  "headline": {
+    "es": "La investigación del choque de Urda (69 muertos) apunta a un fallo del sistema de señalización y a una orden de reanudar la marcha; Alphabet vive su peor día en bolsa y Lagarde anuncia que dejará el BCE en febrero.",
+    "en": "Investigators link the Urda crash, which killed 69, to a signalling failure and an order to resume speed; Alphabet has its worst day ever on Wall Street and Lagarde says she will leave the ECB in February."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "Mistral publica Large 4, un modelo abierto de un billón de parámetros",
+        "en": "Mistral releases Large 4, a trillion-parameter open-weight model"
+      },
+      "body": {
+        "es": "La start-up francesa Mistral ha publicado los pesos de Mistral Large 4, un modelo multimodal de mezcla de expertos con un billón de parámetros. Se distribuye con una licencia MIT modificada y se puede descargar desde Hugging Face. A través de la API cuesta 0,70 dólares por millón de tokens de entrada y 2,10 por millón de salida, muy por debajo de la mayoría de rivales estadounidenses.",
+        "en": "French start-up Mistral has published the weights of Mistral Large 4, a multimodal mixture-of-experts model with one trillion parameters. It ships under a modified MIT licence and can be downloaded from Hugging Face. Through the API it costs $0.70 per million input tokens and $2.10 per million output tokens, well below most US rivals."
+      },
+      "why_it_matters": {
+        "es": "Mantiene a Europa en la carrera de los modelos punteros y da a las empresas una opción más barata que pueden ejecutar en sus propios servidores.",
+        "en": "It keeps Europe in the race for frontier models and gives companies a cheaper option they can run on their own servers."
+      },
+      "source": {
+        "name": "Mistral AI",
+        "url": "https://mistral.ai/news/mistral-large-4-oss/"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "Microsoft ingresó 10.000 millones de dólares de OpenAI en un solo trimestre",
+        "en": "Microsoft booked $10 billion of revenue from OpenAI in one quarter"
+      },
+      "body": {
+        "es": "Un documento regulatorio muestra que Microsoft ingresó unos 10.000 millones de dólares por sus acuerdos con OpenAI entre julio y septiembre, alrededor del 11% de sus ingresos totales. Además, OpenAI le debía 7.200 millones al cierre del periodo. Azure, su negocio en la nube, creció un 48%, lo que tranquilizó a los inversores preocupados por el fuerte gasto en centros de datos.",
+        "en": "A regulatory filing shows that Microsoft earned about $10 billion from its arrangements with OpenAI in the July-September quarter, roughly 11% of its total revenue. OpenAI also owed it $7.2 billion at the end of the period. Azure, its cloud business, grew 48%, which reassured investors worried about heavy spending on data centres."
+      },
+      "why_it_matters": {
+        "es": "Muestra lo dependiente que se ha vuelto Microsoft de un único cliente y socio.",
+        "en": "It shows how dependent Microsoft has become on a single customer and partner."
+      },
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "Un modelo inédito de Anthropic encadena fallos para tomar el control de sistemas",
+        "en": "An unreleased Anthropic model chained flaws into working attacks"
+      },
+      "body": {
+        "es": "El equipo Frontier Red Team de Anthropic afirma que un modelo de investigación de Claude aún no publicado construyó cadenas de explotación completas en cinco plataformas. Entre ellas, un ataque sin clics que logra el control total de máquinas Linux y una forma de escapar del aislamiento de Chrome. Todos los fallos se comunicaron a los fabricantes y se corrigieron antes de hacerse públicos.",
+        "en": "Anthropic's Frontier Red Team says an unreleased Claude research model built complete exploit chains on five platforms. They include a zero-click attack that gains full control of Linux machines and a way to escape Chrome's sandbox. All the flaws were reported to the vendors and patched before being disclosed."
+      },
+      "why_it_matters": {
+        "es": "La IA ya es capaz de encontrar por sí sola vulnerabilidades graves, lo que ayuda a los defensores pero también eleva lo que está en juego.",
+        "en": "AI is becoming powerful enough to find serious vulnerabilities on its own, which helps defenders but also raises the stakes."
+      },
+      "source": {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "Google lanza Gemini 4 Carbon, un modelo para ciberdefensa",
+        "en": "Google launches Gemini 4 Carbon, a model for cyber defence"
+      },
+      "body": {
+        "es": "Google ha presentado Gemini 4 Carbon, un modelo especializado en seguridad e ingeniería de software, dos semanas después de Gemini 4 Argon. El acceso está limitado a equipos de ciberdefensa verificados a través de un programa específico. Cuesta 2 dólares por millón de tokens de entrada y 10 por millón de salida.",
+        "en": "Google has introduced Gemini 4 Carbon, a model specialised in security and software engineering, two weeks after Gemini 4 Argon. Access is restricted to vetted cyber defenders through a dedicated programme. It costs $2 per million input tokens and $10 per million output tokens."
+      },
+      "source": {
+        "name": "Google",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "EE. UU. examina la compra de Hugging Face por Nvidia",
+        "en": "US regulators scrutinise Nvidia's purchase of Hugging Face"
+      },
+      "body": {
+        "es": "El Departamento de Justicia de EE. UU. está analizando la compra de Hugging Face por Nvidia por 12.900 millones de dólares; Hugging Face es la principal plataforma para compartir modelos de IA abiertos. La investigación abarca también otras operaciones recientes de Nvidia, como un acuerdo de licencias de 20.000 millones con Groq. Nvidia insiste en que Hugging Face seguirá siendo neutral respecto a chips y nubes.",
+        "en": "The US Justice Department is looking into Nvidia's $12.9 billion acquisition of Hugging Face, the main platform for sharing open AI models. The probe also covers other recent Nvidia deals, including a $20 billion licensing agreement with Groq. Nvidia insists Hugging Face will stay neutral across chips and clouds."
+      },
+      "why_it_matters": {
+        "es": "A los reguladores les preocupa que un gigante de los chips controle dónde se distribuyen los modelos y pueda desequilibrar todo el mercado.",
+        "en": "Regulators fear that a chip giant controlling where models are distributed could tilt the whole market."
+      },
+      "source": {
+        "name": "PYMNTS / CPI",
+        "url": "https://pymnts.com/cpi-posts/nvidias-12-9-billion-hugging-face-deal-draws-justice-department-questions/"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "China propone restringir la exportación de 23 tecnologías de IA",
+        "en": "China moves to restrict exports of 23 AI technologies"
+      },
+      "body": {
+        "es": "Un borrador del Ministerio de Comercio chino añadiría 23 tecnologías de IA, entre ellas modelos avanzados, agentes autónomos y diseño de chips, a su lista de control de exportaciones. Los extranjeros podrían seguir usando modelos chinos a través de servicios en la nube, pero transferir la tecnología al exterior requeriría autorización del Gobierno. El plazo de alegaciones está abierto hasta el 15 de noviembre.",
+        "en": "A draft from China's Commerce Ministry would add 23 AI technologies, including advanced models, autonomous agents and chip design, to its export-control list. Foreigners could still use Chinese models through cloud services, but transferring the technology abroad would need government approval. Comments are open until 15 November."
+      },
+      "why_it_matters": {
+        "es": "Pekín pasa a proteger sus propias joyas de la corona en IA, en un espejo de los controles de EE. UU. sobre los chips.",
+        "en": "Beijing is now guarding its own AI crown jewels, mirroring the US controls on chips."
+      },
+      "source": {
+        "name": "Reuters (vía WHBL)",
+        "url": "https://whbl.com/2026/10/28/analysis-chinas-new-export-curbs-draw-a-line-around-its-ai-crown-jewels/"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Vance escribe a Irán para reactivar las negociaciones de paz",
+        "en": "Vance writes to Iran to revive peace talks"
+      },
+      "body": {
+        "es": "El vicepresidente de EE. UU., JD Vance, ha enviado una carta a un alto responsable de seguridad iraní para intentar reanudar las negociaciones de paz, según el Wall Street Journal. Mediadores del Golfo encabezados por Catar impulsan un acuerdo por el que Irán dejaría entrar a inspectores de la ONU en sus instalaciones nucleares bombardeadas a cambio de un alivio de sanciones.",
+        "en": "US Vice President JD Vance has sent a letter to a senior Iranian security official in an attempt to restart peace talks, according to the Wall Street Journal. Gulf mediators led by Qatar are pushing a deal in which Iran would let UN inspectors into its bombed nuclear sites in exchange for sanctions relief."
+      },
+      "why_it_matters": {
+        "es": "Algunos responsables advierten de que los bombardeos podrían reanudarse poco después de las elecciones de mitad de mandato si no hay acuerdo, lo que mantiene alto el precio del petróleo.",
+        "en": "Officials warn that bombing could resume shortly after the US midterms if there is no deal, which keeps oil prices high."
+      },
+      "source": {
+        "name": "Wall Street Journal",
+        "url": "https://www.wsj.com/world/middle-east/vance-reaches-out-to-iranian-hard-liner-in-bid-to-restart-peace-talks-2c8a2ab8"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Un dron ruso mata a 13 personas en la estación de tren de Dnipró",
+        "en": "Russian drone kills 13 at Dnipro railway station"
+      },
+      "body": {
+        "es": "Un dron ruso impactó en un andén abarrotado de la estación principal de la ciudad ucraniana de Dnipró y mató a 13 personas, según el gobernador regional. Mientras tanto, Rusia aseguró haber derribado la mayoría de los más de 600 drones ucranianos dirigidos contra Moscú.",
+        "en": "A Russian drone struck a crowded platform at the main railway station in the Ukrainian city of Dnipro, killing 13 people, according to the regional governor. Meanwhile, Russia said it had downed most of more than 600 Ukrainian drones aimed at Moscow."
+      },
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "Moscú negocia con Washington un alivio de sanciones a su fondo soberano",
+        "en": "Moscow discusses sanctions relief for its sovereign fund with Washington"
+      },
+      "body": {
+        "es": "Un asesor destacado del Kremlin confirmó que Rusia está hablando con la Administración Trump sobre levantar las sanciones al Fondo Ruso de Inversión Directa. Añadió que el calendario de la próxima ronda de negociaciones a tres bandas sobre Ucrania depende del conflicto en Oriente Próximo.",
+        "en": "A senior Kremlin aide confirmed that Russia is talking to the Trump administration about lifting sanctions on the Russian Direct Investment Fund. He added that the timing of the next round of three-way talks on Ukraine depends on the conflict in the Middle East."
+      },
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/next-round-ukraine-talks-depends-middle-east-other-factors-kremlin-aide-says-2026-10-28/"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Corea del Norte dispara diez misiles balísticos de corto alcance",
+        "en": "North Korea fires ten short-range ballistic missiles"
+      },
+      "body": {
+        "es": "El Ejército surcoreano informó de que el Norte lanzó diez misiles balísticos de corto alcance desde la zona de Wonsan hacia el mar frente a su costa oriental. Japón también informó de un posible lanzamiento.",
+        "en": "South Korea's military said the North launched ten short-range ballistic missiles from the Wonsan area into the sea off its east coast. Japan also reported a suspected launch."
+      },
+      "source": {
+        "name": "AP",
+        "url": "https://apnews.com/article/north-korea-projectile-launch-b1a2feff5944a71c716ed37fd94e8aa5"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "La ONU acusa al Gobierno de Nicaragua de crímenes contra la humanidad",
+        "en": "UN investigators accuse Nicaragua's rulers of crimes against humanity"
+      },
+      "body": {
+        "es": "Investigadores de derechos humanos de la ONU afirmaron que los copresidentes Daniel Ortega y Rosario Murillo han construido una dictadura y que hay motivos razonables para creer que se han cometido crímenes contra la humanidad. Nicaragua, que ha abandonado el Consejo de Derechos Humanos, rechazó las conclusiones.",
+        "en": "UN human rights investigators said co-presidents Daniel Ortega and Rosario Murillo have built a dictatorship and that there are reasonable grounds to believe crimes against humanity have been committed. Nicaragua, which has left the Human Rights Council, rejected the findings."
+      },
+      "source": {
+        "name": "AP",
+        "url": "https://apnews.com/article/un-nicaragua-crimes-human-rights-dictatorship-ortega-e54852b330be9e37994135f133c66e8a"
+      }
+    },
+    {
+      "id": "mundo-6",
+      "section": "mundo",
+      "title": {
+        "es": "La condena de la ONU al embargo a Cuba pierde apoyos",
+        "en": "UN condemnation of the Cuba embargo loses support"
+      },
+      "body": {
+        "es": "La Asamblea General de la ONU volvió a votar contra el embargo de EE. UU. a Cuba, con 130 votos a favor, 17 en contra y 25 abstenciones. Son 35 votos a favor menos que el año pasado, una señal de la presión de Washington.",
+        "en": "The UN General Assembly again voted against the US embargo on Cuba, with 130 votes in favour, 17 against and 25 abstentions. That is 35 fewer votes in favour than last year, a sign of Washington's lobbying."
+      },
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/americas/us-gets-more-countries-oppose-un-resolution-condemning-its-cuba-embargo-2026-10-28/"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "Choque de Urda: la investigación apunta a un fallo del sistema de señalización y a una orden de reanudar la marcha",
+        "en": "Urda crash: investigators point to a signalling failure and an order to resume speed"
+      },
+      "body": {
+        "es": "El balance del choque del miércoles cerca de Urda (Toledo), en el que un AVE de Renfe embistió por detrás a un tren de Iryo detenido, es de 69 fallecidos, y unas 50 personas siguen hospitalizadas. Las primeras conclusiones apuntan a una caída del sistema de señalización LZB y a una instrucción posterior de la sala de control de Adif que permitió al AVE reanudar la marcha normal. El ministro de Transportes, Óscar Puente, comparecerá en el Congreso el 3 de noviembre, mientras la oposición exige responsabilidades políticas.",
+        "en": "The death toll from Wednesday's collision near Urda (Toledo), where a Renfe AVE hit a stationary Iryo train from behind, stands at 69, with around 50 people still in hospital. Early findings point to a breakdown of the LZB signalling system and a later instruction from Adif's control room allowing the AVE to resume normal speed. Transport Minister Óscar Puente will appear before Congress on 3 November, while the opposition demands political accountability."
+      },
+      "why_it_matters": {
+        "es": "Es uno de los accidentes ferroviarios más graves de la historia de España y pone bajo examen los protocolos de seguridad de la red de alta velocidad.",
+        "en": "It is one of the deadliest rail accidents in Spain's history and puts the safety protocols of the high-speed network under scrutiny."
+      },
+      "source": {
+        "name": "elDiario.es",
+        "url": "https://www.eldiario.es/castilla-la-mancha/aumenta-74-numero-accidente-urda_1_13623510.html"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "La huelga de maquinistas suprime 606 trenes y Ouigo cancela sus servicios del viernes y el lunes",
+        "en": "Train drivers' strike cancels 606 services; Ouigo halts trains on Friday and Monday"
+      },
+      "body": {
+        "es": "La huelga de 24 horas convocada por el sindicato de maquinistas SEMAF fue secundada por cerca del 27% de la plantilla de Renfe y obligó a cancelar 606 trenes de servicio público. Ouigo ha cancelado todos sus trenes del viernes y del lunes, y el sindicato ha anunciado nuevos paros.",
+        "en": "A 24-hour strike called by the SEMAF drivers' union was backed by about 27% of Renfe staff and led to the cancellation of 606 public-service trains. Ouigo has cancelled all its trains for Friday and Monday, and the union has announced further stoppages."
+      },
+      "source": {
+        "name": "OKDIARIO (directo)",
+        "url": "https://okdiario.com/espana/ultimas-noticias-del-accidente-trenes-toledo-directo-balance-muertos-heridos-desaparecidos-iryo-ave-afectados-huelga-renfe-hoy-20655594"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "Valencia recuerda a las víctimas de la DANA dos años después",
+        "en": "Valencia remembers the victims of the 2024 floods two years on"
+      },
+      "body": {
+        "es": "El jueves se celebraron marchas para recordar los dos años de las inundaciones de octubre de 2024 en Valencia, que causaron 233 muertos. El acto de homenaje en Paiporta se aplazó al 5 de noviembre por respeto a las víctimas del accidente ferroviario.",
+        "en": "Marches were held on Thursday to mark two years since the October 2024 floods in Valencia, which killed 233 people. The memorial event in Paiporta was postponed to 5 November out of respect for the victims of the rail crash."
+      },
+      "source": {
+        "name": "EFE (vía Infobae)",
+        "url": "https://www.infobae.com/espana/agencias/2026/10/28/hoy-sera-noticia-jueves-29-de-octubre/"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "Las grandes energéticas ganan un 47% más hasta septiembre, impulsadas por el crudo",
+        "en": "Spain's big energy firms lift profits by 47% on higher oil prices"
+      },
+      "body": {
+        "es": "Iberdrola, Repsol, Naturgy y Endesa ganaron en conjunto 14.500 millones de euros en los nueve primeros meses, un 47% más que un año antes, en gran parte porque el conflicto en Oriente Próximo encareció el petróleo y el gas. Repsol encabeza la subida con un 325%, mientras que Iberdrola y Endesa crecieron sobre todo gracias a sus redes reguladas. Iberdrola prevé invertir 1.200 millones de euros en redes de distribución en España en 2027, un 50% más que en 2025.",
+        "en": "Iberdrola, Repsol, Naturgy and Endesa earned a combined €14.5 billion in the first nine months, 47% more than a year earlier, largely because the Middle East conflict pushed up oil and gas prices. Repsol led the way with a 325% jump, while Iberdrola and Endesa grew mainly thanks to their regulated networks. Iberdrola plans to invest €1.2 billion in Spanish distribution networks in 2027, 50% more than in 2025."
+      },
+      "why_it_matters": {
+        "es": "Las redes ya generan más de la mitad del EBITDA de Iberdrola, que es justo el negocio que planifica y controla tu departamento.",
+        "en": "Networks already generate more than half of Iberdrola's EBITDA, which is exactly the business your department plans and monitors."
+      },
+      "source": {
+        "name": "Infobae / EFE",
+        "url": "https://www.infobae.com/espana/2026/10/29/las-energeticas-disparan-su-beneficio-un-47-hasta-septiembre-por-el-alza-del-crudo-ganan-14542-millones-y-repsol-lidera-con-una-subida-del-325/"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "España y otros cuatro países piden a Bruselas un impuesto temporal a las energéticas",
+        "en": "Spain and four other countries ask Brussels for a temporary levy on energy firms"
+      },
+      "body": {
+        "es": "El ministro de Economía, Carlos Cuerpo, y sus homólogos de Alemania, Italia, Austria y Portugal han pedido a la Comisión Europea un instrumento temporal de solidaridad sobre las empresas energéticas. En la práctica funcionaría como un impuesto sobre los beneficios extraordinarios derivados de los altos precios de los combustibles.",
+        "en": "Economy Minister Carlos Cuerpo and his counterparts from Germany, Italy, Austria and Portugal have asked the European Commission for a temporary solidarity instrument on energy companies. In practice it would work as a windfall tax on the extra profits from high fuel prices."
+      },
+      "why_it_matters": {
+        "es": "Un nuevo gravamen podría afectar a los beneficios y planes de inversión del sector, como ocurrió con el impuesto energético español de 2023-2024.",
+        "en": "A new levy could hit sector earnings and investment plans, as happened with Spain's 2023-2024 energy tax."
+      },
+      "source": {
+        "name": "Infobae / EFE",
+        "url": "https://www.infobae.com/espana/2026/10/29/las-energeticas-disparan-su-beneficio-un-47-hasta-septiembre-por-el-alza-del-crudo-ganan-14542-millones-y-repsol-lidera-con-una-subida-del-325/"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "EE. UU. presta 5.000 millones a Constellation para ampliar 11 reactores que alimentarán centros de datos",
+        "en": "US lends $5 billion to Constellation to uprate 11 reactors for data centres"
+      },
+      "body": {
+        "es": "El Departamento de Energía de EE. UU. prestará 5.000 millones de dólares a Constellation para repotenciar 11 reactores nucleares y añadir unos 1,1 GW de capacidad. La producción adicional ya está contratada por Google, Amazon y Meta.",
+        "en": "The US Department of Energy will lend $5 billion to Constellation to uprate 11 nuclear reactors, adding about 1.1 GW of capacity. The extra output has already been contracted by Google, Amazon and Meta."
+      },
+      "why_it_matters": {
+        "es": "La demanda de la IA está convirtiendo centrales y redes existentes en activos estratégicos, una tendencia que también impulsa la inversión de Iberdrola en EE. UU.",
+        "en": "AI demand is turning existing power plants and grids into strategic assets, a trend that also drives Iberdrola's US investment."
+      },
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "El BCE mantiene los tipos en el 2,5% y Lagarde anuncia que se irá en febrero",
+        "en": "ECB holds rates at 2.5% as Lagarde announces she will leave in February"
+      },
+      "body": {
+        "es": "El Banco Central Europeo mantuvo el tipo de depósito en el 2,5%, como se esperaba, y dejó la puerta abierta a una subida en diciembre. Christine Lagarde anunció que dejará el cargo el 7 de febrero de 2027, antes de las elecciones presidenciales francesas.",
+        "en": "The European Central Bank kept its deposit rate at 2.5%, as expected, and left the door open to a hike in December. Christine Lagarde said she will step down on 7 February 2027, ahead of France's presidential election."
+      },
+      "why_it_matters": {
+        "es": "Unos tipos más altos encarecen la deuda de las eléctricas, que se endeudan mucho para construir redes.",
+        "en": "Higher rates raise the cost of debt for utilities that borrow heavily to build grids."
+      },
+      "source": {
+        "name": "Infobae",
+        "url": "https://www.infobae.com/espana/2026/10/29/el-bce-cumple-las-previsiones-y-mantiene-los-tipos-de-interes-en-el-25-a-la-espera-de-una-nueva-subida-en-diciembre/"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "Alphabet vive su peor día en bolsa por el gasto en IA; Amazon e Intel caen tras el cierre",
+        "en": "Alphabet suffers its worst day ever over AI spending; Amazon and Intel slide after hours"
+      },
+      "body": {
+        "es": "Las acciones de Alphabet se desplomaron un 12,6% después de que la compañía presentara un flujo de caja libre negativo y anticipara un gasto de capital de más de 300.000 millones de dólares en 2027. Tras el cierre, Amazon cayó en torno a un 7% e Intel más de un 16% por unas previsiones débiles. El PIB de EE. UU. creció a un ritmo anualizado del 3,4% en el tercer trimestre, por encima de lo previsto.",
+        "en": "Alphabet shares plunged 12.6% after the company reported negative free cash flow and signalled capital spending of more than $300 billion in 2027. After the close, Amazon fell about 7% and Intel more than 16% on weak guidance. US GDP grew at a 3.4% annualised rate in the third quarter, above forecasts."
+      },
+      "why_it_matters": {
+        "es": "Los inversores ya no premian la inversión en IA por sí sola: quieren verla respaldada por flujo de caja.",
+        "en": "Investors are no longer rewarding AI investment on its own: they want to see it backed by cash flow."
+      },
+      "source": {
+        "name": "StockTitan",
+        "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "Banco de Japón: decisión de tipos e informe de perspectivas.",
+      "en": "Bank of Japan: rate decision and outlook report."
+    },
+    {
+      "es": "13:30 — Índice de costes laborales del 3T en EE. UU.; antes de la apertura presentan resultados ExxonMobil y Chevron.",
+      "en": "1:30 pm — US Q3 Employment Cost Index; ExxonMobil and Chevron report results before the opening bell."
+    },
+    {
+      "es": "Ferrocarril: arranca el plan alternativo de Renfe entre Madrid y Andalucía y Ouigo no opera hoy por la huelga.",
+      "en": "Rail: Renfe's alternative plan between Madrid and Andalusia begins, and Ouigo is not running today because of the strike."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "weights",
+      "translation": "pesos (de un modelo de IA)",
+      "pos": "noun",
+      "example": "The company published the weights so anyone can run the model."
+    },
+    {
+      "term": "mixture-of-experts",
+      "translation": "mezcla de expertos (arquitectura de IA)",
+      "pos": "noun",
+      "example": "A mixture-of-experts model only activates part of its parameters for each task."
+    },
+    {
+      "term": "ships",
+      "translation": "se distribuye / sale al mercado",
+      "pos": "verb",
+      "example": "The new version ships with a simpler licence."
+    },
+    {
+      "term": "well below",
+      "translation": "muy por debajo de",
+      "pos": "phrase",
+      "example": "Prices remain well below last year's peak."
+    },
+    {
+      "term": "rivals",
+      "translation": "rivales, competidores",
+      "pos": "noun",
+      "example": "Its rivals cut prices to keep up."
+    },
+    {
+      "term": "filing",
+      "translation": "documento presentado ante el regulador",
+      "pos": "noun",
+      "example": "The figure appeared in a quarterly filing."
+    },
+    {
+      "term": "arrangements",
+      "translation": "acuerdos",
+      "pos": "noun",
+      "example": "Their commercial arrangements are not public."
+    },
+    {
+      "term": "owed",
+      "translation": "debía",
+      "pos": "verb",
+      "example": "The client owed the supplier millions."
+    },
+    {
+      "term": "reassured",
+      "translation": "tranquilizó",
+      "pos": "verb",
+      "example": "The results reassured shareholders."
+    },
+    {
+      "term": "exploit chains",
+      "translation": "cadenas de explotación (de fallos informáticos)",
+      "pos": "noun",
+      "example": "Attackers combine bugs into exploit chains."
+    },
+    {
+      "term": "vendors",
+      "translation": "proveedores, fabricantes",
+      "pos": "noun",
+      "example": "The flaws were reported to the vendors."
+    },
+    {
+      "term": "patched",
+      "translation": "corregido (con un parche)",
+      "pos": "verb",
+      "example": "The bug was patched within a week."
+    },
+    {
+      "term": "disclosed",
+      "translation": "hecho público, divulgado",
+      "pos": "verb",
+      "example": "The details were disclosed after the fix."
+    },
+    {
+      "term": "raises the stakes",
+      "translation": "eleva lo que está en juego",
+      "pos": "phrase",
+      "example": "A tighter deadline raises the stakes for the team."
+    },
+    {
+      "term": "vetted",
+      "translation": "verificado, examinado",
+      "pos": "adjective",
+      "example": "Only vetted partners can access the tool."
+    },
+    {
+      "term": "looking into",
+      "translation": "investigando, analizando",
+      "pos": "phrasal verb",
+      "example": "Regulators are looking into the merger."
+    },
+    {
+      "term": "probe",
+      "translation": "investigación",
+      "pos": "noun",
+      "example": "The probe could delay the deal."
+    },
+    {
+      "term": "tilt",
+      "translation": "inclinar, desequilibrar",
+      "pos": "verb",
+      "example": "Subsidies could tilt the market in favour of incumbents."
+    },
+    {
+      "term": "crown jewels",
+      "translation": "joyas de la corona",
+      "pos": "idiom",
+      "example": "Grids are the crown jewels of the utility."
+    },
+    {
+      "term": "mirroring",
+      "translation": "reflejando, imitando",
+      "pos": "verb",
+      "example": "The new rules end up mirroring the US approach."
+    },
+    {
+      "term": "sanctions relief",
+      "translation": "alivio / levantamiento de sanciones",
+      "pos": "noun",
+      "example": "Iran wants sanctions relief before any deal."
+    },
+    {
+      "term": "midterms",
+      "translation": "elecciones de mitad de mandato (EE. UU.)",
+      "pos": "noun",
+      "example": "Markets are watching the midterms closely."
+    },
+    {
+      "term": "downed",
+      "translation": "derribado",
+      "pos": "verb",
+      "example": "The army downed most of the drones."
+    },
+    {
+      "term": "reasonable grounds",
+      "translation": "motivos razonables",
+      "pos": "phrase",
+      "example": "There are reasonable grounds to open an inquiry."
+    },
+    {
+      "term": "findings",
+      "translation": "conclusiones, hallazgos",
+      "pos": "noun",
+      "example": "The company rejected the findings of the audit."
+    },
+    {
+      "term": "lobbying",
+      "translation": "presión, cabildeo",
+      "pos": "noun",
+      "example": "Intense lobbying changed several votes."
+    },
+    {
+      "term": "death toll",
+      "translation": "número de víctimas mortales",
+      "pos": "noun",
+      "example": "The death toll rose overnight."
+    },
+    {
+      "term": "stationary",
+      "translation": "detenido, parado",
+      "pos": "adjective",
+      "example": "The car hit a stationary truck."
+    },
+    {
+      "term": "breakdown",
+      "translation": "avería, caída",
+      "pos": "noun",
+      "example": "A breakdown in the control system stopped the line."
+    },
+    {
+      "term": "accountability",
+      "translation": "rendición de cuentas, responsabilidades",
+      "pos": "noun",
+      "example": "Voters demand accountability for the failure."
+    },
+    {
+      "term": "under scrutiny",
+      "translation": "bajo examen, en el punto de mira",
+      "pos": "phrase",
+      "example": "The project is now under scrutiny."
+    },
+    {
+      "term": "stoppages",
+      "translation": "paros",
+      "pos": "noun",
+      "example": "The union announced new stoppages next week."
+    },
+    {
+      "term": "led the way",
+      "translation": "encabezó, lideró",
+      "pos": "phrase",
+      "example": "Banks led the way in yesterday's rally."
+    },
+    {
+      "term": "counterparts",
+      "translation": "homólogos",
+      "pos": "noun",
+      "example": "The minister met her European counterparts."
+    },
+    {
+      "term": "levy",
+      "translation": "gravamen, impuesto",
+      "pos": "noun",
+      "example": "The government introduced a levy on banks."
+    },
+    {
+      "term": "windfall tax",
+      "translation": "impuesto sobre beneficios extraordinarios",
+      "pos": "noun",
+      "example": "Several countries imposed a windfall tax in 2022."
+    },
+    {
+      "term": "uprate",
+      "translation": "repotenciar, aumentar la potencia",
+      "pos": "verb",
+      "example": "The utility will uprate two reactors."
+    },
+    {
+      "term": "step down",
+      "translation": "dimitir, dejar el cargo",
+      "pos": "phrasal verb",
+      "example": "The CEO will step down next year."
+    },
+    {
+      "term": "plunged",
+      "translation": "se desplomaron",
+      "pos": "verb",
+      "example": "Shares plunged after the warning."
+    },
+    {
+      "term": "free cash flow",
+      "translation": "flujo de caja libre",
+      "pos": "noun",
+      "example": "Strong free cash flow funds the dividend."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "French start-up Mistral has published the weights of Mistral Large 4, a multimodal mixture-of-experts model with one trillion parameters.",
+      "es": "La start-up francesa Mistral ha publicado los pesos de Mistral Large 4, un modelo multimodal de mezcla de expertos con un billón de parámetros."
+    },
+    {
+      "en": "It ships under a modified MIT licence and can be downloaded from Hugging Face.",
+      "es": "Se distribuye con una licencia MIT modificada y se puede descargar desde Hugging Face."
+    },
+    {
+      "en": "Through the API it costs $0.70 per million input tokens and $2.10 per million output tokens, well below most US rivals.",
+      "es": "A través de la API cuesta 0,70 dólares por millón de tokens de entrada y 2,10 por millón de salida, muy por debajo de la mayoría de rivales estadounidenses."
+    },
+    {
+      "en": "It keeps Europe in the race for frontier models and gives companies a cheaper option they can run on their own servers.",
+      "es": "Mantiene a Europa en la carrera de los modelos punteros y da a las empresas una opción más barata que pueden ejecutar en sus propios servidores."
+    },
+    {
+      "en": "A regulatory filing shows that Microsoft earned about $10 billion from its arrangements with OpenAI in the July-September quarter, roughly 11% of its total revenue.",
+      "es": "Un documento regulatorio muestra que Microsoft ingresó unos 10.000 millones de dólares por sus acuerdos con OpenAI entre julio y septiembre, alrededor del 11% de sus ingresos totales."
+    },
+    {
+      "en": "OpenAI also owed it $7.2 billion at the end of the period.",
+      "es": "Además, OpenAI le debía 7.200 millones al cierre del periodo."
+    },
+    {
+      "en": "Azure, its cloud business, grew 48%, which reassured investors worried about heavy spending on data centres.",
+      "es": "Azure, su negocio en la nube, creció un 48%, lo que tranquilizó a los inversores preocupados por el fuerte gasto en centros de datos."
+    },
+    {
+      "en": "It shows how dependent Microsoft has become on a single customer and partner.",
+      "es": "Muestra lo dependiente que se ha vuelto Microsoft de un único cliente y socio."
+    },
+    {
+      "en": "Anthropic's Frontier Red Team says an unreleased Claude research model built complete exploit chains on five platforms.",
+      "es": "El equipo Frontier Red Team de Anthropic afirma que un modelo de investigación de Claude aún no publicado construyó cadenas de explotación completas en cinco plataformas."
+    },
+    {
+      "en": "They include a zero-click attack that gains full control of Linux machines and a way to escape Chrome's sandbox.",
+      "es": "Entre ellas, un ataque sin clics que logra el control total de máquinas Linux y una forma de escapar del aislamiento de Chrome."
+    },
+    {
+      "en": "All the flaws were reported to the vendors and patched before being disclosed.",
+      "es": "Todos los fallos se comunicaron a los fabricantes y se corrigieron antes de hacerse públicos."
+    },
+    {
+      "en": "AI is becoming powerful enough to find serious vulnerabilities on its own, which helps defenders but also raises the stakes.",
+      "es": "La IA ya es capaz de encontrar por sí sola vulnerabilidades graves, lo que ayuda a los defensores pero también eleva lo que está en juego."
+    },
+    {
+      "en": "Google has introduced Gemini 4 Carbon, a model specialised in security and software engineering, two weeks after Gemini 4 Argon.",
+      "es": "Google ha presentado Gemini 4 Carbon, un modelo especializado en seguridad e ingeniería de software, dos semanas después de Gemini 4 Argon."
+    },
+    {
+      "en": "Access is restricted to vetted cyber defenders through a dedicated programme.",
+      "es": "El acceso está limitado a equipos de ciberdefensa verificados a través de un programa específico."
+    },
+    {
+      "en": "It costs $2 per million input tokens and $10 per million output tokens.",
+      "es": "Cuesta 2 dólares por millón de tokens de entrada y 10 por millón de salida."
+    },
+    {
+      "en": "The US Justice Department is looking into Nvidia's $12.9 billion acquisition of Hugging Face, the main platform for sharing open AI models.",
+      "es": "El Departamento de Justicia de EE. UU. está analizando la compra de Hugging Face por Nvidia por 12.900 millones de dólares; Hugging Face es la principal plataforma para compartir modelos de IA abiertos."
+    },
+    {
+      "en": "The probe also covers other recent Nvidia deals, including a $20 billion licensing agreement with Groq.",
+      "es": "La investigación abarca también otras operaciones recientes de Nvidia, como un acuerdo de licencias de 20.000 millones con Groq."
+    },
+    {
+      "en": "Nvidia insists Hugging Face will stay neutral across chips and clouds.",
+      "es": "Nvidia insiste en que Hugging Face seguirá siendo neutral respecto a chips y nubes."
+    },
+    {
+      "en": "Regulators fear that a chip giant controlling where models are distributed could tilt the whole market.",
+      "es": "A los reguladores les preocupa que un gigante de los chips controle dónde se distribuyen los modelos y pueda desequilibrar todo el mercado."
+    },
+    {
+      "en": "A draft from China's Commerce Ministry would add 23 AI technologies, including advanced models, autonomous agents and chip design, to its export-control list.",
+      "es": "Un borrador del Ministerio de Comercio chino añadiría 23 tecnologías de IA, entre ellas modelos avanzados, agentes autónomos y diseño de chips, a su lista de control de exportaciones."
+    },
+    {
+      "en": "Foreigners could still use Chinese models through cloud services, but transferring the technology abroad would need government approval.",
+      "es": "Los extranjeros podrían seguir usando modelos chinos a través de servicios en la nube, pero transferir la tecnología al exterior requeriría autorización del Gobierno."
+    },
+    {
+      "en": "Comments are open until 15 November.",
+      "es": "El plazo de alegaciones está abierto hasta el 15 de noviembre."
+    },
+    {
+      "en": "Beijing is now guarding its own AI crown jewels, mirroring the US controls on chips.",
+      "es": "Pekín pasa a proteger sus propias joyas de la corona en IA, en un espejo de los controles de EE. UU. sobre los chips."
+    },
+    {
+      "en": "US Vice President JD Vance has sent a letter to a senior Iranian security official in an attempt to restart peace talks, according to the Wall Street Journal.",
+      "es": "El vicepresidente de EE. UU., JD Vance, ha enviado una carta a un alto responsable de seguridad iraní para intentar reanudar las negociaciones de paz, según el Wall Street Journal."
+    },
+    {
+      "en": "Gulf mediators led by Qatar are pushing a deal in which Iran would let UN inspectors into its bombed nuclear sites in exchange for sanctions relief.",
+      "es": "Mediadores del Golfo encabezados por Catar impulsan un acuerdo por el que Irán dejaría entrar a inspectores de la ONU en sus instalaciones nucleares bombardeadas a cambio de un alivio de sanciones."
+    },
+    {
+      "en": "Officials warn that bombing could resume shortly after the US midterms if there is no deal, which keeps oil prices high.",
+      "es": "Algunos responsables advierten de que los bombardeos podrían reanudarse poco después de las elecciones de mitad de mandato si no hay acuerdo, lo que mantiene alto el precio del petróleo."
+    },
+    {
+      "en": "A Russian drone struck a crowded platform at the main railway station in the Ukrainian city of Dnipro, killing 13 people, according to the regional governor.",
+      "es": "Un dron ruso impactó en un andén abarrotado de la estación principal de la ciudad ucraniana de Dnipró y mató a 13 personas, según el gobernador regional."
+    },
+    {
+      "en": "Meanwhile, Russia said it had downed most of more than 600 Ukrainian drones aimed at Moscow.",
+      "es": "Mientras tanto, Rusia aseguró haber derribado la mayoría de los más de 600 drones ucranianos dirigidos contra Moscú."
+    },
+    {
+      "en": "A senior Kremlin aide confirmed that Russia is talking to the Trump administration about lifting sanctions on the Russian Direct Investment Fund.",
+      "es": "Un asesor destacado del Kremlin confirmó que Rusia está hablando con la Administración Trump sobre levantar las sanciones al Fondo Ruso de Inversión Directa."
+    },
+    {
+      "en": "He added that the timing of the next round of three-way talks on Ukraine depends on the conflict in the Middle East.",
+      "es": "Añadió que el calendario de la próxima ronda de negociaciones a tres bandas sobre Ucrania depende del conflicto en Oriente Próximo."
+    },
+    {
+      "en": "South Korea's military said the North launched ten short-range ballistic missiles from the Wonsan area into the sea off its east coast.",
+      "es": "El Ejército surcoreano informó de que el Norte lanzó diez misiles balísticos de corto alcance desde la zona de Wonsan hacia el mar frente a su costa oriental."
+    },
+    {
+      "en": "Japan also reported a suspected launch.",
+      "es": "Japón también informó de un posible lanzamiento."
+    },
+    {
+      "en": "UN human rights investigators said co-presidents Daniel Ortega and Rosario Murillo have built a dictatorship and that there are reasonable grounds to believe crimes against humanity have been committed.",
+      "es": "Investigadores de derechos humanos de la ONU afirmaron que los copresidentes Daniel Ortega y Rosario Murillo han construido una dictadura y que hay motivos razonables para creer que se han cometido crímenes contra la humanidad."
+    },
+    {
+      "en": "Nicaragua, which has left the Human Rights Council, rejected the findings.",
+      "es": "Nicaragua, que ha abandonado el Consejo de Derechos Humanos, rechazó las conclusiones."
+    },
+    {
+      "en": "The UN General Assembly again voted against the US embargo on Cuba, with 130 votes in favour, 17 against and 25 abstentions.",
+      "es": "La Asamblea General de la ONU volvió a votar contra el embargo de EE. UU. a Cuba, con 130 votos a favor, 17 en contra y 25 abstenciones."
+    },
+    {
+      "en": "That is 35 fewer votes in favour than last year, a sign of Washington's lobbying.",
+      "es": "Son 35 votos a favor menos que el año pasado, una señal de la presión de Washington."
+    },
+    {
+      "en": "The death toll from Wednesday's collision near Urda (Toledo), where a Renfe AVE hit a stationary Iryo train from behind, stands at 69, with around 50 people still in hospital.",
+      "es": "El balance del choque del miércoles cerca de Urda (Toledo), en el que un AVE de Renfe embistió por detrás a un tren de Iryo detenido, es de 69 fallecidos, y unas 50 personas siguen hospitalizadas."
+    },
+    {
+      "en": "Early findings point to a breakdown of the LZB signalling system and a later instruction from Adif's control room allowing the AVE to resume normal speed.",
+      "es": "Las primeras conclusiones apuntan a una caída del sistema de señalización LZB y a una instrucción posterior de la sala de control de Adif que permitió al AVE reanudar la marcha normal."
+    },
+    {
+      "en": "Transport Minister Óscar Puente will appear before Congress on 3 November, while the opposition demands political accountability.",
+      "es": "El ministro de Transportes, Óscar Puente, comparecerá en el Congreso el 3 de noviembre, mientras la oposición exige responsabilidades políticas."
+    },
+    {
+      "en": "It is one of the deadliest rail accidents in Spain's history and puts the safety protocols of the high-speed network under scrutiny.",
+      "es": "Es uno de los accidentes ferroviarios más graves de la historia de España y pone bajo examen los protocolos de seguridad de la red de alta velocidad."
+    },
+    {
+      "en": "A 24-hour strike called by the SEMAF drivers' union was backed by about 27% of Renfe staff and led to the cancellation of 606 public-service trains.",
+      "es": "La huelga de 24 horas convocada por el sindicato de maquinistas SEMAF fue secundada por cerca del 27% de la plantilla de Renfe y obligó a cancelar 606 trenes de servicio público."
+    },
+    {
+      "en": "Ouigo has cancelled all its trains for Friday and Monday, and the union has announced further stoppages.",
+      "es": "Ouigo ha cancelado todos sus trenes del viernes y del lunes, y el sindicato ha anunciado nuevos paros."
+    },
+    {
+      "en": "Marches were held on Thursday to mark two years since the October 2024 floods in Valencia, which killed 233 people.",
+      "es": "El jueves se celebraron marchas para recordar los dos años de las inundaciones de octubre de 2024 en Valencia, que causaron 233 muertos."
+    },
+    {
+      "en": "The memorial event in Paiporta was postponed to 5 November out of respect for the victims of the rail crash.",
+      "es": "El acto de homenaje en Paiporta se aplazó al 5 de noviembre por respeto a las víctimas del accidente ferroviario."
+    },
+    {
+      "en": "Iberdrola, Repsol, Naturgy and Endesa earned a combined €14.5 billion in the first nine months, 47% more than a year earlier, largely because the Middle East conflict pushed up oil and gas prices.",
+      "es": "Iberdrola, Repsol, Naturgy y Endesa ganaron en conjunto 14.500 millones de euros en los nueve primeros meses, un 47% más que un año antes, en gran parte porque el conflicto en Oriente Próximo encareció el petróleo y el gas."
+    },
+    {
+      "en": "Repsol led the way with a 325% jump, while Iberdrola and Endesa grew mainly thanks to their regulated networks.",
+      "es": "Repsol encabeza la subida con un 325%, mientras que Iberdrola y Endesa crecieron sobre todo gracias a sus redes reguladas."
+    },
+    {
+      "en": "Iberdrola plans to invest €1.2 billion in Spanish distribution networks in 2027, 50% more than in 2025.",
+      "es": "Iberdrola prevé invertir 1.200 millones de euros en redes de distribución en España en 2027, un 50% más que en 2025."
+    },
+    {
+      "en": "Networks already generate more than half of Iberdrola's EBITDA, which is exactly the business your department plans and monitors.",
+      "es": "Las redes ya generan más de la mitad del EBITDA de Iberdrola, que es justo el negocio que planifica y controla tu departamento."
+    },
+    {
+      "en": "Economy Minister Carlos Cuerpo and his counterparts from Germany, Italy, Austria and Portugal have asked the European Commission for a temporary solidarity instrument on energy companies.",
+      "es": "El ministro de Economía, Carlos Cuerpo, y sus homólogos de Alemania, Italia, Austria y Portugal han pedido a la Comisión Europea un instrumento temporal de solidaridad sobre las empresas energéticas."
+    },
+    {
+      "en": "In practice it would work as a windfall tax on the extra profits from high fuel prices.",
+      "es": "En la práctica funcionaría como un impuesto sobre los beneficios extraordinarios derivados de los altos precios de los combustibles."
+    },
+    {
+      "en": "A new levy could hit sector earnings and investment plans, as happened with Spain's 2023-2024 energy tax.",
+      "es": "Un nuevo gravamen podría afectar a los beneficios y planes de inversión del sector, como ocurrió con el impuesto energético español de 2023-2024."
+    },
+    {
+      "en": "The US Department of Energy will lend $5 billion to Constellation to uprate 11 nuclear reactors, adding about 1.1 GW of capacity.",
+      "es": "El Departamento de Energía de EE. UU. prestará 5.000 millones de dólares a Constellation para repotenciar 11 reactores nucleares y añadir unos 1,1 GW de capacidad."
+    },
+    {
+      "en": "The extra output has already been contracted by Google, Amazon and Meta.",
+      "es": "La producción adicional ya está contratada por Google, Amazon y Meta."
+    },
+    {
+      "en": "AI demand is turning existing power plants and grids into strategic assets, a trend that also drives Iberdrola's US investment.",
+      "es": "La demanda de la IA está convirtiendo centrales y redes existentes en activos estratégicos, una tendencia que también impulsa la inversión de Iberdrola en EE. UU."
+    },
+    {
+      "en": "The European Central Bank kept its deposit rate at 2.5%, as expected, and left the door open to a hike in December.",
+      "es": "El Banco Central Europeo mantuvo el tipo de depósito en el 2,5%, como se esperaba, y dejó la puerta abierta a una subida en diciembre."
+    },
+    {
+      "en": "Christine Lagarde said she will step down on 7 February 2027, ahead of France's presidential election.",
+      "es": "Christine Lagarde anunció que dejará el cargo el 7 de febrero de 2027, antes de las elecciones presidenciales francesas."
+    },
+    {
+      "en": "Higher rates raise the cost of debt for utilities that borrow heavily to build grids.",
+      "es": "Unos tipos más altos encarecen la deuda de las eléctricas, que se endeudan mucho para construir redes."
+    },
+    {
+      "en": "Alphabet shares plunged 12.6% after the company reported negative free cash flow and signalled capital spending of more than $300 billion in 2027.",
+      "es": "Las acciones de Alphabet se desplomaron un 12,6% después de que la compañía presentara un flujo de caja libre negativo y anticipara un gasto de capital de más de 300.000 millones de dólares en 2027."
+    },
+    {
+      "en": "After the close, Amazon fell about 7% and Intel more than 16% on weak guidance.",
+      "es": "Tras el cierre, Amazon cayó en torno a un 7% e Intel más de un 16% por unas previsiones débiles."
+    },
+    {
+      "en": "US GDP grew at a 3.4% annualised rate in the third quarter, above forecasts.",
+      "es": "El PIB de EE. UU. creció a un ritmo anualizado del 3,4% en el tercer trimestre, por encima de lo previsto."
+    },
+    {
+      "en": "Investors are no longer rewarding AI investment on its own: they want to see it backed by cash flow.",
+      "es": "Los inversores ya no premian la inversión en IA por sí sola: quieren verla respaldada por flujo de caja."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "windfall",
+    "pos": "noun",
+    "translation": "beneficio inesperado / extraordinario",
+    "definition_en": "A large amount of money that someone receives unexpectedly, often because of circumstances outside their control, such as a sudden rise in prices.",
+    "example_en": "Oil companies enjoyed a windfall when the conflict pushed crude above $110 a barrel.",
+    "example_es": "Las petroleras disfrutaron de beneficios extraordinarios cuando el conflicto llevó el crudo por encima de los 110 dólares el barril."
+  },
+  "recommendations": [
+    {
+      "id": "schwab-googl-capex-195b-ai-roi",
+      "type": "video",
+      "title": "GOOGL Raises CapEx to $195B: Can AI ROI Balance Big Tech Spending?",
+      "speaker": "Analistas de Schwab Network",
+      "outlet": "Schwab Network",
+      "duration_min": 6,
+      "language": "en",
+      "topics": [
+        "IA",
+        "mercados",
+        "CAPEX"
+      ],
+      "summary": "Análisis breve de la subida del gasto de capital de Alphabet y de si el retorno de la IA justifica estas inversiones. Encaja con la caída histórica de la acción de ayer.",
+      "why": "Ves en un caso real cómo el mercado juzga un plan de CAPEX, la misma lógica de retorno sobre inversión que se aplica a las redes.",
+      "url": "https://schwabnetwork.com/video/googl-raises-capex-to-195b-can-ai-roi-balance-big-tech-spending-"
+    },
+    {
+      "id": "openai-updated-model-spec-2026-10",
+      "type": "article",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "speaker": "OpenAI",
+      "outlet": "OpenAI",
+      "duration_min": 15,
+      "language": "en",
+      "topics": [
+        "IA",
+        "regulación"
+      ],
+      "summary": "OpenAI reescribe las reglas que definen cómo deben comportarse sus modelos, organizadas en torno a cinco valores. Explica cómo equilibran utilidad, seguridad y autonomía.",
+      "why": "Texto primario y bien escrito para entender cómo una gran empresa de IA gobierna su producto; además, buen inglés técnico.",
+      "url": "https://openai.com/index/updated-model-spec/"
+    },
+    {
+      "id": "anthropic-agents-judgment-calls",
+      "type": "article",
+      "title": "AI agents and analysts' judgment calls",
+      "speaker": "Anthropic Research",
+      "outlet": "Anthropic",
+      "duration_min": 12,
+      "language": "en",
+      "topics": [
+        "IA",
+        "trabajo",
+        "análisis"
+      ],
+      "summary": "Estudio con 50 analistas: cuando un agente de IA sugería una orientación en su análisis, la adoptaban el 86% de las veces. Plantea el riesgo de delegar el criterio.",
+      "why": "Muy útil si usas IA en análisis financieros o de inversiones: te ayuda a vigilar cuánto te influye la herramienta.",
+      "url": "https://www.anthropic.com/research/agents-judgment-calls"
+    },
+    {
+      "id": "iea-everything-energy-cooking-fuel-crisis",
+      "type": "podcast",
+      "title": "Everything Energy: The cooking fuel crisis",
+      "speaker": "Marina Petrelli y Arthur Rogé (AIE)",
+      "outlet": "International Energy Agency",
+      "duration_min": 30,
+      "language": "en",
+      "topics": [
+        "energía",
+        "geopolítica"
+      ],
+      "summary": "Analistas de la Agencia Internacional de la Energía explican cómo el conflicto en Oriente Próximo ha cortado el suministro de GLP (el 30% pasaba por Ormuz) y su impacto en las comunidades más vulnerables.",
+      "why": "Te da contexto sobre por qué los precios de la energía siguen tan altos, contado por la fuente de referencia del sector.",
+      "url": "https://www.iea.org/podcasts/everything-energy"
+    },
+    {
+      "id": "infobae-energeticas-beneficio-47-sep-2026",
+      "type": "article",
+      "title": "Las energéticas disparan su beneficio un 47% hasta septiembre por el alza del crudo",
+      "speaker": "Naroa Caro",
+      "outlet": "Infobae España",
+      "duration_min": 6,
+      "language": "es",
+      "topics": [
+        "energía",
+        "resultados",
+        "Iberdrola"
+      ],
+      "summary": "Repaso de los resultados a septiembre de Iberdrola, Repsol, Naturgy y Endesa, con inversiones, dividendos y previsiones. Incluye la petición de un impuesto temporal europeo.",
+      "why": "Cifras de inversión en redes de Iberdrola y Endesa que te servirán de contexto en tu departamento.",
+      "url": "https://www.infobae.com/espana/2026/10/29/las-energeticas-disparan-su-beneficio-un-47-hasta-septiembre-por-el-alza-del-crudo-ganan-14542-millones-y-repsol-lidera-con-una-subida-del-325/"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Jornada de castigo a la tecnología. En Wall Street, el Nasdaq cayó un 1,4% y el S&P 500 un 0,3% por el desplome de Alphabet (-12,6%), al que los inversores penalizaron por un gasto en IA que supera su generación de caja; en cambio, las pequeñas compañías subieron un 1%. El dato de PIB de EE. UU. (3,4% anualizado) sorprendió al alza y la rentabilidad del bono a 10 años bajó al 4,98%. En Europa, el BCE mantuvo los tipos en el 2,5% y el IBEX 35 cedió un 0,14%, lastrado por BBVA (-2,6%) tras sus resultados, mientras Ferrovial y Repsol subieron. El euro rebotó hasta 1,118 dólares, el Brent bajó ligeramente hasta casi 115 dólares y el bitcoin perdió los 80.000.",
+      "en": "Tech stocks were punished. On Wall Street the Nasdaq fell 1.4% and the S&P 500 0.3% as Alphabet sank 12.6%, with investors penalising AI spending that outruns cash generation; small caps, by contrast, rose about 1%. US GDP (3.4% annualised) beat forecasts and the 10-year Treasury yield eased to 4.98%. In Europe the ECB held rates at 2.5% and the IBEX 35 slipped 0.14%, weighed down by BBVA (-2.6%) after its results, while Ferrovial and Repsol gained. The euro rebounded to $1.118, Brent edged down to almost $115 and bitcoin fell below $80,000."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35",
+        "value": 18857.6,
+        "change_pct": -0.14
+      },
+      {
+        "name": "S&P 500",
+        "value": 7720.39,
+        "change_pct": -0.3
+      },
+      {
+        "name": "Nasdaq Composite",
+        "value": 26184.72,
+        "change_pct": -1.38
+      },
+      {
+        "name": "Dow Jones",
+        "value": 52342.56,
+        "change_pct": -0.25
+      },
+      {
+        "name": "EUR/USD",
+        "value": 1.1181,
+        "change_pct": 0.46
+      },
+      {
+        "name": "Brent (USD/barril)",
+        "value": 114.88,
+        "change_pct": -0.38
+      },
+      {
+        "name": "Oro (USD/onza)",
+        "value": 4031.7,
+        "change_pct": -0.49
+      },
+      {
+        "name": "Bitcoin (USD)",
+        "value": 78926,
+        "change_pct": -2.88
+      }
+    ],
+    "learn": {
+      "concept": "Flujo de caja libre (free cash flow, FCF)",
+      "explanation": "Es el dinero que genera el negocio después de pagar la operación y las inversiones: FCF = flujo de caja operativo − CAPEX. Una empresa puede tener beneficio contable y, aun así, FCF negativo si invierte más de lo que genera, como Alphabet este trimestre (unos −9.000 millones de dólares). En una eléctrica con un gran plan de redes, el FCF suele ser negativo durante años y la diferencia se cubre con deuda (bonos verdes, préstamos del BEI) o ampliaciones de capital; por eso los analistas miran a la vez el FCF, la deuda neta/EBITDA y la retribución regulada que esas inversiones generarán en el futuro."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
