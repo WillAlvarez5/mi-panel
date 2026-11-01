@@ -1,0 +1,1076 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T07:01:00+01:00",
+  "last_updated": "2026-11-01T07:01:00+01:00",
+  "headline": {
+    "es": "Octubre cierra como el peor mes de ataques en Ormuz mientras Irán habla de un plan para reabrir el estrecho; Wall Street sale de un mes negro para la tecnología y EE. UU. llega a las legislativas del martes. En España, 56 de las 69 víctimas de Urda ya están identificadas.",
+    "en": "October ends as the worst month for attacks in Hormuz while Iran talks up a plan to reopen the strait; Wall Street emerges from a grim month for tech as the US heads into Tuesday's midterms. In Spain, 56 of the 69 Urda victims have been identified."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "Google, Microsoft, OpenAI y Anthropic acuerdan una señal común para no entrenar IA con tu web",
+        "en": "Google, Microsoft, OpenAI and Anthropic back a single opt-out from AI training"
+      },
+      "body": {
+        "es": "Anthropic ha publicado en el IETF un borrador que permite a las webs indicar a los rastreadores, con una nueva línea en robots.txt, qué páginas no deben usarse para entrenar modelos de IA. Google prevé admitirlo a principios de 2027, Microsoft lo respetará desde el 1 de febrero de 2027 y OpenAI dice que lo hará en los próximos meses. El borrador aún no tiene rango oficial, y Microsoft subraya que no crea ningún sistema de licencias ni de pagos para los editores.",
+        "en": "Anthropic has published a draft proposal at the IETF that lets websites tell crawlers, through a new line in robots.txt, which pages must not be used to train AI models. Google plans to support it in early 2027, Microsoft will honour it from 1 February 2027 and OpenAI says it will follow in the coming months. The draft has no formal standing yet, and Microsoft stresses that it does not create any licensing or payment scheme for publishers."
+      },
+      "why_it_matters": {
+        "es": "Un estándar común acabaría con el mosaico actual de etiquetas de cada empresa y daría a los editores un único interruptor sencillo, aunque deja sin resolver la cuestión de la compensación.",
+        "en": "A shared standard would end the current patchwork of company-specific tags and give publishers one simple switch, although it leaves the question of compensation unresolved."
+      },
+      "source": {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "Android Studio deja trabajar a Claude y Codex dentro del editor",
+        "en": "Android Studio now lets Claude and Codex work inside the IDE"
+      },
+      "body": {
+        "es": "Google ha publicado como estable la nueva versión de Android Studio con la opción 'trae tu propio agente', de modo que los desarrolladores pueden conectar Claude, Codex o más de 40 agentes que siguen el protocolo abierto Agent Client Protocol. También ha lanzado plugins oficiales para Claude Code y Codex, mientras que su agente integrado sigue siendo gratuito.",
+        "en": "Google has made the new version of Android Studio stable with a 'bring your own agent' option, so developers can plug in Claude, Codex or more than 40 other agents that follow the open Agent Client Protocol. It has also released official plugins for Claude Code and Codex, while its own built-in agent remains free."
+      },
+      "why_it_matters": {
+        "es": "Es una señal de que las herramientas de programación se están convirtiendo en plataformas abiertas donde agentes de IA rivales compiten codo con codo, en lugar de ecosistemas cerrados.",
+        "en": "It is a sign that coding tools are becoming open platforms where rival AI agents compete side by side rather than locked-in ecosystems."
+      },
+      "source": {
+        "name": "FourWeekMBA",
+        "url": "https://fourweekmba.com/ai-google-lets-claude-and-codex-run-inside-android-studio/"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "El primer satélite-centro de datos de Google ya funciona en órbita",
+        "en": "Google's first data-centre satellite is up and running"
+      },
+      "body": {
+        "es": "Suncatcher, un prototipo lanzado el 1 de octubre, lleva cuatro chips TPU de Google y genera hasta 1 kW de energía solar. La energía es tan escasa que solo puede funcionar un chip cada vez, y solo unos 20 minutos, pero la empresa prevé dos satélites más en 2027.",
+        "en": "Suncatcher, a prototype launched on 1 October, carries four of Google's TPU chips and generates up to 1 kW of solar power. Power is so tight that only one chip can run at a time, and only for about 20 minutes, but the company plans two more satellites in 2027."
+      },
+      "why_it_matters": {
+        "es": "Las grandes tecnológicas buscan cómo sortear las conexiones a red y la escasez de electricidad que están frenando los centros de datos en la Tierra.",
+        "en": "Big Tech is looking for ways around the grid connections and power shortages that are slowing data centres on Earth."
+      },
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "AWS crece un 39% y la inferencia ya es más de la mitad de su negocio de IA",
+        "en": "AWS grows 39% as inference becomes the bulk of its AI business"
+      },
+      "body": {
+        "es": "La división de nube de Amazon creció un 39%, hasta 46.000 millones de dólares en el tercer trimestre, su ritmo más rápido en casi cinco años. El consejero delegado Andy Jassy dijo que la inferencia, es decir, el coste de ejecutar los modelos para los usuarios, supone ya bastante más de la mitad de los ingresos de IA de AWS. Aun así, los inversores se fijaron en su plan de gastar unos 220.000 millones de dólares en inversión este año y 'bastante más' en 2027.",
+        "en": "Amazon's cloud unit grew 39% to 46 billion dollars in the third quarter, its fastest pace in almost five years. Chief executive Andy Jassy said inference, the cost of running models for users, now accounts for well over half of AWS's AI revenue. Even so, investors focused on Amazon's plan to spend about 220 billion dollars on capital expenditure this year and 'meaningfully more' in 2027."
+      },
+      "why_it_matters": {
+        "es": "El paso del entrenamiento a la inferencia significa que la demanda de IA se está convirtiendo en uso cotidiano, que es lo que al final tiene que pagar esta enorme expansión.",
+        "en": "The shift from training to inference means AI demand is turning into everyday usage, which is what eventually has to pay for the huge build-out."
+      },
+      "source": {
+        "name": "Investrade",
+        "url": "https://investrade.com/market-review-october-30-2026/"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic, OpenAI, Google y Cloudflare lanzan agentes que cazan fallos de seguridad",
+        "en": "AI labs roll out agents that hunt for security bugs"
+      },
+      "body": {
+        "es": "Anthropic, OpenAI, Google y Cloudflare han lanzado agentes que buscan vulnerabilidades en el código, intentan refutar sus propios hallazgos y después proponen un parche. Claude Security funciona dentro de Claude Code, Mantis de Google reproduce los fallos en un entorno aislado y la versión de Cloudflare es de código abierto y funciona con cualquier modelo.",
+        "en": "Anthropic, OpenAI, Google and Cloudflare have each released agents that search code for vulnerabilities, try to disprove their own findings and then propose a patch. Claude Security runs inside Claude Code, Google's Mantis reproduces bugs in a sandbox, and Cloudflare's version is open source and works with any model."
+      },
+      "why_it_matters": {
+        "es": "La autocomprobación es la clave del diseño: reduce las falsas alarmas que han hecho difícil confiar en las herramientas de seguridad automáticas.",
+        "en": "Self-checking is the key design choice: it cuts the false alarms that have made automated security tools hard to trust."
+      },
+      "source": {
+        "name": "MarkTechPost",
+        "url": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "El Barcelona Supercomputing Center y AstraZeneca se alían en IA para fármacos",
+        "en": "Barcelona Supercomputing Center teams up with AstraZeneca on AI drug research"
+      },
+      "body": {
+        "es": "El BSC y AstraZeneca firmaron el 30 de octubre un acuerdo para usar el superordenador MareNostrum 5 en investigación basada en IA. El trabajo se centrará en enfermedades cardiovasculares, respiratorias, raras y en el cáncer, y explorará también la IA reforzada con computación cuántica para modelar procesos biológicos.",
+        "en": "The BSC and AstraZeneca signed an agreement on 30 October to use the MareNostrum 5 supercomputer for AI-driven research. The work will focus on cardiovascular, respiratory and rare diseases and on cancer, and will also explore quantum-enhanced AI for biological modelling."
+      },
+      "source": {
+        "name": "RIO Rundown",
+        "url": "https://riorundown.substack.com/p/ai-news-oct-31-2026-ai-training-preferences"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Octubre, el peor mes de ataques en Ormuz desde que empezó la guerra",
+        "en": "October was the worst month for attacks in Hormuz since the war began"
+      },
+      "body": {
+        "es": "En octubre se registraron más de 30 incidentes contra barcos en el estrecho de Ormuz y sus alrededores, el doble que en septiembre, y Omán rescató el viernes a 25 marineros de un petrolero en llamas. Irán afirma que varios petroleros chocaron con minas en una 'ruta no autorizada', mientras que EE. UU. asegura que ha despejado los principales corredores.",
+        "en": "More than 30 incidents against ships were logged in and around the Strait of Hormuz in October, double September's figure, and Oman rescued 25 sailors from a burning tanker on Friday. Iran says several tankers struck mines on an 'unauthorised route', while the US says it has cleared the main shipping lanes."
+      },
+      "why_it_matters": {
+        "es": "Por el estrecho pasa normalmente una quinta parte del petróleo mundial, así que cada ataque se traslada directamente a los precios del combustible y de la electricidad en Europa.",
+        "en": "Around a fifth of the world's oil normally passes through the strait, so every attack feeds straight into fuel and power prices in Europe."
+      },
+      "source": {
+        "name": "The National",
+        "url": "https://www.thenationalnews.com/news/mena/2026/10/31/attacks-on-ships-transiting-hormuz-in-october-highest-since-start-of-war/"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Irán habla de un plan de dos días para reabrir Ormuz, pero endurece el tono",
+        "en": "Iran talks up a two-day plan to reopen Hormuz while toughening its rhetoric"
+      },
+      "body": {
+        "es": "El ministro de Exteriores, Abbas Araghchi, dice que se negocia un plan de dos días para reabrir el estrecho, y Teherán afirma que una carta reciente de EE. UU. mostró un cambio de tono. Al mismo tiempo, un alto cargo de seguridad advirtió de que Irán podría replantearse su participación en el Tratado de No Proliferación nuclear si EE. UU. vuelve a atacar.",
+        "en": "Foreign minister Abbas Araghchi says talks are under way on a two-day plan to reopen the strait, and Tehran says a recent US letter showed a change of tone. At the same time, a senior security official warned that Iran could reconsider its place in the nuclear Non-Proliferation Treaty if the US attacks again."
+      },
+      "why_it_matters": {
+        "es": "Las señales contradictorias de este tipo mantienen en vilo a los operadores del petróleo y hacen poco probable una caída rápida del crudo.",
+        "en": "Mixed signals of this kind keep oil traders on edge and make any quick fall in crude prices unlikely."
+      },
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "EE. UU. vota el martes en unas legislativas con la economía en el centro",
+        "en": "The US heads into Tuesday's midterms with the economy front and centre"
+      },
+      "body": {
+        "es": "Una encuesta de Reuters/Ipsos da a los demócratas una ventaja de unos nueve puntos entre los votantes, mientras que la aprobación del presidente Trump está en el 32%. Las carreras al Senado en Texas, Ohio, Michigan y Kansas están inusualmente reñidas, y el 73% de los adultos cree que el coste de la vida va en la dirección equivocada.",
+        "en": "A Reuters/Ipsos poll gives the Democrats a lead of around nine points among voters, while President Trump's approval stands at 32%. Senate races in Texas, Ohio, Michigan and Kansas look unusually tight, and 73% of adults say the cost of living is heading in the wrong direction."
+      },
+      "why_it_matters": {
+        "es": "El control del Congreso marcará la política de EE. UU. sobre Irán, aranceles y energía en los dos últimos años del mandato de Trump.",
+        "en": "Control of Congress will shape US policy on Iran, tariffs and energy for the last two years of Trump's term."
+      },
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "El FBI culpa a Corea del Norte del robo a Binance; Trump lo pone en duda",
+        "en": "FBI blames North Korea for the Binance hack, but Trump casts doubt"
+      },
+      "body": {
+        "es": "El FBI ha atribuido a piratas norcoreanos el robo de unos 6.300 millones de dólares a Binance, el mayor golpe de criptomonedas registrado. El presidente Trump cuestionó públicamente esa conclusión, mientras que cerca de la mitad de los activos robados han sido congelados por los emisores de stablecoins.",
+        "en": "The FBI has attributed the roughly 6.3-billion-dollar theft from Binance, the largest crypto heist on record, to North Korean hackers. President Trump publicly questioned that conclusion, while about half of the stolen assets have been frozen by stablecoin issuers."
+      },
+      "source": {
+        "name": "Investrade",
+        "url": "https://investrade.com/market-review-october-30-2026/"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Disturbios juveniles en La Haya, Tirana y Zúrich",
+        "en": "Youth protests turn violent in The Hague, Tirana and Zurich"
+      },
+      "body": {
+        "es": "La policía neerlandesa detuvo a 34 personas, la mayoría menores, tras lanzarse petardos contra los agentes en La Haya, y en Albania los manifestantes arrojaron cócteles molotov frente a la oficina del primer ministro. En Zúrich, las marchas estudiantiles acabaron en enfrentamientos con barricadas, cañones de agua y gas lacrimógeno.",
+        "en": "Dutch police arrested 34 people, mostly minors, after fireworks were thrown at officers in The Hague, and protesters hurled petrol bombs outside the prime minister's office in Albania. In Zurich, student marches ended in clashes with barricades, water cannon and tear gas."
+      },
+      "source": {
+        "name": "Izvestia",
+        "url": "https://en.iz.ru/en/2194402/2026-11-01/what-happened-night-november-1st-main-thing"
+      }
+    },
+    {
+      "id": "mundo-6",
+      "section": "mundo",
+      "title": {
+        "es": "Corea del Norte prueba una ojiva de racimo para misiles tácticos",
+        "en": "North Korea tests a cluster warhead for tactical missiles"
+      },
+      "body": {
+        "es": "Los medios estatales informaron de la prueba de una ojiva de racimo diseñada para un misil balístico de corto alcance. La prueba llega mientras Washington acusa a Pionyang del ataque a Binance, lo que recuerda que el robo de criptomonedas ayuda a financiar sus programas de armamento.",
+        "en": "State media reported a test of a cluster warhead designed for a short-range ballistic missile. The test comes as Washington accuses Pyongyang of the Binance hack, a reminder that crypto theft helps fund its weapons programmes."
+      },
+      "source": {
+        "name": "Izvestia",
+        "url": "https://en.iz.ru/en/2194402/2026-11-01/what-happened-night-november-1st-main-thing"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "Urda: identificadas 56 de las 69 víctimas del accidente de tren",
+        "en": "Urda train crash: 56 of the 69 victims have been identified"
+      },
+      "body": {
+        "es": "Los equipos forenses han identificado a 56 de las 69 personas fallecidas en el accidente cerca de Toledo, y los primeros 36 cuerpos ya se han entregado a sus familias. Treinta y cuatro heridos siguen hospitalizados, y está previsto un funeral en la catedral de Toledo en los próximos días.",
+        "en": "Forensic teams have identified 56 of the 69 people killed in the crash near Toledo, and the first 36 bodies have been handed over to their families. Thirty-four injured passengers remain in hospital, and a funeral at Toledo Cathedral is planned for the coming days."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/10/31/temas-del-dia-de-efe-espana-del-domingo-1-de-noviembre-de-2026/"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "Óscar Puente comparecerá el martes en el Congreso por el accidente",
+        "en": "Transport minister Óscar Puente will answer to Congress on Tuesday"
+      },
+      "body": {
+        "es": "El ministro de Transportes comparecerá ante la Diputación Permanente del Congreso, mientras PP y Vox piden su dimisión. El País informa de que el Gobierno estudia relevar al presidente de Adif, el gestor de la infraestructura ferroviaria.",
+        "en": "The transport minister will appear before Congress's standing committee, while the PP and Vox are calling for his resignation. El País reports that the government is considering replacing the head of Adif, the rail infrastructure manager."
+      },
+      "source": {
+        "name": "Pressdigital",
+        "url": "https://www.pressdigital.es/articulo/economia/2026-11-01/6073736-principales-titulares-periodicos-domingo-1-noviembre"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "El AVE Madrid-Andalucía sigue suspendido y se dispara el coche compartido",
+        "en": "Madrid-Andalusia high-speed trains remain suspended, boosting car-sharing"
+      },
+      "body": {
+        "es": "Los servicios de alta velocidad entre Madrid y Andalucía siguen interrumpidos tras el accidente, lo que empuja a muchos viajeros a plataformas de coche compartido. Crece el debate sobre el mantenimiento: España tiene la red de alta velocidad más larga de Europa, pero invierte en ella menos que las otras grandes economías del euro.",
+        "en": "High-speed services between Madrid and Andalusia are still halted after the crash, pushing many travellers towards car-sharing platforms. The debate is growing over maintenance: Spain has Europe's longest high-speed network but invests less in it than the other large eurozone economies."
+      },
+      "why_it_matters": {
+        "es": "Para quien planifica infraestructuras, es un duro recordatorio de que construir activos es solo la mitad del trabajo: mantenerlos seguros exige un gasto de mantenimiento constante.",
+        "en": "For an infrastructure planner, it is a stark reminder that building assets is only half the job: keeping them safe requires steady maintenance spending."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/10/31/temas-del-dia-de-efe-espana-del-domingo-1-de-noviembre-de-2026/"
+      }
+    },
+    {
+      "id": "espana-4",
+      "section": "espana",
+      "title": {
+        "es": "Todos los Santos cae en domingo: nueve comunidades pasan el festivo al lunes",
+        "en": "All Saints' Day falls on a Sunday, so nine regions move the holiday to Monday"
+      },
+      "body": {
+        "es": "Como el 1 de noviembre cae este año en domingo, nueve comunidades autónomas trasladan el festivo al lunes 2, lo que crea un puente de tres días para trabajadores y colegios.",
+        "en": "Because 1 November is a Sunday this year, nine autonomous communities will take Monday 2 November off instead, creating a three-day weekend for workers and schools."
+      },
+      "source": {
+        "name": "COPE",
+        "url": "https://www.cope.es/actualidad/economia/noticias/boe-confirma-1-noviembre-festivo-cae-domingo-pasara-lunes-2-9-comunidades-disfrutaran-puente-laboral-escolar-3-dias-20261030_3464811.html"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "La luz baja un 22% este domingo y vuelve a haber precios negativos a mediodía",
+        "en": "Power prices drop 22% on Sunday, with negative prices again at midday"
+      },
+      "body": {
+        "es": "El precio mayorista en España se sitúa hoy en una media de 163,19 €/MWh, frente a casi 209 €/MWh el sábado, y es negativo durante seis horas en torno al mediodía gracias a la producción solar. El pico de la tarde, sin embargo, supera aún los 260 €/MWh, cuando las centrales de gas marcan el precio.",
+        "en": "The Spanish wholesale price averages 163.19 €/MWh today, down from almost 209 €/MWh on Saturday, and it is negative for six hours around midday thanks to solar output. The evening peak, however, still tops 260 €/MWh, when gas plants set the price."
+      },
+      "why_it_matters": {
+        "es": "La enorme diferencia entre las horas de sol y la noche es justo el argumento económico a favor de las baterías y otros sistemas de almacenamiento.",
+        "en": "The huge gap between sunny hours and the evening is exactly the business case for batteries and other storage."
+      },
+      "source": {
+        "name": "Tarifaluzhora",
+        "url": "https://tarifaluzhora.es/precio-luz-diario/2026-11-01"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "El coste de la operación reforzada del sistema se reduce a la mitad",
+        "en": "The cost of the grid's reinforced operating mode has halved"
+      },
+      "body": {
+        "es": "Según la CNMC, la operación reforzada que Red Eléctrica aplica desde el apagón de 2025 costó 275 millones de euros entre enero y septiembre, aproximadamente la mitad del ritmo mensual del año pasado. El regulador ha pedido a Red Eléctrica que analice si la forma de repartir estos costes envía las señales adecuadas a los consumidores, lo que podría acabar en un cambio normativo.",
+        "en": "According to the CNMC, the reinforced operation that Red Eléctrica has used since the 2025 blackout cost 275 million euros between January and September, roughly half the monthly rate of last year. The regulator has asked Red Eléctrica to study whether the way these costs are passed on sends the right signals to consumers, which could lead to a rule change."
+      },
+      "why_it_matters": {
+        "es": "Una seguridad del sistema más barata libera margen en la factura y refuerza el argumento para que renovables y activos de red presten servicios de estabilidad.",
+        "en": "Cheaper system security frees up room in the bill and strengthens the case for letting renewables and grid assets provide stability services."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/el-coste-de-la-operacion-reforzada-se-reduce-a-la-mitad-en-lo-que-va-de-ano/"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "Las petroleras europeas superan los 68.000 millones de beneficio; Iberdrola gana 5.816 millones",
+        "en": "European oil majors earn over 68 billion as Iberdrola makes 5.8 billion"
+      },
+      "body": {
+        "es": "Shell, TotalEnergies, BP, Eni y Repsol ganaron en conjunto más de 68.000 millones de euros en los nueve primeros meses, y Repsol multiplicó su beneficio por más de cuatro gracias al encarecimiento del crudo. Entre las eléctricas españolas, Iberdrola ganó 5.816 millones de euros (+9,6%), Endesa 1.962 millones (+15%) y Naturgy 1.758 millones (+5%).",
+        "en": "Shell, TotalEnergies, BP, Eni and Repsol together earned more than 68 billion euros in the first nine months, with Repsol's profit up more than fourfold on higher crude prices. Among Spanish utilities, Iberdrola earned 5.816 billion euros (+9.6%), Endesa 1.962 billion (+15%) and Naturgy 1.758 billion (+5%)."
+      },
+      "why_it_matters": {
+        "es": "Unos beneficios tan elevados probablemente reavivarán las peticiones de impuestos extraordinarios a las energéticas.",
+        "en": "Such large windfalls are likely to revive calls for extraordinary taxes on energy companies."
+      },
+      "source": {
+        "name": "Pressdigital",
+        "url": "https://www.pressdigital.es/articulo/economia/2026-10-31/6073592-grandes-petroleras-europeas-disparan-ganancias-68000-millones-septiembre-alza-crudo"
+      }
+    },
+    {
+      "id": "energia-4",
+      "section": "energia",
+      "title": {
+        "es": "Desde hoy, las renovables cobran por ayudar a controlar la tensión en tiempo real",
+        "en": "From today, renewables are paid for helping control voltage in real time"
+      },
+      "body": {
+        "es": "Los nuevos incentivos para las plantas que siguen en tiempo real las consignas de tensión de Red Eléctrica entran en vigor el 1 de noviembre, con 15 GW de renovables ya habilitados de los 32,5 GW posibles. Está prevista una segunda retribución para las consignas fijas a partir de marzo de 2027.",
+        "en": "New incentives for plants that follow Red Eléctrica's real-time voltage setpoints come into force on 1 November, with 15 GW of renewables already enabled out of 32.5 GW eligible. A second payment for fixed setpoints is planned for March 2027."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/red-electrica-habilita-ya-15-gw-de-renovables-para-dar-un-empujon-al-control-de-tension/"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "El Nasdaq cierra su peor mes desde 2025 por las dudas sobre la inversión en IA",
+        "en": "The Nasdaq ends its worst month since 2025 on doubts over AI spending"
+      },
+      "body": {
+        "es": "El Nasdaq perdió alrededor de un 5,2% en octubre y el índice de chips cayó más de un 15%, después de que Alphabet, Meta y Amazon presentaran inversiones disparadas y un flujo de caja libre más débil. En cambio, el Dow subió cerca de un 1,5% en el mes y las energéticas ganaron alrededor de un 13%, impulsadas por el petróleo caro.",
+        "en": "The Nasdaq lost about 5.2% in October and the chip index fell more than 15%, as Alphabet, Meta and Amazon reported soaring investment and weaker free cash flow. By contrast, the Dow rose about 1.5% in the month and energy stocks gained around 13%, helped by expensive oil."
+      },
+      "why_it_matters": {
+        "es": "Los analistas dicen que la semana posterior a las legislativas mostrará si se trata de una caída pasajera o de una rotación duradera fuera de la tecnología.",
+        "en": "Analysts say the week after the midterms will show whether this is a brief sell-off or a lasting rotation away from tech."
+      },
+      "source": {
+        "name": "Alain Guillot",
+        "url": "https://www.alainguillot.com/stock-market-recap-october-26-30-2026/"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "El oro cae a mínimos de un año y los bonos viven su mejor mes desde 2023",
+        "en": "Gold slides to a one-year low as bonds enjoy their best month since 2023"
+      },
+      "body": {
+        "es": "El oro cayó más de un 3% el viernes, hasta unos 3.900 dólares la onza, alrededor de un 30% por debajo de su récord de enero. Mientras tanto, la rentabilidad del bono estadounidense a 10 años bajó unos 36 puntos básicos en octubre, hasta el 4,93%, su mayor caída mensual desde diciembre de 2023.",
+        "en": "Gold dropped more than 3% on Friday to about 3,900 dollars an ounce, roughly 30% below its January record. Meanwhile, the yield on the 10-year US Treasury fell about 36 basis points in October to 4.93%, its biggest monthly drop since December 2023."
+      },
+      "why_it_matters": {
+        "es": "Unos tipos a largo plazo más bajos abaratan la financiación de negocios intensivos en capital, como las eléctricas.",
+        "en": "Lower long-term yields cut borrowing costs for capital-intensive businesses such as utilities."
+      },
+      "source": {
+        "name": "Investrade",
+        "url": "https://investrade.com/market-review-october-30-2026/"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "Ormuz: si avanzan las conversaciones sobre el plan de dos días para reabrir el estrecho.",
+      "en": "Hormuz: whether talks on the two-day plan to reopen the strait make progress."
+    },
+    {
+      "es": "Último domingo de campaña en EE. UU.: Trump tiene mitin en Iowa antes de las legislativas del martes.",
+      "en": "Last Sunday of the US campaign: Trump holds a rally in Iowa ahead of Tuesday's midterms."
+    },
+    {
+      "es": "Luz: precios negativos entre las 10 y las 16 h; el pico, entre las 20 y las 21 h. Y a las 20:00, entrega del Premio Formentor en Pollença.",
+      "en": "Power: negative prices from 10:00 to 16:00, with the peak between 20:00 and 21:00. At 20:00, the Formentor literary prize is awarded in Pollença."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "opt-out",
+      "translation": "exclusión voluntaria",
+      "pos": "noun",
+      "example": "Publishers want a simple opt-out from AI training."
+    },
+    {
+      "term": "crawlers",
+      "translation": "rastreadores (web)",
+      "pos": "noun",
+      "example": "Crawlers visit millions of pages every day."
+    },
+    {
+      "term": "honour",
+      "translation": "respetar, cumplir",
+      "pos": "verb",
+      "example": "Microsoft will honour the new signal from February."
+    },
+    {
+      "term": "standing",
+      "translation": "validez, rango oficial",
+      "pos": "noun",
+      "example": "The draft has no formal standing yet."
+    },
+    {
+      "term": "patchwork",
+      "translation": "mosaico, batiburrillo",
+      "pos": "noun",
+      "example": "The current rules are a patchwork of national laws."
+    },
+    {
+      "term": "unresolved",
+      "translation": "sin resolver",
+      "pos": "adjective",
+      "example": "The question of payment remains unresolved."
+    },
+    {
+      "term": "plug in",
+      "translation": "conectar, enchufar",
+      "pos": "phrasal verb",
+      "example": "Developers can plug in any compatible agent."
+    },
+    {
+      "term": "built-in",
+      "translation": "integrado",
+      "pos": "adjective",
+      "example": "The built-in assistant is free."
+    },
+    {
+      "term": "side by side",
+      "translation": "codo con codo, en paralelo",
+      "pos": "phrase",
+      "example": "Rival tools now run side by side."
+    },
+    {
+      "term": "locked-in",
+      "translation": "cerrado, cautivo",
+      "pos": "adjective",
+      "example": "Customers dislike locked-in ecosystems."
+    },
+    {
+      "term": "tight",
+      "translation": "escaso, ajustado; reñido",
+      "pos": "adjective",
+      "example": "Power is tight on the satellite."
+    },
+    {
+      "term": "shortages",
+      "translation": "escasez",
+      "pos": "noun",
+      "example": "Power shortages are delaying new data centres."
+    },
+    {
+      "term": "accounts for",
+      "translation": "supone, representa",
+      "pos": "phrasal verb",
+      "example": "Inference accounts for over half of revenue."
+    },
+    {
+      "term": "capital expenditure",
+      "translation": "inversión en activos (CAPEX)",
+      "pos": "noun",
+      "example": "Capital expenditure will rise again next year."
+    },
+    {
+      "term": "build-out",
+      "translation": "despliegue, expansión",
+      "pos": "noun",
+      "example": "The AI build-out needs huge amounts of power."
+    },
+    {
+      "term": "disprove",
+      "translation": "refutar",
+      "pos": "verb",
+      "example": "The agent tries to disprove its own findings."
+    },
+    {
+      "term": "patch",
+      "translation": "parche (informático)",
+      "pos": "noun",
+      "example": "The tool proposes a patch for each bug."
+    },
+    {
+      "term": "sandbox",
+      "translation": "entorno aislado de pruebas",
+      "pos": "noun",
+      "example": "Bugs are reproduced in a sandbox."
+    },
+    {
+      "term": "false alarms",
+      "translation": "falsas alarmas",
+      "pos": "noun",
+      "example": "Too many false alarms erode trust."
+    },
+    {
+      "term": "logged",
+      "translation": "registrado",
+      "pos": "verb (past participle)",
+      "example": "More than 30 incidents were logged."
+    },
+    {
+      "term": "feeds straight into",
+      "translation": "se traslada directamente a",
+      "pos": "phrase",
+      "example": "Oil volatility feeds straight into power prices."
+    },
+    {
+      "term": "under way",
+      "translation": "en marcha",
+      "pos": "phrase",
+      "example": "Talks are under way to reopen the strait."
+    },
+    {
+      "term": "on edge",
+      "translation": "en vilo, nerviosos",
+      "pos": "phrase",
+      "example": "The news kept traders on edge."
+    },
+    {
+      "term": "front and centre",
+      "translation": "en primer plano",
+      "pos": "phrase",
+      "example": "The economy is front and centre in the campaign."
+    },
+    {
+      "term": "approval",
+      "translation": "índice de aprobación",
+      "pos": "noun",
+      "example": "His approval has fallen to 32%."
+    },
+    {
+      "term": "heist",
+      "translation": "golpe, robo",
+      "pos": "noun",
+      "example": "It was the biggest crypto heist on record."
+    },
+    {
+      "term": "casts doubt",
+      "translation": "pone en duda",
+      "pos": "phrase",
+      "example": "The new data casts doubt on the forecast."
+    },
+    {
+      "term": "frozen",
+      "translation": "congelado",
+      "pos": "adjective",
+      "example": "Half of the assets have been frozen."
+    },
+    {
+      "term": "hurled",
+      "translation": "lanzaron, arrojaron",
+      "pos": "verb (past)",
+      "example": "Protesters hurled bottles at the police."
+    },
+    {
+      "term": "handed over",
+      "translation": "entregado",
+      "pos": "phrasal verb",
+      "example": "The bodies were handed over to the families."
+    },
+    {
+      "term": "halted",
+      "translation": "detenido, interrumpido",
+      "pos": "verb (past participle)",
+      "example": "Train services remain halted."
+    },
+    {
+      "term": "stark",
+      "translation": "crudo, duro",
+      "pos": "adjective",
+      "example": "It is a stark reminder of the risks."
+    },
+    {
+      "term": "tops",
+      "translation": "supera",
+      "pos": "verb",
+      "example": "The evening price tops 260 euros."
+    },
+    {
+      "term": "business case",
+      "translation": "justificación económica",
+      "pos": "noun",
+      "example": "There is a strong business case for storage."
+    },
+    {
+      "term": "passed on",
+      "translation": "repercutido, trasladado",
+      "pos": "phrasal verb",
+      "example": "Costs are passed on to consumers."
+    },
+    {
+      "term": "windfalls",
+      "translation": "beneficios caídos del cielo",
+      "pos": "noun",
+      "example": "Oil windfalls revive calls for new taxes."
+    },
+    {
+      "term": "setpoints",
+      "translation": "consignas",
+      "pos": "noun",
+      "example": "Plants must follow the operator's voltage setpoints."
+    },
+    {
+      "term": "sell-off",
+      "translation": "venta masiva, desplome",
+      "pos": "noun",
+      "example": "The tech sell-off deepened on Friday."
+    },
+    {
+      "term": "rotation",
+      "translation": "rotación (de inversiones)",
+      "pos": "noun",
+      "example": "Investors see a rotation into energy stocks."
+    },
+    {
+      "term": "yield",
+      "translation": "rentabilidad (de un bono)",
+      "pos": "noun",
+      "example": "The 10-year yield fell to 4.93%."
+    },
+    {
+      "term": "capital-intensive",
+      "translation": "intensivo en capital",
+      "pos": "adjective",
+      "example": "Utilities are capital-intensive businesses."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Anthropic has published a draft proposal at the IETF that lets websites tell crawlers, through a new line in robots.txt, which pages must not be used to train AI models.",
+      "es": "Anthropic ha publicado en el IETF un borrador que permite a las webs indicar a los rastreadores, con una nueva línea en robots.txt, qué páginas no deben usarse para entrenar modelos de IA."
+    },
+    {
+      "en": "Google plans to support it in early 2027, Microsoft will honour it from 1 February 2027 and OpenAI says it will follow in the coming months.",
+      "es": "Google prevé admitirlo a principios de 2027, Microsoft lo respetará desde el 1 de febrero de 2027 y OpenAI dice que lo hará en los próximos meses."
+    },
+    {
+      "en": "The draft has no formal standing yet, and Microsoft stresses that it does not create any licensing or payment scheme for publishers.",
+      "es": "El borrador aún no tiene rango oficial, y Microsoft subraya que no crea ningún sistema de licencias ni de pagos para los editores."
+    },
+    {
+      "en": "A shared standard would end the current patchwork of company-specific tags and give publishers one simple switch, although it leaves the question of compensation unresolved.",
+      "es": "Un estándar común acabaría con el mosaico actual de etiquetas de cada empresa y daría a los editores un único interruptor sencillo, aunque deja sin resolver la cuestión de la compensación."
+    },
+    {
+      "en": "Google has made the new version of Android Studio stable with a 'bring your own agent' option, so developers can plug in Claude, Codex or more than 40 other agents that follow the open Agent Client Protocol.",
+      "es": "Google ha publicado como estable la nueva versión de Android Studio con la opción 'trae tu propio agente', de modo que los desarrolladores pueden conectar Claude, Codex o más de 40 agentes que siguen el protocolo abierto Agent Client Protocol."
+    },
+    {
+      "en": "It has also released official plugins for Claude Code and Codex, while its own built-in agent remains free.",
+      "es": "También ha lanzado plugins oficiales para Claude Code y Codex, mientras que su agente integrado sigue siendo gratuito."
+    },
+    {
+      "en": "It is a sign that coding tools are becoming open platforms where rival AI agents compete side by side rather than locked-in ecosystems.",
+      "es": "Es una señal de que las herramientas de programación se están convirtiendo en plataformas abiertas donde agentes de IA rivales compiten codo con codo, en lugar de ecosistemas cerrados."
+    },
+    {
+      "en": "Suncatcher, a prototype launched on 1 October, carries four of Google's TPU chips and generates up to 1 kW of solar power.",
+      "es": "Suncatcher, un prototipo lanzado el 1 de octubre, lleva cuatro chips TPU de Google y genera hasta 1 kW de energía solar."
+    },
+    {
+      "en": "Power is so tight that only one chip can run at a time, and only for about 20 minutes, but the company plans two more satellites in 2027.",
+      "es": "La energía es tan escasa que solo puede funcionar un chip cada vez, y solo unos 20 minutos, pero la empresa prevé dos satélites más en 2027."
+    },
+    {
+      "en": "Big Tech is looking for ways around the grid connections and power shortages that are slowing data centres on Earth.",
+      "es": "Las grandes tecnológicas buscan cómo sortear las conexiones a red y la escasez de electricidad que están frenando los centros de datos en la Tierra."
+    },
+    {
+      "en": "Amazon's cloud unit grew 39% to 46 billion dollars in the third quarter, its fastest pace in almost five years.",
+      "es": "La división de nube de Amazon creció un 39%, hasta 46.000 millones de dólares en el tercer trimestre, su ritmo más rápido en casi cinco años."
+    },
+    {
+      "en": "Chief executive Andy Jassy said inference, the cost of running models for users, now accounts for well over half of AWS's AI revenue.",
+      "es": "El consejero delegado Andy Jassy dijo que la inferencia, es decir, el coste de ejecutar los modelos para los usuarios, supone ya bastante más de la mitad de los ingresos de IA de AWS."
+    },
+    {
+      "en": "Even so, investors focused on Amazon's plan to spend about 220 billion dollars on capital expenditure this year and 'meaningfully more' in 2027.",
+      "es": "Aun así, los inversores se fijaron en su plan de gastar unos 220.000 millones de dólares en inversión este año y 'bastante más' en 2027."
+    },
+    {
+      "en": "The shift from training to inference means AI demand is turning into everyday usage, which is what eventually has to pay for the huge build-out.",
+      "es": "El paso del entrenamiento a la inferencia significa que la demanda de IA se está convirtiendo en uso cotidiano, que es lo que al final tiene que pagar esta enorme expansión."
+    },
+    {
+      "en": "Anthropic, OpenAI, Google and Cloudflare have each released agents that search code for vulnerabilities, try to disprove their own findings and then propose a patch.",
+      "es": "Anthropic, OpenAI, Google y Cloudflare han lanzado agentes que buscan vulnerabilidades en el código, intentan refutar sus propios hallazgos y después proponen un parche."
+    },
+    {
+      "en": "Claude Security runs inside Claude Code, Google's Mantis reproduces bugs in a sandbox, and Cloudflare's version is open source and works with any model.",
+      "es": "Claude Security funciona dentro de Claude Code, Mantis de Google reproduce los fallos en un entorno aislado y la versión de Cloudflare es de código abierto y funciona con cualquier modelo."
+    },
+    {
+      "en": "Self-checking is the key design choice: it cuts the false alarms that have made automated security tools hard to trust.",
+      "es": "La autocomprobación es la clave del diseño: reduce las falsas alarmas que han hecho difícil confiar en las herramientas de seguridad automáticas."
+    },
+    {
+      "en": "The BSC and AstraZeneca signed an agreement on 30 October to use the MareNostrum 5 supercomputer for AI-driven research.",
+      "es": "El BSC y AstraZeneca firmaron el 30 de octubre un acuerdo para usar el superordenador MareNostrum 5 en investigación basada en IA."
+    },
+    {
+      "en": "The work will focus on cardiovascular, respiratory and rare diseases and on cancer, and will also explore quantum-enhanced AI for biological modelling.",
+      "es": "El trabajo se centrará en enfermedades cardiovasculares, respiratorias, raras y en el cáncer, y explorará también la IA reforzada con computación cuántica para modelar procesos biológicos."
+    },
+    {
+      "en": "More than 30 incidents against ships were logged in and around the Strait of Hormuz in October, double September's figure, and Oman rescued 25 sailors from a burning tanker on Friday.",
+      "es": "En octubre se registraron más de 30 incidentes contra barcos en el estrecho de Ormuz y sus alrededores, el doble que en septiembre, y Omán rescató el viernes a 25 marineros de un petrolero en llamas."
+    },
+    {
+      "en": "Iran says several tankers struck mines on an 'unauthorised route', while the US says it has cleared the main shipping lanes.",
+      "es": "Irán afirma que varios petroleros chocaron con minas en una 'ruta no autorizada', mientras que EE. UU. asegura que ha despejado los principales corredores."
+    },
+    {
+      "en": "Around a fifth of the world's oil normally passes through the strait, so every attack feeds straight into fuel and power prices in Europe.",
+      "es": "Por el estrecho pasa normalmente una quinta parte del petróleo mundial, así que cada ataque se traslada directamente a los precios del combustible y de la electricidad en Europa."
+    },
+    {
+      "en": "Foreign minister Abbas Araghchi says talks are under way on a two-day plan to reopen the strait, and Tehran says a recent US letter showed a change of tone.",
+      "es": "El ministro de Exteriores, Abbas Araghchi, dice que se negocia un plan de dos días para reabrir el estrecho, y Teherán afirma que una carta reciente de EE. UU. mostró un cambio de tono."
+    },
+    {
+      "en": "At the same time, a senior security official warned that Iran could reconsider its place in the nuclear Non-Proliferation Treaty if the US attacks again.",
+      "es": "Al mismo tiempo, un alto cargo de seguridad advirtió de que Irán podría replantearse su participación en el Tratado de No Proliferación nuclear si EE. UU. vuelve a atacar."
+    },
+    {
+      "en": "Mixed signals of this kind keep oil traders on edge and make any quick fall in crude prices unlikely.",
+      "es": "Las señales contradictorias de este tipo mantienen en vilo a los operadores del petróleo y hacen poco probable una caída rápida del crudo."
+    },
+    {
+      "en": "A Reuters/Ipsos poll gives the Democrats a lead of around nine points among voters, while President Trump's approval stands at 32%.",
+      "es": "Una encuesta de Reuters/Ipsos da a los demócratas una ventaja de unos nueve puntos entre los votantes, mientras que la aprobación del presidente Trump está en el 32%."
+    },
+    {
+      "en": "Senate races in Texas, Ohio, Michigan and Kansas look unusually tight, and 73% of adults say the cost of living is heading in the wrong direction.",
+      "es": "Las carreras al Senado en Texas, Ohio, Michigan y Kansas están inusualmente reñidas, y el 73% de los adultos cree que el coste de la vida va en la dirección equivocada."
+    },
+    {
+      "en": "Control of Congress will shape US policy on Iran, tariffs and energy for the last two years of Trump's term.",
+      "es": "El control del Congreso marcará la política de EE. UU. sobre Irán, aranceles y energía en los dos últimos años del mandato de Trump."
+    },
+    {
+      "en": "The FBI has attributed the roughly 6.3-billion-dollar theft from Binance, the largest crypto heist on record, to North Korean hackers.",
+      "es": "El FBI ha atribuido a piratas norcoreanos el robo de unos 6.300 millones de dólares a Binance, el mayor golpe de criptomonedas registrado."
+    },
+    {
+      "en": "President Trump publicly questioned that conclusion, while about half of the stolen assets have been frozen by stablecoin issuers.",
+      "es": "El presidente Trump cuestionó públicamente esa conclusión, mientras que cerca de la mitad de los activos robados han sido congelados por los emisores de stablecoins."
+    },
+    {
+      "en": "Dutch police arrested 34 people, mostly minors, after fireworks were thrown at officers in The Hague, and protesters hurled petrol bombs outside the prime minister's office in Albania.",
+      "es": "La policía neerlandesa detuvo a 34 personas, la mayoría menores, tras lanzarse petardos contra los agentes en La Haya, y en Albania los manifestantes arrojaron cócteles molotov frente a la oficina del primer ministro."
+    },
+    {
+      "en": "In Zurich, student marches ended in clashes with barricades, water cannon and tear gas.",
+      "es": "En Zúrich, las marchas estudiantiles acabaron en enfrentamientos con barricadas, cañones de agua y gas lacrimógeno."
+    },
+    {
+      "en": "State media reported a test of a cluster warhead designed for a short-range ballistic missile.",
+      "es": "Los medios estatales informaron de la prueba de una ojiva de racimo diseñada para un misil balístico de corto alcance."
+    },
+    {
+      "en": "The test comes as Washington accuses Pyongyang of the Binance hack, a reminder that crypto theft helps fund its weapons programmes.",
+      "es": "La prueba llega mientras Washington acusa a Pionyang del ataque a Binance, lo que recuerda que el robo de criptomonedas ayuda a financiar sus programas de armamento."
+    },
+    {
+      "en": "Forensic teams have identified 56 of the 69 people killed in the crash near Toledo, and the first 36 bodies have been handed over to their families.",
+      "es": "Los equipos forenses han identificado a 56 de las 69 personas fallecidas en el accidente cerca de Toledo, y los primeros 36 cuerpos ya se han entregado a sus familias."
+    },
+    {
+      "en": "Thirty-four injured passengers remain in hospital, and a funeral at Toledo Cathedral is planned for the coming days.",
+      "es": "Treinta y cuatro heridos siguen hospitalizados, y está previsto un funeral en la catedral de Toledo en los próximos días."
+    },
+    {
+      "en": "The transport minister will appear before Congress's standing committee, while the PP and Vox are calling for his resignation.",
+      "es": "El ministro de Transportes comparecerá ante la Diputación Permanente del Congreso, mientras PP y Vox piden su dimisión."
+    },
+    {
+      "en": "El País reports that the government is considering replacing the head of Adif, the rail infrastructure manager.",
+      "es": "El País informa de que el Gobierno estudia relevar al presidente de Adif, el gestor de la infraestructura ferroviaria."
+    },
+    {
+      "en": "High-speed services between Madrid and Andalusia are still halted after the crash, pushing many travellers towards car-sharing platforms.",
+      "es": "Los servicios de alta velocidad entre Madrid y Andalucía siguen interrumpidos tras el accidente, lo que empuja a muchos viajeros a plataformas de coche compartido."
+    },
+    {
+      "en": "The debate is growing over maintenance: Spain has Europe's longest high-speed network but invests less in it than the other large eurozone economies.",
+      "es": "Crece el debate sobre el mantenimiento: España tiene la red de alta velocidad más larga de Europa, pero invierte en ella menos que las otras grandes economías del euro."
+    },
+    {
+      "en": "For an infrastructure planner, it is a stark reminder that building assets is only half the job: keeping them safe requires steady maintenance spending.",
+      "es": "Para quien planifica infraestructuras, es un duro recordatorio de que construir activos es solo la mitad del trabajo: mantenerlos seguros exige un gasto de mantenimiento constante."
+    },
+    {
+      "en": "Because 1 November is a Sunday this year, nine autonomous communities will take Monday 2 November off instead, creating a three-day weekend for workers and schools.",
+      "es": "Como el 1 de noviembre cae este año en domingo, nueve comunidades autónomas trasladan el festivo al lunes 2, lo que crea un puente de tres días para trabajadores y colegios."
+    },
+    {
+      "en": "The Spanish wholesale price averages 163.19 €/MWh today, down from almost 209 €/MWh on Saturday, and it is negative for six hours around midday thanks to solar output.",
+      "es": "El precio mayorista en España se sitúa hoy en una media de 163,19 €/MWh, frente a casi 209 €/MWh el sábado, y es negativo durante seis horas en torno al mediodía gracias a la producción solar."
+    },
+    {
+      "en": "The evening peak, however, still tops 260 €/MWh, when gas plants set the price.",
+      "es": "El pico de la tarde, sin embargo, supera aún los 260 €/MWh, cuando las centrales de gas marcan el precio."
+    },
+    {
+      "en": "The huge gap between sunny hours and the evening is exactly the business case for batteries and other storage.",
+      "es": "La enorme diferencia entre las horas de sol y la noche es justo el argumento económico a favor de las baterías y otros sistemas de almacenamiento."
+    },
+    {
+      "en": "According to the CNMC, the reinforced operation that Red Eléctrica has used since the 2025 blackout cost 275 million euros between January and September, roughly half the monthly rate of last year.",
+      "es": "Según la CNMC, la operación reforzada que Red Eléctrica aplica desde el apagón de 2025 costó 275 millones de euros entre enero y septiembre, aproximadamente la mitad del ritmo mensual del año pasado."
+    },
+    {
+      "en": "The regulator has asked Red Eléctrica to study whether the way these costs are passed on sends the right signals to consumers, which could lead to a rule change.",
+      "es": "El regulador ha pedido a Red Eléctrica que analice si la forma de repartir estos costes envía las señales adecuadas a los consumidores, lo que podría acabar en un cambio normativo."
+    },
+    {
+      "en": "Cheaper system security frees up room in the bill and strengthens the case for letting renewables and grid assets provide stability services.",
+      "es": "Una seguridad del sistema más barata libera margen en la factura y refuerza el argumento para que renovables y activos de red presten servicios de estabilidad."
+    },
+    {
+      "en": "Shell, TotalEnergies, BP, Eni and Repsol together earned more than 68 billion euros in the first nine months, with Repsol's profit up more than fourfold on higher crude prices.",
+      "es": "Shell, TotalEnergies, BP, Eni y Repsol ganaron en conjunto más de 68.000 millones de euros en los nueve primeros meses, y Repsol multiplicó su beneficio por más de cuatro gracias al encarecimiento del crudo."
+    },
+    {
+      "en": "Among Spanish utilities, Iberdrola earned 5.816 billion euros (+9.6%), Endesa 1.962 billion (+15%) and Naturgy 1.758 billion (+5%).",
+      "es": "Entre las eléctricas españolas, Iberdrola ganó 5.816 millones de euros (+9,6%), Endesa 1.962 millones (+15%) y Naturgy 1.758 millones (+5%)."
+    },
+    {
+      "en": "Such large windfalls are likely to revive calls for extraordinary taxes on energy companies.",
+      "es": "Unos beneficios tan elevados probablemente reavivarán las peticiones de impuestos extraordinarios a las energéticas."
+    },
+    {
+      "en": "New incentives for plants that follow Red Eléctrica's real-time voltage setpoints come into force on 1 November, with 15 GW of renewables already enabled out of 32.5 GW eligible.",
+      "es": "Los nuevos incentivos para las plantas que siguen en tiempo real las consignas de tensión de Red Eléctrica entran en vigor el 1 de noviembre, con 15 GW de renovables ya habilitados de los 32,5 GW posibles."
+    },
+    {
+      "en": "A second payment for fixed setpoints is planned for March 2027.",
+      "es": "Está prevista una segunda retribución para las consignas fijas a partir de marzo de 2027."
+    },
+    {
+      "en": "The Nasdaq lost about 5.2% in October and the chip index fell more than 15%, as Alphabet, Meta and Amazon reported soaring investment and weaker free cash flow.",
+      "es": "El Nasdaq perdió alrededor de un 5,2% en octubre y el índice de chips cayó más de un 15%, después de que Alphabet, Meta y Amazon presentaran inversiones disparadas y un flujo de caja libre más débil."
+    },
+    {
+      "en": "By contrast, the Dow rose about 1.5% in the month and energy stocks gained around 13%, helped by expensive oil.",
+      "es": "En cambio, el Dow subió cerca de un 1,5% en el mes y las energéticas ganaron alrededor de un 13%, impulsadas por el petróleo caro."
+    },
+    {
+      "en": "Analysts say the week after the midterms will show whether this is a brief sell-off or a lasting rotation away from tech.",
+      "es": "Los analistas dicen que la semana posterior a las legislativas mostrará si se trata de una caída pasajera o de una rotación duradera fuera de la tecnología."
+    },
+    {
+      "en": "Gold dropped more than 3% on Friday to about 3,900 dollars an ounce, roughly 30% below its January record.",
+      "es": "El oro cayó más de un 3% el viernes, hasta unos 3.900 dólares la onza, alrededor de un 30% por debajo de su récord de enero."
+    },
+    {
+      "en": "Meanwhile, the yield on the 10-year US Treasury fell about 36 basis points in October to 4.93%, its biggest monthly drop since December 2023.",
+      "es": "Mientras tanto, la rentabilidad del bono estadounidense a 10 años bajó unos 36 puntos básicos en octubre, hasta el 4,93%, su mayor caída mensual desde diciembre de 2023."
+    },
+    {
+      "en": "Lower long-term yields cut borrowing costs for capital-intensive businesses such as utilities.",
+      "es": "Unos tipos a largo plazo más bajos abaratan la financiación de negocios intensivos en capital, como las eléctricas."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "sell-off",
+    "pos": "noun",
+    "translation": "venta masiva, desplome bursátil",
+    "definition_en": "A rapid sale of a large number of shares or other assets, which pushes their prices sharply lower.",
+    "example_en": "Weak earnings from chipmakers triggered a sell-off across the tech sector.",
+    "example_es": "Los débiles resultados de los fabricantes de chips desencadenaron una venta masiva en todo el sector tecnológico."
+  },
+  "recommendations": [
+    {
+      "id": "cxotalk-cisco-president-agentic-transformation",
+      "type": "video",
+      "title": "Cisco President: What Makes Agentic AI Transformation Work?",
+      "speaker": "Presidente y director de producto de Cisco",
+      "outlet": "CXOTalk",
+      "duration_min": 57,
+      "language": "en",
+      "topics": [
+        "IA",
+        "empresa",
+        "agentes"
+      ],
+      "summary": "Cómo una gran empresa reparte presupuesto de 'tokens', mantiene a las personas responsables del trabajo que hacen los agentes y rediseña sus procesos alrededor de la IA.",
+      "why": "Visión práctica de cómo se gestiona la IA dentro de una corporación grande, muy aplicable a un entorno como Iberdrola.",
+      "url": "https://www.cxotalk.com/episode/cisco-president-what-makes-agentic-transformation-work"
+    },
+    {
+      "id": "allin-ai-cyber-panic-griffin-bubble-france",
+      "type": "video",
+      "title": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?",
+      "speaker": "Nikesh Arora con Jason, Chamath y Friedberg",
+      "outlet": "All-In Podcast",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "IA",
+        "mercados",
+        "política"
+      ],
+      "summary": "Debate sobre si el gasto en IA genera productividad real o es una burbuja que circula entre unas pocas empresas, más la crisis fiscal y política de Francia.",
+      "why": "Encaja con el mes negro del Nasdaq: escuchar los argumentos a favor y en contra de la 'burbuja de la IA'.",
+      "url": "https://youtube.com/watch?v=6czo-C3FU7I"
+    },
+    {
+      "id": "allin-dylan-field-ai-designers",
+      "type": "video",
+      "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
+      "speaker": "Dylan Field (CEO de Figma)",
+      "outlet": "All-In Podcast",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "IA",
+        "tecnología",
+        "liderazgo"
+      ],
+      "summary": "El fundador de Figma defiende que, cuando la IA abarata escribir código, el criterio y el buen gusto valen más; también habla del fallido acuerdo con Adobe.",
+      "why": "Entrevista a un CEO tecnológico joven con ideas claras sobre cómo cambia el trabajo cualificado con la IA.",
+      "url": "https://youtube.com/watch?v=2Zj6uMv3kTA"
+    },
+    {
+      "id": "cxotalk-mozilla-cto-open-weight-ai",
+      "type": "video",
+      "title": "Mozilla CTO: Open Source and Open Weight AI, Rent or Own?",
+      "speaker": "CTO de Mozilla",
+      "outlet": "CXOTalk",
+      "duration_min": 56,
+      "language": "en",
+      "topics": [
+        "IA",
+        "código abierto",
+        "estrategia"
+      ],
+      "summary": "¿Conviene alquilar modelos de IA a un proveedor o tener los tuyos con pesos abiertos? Costes, control y riesgos de cada opción.",
+      "why": "Es un análisis de 'comprar o alquilar' muy parecido a las decisiones de inversión que verás en Control de Gestión.",
+      "url": "https://www.cxotalk.com/episode/mozilla-cto-open-source-and-open-weight-ai-rent-or-own"
+    },
+    {
+      "id": "allin-whoop-will-ahmed-health-data",
+      "type": "video",
+      "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
+      "speaker": "Will Ahmed (CEO de WHOOP)",
+      "outlet": "All-In Podcast",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "empresa",
+        "datos",
+        "regulación"
+      ],
+      "summary": "El CEO de WHOOP explica su modelo de suscripción, el uso de IA como entrenador personal y su pulso con el regulador sanitario de EE. UU.",
+      "why": "Buen caso de cómo los datos se convierten en ventaja competitiva y de cómo choca la innovación con la regulación.",
+      "url": "https://youtube.com/watch?v=Uc6xXNBWjfc"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Fin de semana sin bolsa: el último cierre fue el del viernes 30, que remató un octubre muy malo para la tecnología. El Nasdaq cayó un 2,9% ese día y en torno a un 5% en el mes, con el índice de semiconductores hundido más de un 15% por el desplome de Intel y las dudas sobre si la enorme inversión de Alphabet, Meta y Amazon en IA será rentable. El Dow, en cambio, acabó el mes en positivo y las energéticas subieron cerca de un 13% gracias al petróleo, con el Brent por encima de 110 dólares por la crisis de Ormuz. El oro se hundió a mínimos de un año y el bono a 10 años de EE. UU. tuvo su mayor bajada de rentabilidad mensual desde 2023. Los analistas señalan las legislativas del martes como la prueba de si la caída es pasajera.",
+      "en": "No trading this weekend: the last close was Friday 30 October, which capped a very poor October for tech. The Nasdaq fell 2.9% that day and about 5% over the month, with the chip index down more than 15% after Intel's collapse and growing doubts over whether Alphabet, Meta and Amazon will earn a return on their huge AI spending. The Dow, by contrast, ended the month higher and energy stocks rose about 13% on the back of oil, with Brent above 110 dollars because of the Hormuz crisis. Gold slid to a one-year low and the 10-year US Treasury yield posted its biggest monthly fall since 2023. Analysts see Tuesday's midterms as the test of whether the slide is temporary."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35 (cierre viernes)",
+        "value": 18652.9,
+        "change_pct": -1.09
+      },
+      {
+        "name": "S&P 500 (cierre viernes)",
+        "value": 7580.07,
+        "change_pct": -1.82
+      },
+      {
+        "name": "Nasdaq Composite (cierre viernes)",
+        "value": 25437.0,
+        "change_pct": -2.86
+      },
+      {
+        "name": "Dow Jones (cierre viernes)",
+        "value": 51770.31,
+        "change_pct": -1.09
+      },
+      {
+        "name": "WTI (USD/barril)",
+        "value": 104.12,
+        "change_pct": 2.08
+      },
+      {
+        "name": "Oro (USD/onza, futuro dic.)",
+        "value": 3898.9,
+        "change_pct": -3.29
+      },
+      {
+        "name": "EUR/USD",
+        "value": 1.1168,
+        "change_pct": -0.06
+      },
+      {
+        "name": "Bitcoin (USD, aprox.)",
+        "value": 77600,
+        "change_pct": -1.5
+      },
+      {
+        "name": "Bono EE. UU. 10 años (%)",
+        "value": 4.93,
+        "change_pct": null
+      }
+    ],
+    "learn": {
+      "concept": "Amortización (depreciación) y vida útil",
+      "explanation": "Cuando una empresa invierte en un activo que dura muchos años (una subestación, una línea, un centro de datos), no lo apunta entero como gasto el año de la compra: reparte su coste a lo largo de su vida útil. Esa cuota anual es la amortización. Ejemplo: un transformador de 10 M€ con 40 años de vida útil genera 250.000 € de amortización al año (método lineal). Importa por tres motivos: 1) reduce el beneficio contable aunque no sale dinero de caja (por eso EBITDA = beneficio antes de amortizaciones, y el flujo de caja se calcula sumándola de nuevo); 2) en las redes reguladas, la retribución incluye la recuperación de la inversión vía amortización más una rentabilidad sobre el valor neto del activo (la RAB, que baja cada año al amortizarse); y 3) explica el miedo actual en bolsa: el CAPEX récord de las tecnológicas en IA se convertirá en amortizaciones enormes en los próximos años, y los chips tienen vidas útiles cortas (4-6 años), así que presionarán mucho sus beneficios si los ingresos no crecen al mismo ritmo."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
