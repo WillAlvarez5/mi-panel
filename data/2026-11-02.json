@@ -1,0 +1,1087 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T07:09:39+01:00",
+  "last_updated": "2026-11-02T07:09:39+01:00",
+  "headline": {
+    "es": "Irán espera la respuesta de EE. UU. sobre Ormuz mientras siguen los ataques a petroleros y el Brent ronda los 118 dólares; mañana EE. UU. vota en las legislativas. Para tu trabajo: la red de distribución española ya acumula 67 GW en peticiones de acceso.",
+    "en": "Iran is waiting for a US answer on Hormuz as tankers keep getting hit and Brent hovers near $118, and the US votes in the midterms tomorrow. Closer to your job, Spain's distribution grid now faces 67 GW of access requests."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "OpenAI reduce su ronda de financiación a unos 20.000 millones, según la prensa",
+        "en": "OpenAI reportedly scales back its funding round to about $20 billion"
+      },
+      "body": {
+        "es": "El Financial Times informa de que OpenAI ha recortado su objetivo de captación de 30.000 a unos 20.000 millones de dólares, y de que la valoración que busca ha bajado de 1,4 a 1,25 billones. The Wall Street Journal sitúa los compromisos firmes en unos 11.000 millones por ahora. OpenAI no ha comentado ninguna de las dos informaciones.",
+        "en": "The Financial Times reports that OpenAI has trimmed its fundraising target from $30 billion to about $20 billion, and that the valuation it is seeking has slipped from $1.4 trillion to $1.25 trillion. The Wall Street Journal puts firm commitments at around $11 billion so far. OpenAI has not commented on either report."
+      },
+      "why_it_matters": {
+        "es": "Apunta a que los inversores se están volviendo más exigentes con las valoraciones de la IA justo cuando el Nasdaq sale de un mes difícil.",
+        "en": "It suggests that investors are becoming pickier about AI valuations just as the Nasdaq comes off a rough month."
+      },
+      "source": {
+        "name": "The Signal (resumen de FT y WSJ)",
+        "url": "https://thesignal.substack.com/p/open-books-locked-models-and-picky"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "Apple confirma a Qwen, de Alibaba, como motor de Apple Intelligence en China",
+        "en": "Alibaba's Qwen will power Apple Intelligence in China"
+      },
+      "body": {
+        "es": "Apple y Alibaba han anunciado que Qwen hará funcionar las funciones de Apple Intelligence en China, como Siri, las herramientas de escritura y la inteligencia visual. Los desarrolladores tendrán una versión previa desde el 4 de noviembre, y el despliegue público llegará en diciembre con iOS 27.3. Alibaba se ha comprometido a no usar las peticiones ni las respuestas de los clientes para entrenar sus modelos.",
+        "en": "Apple and Alibaba have announced that Qwen will run Apple Intelligence features in China, including Siri, Writing Tools and Visual Intelligence. Developers get a preview from 4 November, and the public rollout is due in December with iOS 27.3. Alibaba has pledged not to use customers' requests or responses to train its models."
+      },
+      "why_it_matters": {
+        "es": "Pone fin a una larga espera de la IA de Apple en su mayor mercado exterior, y muestra cómo la carrera de la IA se divide por países.",
+        "en": "It ends a long wait for Apple's AI in its biggest overseas market, and shows how the AI race is splitting along national lines."
+      },
+      "source": {
+        "name": "CGTN",
+        "url": "https://news.cgtn.com/news/2026-10-31/Alibaba-s-Qwen-to-integrate-into-Apple-Intelligence-in-landmark-deal-1RHilSeJsbK/p.html"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "OpenAI lanza GPT-6 Rosalind Research para biología y fármacos",
+        "en": "OpenAI releases GPT-6 Rosalind Research for biology and drug discovery"
+      },
+      "body": {
+        "es": "OpenAI ha lanzado una versión de GPT-6 Astra que relaja las negativas ante preguntas de biología de doble uso y solo está disponible mediante un programa de acceso de confianza. Sus propias pruebas muestran un 49,6% en una prueba de química médica, frente al 28,9% del modelo estándar. Entre los primeros socios están Amgen, Moderna, Thermo Fisher y el Allen Institute.",
+        "en": "OpenAI has released a version of GPT-6 Astra that relaxes refusals on dual-use biology questions and is available only through a trusted-access programme. Its own tests show a score of 49.6% on a medicinal chemistry benchmark, up from 28.9% for the standard model. The first partners include Amgen, Moderna, Thermo Fisher and the Allen Institute."
+      },
+      "why_it_matters": {
+        "es": "Los laboratorios empiezan a adaptar sus modelos punteros a sectores concretos, lo que obliga a decidir quién puede usar las capacidades más arriesgadas.",
+        "en": "Labs are starting to tailor frontier models to specific industries, which means deciding who gets to use the riskier capabilities."
+      },
+      "source": {
+        "name": "OpenAI",
+        "url": "https://deploymentsafety.openai.com/gpt-rosalind-6"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "Una versión maliciosa de la extensión de Claude Code instaló una puerta trasera",
+        "en": "A malicious Claude Code extension release planted a backdoor"
+      },
+      "body": {
+        "es": "La versión 2.1.313 de la extensión de Claude Code para VS Code, publicada el 29 de octubre, contenía código que instalaba una puerta trasera SSH. Cursor calcula que quedaron expuestos hasta unos 5.000 de sus usuarios. Al día siguiente salió una versión limpia, la 2.1.314.",
+        "en": "Version 2.1.313 of the Claude Code extension for VS Code, published on 29 October, contained code that planted an SSH backdoor. Cursor estimates that up to about 5,000 of its users were exposed. A clean version, 2.1.314, came out the next day."
+      },
+      "why_it_matters": {
+        "es": "Las herramientas de programación funcionan con amplio acceso al ordenador del desarrollador, así que una sola actualización contaminada puede hacer mucho daño.",
+        "en": "Coding tools run with broad access to a developer's machine, so a single tainted update can do real damage."
+      },
+      "source": {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "El regulador británico investiga a Meta por usar contenidos de editores en su IA",
+        "en": "UK watchdog probes Meta over publishers' content in its AI features"
+      },
+      "body": {
+        "es": "La autoridad británica de competencia abrió el 30 de octubre una investigación formal sobre las condiciones que permiten a Meta usar contenidos de editores británicos en funciones de IA. Las nuevas condiciones que Meta tenía previstas para el 20 de noviembre han quedado en suspenso.",
+        "en": "The UK's Competition and Markets Authority opened a formal investigation on 30 October into terms that let Meta use British publishers' content for AI features. Revised terms that Meta had scheduled for 20 November have been put on hold."
+      },
+      "why_it_matters": {
+        "es": "Es un frente más en la disputa sobre quién cobra cuando los sistemas de IA se nutren de las noticias.",
+        "en": "It is one more front in the dispute over who gets paid when AI systems draw on news."
+      },
+      "source": {
+        "name": "AI Weekly",
+        "url": "https://aiweekly.co/ai-news-today"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "Una prueba independiente da a AMD ventaja de coste sobre Nvidia en inferencia",
+        "en": "Independent test gives AMD a cost edge over Nvidia on inference"
+      },
+      "body": {
+        "es": "La prueba InferenceX de SemiAnalysis concluye que el MI355X de AMD sirve el modelo Kimi K3 a 0,077 dólares por millón de tokens, frente a 0,179 en el B200 de Nvidia, a 100 tokens por segundo por usuario. A 144 tokens por segundo, una velocidad mayor, la brecha se reduce a 0,146 frente a 0,275 dólares.",
+        "en": "SemiAnalysis's InferenceX benchmark found that AMD's MI355X serves the Kimi K3 model at $0.077 per million tokens, against $0.179 on Nvidia's B200, at 100 tokens per second per user. At a faster 144 tokens per second, the gap narrows to $0.146 against $0.275."
+      },
+      "why_it_matters": {
+        "es": "Ahora que la inferencia supone tanto gasto en IA, el coste por token podría debilitar el dominio de Nvidia en el mercado.",
+        "en": "Now that inference accounts for so much AI spending, cost per token could erode Nvidia's grip on the market."
+      },
+      "source": {
+        "name": "SemiAnalysis",
+        "url": "https://inferencex.semianalysis.com/compare-per-dollar/kimi-k3-gb200-vs-mi355x"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Irán espera la respuesta de EE. UU. sobre Ormuz mientras siguen los ataques a petroleros",
+        "en": "Iran awaits a US answer on Hormuz as tankers keep getting hit"
+      },
+      "body": {
+        "es": "El ministro de Exteriores iraní, Abás Araqchí, calificó de paso positivo una oferta de diálogo de EE. UU. mientras una delegación iraní visitaba Doha, y Teherán dice que espera la respuesta de Washington a su propuesta para reabrir el estrecho. La cobertura en directo de Al Jazeera de este lunes informa de más petroleros alcanzados en Ormuz, mientras Trump repite que el conflicto acabará pronto.",
+        "en": "Iran's foreign minister, Abbas Araghchi, called a US offer of dialogue a positive step as an Iranian delegation visited Doha, and Tehran says it is waiting for Washington's reply on its proposal to reopen the strait. Al Jazeera's live coverage on Monday reports more tankers hit in Hormuz, while Trump again says the conflict will end soon."
+      },
+      "why_it_matters": {
+        "es": "Con el Brent cerca de 118 dólares, cualquier señal de acuerdo o de un nuevo ataque moverá los precios de la energía en toda Europa.",
+        "en": "With Brent near $118, any sign of a deal or a new strike will move energy prices across Europe."
+      },
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Víspera de las legislativas en EE. UU.: a los demócratas les bastan cuatro escaños en cada cámara",
+        "en": "US midterms eve: Democrats need four seats in each chamber"
+      },
+      "body": {
+        "es": "Los estadounidenses votan el martes con los republicanos controlando la Cámara por 218 a 214 y el Senado por 53 a 47, así que los demócratas necesitan una ganancia neta de cuatro escaños en cada una. La publicidad ya alcanzaba un récord de 3.800 millones de dólares a mediados de octubre, y también se juegan 39 gobernadores.",
+        "en": "Americans vote on Tuesday with Republicans holding the House by 218 to 214 and the Senate by 53 to 47, so Democrats need a net gain of four seats in each chamber. Advertising had already reached a record $3.8 billion by mid-October, and 39 governorships are also at stake."
+      },
+      "why_it_matters": {
+        "es": "Un Congreso dividido dificultaría mucho a Trump aprobar rebajas de impuestos, y una Cámara demócrata podría abrir investigaciones a su entorno.",
+        "en": "A split Congress would make it much harder for Trump to pass tax cuts, and a Democratic House could open investigations into his circle."
+      },
+      "source": {
+        "name": "Reuters vía Khaleej Times",
+        "url": "https://www.khaleejtimes.com/world/americas/us-midterm-elections-2026-voting-explainer"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "Israel: sin mayoría a la vista, Brookings ve probable repetir elecciones a principios de 2027",
+        "en": "Israel: with no majority in sight, Brookings sees a repeat vote in early 2027 as likely"
+      },
+      "body": {
+        "es": "El bloque de Netanyahu cayó a unos 53 escaños, la oposición judía liderada por Gadi Eisenkot tiene unos 48 y los partidos árabes 19, de modo que nadie llega a los 61 necesarios para gobernar. Eisenkot descarta apoyarse en los partidos árabes, y un análisis de la Brookings Institution considera que unas nuevas elecciones son el resultado más probable.",
+        "en": "Netanyahu's bloc fell to around 53 seats, the Jewish opposition led by Gadi Eisenkot has about 48 and Arab parties 19, leaving nobody at the 61 needed to govern. Eisenkot rules out relying on Arab parties, and an analysis by the Brookings Institution calls a new election the most likely outcome."
+      },
+      "why_it_matters": {
+        "es": "Netanyahu sigue como primer ministro en funciones durante el bloqueo, en plena guerra regional.",
+        "en": "Netanyahu stays on as caretaker prime minister during the deadlock, in the middle of a regional war."
+      },
+      "source": {
+        "name": "Brookings",
+        "url": "https://www.brookings.edu/articles/israels-deadlocked-election-could-force-a-new-vote-in-2027/"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Ucrania ataca una refinería rusa en Samara tras una pausa de tres días",
+        "en": "Ukraine strikes a Russian refinery in Samara after a three-day pause"
+      },
+      "body": {
+        "es": "Ucrania ha puesto fin a una pausa de tres días en los ataques a objetivos energéticos con un gran ataque con drones contra una refinería de la región de Samara.",
+        "en": "Ukraine has ended a three-day pause in attacks on energy targets with a large drone strike on an oil refinery in the Samara region."
+      },
+      "source": {
+        "name": "Politico Europe",
+        "url": "https://www.politico.eu/article/russian-oil-refinery-suffers-major-drone-attack-samara/"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Rubio niega que EE. UU. ayudara a huir a Flávio Bolsonaro; el WSJ reconstruye el viaje",
+        "en": "Rubio denies the US helped Flávio Bolsonaro flee as the WSJ retraces his route"
+      },
+      "body": {
+        "es": "El secretario de Estado, Marco Rubio, afirma que el Gobierno de Trump no ayudó a Flávio Bolsonaro a salir de Brasil tras perder la segunda vuelta frente a Lula. The Wall Street Journal describe coches señuelo, un avión chárter organizado por un grupo en el que había un asesor de Trump y una entrada en EE. UU. con permiso humanitario.",
+        "en": "Secretary of State Marco Rubio says the Trump administration did not help Flávio Bolsonaro leave Brazil after he lost the runoff to Lula. The Wall Street Journal describes decoy cars, a chartered jet arranged by a group that included a Trump adviser, and entry to the US on humanitarian parole."
+      },
+      "source": {
+        "name": "The Wall Street Journal vía To Vima",
+        "url": "https://www.tovima.com/wsj/how-bolsonaro-fled-brazil-decoys-a-private-jet-and-a-friend-in-the-white-house/"
+      }
+    },
+    {
+      "id": "mundo-6",
+      "section": "mundo",
+      "title": {
+        "es": "Yemen: 290.000 desplazados por los nuevos combates, según la ONU",
+        "en": "Yemen: new fighting displaces 290,000, the UN says"
+      },
+      "body": {
+        "es": "La ONU afirma que los nuevos combates en Yemen han desarraigado a 290.000 personas y alerta de los riesgos para las mujeres embarazadas. También exige una investigación después de que uno de sus trabajadores muriera bajo custodia de los hutíes.",
+        "en": "The UN says renewed fighting in Yemen has uprooted 290,000 people and warns about the risks facing pregnant women. It is also demanding an inquiry after one of its staff members died in Houthi custody."
+      },
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "Urda: 31 heridos siguen hospitalizados y Puente rendirá cuentas el martes",
+        "en": "Urda: 31 people remain in hospital and Puente faces Congress on Tuesday"
+      },
+      "body": {
+        "es": "El balance del accidente de tren de Urda sigue en 69 muertos, 31 personas continúan hospitalizadas y la jueza ha pedido más operarios para buscar restos. El ministro de Transportes, Óscar Puente, informará al Consejo de Ministros el martes y después comparecerá en la Comisión Permanente del Congreso, donde la oposición y algunos socios del Gobierno le pedirán que dimita.",
+        "en": "The death toll from the Urda train crash stands at 69, 31 people remain in hospital, and the judge has asked for more workers to search for remains. Transport minister Óscar Puente will brief the cabinet on Tuesday and then appear before a standing committee of Congress, where the opposition and some government allies will call on him to resign."
+      },
+      "source": {
+        "name": "EFE vía Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/01/temas-del-dia-de-efe-espana-del-lunes-2-de-noviembre-de-2026/"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "Arranca la recta final hacia el 29-N: se proclaman candidatos y el PP reúne a su cúpula",
+        "en": "The road to 29 November: candidates are confirmed and the PP gathers its leaders"
+      },
+      "body": {
+        "es": "Las juntas electorales proclaman a los candidatos de las elecciones generales del 29 de noviembre. Alberto Núñez Feijóo reúne hoy en Madrid a los líderes regionales del PP para redefinir la campaña, mientras Pedro Sánchez interviene en un foro sobre Europa en Barcelona.",
+        "en": "Electoral boards are confirming the candidates for the general election on 29 November. Alberto Núñez Feijóo is gathering the PP's regional leaders in Madrid today to reshape the party's campaign, while Pedro Sánchez speaks at a forum on Europe in Barcelona."
+      },
+      "source": {
+        "name": "EFE vía Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/01/temas-del-dia-de-efe-espana-del-lunes-2-de-noviembre-de-2026/"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "Trabajar no basta: 2,5 millones de ocupados viven bajo el umbral de pobreza",
+        "en": "Having a job is not enough: 2.5 million workers live below the poverty line"
+      },
+      "body": {
+        "es": "EFE informa de que 2,5 millones de personas con empleo ingresan menos del umbral de pobreza. Los expertos señalan sobre todo el trabajo a tiempo parcial no deseado.",
+        "en": "EFE reports that 2.5 million people in work earn less than the poverty threshold. Experts point mainly to involuntary part-time work."
+      },
+      "source": {
+        "name": "EFE vía Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/01/temas-del-dia-de-efe-espana-del-lunes-2-de-noviembre-de-2026/"
+      }
+    },
+    {
+      "id": "espana-4",
+      "section": "espana",
+      "title": {
+        "es": "Se extienden los paros: docentes en Madrid, universidades esta semana y huelga general el 11-N",
+        "en": "Strikes spread: Madrid teachers, universities this week and a general strike on 11 November"
+      },
+      "body": {
+        "es": "La huelga indefinida de docentes en Madrid entra en su tercera semana, y las seis universidades públicas madrileñas pararán los días 4 y 5 de noviembre por salarios, ratios y financiación. Los líderes de UGT y CCOO se reúnen hoy con delegados sindicales en Barcelona para preparar la huelga general convocada para el 11 de noviembre.",
+        "en": "Madrid's open-ended strike by school teachers enters its third week, and the region's six public universities will walk out on 4 and 5 November over pay, class sizes and funding. The leaders of UGT and CCOO are meeting union delegates in Barcelona today to prepare the general strike called for 11 November."
+      },
+      "why_it_matters": {
+        "es": "Si estudias en la UC3M, los paros del 4 y 5 de noviembre pueden afectar a tus clases, así que consúltalo con tu escuela.",
+        "en": "If you study at UC3M, the walkout on 4 and 5 November may affect your classes, so check with your school."
+      },
+      "source": {
+        "name": "EFE vía Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/01/temas-del-dia-de-efe-espana-del-lunes-2-de-noviembre-de-2026/"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "La red de distribución acumula 67 GW en peticiones de acceso",
+        "en": "Spain's distribution grid faces 67 GW of access requests"
+      },
+      "body": {
+        "es": "El Español informa de 67 GW de peticiones de acceso en las redes de distribución españolas, impulsadas sobre todo por nueva vivienda, industria y centros de datos. El artículo señala que el Real Decreto 640/2026 podría movilizar hasta 17.900 millones de euros en 2027-2030, de los que 10.200 millones irían a distribución. También describe un giro hacia la inversión anticipatoria, en la que las redes se planifican para la demanda prevista a cinco años vista.",
+        "en": "El Español reports 67 GW of access requests on Spain's distribution networks, driven mainly by new housing, industry and data centres. The article says Royal Decree 640/2026 could mobilise up to €17.9 billion in 2027-2030, of which €10.2 billion would go to distribution. It also describes a shift towards anticipatory investment, in which networks are planned for the demand expected five years ahead."
+      },
+      "why_it_matters": {
+        "es": "Son las cifras que hay detrás del trabajo de tu departamento: los planes de inversión de distribuidoras como i-DE tienen que seguir el ritmo de esta cola.",
+        "en": "These are the figures behind your department's work: the investment plans at distributors such as i-DE now have to keep up with this queue."
+      },
+      "source": {
+        "name": "El Español (Invertia)",
+        "url": "https://elespanol.com/invertia/empresas/energia/20261029/gw-peticiones-acceso-red-electrica-distribucion-principalmente-nueva-vivienda-industria/1003744438654_0.html"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "El nuevo decreto de centros de datos no contenta a nadie",
+        "en": "The new data-centre decree leaves everyone unhappy"
+      },
+      "body": {
+        "es": "El nuevo texto del decreto de centros de datos, ya en el Consejo de Estado, ha acentuado las quejas de las organizaciones ecologistas, que mantienen sus movilizaciones. EFE añade que tampoco convence a los promotores ni a las eléctricas.",
+        "en": "The revised text of the data-centre decree, now with the Council of State, has sharpened complaints from environmental groups, who are keeping up their protests. EFE adds that developers and electricity companies are not satisfied with it either."
+      },
+      "source": {
+        "name": "EFE vía Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/01/temas-del-dia-de-efe-espana-del-lunes-2-de-noviembre-de-2026/"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "Cinco ministros piden a Bruselas gravar los beneficios extraordinarios de la energía",
+        "en": "Five ministers ask Brussels for a levy on energy windfall profits"
+      },
+      "body": {
+        "es": "El español Carlos Cuerpo y sus homólogos de Alemania, Italia, Austria y Portugal han pedido a la Comisión Europea un instrumento temporal de solidaridad sobre los beneficios extraordinarios de las energéticas. Iberdrola, Repsol, Naturgy y Endesa ganaron en conjunto 14.500 millones de euros hasta septiembre, un 47% más, con la ayuda de la subida del petróleo y el gas.",
+        "en": "Spain's Carlos Cuerpo and his counterparts from Germany, Italy, Austria and Portugal have asked the European Commission for a temporary solidarity instrument on the extraordinary profits of energy companies. Iberdrola, Repsol, Naturgy and Endesa earned a combined €14.5 billion through September, up 47%, helped by the rise in oil and gas prices."
+      },
+      "why_it_matters": {
+        "es": "En esos mismos resultados, Iberdrola prevé invertir 1.200 millones de euros en redes de distribución en España en 2027, un 50% más que en 2025.",
+        "en": "In the same results, Iberdrola expects to invest €1.2 billion in Spanish distribution grids in 2027, 50% more than in 2025."
+      },
+      "source": {
+        "name": "Infobae",
+        "url": "https://www.infobae.com/espana/2026/10/29/las-energeticas-disparan-su-beneficio-un-47-hasta-septiembre-por-el-alza-del-crudo-ganan-14542-millones-y-repsol-lidera-con-una-subida-del-325/"
+      }
+    },
+    {
+      "id": "energia-4",
+      "section": "energia",
+      "title": {
+        "es": "De menos de cero a casi 300 €/MWh en el mismo día",
+        "en": "From below zero to nearly €300/MWh in a single day"
+      },
+      "body": {
+        "es": "Los últimos precios de la tarifa regulada, actualizados el domingo por la tarde, fueron de -8,1 €/MWh en la hora más barata, entre las 10:00 y las 11:00, a casi 298 €/MWh entre las 20:00 y las 21:00. La media diaria fue de unos 182 €/MWh antes de impuestos.",
+        "en": "The latest regulated-tariff prices, updated on Sunday evening, ranged from -€8.1/MWh in the cheapest hour, between 10:00 and 11:00, to nearly €298/MWh between 20:00 and 21:00. The daily average was about €182/MWh before taxes."
+      },
+      "why_it_matters": {
+        "es": "Una brecha así es justo el diferencial que necesitan las baterías para ganar dinero, y por eso el almacenamiento despierta tanto interés.",
+        "en": "A gap that wide is exactly the spread that batteries need to make money, which is why storage attracts so much interest."
+      },
+      "source": {
+        "name": "Comparadorluz (datos de ESIOS/REE)",
+        "url": "https://comparadorluz.com/tarifas/precio-luz-manana"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "Semana cargada: bancos centrales subiendo tipos, EE. UU. vota y resultados de Apple",
+        "en": "A packed week: central banks tightening, the US votes and Apple reports"
+      },
+      "body": {
+        "es": "Se da por casi seguro que el Banco de Inglaterra subirá los tipos al 4% el jueves, y el banco central de Australia decide el martes, con un 70% de probabilidad de subida descontada. La Fed mantuvo los tipos en el 3,75%-4,00% la semana pasada por 10 votos a 2, pero varios responsables ya hablan abiertamente de subidas, y se espera que el dato de empleo de EE. UU. del viernes muestre unos 65.000 nuevos puestos.",
+        "en": "The Bank of England is widely expected to raise rates to 4% on Thursday, and Australia's central bank decides on Tuesday, with about a 70% chance of a hike priced in. The Fed held at 3.75%-4.00% last week in a 10-2 vote, but several officials are now openly talking about hikes, and Friday's US jobs report is expected to show about 65,000 new jobs."
+      },
+      "why_it_matters": {
+        "es": "Unos tipos más altos encarecen la financiación de activos de larga vida, como las redes eléctricas.",
+        "en": "Higher rates raise the cost of financing long-lived assets such as power grids."
+      },
+      "source": {
+        "name": "Thrive in Markets",
+        "url": "https://thriveinmarkets.com/calendar/2026-11-02/"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "La UE ya cobra una tasa a los paquetes baratos de Shein y Temu",
+        "en": "The EU now charges a fee on cheap parcels from Shein and Temu"
+      },
+      "body": {
+        "es": "Desde el domingo, la UE cobra una nueva tasa a los paquetes de bajo valor de plataformas como Temu y Shein. La prensa española la cifra en 2 euros por paquete.",
+        "en": "Since Sunday, the EU has been charging a new levy on low-value parcels from platforms such as Temu and Shein. Spanish press reports put it at €2 per parcel."
+      },
+      "source": {
+        "name": "Moncloa.com",
+        "url": "https://www.moncloa.com/2026/11/02/tasa-aduanera-paquetes-shein-temu-3459923/"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "Barcelona, foro World in Progress: Pedro Sánchez (11:00) y un debate sobre independencia de los bancos centrales con Escrivá, Moulin y De Guindos (16:00).",
+      "en": "Barcelona's World in Progress forum: Pedro Sánchez at 11:00 and a debate on central bank independence with Escrivá, Moulin and De Guindos at 16:00."
+    },
+    {
+      "es": "Datos en España: PMI manufacturero de octubre (09:15) y matriculaciones de coches de octubre.",
+      "en": "Spanish data: the October manufacturing PMI at 09:15 and October car registrations."
+    },
+    {
+      "es": "Apple y Palantir presentan resultados tras el cierre de Wall Street, en plena duda sobre el gasto en IA.",
+      "en": "Apple and Palantir report after Wall Street's close, with doubts over AI spending at their height."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "scales back",
+      "translation": "reduce, recorta",
+      "pos": "phrasal verb",
+      "example": "The company scales back its plans after a weak quarter."
+    },
+    {
+      "term": "trimmed",
+      "translation": "recortado",
+      "pos": "verb",
+      "example": "The bank trimmed its growth forecast."
+    },
+    {
+      "term": "pickier",
+      "translation": "más exigentes",
+      "pos": "adjective",
+      "example": "Lenders have become pickier about whom they fund."
+    },
+    {
+      "term": "rollout",
+      "translation": "despliegue",
+      "pos": "noun",
+      "example": "The rollout of smart meters took several years."
+    },
+    {
+      "term": "pledged",
+      "translation": "se ha comprometido",
+      "pos": "verb",
+      "example": "The utility pledged to cut its emissions by 2030."
+    },
+    {
+      "term": "relaxes",
+      "translation": "relaja, suaviza",
+      "pos": "verb",
+      "example": "The new rule relaxes limits on grid connections."
+    },
+    {
+      "term": "refusals",
+      "translation": "negativas",
+      "pos": "noun",
+      "example": "The chatbot's refusals annoyed some users."
+    },
+    {
+      "term": "dual-use",
+      "translation": "de doble uso",
+      "pos": "adjective",
+      "example": "Export rules cover many dual-use technologies."
+    },
+    {
+      "term": "tailor",
+      "translation": "adaptar a medida",
+      "pos": "verb",
+      "example": "Suppliers tailor their products to each market."
+    },
+    {
+      "term": "planted",
+      "translation": "instaló, colocó (a escondidas)",
+      "pos": "verb",
+      "example": "Attackers planted malware in the update."
+    },
+    {
+      "term": "backdoor",
+      "translation": "puerta trasera",
+      "pos": "noun",
+      "example": "The backdoor gave hackers access to the server."
+    },
+    {
+      "term": "tainted",
+      "translation": "contaminado, manipulado",
+      "pos": "adjective",
+      "example": "A tainted update reached thousands of computers."
+    },
+    {
+      "term": "watchdog",
+      "translation": "organismo regulador",
+      "pos": "noun",
+      "example": "The energy watchdog fined the supplier."
+    },
+    {
+      "term": "put on hold",
+      "translation": "dejado en suspenso",
+      "pos": "phrasal verb",
+      "example": "The project was put on hold until next year."
+    },
+    {
+      "term": "draw on",
+      "translation": "se nutren de, recurren a",
+      "pos": "phrasal verb",
+      "example": "The report draws on data from several utilities."
+    },
+    {
+      "term": "erode",
+      "translation": "erosionar, debilitar",
+      "pos": "verb",
+      "example": "Inflation can erode real returns."
+    },
+    {
+      "term": "grip",
+      "translation": "dominio, control",
+      "pos": "noun",
+      "example": "The firm tightened its grip on the market."
+    },
+    {
+      "term": "net gain",
+      "translation": "ganancia neta",
+      "pos": "noun",
+      "example": "The party needs a net gain of four seats."
+    },
+    {
+      "term": "at stake",
+      "translation": "en juego",
+      "pos": "phrase",
+      "example": "Billions of euros of investment are at stake."
+    },
+    {
+      "term": "split congress",
+      "translation": "Congreso dividido",
+      "pos": "noun",
+      "example": "A split Congress rarely passes major laws."
+    },
+    {
+      "term": "caretaker",
+      "translation": "en funciones",
+      "pos": "adjective",
+      "example": "The caretaker government cannot approve a new budget."
+    },
+    {
+      "term": "deadlock",
+      "translation": "bloqueo, punto muerto",
+      "pos": "noun",
+      "example": "Talks ended in deadlock."
+    },
+    {
+      "term": "rules out",
+      "translation": "descarta",
+      "pos": "phrasal verb",
+      "example": "The minister rules out any new tax."
+    },
+    {
+      "term": "decoy",
+      "translation": "señuelo",
+      "pos": "noun",
+      "example": "The convoy included a decoy car."
+    },
+    {
+      "term": "parole",
+      "translation": "permiso de entrada temporal",
+      "pos": "noun",
+      "example": "He entered the country on humanitarian parole."
+    },
+    {
+      "term": "uprooted",
+      "translation": "desarraigado, desplazado",
+      "pos": "verb",
+      "example": "The floods uprooted thousands of families."
+    },
+    {
+      "term": "custody",
+      "translation": "custodia, detención",
+      "pos": "noun",
+      "example": "The suspect remains in police custody."
+    },
+    {
+      "term": "standing committee",
+      "translation": "comisión permanente",
+      "pos": "noun",
+      "example": "The standing committee meets during the recess."
+    },
+    {
+      "term": "involuntary",
+      "translation": "no deseado, involuntario",
+      "pos": "adjective",
+      "example": "Involuntary part-time work is common in services."
+    },
+    {
+      "term": "walk out",
+      "translation": "ir a la huelga, abandonar el trabajo",
+      "pos": "phrasal verb",
+      "example": "Staff will walk out if talks fail."
+    },
+    {
+      "term": "open-ended",
+      "translation": "indefinido",
+      "pos": "adjective",
+      "example": "The union called an open-ended strike."
+    },
+    {
+      "term": "threshold",
+      "translation": "umbral",
+      "pos": "noun",
+      "example": "Income fell below the poverty threshold."
+    },
+    {
+      "term": "mobilise",
+      "translation": "movilizar",
+      "pos": "verb",
+      "example": "The plan could mobilise billions in private capital."
+    },
+    {
+      "term": "levy",
+      "translation": "tasa, gravamen",
+      "pos": "noun",
+      "example": "Parliament approved a levy on banks."
+    },
+    {
+      "term": "counterparts",
+      "translation": "homólogos",
+      "pos": "noun",
+      "example": "The minister met her European counterparts."
+    },
+    {
+      "term": "windfall",
+      "translation": "extraordinario (beneficio caído del cielo)",
+      "pos": "noun",
+      "example": "The tax targets windfall profits."
+    },
+    {
+      "term": "spread",
+      "translation": "diferencial",
+      "pos": "noun",
+      "example": "Batteries profit from the spread between peak and off-peak prices."
+    },
+    {
+      "term": "priced in",
+      "translation": "descontado (por el mercado)",
+      "pos": "phrasal verb",
+      "example": "A rate rise is already priced in."
+    },
+    {
+      "term": "long-lived",
+      "translation": "de larga duración",
+      "pos": "adjective",
+      "example": "Grids are long-lived assets."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The Financial Times reports that OpenAI has trimmed its fundraising target from $30 billion to about $20 billion, and that the valuation it is seeking has slipped from $1.4 trillion to $1.25 trillion.",
+      "es": "El Financial Times informa de que OpenAI ha recortado su objetivo de captación de 30.000 a unos 20.000 millones de dólares, y de que la valoración que busca ha bajado de 1,4 a 1,25 billones."
+    },
+    {
+      "en": "The Wall Street Journal puts firm commitments at around $11 billion so far.",
+      "es": "The Wall Street Journal sitúa los compromisos firmes en unos 11.000 millones por ahora."
+    },
+    {
+      "en": "OpenAI has not commented on either report.",
+      "es": "OpenAI no ha comentado ninguna de las dos informaciones."
+    },
+    {
+      "en": "It suggests that investors are becoming pickier about AI valuations just as the Nasdaq comes off a rough month.",
+      "es": "Apunta a que los inversores se están volviendo más exigentes con las valoraciones de la IA justo cuando el Nasdaq sale de un mes difícil."
+    },
+    {
+      "en": "Apple and Alibaba have announced that Qwen will run Apple Intelligence features in China, including Siri, Writing Tools and Visual Intelligence.",
+      "es": "Apple y Alibaba han anunciado que Qwen hará funcionar las funciones de Apple Intelligence en China, como Siri, las herramientas de escritura y la inteligencia visual."
+    },
+    {
+      "en": "Developers get a preview from 4 November, and the public rollout is due in December with iOS 27.3.",
+      "es": "Los desarrolladores tendrán una versión previa desde el 4 de noviembre, y el despliegue público llegará en diciembre con iOS 27.3."
+    },
+    {
+      "en": "Alibaba has pledged not to use customers' requests or responses to train its models.",
+      "es": "Alibaba se ha comprometido a no usar las peticiones ni las respuestas de los clientes para entrenar sus modelos."
+    },
+    {
+      "en": "It ends a long wait for Apple's AI in its biggest overseas market, and shows how the AI race is splitting along national lines.",
+      "es": "Pone fin a una larga espera de la IA de Apple en su mayor mercado exterior, y muestra cómo la carrera de la IA se divide por países."
+    },
+    {
+      "en": "OpenAI has released a version of GPT-6 Astra that relaxes refusals on dual-use biology questions and is available only through a trusted-access programme.",
+      "es": "OpenAI ha lanzado una versión de GPT-6 Astra que relaja las negativas ante preguntas de biología de doble uso y solo está disponible mediante un programa de acceso de confianza."
+    },
+    {
+      "en": "Its own tests show a score of 49.6% on a medicinal chemistry benchmark, up from 28.9% for the standard model.",
+      "es": "Sus propias pruebas muestran un 49,6% en una prueba de química médica, frente al 28,9% del modelo estándar."
+    },
+    {
+      "en": "The first partners include Amgen, Moderna, Thermo Fisher and the Allen Institute.",
+      "es": "Entre los primeros socios están Amgen, Moderna, Thermo Fisher y el Allen Institute."
+    },
+    {
+      "en": "Labs are starting to tailor frontier models to specific industries, which means deciding who gets to use the riskier capabilities.",
+      "es": "Los laboratorios empiezan a adaptar sus modelos punteros a sectores concretos, lo que obliga a decidir quién puede usar las capacidades más arriesgadas."
+    },
+    {
+      "en": "Version 2.1.313 of the Claude Code extension for VS Code, published on 29 October, contained code that planted an SSH backdoor.",
+      "es": "La versión 2.1.313 de la extensión de Claude Code para VS Code, publicada el 29 de octubre, contenía código que instalaba una puerta trasera SSH."
+    },
+    {
+      "en": "Cursor estimates that up to about 5,000 of its users were exposed.",
+      "es": "Cursor calcula que quedaron expuestos hasta unos 5.000 de sus usuarios."
+    },
+    {
+      "en": "A clean version, 2.1.314, came out the next day.",
+      "es": "Al día siguiente salió una versión limpia, la 2.1.314."
+    },
+    {
+      "en": "Coding tools run with broad access to a developer's machine, so a single tainted update can do real damage.",
+      "es": "Las herramientas de programación funcionan con amplio acceso al ordenador del desarrollador, así que una sola actualización contaminada puede hacer mucho daño."
+    },
+    {
+      "en": "The UK's Competition and Markets Authority opened a formal investigation on 30 October into terms that let Meta use British publishers' content for AI features.",
+      "es": "La autoridad británica de competencia abrió el 30 de octubre una investigación formal sobre las condiciones que permiten a Meta usar contenidos de editores británicos en funciones de IA."
+    },
+    {
+      "en": "Revised terms that Meta had scheduled for 20 November have been put on hold.",
+      "es": "Las nuevas condiciones que Meta tenía previstas para el 20 de noviembre han quedado en suspenso."
+    },
+    {
+      "en": "It is one more front in the dispute over who gets paid when AI systems draw on news.",
+      "es": "Es un frente más en la disputa sobre quién cobra cuando los sistemas de IA se nutren de las noticias."
+    },
+    {
+      "en": "SemiAnalysis's InferenceX benchmark found that AMD's MI355X serves the Kimi K3 model at $0.077 per million tokens, against $0.179 on Nvidia's B200, at 100 tokens per second per user.",
+      "es": "La prueba InferenceX de SemiAnalysis concluye que el MI355X de AMD sirve el modelo Kimi K3 a 0,077 dólares por millón de tokens, frente a 0,179 en el B200 de Nvidia, a 100 tokens por segundo por usuario."
+    },
+    {
+      "en": "At a faster 144 tokens per second, the gap narrows to $0.146 against $0.275.",
+      "es": "A 144 tokens por segundo, una velocidad mayor, la brecha se reduce a 0,146 frente a 0,275 dólares."
+    },
+    {
+      "en": "Now that inference accounts for so much AI spending, cost per token could erode Nvidia's grip on the market.",
+      "es": "Ahora que la inferencia supone tanto gasto en IA, el coste por token podría debilitar el dominio de Nvidia en el mercado."
+    },
+    {
+      "en": "Iran's foreign minister, Abbas Araghchi, called a US offer of dialogue a positive step as an Iranian delegation visited Doha, and Tehran says it is waiting for Washington's reply on its proposal to reopen the strait.",
+      "es": "El ministro de Exteriores iraní, Abás Araqchí, calificó de paso positivo una oferta de diálogo de EE. UU. mientras una delegación iraní visitaba Doha, y Teherán dice que espera la respuesta de Washington a su propuesta para reabrir el estrecho."
+    },
+    {
+      "en": "Al Jazeera's live coverage on Monday reports more tankers hit in Hormuz, while Trump again says the conflict will end soon.",
+      "es": "La cobertura en directo de Al Jazeera de este lunes informa de más petroleros alcanzados en Ormuz, mientras Trump repite que el conflicto acabará pronto."
+    },
+    {
+      "en": "With Brent near $118, any sign of a deal or a new strike will move energy prices across Europe.",
+      "es": "Con el Brent cerca de 118 dólares, cualquier señal de acuerdo o de un nuevo ataque moverá los precios de la energía en toda Europa."
+    },
+    {
+      "en": "Americans vote on Tuesday with Republicans holding the House by 218 to 214 and the Senate by 53 to 47, so Democrats need a net gain of four seats in each chamber.",
+      "es": "Los estadounidenses votan el martes con los republicanos controlando la Cámara por 218 a 214 y el Senado por 53 a 47, así que los demócratas necesitan una ganancia neta de cuatro escaños en cada una."
+    },
+    {
+      "en": "Advertising had already reached a record $3.8 billion by mid-October, and 39 governorships are also at stake.",
+      "es": "La publicidad ya alcanzaba un récord de 3.800 millones de dólares a mediados de octubre, y también se juegan 39 gobernadores."
+    },
+    {
+      "en": "A split Congress would make it much harder for Trump to pass tax cuts, and a Democratic House could open investigations into his circle.",
+      "es": "Un Congreso dividido dificultaría mucho a Trump aprobar rebajas de impuestos, y una Cámara demócrata podría abrir investigaciones a su entorno."
+    },
+    {
+      "en": "Netanyahu's bloc fell to around 53 seats, the Jewish opposition led by Gadi Eisenkot has about 48 and Arab parties 19, leaving nobody at the 61 needed to govern.",
+      "es": "El bloque de Netanyahu cayó a unos 53 escaños, la oposición judía liderada por Gadi Eisenkot tiene unos 48 y los partidos árabes 19, de modo que nadie llega a los 61 necesarios para gobernar."
+    },
+    {
+      "en": "Eisenkot rules out relying on Arab parties, and an analysis by the Brookings Institution calls a new election the most likely outcome.",
+      "es": "Eisenkot descarta apoyarse en los partidos árabes, y un análisis de la Brookings Institution considera que unas nuevas elecciones son el resultado más probable."
+    },
+    {
+      "en": "Netanyahu stays on as caretaker prime minister during the deadlock, in the middle of a regional war.",
+      "es": "Netanyahu sigue como primer ministro en funciones durante el bloqueo, en plena guerra regional."
+    },
+    {
+      "en": "Ukraine has ended a three-day pause in attacks on energy targets with a large drone strike on an oil refinery in the Samara region.",
+      "es": "Ucrania ha puesto fin a una pausa de tres días en los ataques a objetivos energéticos con un gran ataque con drones contra una refinería de la región de Samara."
+    },
+    {
+      "en": "Secretary of State Marco Rubio says the Trump administration did not help Flávio Bolsonaro leave Brazil after he lost the runoff to Lula.",
+      "es": "El secretario de Estado, Marco Rubio, afirma que el Gobierno de Trump no ayudó a Flávio Bolsonaro a salir de Brasil tras perder la segunda vuelta frente a Lula."
+    },
+    {
+      "en": "The Wall Street Journal describes decoy cars, a chartered jet arranged by a group that included a Trump adviser, and entry to the US on humanitarian parole.",
+      "es": "The Wall Street Journal describe coches señuelo, un avión chárter organizado por un grupo en el que había un asesor de Trump y una entrada en EE. UU. con permiso humanitario."
+    },
+    {
+      "en": "The UN says renewed fighting in Yemen has uprooted 290,000 people and warns about the risks facing pregnant women.",
+      "es": "La ONU afirma que los nuevos combates en Yemen han desarraigado a 290.000 personas y alerta de los riesgos para las mujeres embarazadas."
+    },
+    {
+      "en": "It is also demanding an inquiry after one of its staff members died in Houthi custody.",
+      "es": "También exige una investigación después de que uno de sus trabajadores muriera bajo custodia de los hutíes."
+    },
+    {
+      "en": "The death toll from the Urda train crash stands at 69, 31 people remain in hospital, and the judge has asked for more workers to search for remains.",
+      "es": "El balance del accidente de tren de Urda sigue en 69 muertos, 31 personas continúan hospitalizadas y la jueza ha pedido más operarios para buscar restos."
+    },
+    {
+      "en": "Transport minister Óscar Puente will brief the cabinet on Tuesday and then appear before a standing committee of Congress, where the opposition and some government allies will call on him to resign.",
+      "es": "El ministro de Transportes, Óscar Puente, informará al Consejo de Ministros el martes y después comparecerá en la Comisión Permanente del Congreso, donde la oposición y algunos socios del Gobierno le pedirán que dimita."
+    },
+    {
+      "en": "Electoral boards are confirming the candidates for the general election on 29 November.",
+      "es": "Las juntas electorales proclaman a los candidatos de las elecciones generales del 29 de noviembre."
+    },
+    {
+      "en": "Alberto Núñez Feijóo is gathering the PP's regional leaders in Madrid today to reshape the party's campaign, while Pedro Sánchez speaks at a forum on Europe in Barcelona.",
+      "es": "Alberto Núñez Feijóo reúne hoy en Madrid a los líderes regionales del PP para redefinir la campaña, mientras Pedro Sánchez interviene en un foro sobre Europa en Barcelona."
+    },
+    {
+      "en": "EFE reports that 2.5 million people in work earn less than the poverty threshold.",
+      "es": "EFE informa de que 2,5 millones de personas con empleo ingresan menos del umbral de pobreza."
+    },
+    {
+      "en": "Experts point mainly to involuntary part-time work.",
+      "es": "Los expertos señalan sobre todo el trabajo a tiempo parcial no deseado."
+    },
+    {
+      "en": "Madrid's open-ended strike by school teachers enters its third week, and the region's six public universities will walk out on 4 and 5 November over pay, class sizes and funding.",
+      "es": "La huelga indefinida de docentes en Madrid entra en su tercera semana, y las seis universidades públicas madrileñas pararán los días 4 y 5 de noviembre por salarios, ratios y financiación."
+    },
+    {
+      "en": "The leaders of UGT and CCOO are meeting union delegates in Barcelona today to prepare the general strike called for 11 November.",
+      "es": "Los líderes de UGT y CCOO se reúnen hoy con delegados sindicales en Barcelona para preparar la huelga general convocada para el 11 de noviembre."
+    },
+    {
+      "en": "If you study at UC3M, the walkout on 4 and 5 November may affect your classes, so check with your school.",
+      "es": "Si estudias en la UC3M, los paros del 4 y 5 de noviembre pueden afectar a tus clases, así que consúltalo con tu escuela."
+    },
+    {
+      "en": "El Español reports 67 GW of access requests on Spain's distribution networks, driven mainly by new housing, industry and data centres.",
+      "es": "El Español informa de 67 GW de peticiones de acceso en las redes de distribución españolas, impulsadas sobre todo por nueva vivienda, industria y centros de datos."
+    },
+    {
+      "en": "The article says Royal Decree 640/2026 could mobilise up to €17.9 billion in 2027-2030, of which €10.2 billion would go to distribution.",
+      "es": "El artículo señala que el Real Decreto 640/2026 podría movilizar hasta 17.900 millones de euros en 2027-2030, de los que 10.200 millones irían a distribución."
+    },
+    {
+      "en": "It also describes a shift towards anticipatory investment, in which networks are planned for the demand expected five years ahead.",
+      "es": "También describe un giro hacia la inversión anticipatoria, en la que las redes se planifican para la demanda prevista a cinco años vista."
+    },
+    {
+      "en": "These are the figures behind your department's work: the investment plans at distributors such as i-DE now have to keep up with this queue.",
+      "es": "Son las cifras que hay detrás del trabajo de tu departamento: los planes de inversión de distribuidoras como i-DE tienen que seguir el ritmo de esta cola."
+    },
+    {
+      "en": "The revised text of the data-centre decree, now with the Council of State, has sharpened complaints from environmental groups, who are keeping up their protests.",
+      "es": "El nuevo texto del decreto de centros de datos, ya en el Consejo de Estado, ha acentuado las quejas de las organizaciones ecologistas, que mantienen sus movilizaciones."
+    },
+    {
+      "en": "EFE adds that developers and electricity companies are not satisfied with it either.",
+      "es": "EFE añade que tampoco convence a los promotores ni a las eléctricas."
+    },
+    {
+      "en": "Spain's Carlos Cuerpo and his counterparts from Germany, Italy, Austria and Portugal have asked the European Commission for a temporary solidarity instrument on the extraordinary profits of energy companies.",
+      "es": "El español Carlos Cuerpo y sus homólogos de Alemania, Italia, Austria y Portugal han pedido a la Comisión Europea un instrumento temporal de solidaridad sobre los beneficios extraordinarios de las energéticas."
+    },
+    {
+      "en": "Iberdrola, Repsol, Naturgy and Endesa earned a combined €14.5 billion through September, up 47%, helped by the rise in oil and gas prices.",
+      "es": "Iberdrola, Repsol, Naturgy y Endesa ganaron en conjunto 14.500 millones de euros hasta septiembre, un 47% más, con la ayuda de la subida del petróleo y el gas."
+    },
+    {
+      "en": "In the same results, Iberdrola expects to invest €1.2 billion in Spanish distribution grids in 2027, 50% more than in 2025.",
+      "es": "En esos mismos resultados, Iberdrola prevé invertir 1.200 millones de euros en redes de distribución en España en 2027, un 50% más que en 2025."
+    },
+    {
+      "en": "The latest regulated-tariff prices, updated on Sunday evening, ranged from -€8.1/MWh in the cheapest hour, between 10:00 and 11:00, to nearly €298/MWh between 20:00 and 21:00.",
+      "es": "Los últimos precios de la tarifa regulada, actualizados el domingo por la tarde, fueron de -8,1 €/MWh en la hora más barata, entre las 10:00 y las 11:00, a casi 298 €/MWh entre las 20:00 y las 21:00."
+    },
+    {
+      "en": "The daily average was about €182/MWh before taxes.",
+      "es": "La media diaria fue de unos 182 €/MWh antes de impuestos."
+    },
+    {
+      "en": "A gap that wide is exactly the spread that batteries need to make money, which is why storage attracts so much interest.",
+      "es": "Una brecha así es justo el diferencial que necesitan las baterías para ganar dinero, y por eso el almacenamiento despierta tanto interés."
+    },
+    {
+      "en": "The Bank of England is widely expected to raise rates to 4% on Thursday, and Australia's central bank decides on Tuesday, with about a 70% chance of a hike priced in.",
+      "es": "Se da por casi seguro que el Banco de Inglaterra subirá los tipos al 4% el jueves, y el banco central de Australia decide el martes, con un 70% de probabilidad de subida descontada."
+    },
+    {
+      "en": "The Fed held at 3.75%-4.00% last week in a 10-2 vote, but several officials are now openly talking about hikes, and Friday's US jobs report is expected to show about 65,000 new jobs.",
+      "es": "La Fed mantuvo los tipos en el 3,75%-4,00% la semana pasada por 10 votos a 2, pero varios responsables ya hablan abiertamente de subidas, y se espera que el dato de empleo de EE. UU. del viernes muestre unos 65.000 nuevos puestos."
+    },
+    {
+      "en": "Higher rates raise the cost of financing long-lived assets such as power grids.",
+      "es": "Unos tipos más altos encarecen la financiación de activos de larga vida, como las redes eléctricas."
+    },
+    {
+      "en": "Since Sunday, the EU has been charging a new levy on low-value parcels from platforms such as Temu and Shein.",
+      "es": "Desde el domingo, la UE cobra una nueva tasa a los paquetes de bajo valor de plataformas como Temu y Shein."
+    },
+    {
+      "en": "Spanish press reports put it at €2 per parcel.",
+      "es": "La prensa española la cifra en 2 euros por paquete."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "anticipatory investment",
+    "pos": "noun",
+    "translation": "inversión anticipatoria",
+    "definition_en": "Spending on infrastructure before the demand for it fully appears, based on forecasts rather than confirmed connection requests.",
+    "example_en": "Regulators are debating how much anticipatory investment grid operators should be allowed to recover through tariffs.",
+    "example_es": "Los reguladores debaten cuánta inversión anticipatoria deberían poder recuperar los gestores de red a través de las tarifas."
+  },
+  "recommendations": [
+    {
+      "id": "oddlots-wall-street-ai-trade-altmann",
+      "type": "podcast",
+      "title": "What Wall Street Really Thinks About the AI Trade Now",
+      "speaker": "Alexander Altmann, con Joe Weisenthal y Tracy Alloway",
+      "outlet": "Odd Lots (Bloomberg)",
+      "duration_min": 41,
+      "language": "en",
+      "topics": [
+        "IA",
+        "mercados"
+      ],
+      "summary": "Un estratega de renta variable explica cómo está valorando Wall Street el negocio de la IA tras el S-1 de Anthropic y los resultados de las grandes tecnológicas. Grabado justo antes de la caída del viernes.",
+      "why": "Ayuda a entender el sell-off de esta semana, y es buen inglés financiero real.",
+      "url": "https://www.iheart.com/podcast/1308-odd-lots-30972803/episode/what-wall-street-really-thinks-about-348684257/"
+    },
+    {
+      "id": "oddlots-php2shell-ai-cyber",
+      "type": "podcast",
+      "title": "PHP2Shell Won't Be the Last Big AI Cybersecurity Risk",
+      "speaker": "Joe Weisenthal y Tracy Alloway",
+      "outlet": "Odd Lots (Bloomberg)",
+      "duration_min": 49,
+      "language": "en",
+      "topics": [
+        "IA",
+        "ciberseguridad"
+      ],
+      "summary": "Parte de una vulnerabilidad de PHP que llevaba años latente, en un lenguaje presente en buena parte de las webs, y analiza el riesgo de ciberseguridad que trae la IA.",
+      "why": "Encaja con la noticia de la extensión maliciosa de hoy y explica el tema sin exigir conocimientos técnicos.",
+      "url": "https://www.iheart.com/podcast/1308-odd-lots-30972803/episode/php2shell-wont-be-the-last-big-348763788/"
+    },
+    {
+      "id": "energy-gang-building-americas-new-grid",
+      "type": "podcast",
+      "title": "Building America's new power grid",
+      "speaker": "Ed Crooks, con Madeline Gould Laughlin, Jenny Chen, Adam Stern y Colin Meehan",
+      "outlet": "Energy Gang (Wood Mackenzie)",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "redes",
+        "regulación"
+      ],
+      "summary": "Por qué la nueva generación se queda atascada en las colas de conexión de EE. UU.: costes de conexión, inversión en transporte y el modelo británico cap-and-floor. Grabado en el ACORE Grid Forum.",
+      "why": "Es el mismo problema que los 67 GW de España, visto desde otro sistema regulatorio.",
+      "url": "https://www.woodmac.com/podcasts/energy-gang/building-americas-new-power-grid"
+    },
+    {
+      "id": "energy-gang-power-markets-fit-for-purpose",
+      "type": "podcast",
+      "title": "Are power markets fit for purpose? The debate over reliability, affordability and who pays for the grid",
+      "speaker": "Ed Crooks",
+      "outlet": "Energy Gang (Wood Mackenzie)",
+      "duration_min": 80,
+      "language": "en",
+      "topics": [
+        "energía",
+        "redes",
+        "mercados"
+      ],
+      "summary": "La demanda de los centros de datos choca con las dudas sobre la fiabilidad y con las facturas al alza, y el diseño de mercados como PJM o ERCOT se convierte en un asunto político.",
+      "why": "Plantea la pregunta de fondo para cualquier red regulada: quién paga la inversión.",
+      "url": "https://www.iheart.com/podcast/869-energy-gang-28497009/episode/are-power-markets-fit-for-purpose-345301195/"
+    },
+    {
+      "id": "bbva-blink-domenech-espana-2027",
+      "type": "podcast",
+      "title": "Inflación y crecimiento en España: ¿qué pasará en 2027?",
+      "speaker": "Rafael Doménech",
+      "outlet": "BBVA Blink",
+      "duration_min": 30,
+      "language": "es",
+      "topics": [
+        "economía",
+        "España"
+      ],
+      "summary": "El responsable de análisis económico de BBVA Research repasa la inflación y las previsiones para España: un 2,6% de crecimiento en 2026 y un 2,1% en 2027.",
+      "why": "Un marco claro y en español de la economía en la que se decide la inversión en redes.",
+      "url": "https://www.ivoox.com/en/inflacion-crecimiento-espana-que-pasara-en-audios-mp3_rf_182291375_1.html"
+    },
+    {
+      "id": "bbva-blink-mercados-recta-final-2026",
+      "type": "podcast",
+      "title": "¿Cómo se comportarán los mercados en la recta final del año?",
+      "speaker": "Joaquín García Huerga",
+      "outlet": "BBVA Blink",
+      "duration_min": 8,
+      "language": "es",
+      "topics": [
+        "mercados"
+      ],
+      "summary": "Perspectivas de mercado para el último trimestre de 2026, en un episodio corto de BBVA Asset Management.",
+      "why": "Ocho minutos para ponerse en contexto; es anterior a la caída de los últimos días, así que escúchalo con eso en mente.",
+      "url": "https://www.ivoox.com/en/como-se-comportaran-mercados-recta-audios-mp3_rf_181876312_1.html"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Sin datos todavía de la sesión del lunes: los últimos cierres son los del viernes 30. Wall Street se dejó un 1,8% (S&P 500) y un 2,9% (Nasdaq) por las dudas sobre el gasto en IA, tras el desplome de Intel y las cuentas de Amazon, cuyo flujo de caja libre es negativo en 12 meses. Europa cayó menos, aunque el Euro Stoxx 50 perdió un 1,2% y más de un 2% en octubre. El Brent cerró en 117,64 dólares, su máximo desde abril, por los ataques en Ormuz. Según el WSJ, el coste de asegurar la deuda de las tecnológicas (CDS) está en máximos desde 2021. Daniela Hathorn, de Capital.com, resume que la fuerte demanda de IA ya no basta por sí sola; Keith Lerner, de Truist, ve algo más de caída posible en tecnología, pero cree que la tendencia de fondo sigue intacta.",
+      "en": "There is no data yet from Monday's session, so the latest closes are from Friday 30 October. Wall Street lost 1.8% on the S&P 500 and 2.9% on the Nasdaq on doubts about AI spending, after Intel's collapse and results from Amazon, whose free cash flow is negative over 12 months. Europe fell less, although the Euro Stoxx 50 lost 1.2% on the day and more than 2% in October. Brent closed at $117.64, its highest since April, because of the attacks in Hormuz. According to the WSJ, the cost of insuring big tech debt through credit default swaps is at its highest since 2021. Daniela Hathorn of Capital.com says strong AI demand is no longer enough on its own, while Keith Lerner of Truist sees some further downside in tech but believes the long-term trend remains intact."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35 (cierre viernes)",
+        "value": 18652.9,
+        "change_pct": -1.09
+      },
+      {
+        "name": "Euro Stoxx 50 (cierre viernes)",
+        "value": 6131.31,
+        "change_pct": -1.22
+      },
+      {
+        "name": "S&P 500 (cierre viernes)",
+        "value": 7580.07,
+        "change_pct": -1.82
+      },
+      {
+        "name": "Nasdaq Composite (cierre viernes)",
+        "value": 25437.0,
+        "change_pct": -2.86
+      },
+      {
+        "name": "Dow Jones (cierre viernes)",
+        "value": 51770.31,
+        "change_pct": -1.09
+      },
+      {
+        "name": "Brent (USD/barril)",
+        "value": 117.64,
+        "change_pct": 2.4
+      },
+      {
+        "name": "Oro (USD/onza, futuro dic.)",
+        "value": 3898.9,
+        "change_pct": -3.29
+      },
+      {
+        "name": "EUR/USD",
+        "value": 1.1168,
+        "change_pct": -0.06
+      },
+      {
+        "name": "Bitcoin (USD, aprox.)",
+        "value": 77000,
+        "change_pct": null
+      }
+    ],
+    "learn": {
+      "concept": "VAN y TIR",
+      "explanation": "Son las dos medidas clásicas para decidir si una inversión merece la pena. El VAN (valor actual neto) trae a hoy todos los flujos de caja futuros, descontados a una tasa que refleja el coste del capital, y les resta la inversión inicial: si sale positivo, el proyecto crea valor. La TIR (tasa interna de retorno) es la tasa de descuento con la que el VAN sería exactamente cero, es decir, la rentabilidad propia del proyecto. Ejemplo: inviertes 10 M€ y recibes 1,2 M€ al año durante 15 años. Descontando al 7%, el VAN es de unos +0,93 M€ y la TIR ronda el 8,4%, así que se acepta porque la TIR supera el 7%. Dos cautelas: la TIR puede engañar al comparar proyectos de distinto tamaño (uno pequeño puede tener mejor TIR y crear menos valor), por lo que ante la duda manda el VAN; y el resultado depende mucho de la tasa elegida. En redes reguladas, la rentabilidad la marca en buena parte la retribución financiera fijada por el regulador, de modo que la comparación clave es entre esa retribución y el coste real de financiarse. Te servirá también para el enfoque de viabilidad económica del TFG."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
