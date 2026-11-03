@@ -1,0 +1,927 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T07:08:07+01:00",
+  "last_updated": "2026-11-03T07:08:07+01:00",
+  "headline": {
+    "es": "EE. UU. vota hoy en las legislativas tras golpear la isla iraní de Qeshm, mientras Washington y Teherán hablan de avances y el Brent se hunde un 7,6 %, hasta unos 105 dólares. Para tu trabajo: el Gobierno quiere aprobar la planificación de redes de 17.000 millones antes del 29-N.",
+    "en": "The US votes in today's midterms after striking Iran's Qeshm Island, even as Washington and Tehran talk up progress and Brent sinks 7.6% to about $105. For your job: Spain's government wants to pass its €17 billion grid plan before November 29."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic actualiza su folleto de salida a bolsa: ingresa 17.000 millones y vuelve a pérdidas operativas",
+        "en": "Anthropic's updated IPO filing shows $17 billion in sales and a return to operating losses"
+      },
+      "body": {
+        "es": "Anthropic ha modificado su folleto S-1 para añadir las cifras del tercer trimestre: ingresos de 17.000 millones de dólares, frente a 11.600 millones en el segundo, aunque el crecimiento se enfrió hasta cerca del 47 %, desde alrededor del 144 %. La empresa pasó de un beneficio operativo de 974 millones a una pérdida de 567 millones, sobre todo porque la capacidad de cómputo a corto plazo que compró para atender la demanda cuesta mucho más que sus contratos plurianuales. Fortune sitúa sus compromisos de gasto en unos 895.000 millones, en su mayoría en cómputo e infraestructura, y el documento sigue sin dar fecha de cotización.",
+        "en": "Anthropic has amended its S-1 to add third-quarter figures: revenue of $17 billion, up from $11.6 billion in the second quarter, but growth cooled to about 47% from roughly 144%. The company swung to a $567 million operating loss after a $974 million profit, mainly because short-term compute bought to meet demand costs far more than its multi-year contracts. Fortune puts its committed spending at about $895 billion, mostly on compute and infrastructure, and the filing still gives no listing date."
+      },
+      "why_it_matters": {
+        "es": "Es una mirada auditada poco habitual a las cuentas de un gran laboratorio de IA, y muestra que la escasez de cómputo puede borrar márgenes aunque las ventas se disparen.",
+        "en": "It is a rare audited look at the economics of a frontier AI lab, and it shows that scarce compute can erase margins even when sales surge."
+      },
+      "source": {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/11/02/anthropics-growth-slowed-and-costs-jumped-in-the-third-quarter-updated-ipo-filing-shows/"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "Marvell comprará Lumentum por unos 115.000 millones de dólares en acciones",
+        "en": "Marvell agrees to buy Lumentum in an all-stock deal worth about $115 billion"
+      },
+      "body": {
+        "es": "El fabricante de chips Marvell ha acordado comprar Lumentum, que produce componentes ópticos, en una operación pagada íntegramente en acciones y valorada en unos 115.000 millones de dólares. Las piezas ópticas transportan datos entre procesadores en los centros de datos de IA, lo que explica la lógica industrial, pero ambas acciones cayeron el lunes.",
+        "en": "The chipmaker Marvell has agreed to acquire Lumentum, a maker of optical components, in an all-stock transaction valued at around $115 billion. Optical parts carry data between processors in AI data centres, which explains the industrial logic, but both stocks fell on Monday."
+      },
+      "why_it_matters": {
+        "es": "La concentración empresarial está llegando a la capa de redes de la IA, no solo a los chips.",
+        "en": "Consolidation is reaching the networking layer of AI, not just the chips themselves."
+      },
+      "source": {
+        "name": "StockTitan",
+        "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "Oracle capta 20.000 millones en plena duda sobre el gasto en IA y cae casi un 9 %",
+        "en": "Oracle raises $20 billion amid doubts over AI spending and slides almost 9%"
+      },
+      "body": {
+        "es": "Oracle anunció una venta de acciones de 10.000 millones de dólares junto con otros 10.000 millones en bonos, y su cotización cayó casi un 9 % en la sesión. Vender acciones nuevas supone dilución para los accionistas actuales, y el anuncio llegó con el mercado ya nervioso por quién pagará toda esta capacidad de IA.",
+        "en": "Oracle announced a $10 billion share sale alongside $10 billion of notes, and its stock dropped nearly 9% on the day. Selling new shares means dilution for existing holders, and the move landed while the market was already nervous about who will pay for all this AI capacity."
+      },
+      "why_it_matters": {
+        "es": "El bache tecnológico gira ahora en torno a la financiación: los inversores se preguntan cuánta deuda y capital puede absorber el auge de los centros de datos.",
+        "en": "The tech slump now centres on financing: investors are asking how much debt and equity the data centre boom can absorb."
+      },
+      "source": {
+        "name": "Capp Notes (resumen de cierre)",
+        "url": "https://cappnotes.substack.com/p/closing-look-monday-november-2-2026"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "Altman, en la mayor feria de energía: la IA hará falta en el sector, pero pedirá mucha más electricidad",
+        "en": "Altman tells a major energy fair that AI will help the industry, but will demand far more power"
+      },
+      "body": {
+        "es": "En la apertura de ADIPEC en Abu Dabi, Sam Altman defendió que la IA puede hacer más eficientes y fiables los sistemas energéticos, aunque admitió que su crecimiento exigirá bastante más energía. ADNOC, la petrolera estatal emiratí, será la primera energética en desplegar OpenAI Frontier, dentro de una alianza en la que también participa G42. El artículo cita estimaciones de la AIE: 485 TWh de consumo de centros de datos en 2025, que podrían llegar a unos 950 TWh en 2030.",
+        "en": "At the opening of ADIPEC in Abu Dhabi, Sam Altman argued that AI can make energy systems more efficient and reliable while conceding that its growth will require significantly more energy. ADNOC, the Emirati state oil company, will be the first energy firm to deploy OpenAI Frontier, under a partnership that also includes G42. The article cites IEA estimates of 485 TWh of data centre consumption in 2025, potentially reaching about 950 TWh by 2030."
+      },
+      "why_it_matters": {
+        "es": "Esa curva de demanda es justo la que está empujando las peticiones de acceso en redes de distribución como la de i-DE.",
+        "en": "That demand curve is exactly what is pushing connection requests on distribution grids like i-DE's."
+      },
+      "source": {
+        "name": "Energy Connects",
+        "url": "https://www.energyconnects.com/opinion/features/2026/november/ai-is-a-necessity-for-energy-industry-not-just-an-option-al-jaber-and-altman-tell-adipec/"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "Rumor sin confirmar: filtraciones apuntan a GPT-6.2 «Astra» y a nuevos modelos de Anthropic",
+        "en": "Unconfirmed: leaks point to GPT-6.2 'Astra' and new Anthropic models"
+      },
+      "body": {
+        "es": "Desarrolladores en X aseguran haber detectado un modelo llamado gpt-6.2-astra en el tráfico de Codex y una referencia a Mythos 5.5 en el código de la web de Anthropic, además de hablar de un lanzamiento de Fable 5.5. Ninguna de las dos empresas ha anunciado nada de esto, y el origen son publicaciones en redes recogidas por un canal de noticias de criptomonedas, así que conviene tomarlo como rumor hasta que haya un lanzamiento oficial.",
+        "en": "Developers on X claim to have spotted a model called gpt-6.2-astra in Codex traffic, and a Mythos 5.5 reference in Anthropic's website code, along with talk of a Fable 5.5 release. Neither company has announced any of this, and the sourcing is social media posts relayed by a crypto news feed, so treat it as hearsay until there is an official release."
+      },
+      "source": {
+        "name": "KuCoin News (repost de BitPush, baja fiabilidad)",
+        "url": "https://www.kucoin.com/news/flash/openai-and-anthropic-leak-next-gen-ai-models-gpt-6-2-astra-and-claude-5-5"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "EE. UU. golpea la isla iraní de Qeshm, según funcionarios citados por WSJ y AP",
+        "en": "US strikes Iran's Qeshm Island, officials tell the WSJ and AP"
+      },
+      "body": {
+        "es": "Medios iraníes informaron de una serie de explosiones a última hora del lunes en la isla de Qeshm y en Bandar Lengeh, ambas cerca del estrecho de Ormuz. Funcionarios estadounidenses anónimos las describieron como ataques defensivos para limitar la capacidad de Irán de atacar buques comerciales, y dijeron que la campaña se ha llevado con discreción para no dar la señal de una vuelta al combate a gran escala.",
+        "en": "Iranian media reported a series of explosions late on Monday on Qeshm Island and in Bandar Lengeh, both near the Strait of Hormuz. Unnamed US officials described them as defensive strikes meant to curb Iran's ability to attack commercial shipping, and said the campaign has been kept quiet so as not to signal a return to major combat."
+      },
+      "why_it_matters": {
+        "es": "Complica el optimismo sobre las negociaciones que hundió el petróleo solo unas horas antes.",
+        "en": "It complicates the optimism about talks that sent oil tumbling only hours earlier."
+      },
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Trump y Vance hablan de avances con Irán, que pone condiciones para reabrir Ormuz",
+        "en": "Trump and Vance signal progress with Iran, which sets conditions for reopening Hormuz"
+      },
+      "body": {
+        "es": "Trump escribió que puede haber acuerdo y Vance dijo que se ha avanzado algo, mientras el ministro de Exteriores iraní, Araghchi, habló de negociaciones indirectas intensas con Catar y Pakistán como mediadores. Un alto cargo iraní dijo que el estrecho podría reabrirse en dos días si Washington acepta las exigencias de Teherán, entre ellas levantar las sanciones al petróleo, descongelar activos y poner fin al bloqueo de los puertos iraníes. Trump también amenazó con actuar contra uno o dos objetivos más, de modo que las señales siguen siendo contradictorias.",
+        "en": "Trump wrote that a deal could happen and Vance said some progress had been made, while Iran's foreign minister Araghchi described intensive indirect talks with Qatar and Pakistan as mediators. A senior Iranian official said the strait could reopen within two days if Washington accepts Tehran's demands, which include lifting oil sanctions, unfreezing assets and ending the blockade of Iranian ports. Trump also threatened further action against one or two targets, so the signals remain mixed."
+      },
+      "source": {
+        "name": "AFP vía Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/us-signals-progress-iran-talks-032920423.html"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "EE. UU. vota hoy: toda la Cámara de Representantes y 35 escaños del Senado en juego",
+        "en": "America votes today, with the whole House and 35 Senate seats at stake"
+      },
+      "body": {
+        "es": "Hoy se abren las urnas en los 50 estados para las legislativas, con los 435 escaños de la Cámara y 35 de los 100 del Senado en juego, además de muchos gobiernos estatales. En la víspera, el Gobierno de Trump pidió al Tribunal Supremo que impida temporalmente a California contar los votos por correo de más de 20.000 electores que, según funcionarios federales, probablemente no son ciudadanos. Las contiendas ajustadas pueden tardar días en decidirse por el lento recuento del voto por correo.",
+        "en": "Polls open across all 50 states today for the midterms, with all 435 House seats and 35 of the 100 in the Senate on the ballot, plus many governorships. On the eve of the vote, the Trump administration asked the Supreme Court to temporarily stop California from counting mail ballots from more than 20,000 voters that federal officials allege are likely non-citizens. Close races may take days to call because of slow mail-in counts."
+      },
+      "source": {
+        "name": "Reuters vía The Standard",
+        "url": "https://www.thestandard.com.hk/news/article/347298/Morning-Recap-November-3-2026"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Un bombardeo ruso destruye una escuela usada como centro de ayuda en Zaporiyia",
+        "en": "Russian bombing destroys a school used as an aid hub in Zaporizhzhia"
+      },
+      "body": {
+        "es": "Un ataque ruso contra una escuela que servía de centro humanitario en la aldea de Komishuvaja mató al menos a 24 personas (algunos recuentos posteriores hablan de 26), y el gobernador regional dijo que había 27 desaparecidos. Zelenski dijo que cayeron más bombas sobre el refugio donde se había reunido la gente tras el primer ataque, y lo calificó de prueba de que Moscú no quiere una desescalada.",
+        "en": "A Russian attack on a school serving as a humanitarian centre in the village of Komyshuvakha killed at least 24 people, with some later reports giving 26, and the regional governor said 27 were missing. Zelensky said more bombs fell on the shelter where people had gathered after the first strike, and called it proof that Moscow does not want de-escalation."
+      },
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Witkoff anuncia nuevas negociaciones a tres bandas en Abu Dabi a partir del 10 de noviembre",
+        "en": "Witkoff announces new three-way talks in Abu Dhabi from November 10"
+      },
+      "body": {
+        "es": "El enviado estadounidense dijo que Rusia, Ucrania y EE. UU. se reunirán en Abu Dabi para hablar de seguridad de posguerra, desescalada y asuntos humanitarios, con un alto el fuego energético y marítimo e intercambios de prisioneros en la agenda técnica. La distancia sigue siendo grande: el Kremlin rechaza un alto el fuego y exige el resto de Donetsk y Lugansk, mientras Kiev quiere congelar la línea del frente actual.",
+        "en": "The US envoy said Russia, Ukraine and the US will meet in Abu Dhabi to discuss post-war security, de-escalation and humanitarian issues, with an energy and maritime ceasefire and prisoner exchanges on the technical agenda. The gap remains wide: the Kremlin rejects a ceasefire and demands the rest of Donetsk and Luhansk, while Kyiv wants to freeze the current front line."
+      },
+      "source": {
+        "name": "Kyiv Independent",
+        "url": "https://kyivindependent.com/witkoff-reveals-location-date-for-new-trilateral-peace-deal-negotiations/"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "El Consejo de Ministros aprueba hoy las ayudas a las víctimas de Urda",
+        "en": "The Cabinet is due to approve aid for the Urda crash victims today"
+      },
+      "body": {
+        "es": "El ministro de Transportes, Óscar Puente, informará al Consejo de Ministros sobre el accidente ferroviario de Urda, con 69 fallecidos, y se espera que se apruebe un decreto inspirado en el de Adamuz. Pedro Sánchez avanzó el lunes cuatro ejes: ayudas directas, anticipos de indemnizaciones, mejor cobertura de la baja y oficinas de atención en las comunidades; los importes definitivos aún no se habían publicado.",
+        "en": "Transport Minister Óscar Puente will brief the Cabinet on the Urda rail crash, which left 69 dead, and ministers are expected to pass a decree modelled on the one approved after the Adamuz accident. Pedro Sánchez outlined four strands on Monday: direct aid, advance compensation payments, better sick-leave cover and support offices in the regions; the final amounts had not yet been published."
+      },
+      "source": {
+        "name": "El Plural",
+        "url": "https://www.elplural.com/politica/espana/ayudas-prepara-gobierno-victimas-urda-precedente-adamuz_802994102"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "Puente comparece esta tarde en el Congreso con la prensa centrada en los sistemas ferroviarios",
+        "en": "Puente faces Congress this afternoon as the press focuses on rail systems"
+      },
+      "body": {
+        "es": "El ministro comparece esta tarde en el Congreso, con peticiones de dimisión de la oposición y de parte de los aliados del Gobierno, entre ellos Ada Colau según El Mundo. Las portadas de hoy recogen informaciones aún sin confirmar sobre el accidente: La Razón dice que el sistema de señalización LZB cayó poco antes, y ABC afirma que Adif reconoció en julio problemas críticos en las comunicaciones de alta velocidad.",
+        "en": "The minister appears before Congress this afternoon, with calls for his resignation from the opposition and from some of the government's allies, including Ada Colau according to El Mundo. Today's front pages carry unconfirmed claims about the crash: La Razón says the LZB signalling system went down shortly beforehand, and ABC reports that Adif acknowledged critical problems with high-speed communications in July."
+      },
+      "source": {
+        "name": "Demócrata (repaso de portadas)",
+        "url": "https://www.democrata.es/economia/portadas-destacadas-de-la-prensa-para-el-martes-3-de-noviembre/"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "El BOE publica las candidaturas del 29-N y las encuestas dan ventaja al PP",
+        "en": "Official gazette publishes the candidates for November 29 as polls show the PP ahead"
+      },
+      "body": {
+        "es": "El BOE publica las candidaturas para las generales del 29 de noviembre, y el Tribunal Supremo estudia si extiende la suspensión cautelar del voto a los hijos de nacionalizados por la llamada ley de nietos. Una media de 16 institutos sitúa al PP en el 30,5 %, al PSOE en el 27,4 %, a Vox en el 19,1 % y a Frente Amplio en el 6,4 %.",
+        "en": "The official gazette publishes the lists of candidates for the 29 November general election, and the Supreme Court is studying whether to extend its temporary suspension of voting rights for the children of naturalised citizens under the so-called grandchildren's law. An average of 16 pollsters puts the PP on 30.5%, the PSOE on 27.4%, Vox on 19.1% and Frente Amplio on 6.4%."
+      },
+      "source": {
+        "name": "EFE vía Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/02/hoy-sera-noticia-martes-3-de-noviembre/"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "El Gobierno quiere aprobar la Planificación Eléctrica y la primera subasta de capacidad antes del 29-N",
+        "en": "Government aims to approve the grid plan and first capacity auction before November 29"
+      },
+      "body": {
+        "es": "Según El Periódico de la Energía, el Ministerio quiere aprobar antes de las elecciones la planificación de redes 2025-2030, de unos 17.000 millones de euros, y aún la presenta a las tres últimas comunidades. La ministra Sara Aagesen también podría fijar por orden las condiciones de la primera subasta del mercado de capacidad, incluidos coeficientes de firmeza, precios de reserva y garantías, con participación de ciclos combinados, almacenamiento y algunos consumidores industriales.",
+        "en": "According to El Periódico de la Energía, the ministry wants to pass the 2025-2030 grid plan, worth about €17 billion, before the election, and is still presenting it to the last three regions. Minister Sara Aagesen could also set by ministerial order the terms of the first capacity market auction, including firmness coefficients, reserve prices and guarantees, with combined-cycle plants, storage and some industrial consumers taking part."
+      },
+      "why_it_matters": {
+        "es": "La planificación fija la columna vertebral de transporte a la que debe conectarse la inversión en distribución, así que su calendario afecta directamente a la planificación de redes como i-DE.",
+        "en": "The grid plan sets the transmission backbone that distribution investment has to plug into, so its timing feeds directly into planning at networks like i-DE."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/aagesen-quiere-aprobar-la-planificacion-electrica-y-definir-la-primera-subasta-del-mercado-de-capacidad-antes-del-29n"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "Apagón de casi cuatro horas en La Palma: 50.508 suministros sin luz",
+        "en": "Nearly four-hour blackout on La Palma cuts power to 50,508 customers"
+      },
+      "body": {
+        "es": "La luz se fue en toda la isla canaria a las 06:38 del lunes y volvió a las 10:26, después de que una línea de 66 kV ya hubiera disparado a las 04:10, dejando sin suministro a unos 17.600 clientes. Red Eléctrica afirma que la primera avería no causó la segunda, y el presidente regional informó de que no hubo daños personales.",
+        "en": "Power failed across the Canary island at 06:38 on Monday and returned at 10:26, after a 66 kV line had already tripped at 04:10, leaving around 17,600 customers without supply. Red Eléctrica says the first fault did not cause the second, and the regional president reported no injuries."
+      },
+      "why_it_matters": {
+        "es": "Los sistemas insulares pequeños muestran lo rápido que puede propagarse un fallo cuando hay poca redundancia.",
+        "en": "Small island systems show how quickly a single failure can spread when there is little redundancy."
+      },
+      "source": {
+        "name": "Diario Socialista (medio de enfoque político)",
+        "url": "https://diariosocialista.net/2026/11/02/apagon-electrico-de-cuatro-horas-en-la-palma"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "La caída del petróleo reparte el día en bolsa: suben las renovables, bajan Repsol y las eléctricas",
+        "en": "Oil's plunge splits energy stocks: renewables rise, Repsol and utilities slip"
+      },
+      "body": {
+        "es": "Solaria ganó un 4,49 % y Acciona Energía un 3,24 % el lunes, mientras Repsol perdía un 2,47 % con el desplome del crudo. Naturgy, Endesa y Redeia también cerraron en rojo, con caídas del 0,88 %, 0,87 % y 0,65 %, en un mercado liderado por los valores cíclicos.",
+        "en": "Solaria gained 4.49% and Acciona Energía 3.24% on Monday, while Repsol lost 2.47% as crude sank. Naturgy, Endesa and Redeia also ended lower, down 0.88%, 0.87% and 0.65%, in a market otherwise led by cyclical names."
+      },
+      "source": {
+        "name": "Press Digital",
+        "url": "https://www.pressdigital.es/articulo/economia/2026-11-02/6075094-ibex-35-avanza-163-situa-18957-puntos-cierre-sesion"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "Apple supera previsiones en los primeros resultados de Ternus, pero avisa de menos margen",
+        "en": "Apple beats forecasts in Ternus's first earnings report as CEO, but warns of thinner margins"
+      },
+      "body": {
+        "es": "Apple presentó ingresos de 114.500 millones de dólares, un 12 % más y por encima de lo que había previsto, con el iPhone subiendo un 17,5 % y la Gran China un 21 %. Espera un margen bruto del 45 % al 46 % el próximo trimestre, frente al 47,9 % actual, una cifra favorecida en torno a un punto por devoluciones de aranceles.",
+        "en": "Apple reported revenue of $114.5 billion, up 12% and above its guidance, with the iPhone up 17.5% and Greater China up 21%. It expects gross margin of 45% to 46% next quarter, down from 47.9%, a figure flattered by about a point from tariff refunds."
+      },
+      "source": {
+        "name": "iThinkDifferent (resumen de los resultados)",
+        "url": "https://www.ithinkdiff.com/apple-q4-2026-results-revenue-114-5-billion/"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "La industria de EE. UU. se acelera y el mercado da por probable una subida de tipos en diciembre",
+        "en": "US manufacturing accelerates as markets lean towards a December rate hike"
+      },
+      "body": {
+        "es": "El índice manufacturero ISM subió a 55,5 en octubre, mejor de lo previsto, aunque el gasto en construcción cayó un 1,9 % en septiembre, el mayor descenso desde abril de 2020. Los futuros implicaban el lunes cerca de un 72 % de probabilidad de que la Reserva Federal suba tipos en diciembre, un giro llamativo para una economía que sigue lidiando con un choque petrolero.",
+        "en": "The ISM manufacturing index rose to 55.5 in October, beating forecasts, although construction spending fell 1.9% in September, the sharpest drop since April 2020. Futures on Monday implied about a 72% chance that the Federal Reserve will raise rates in December, a striking shift for an economy still coping with an oil shock."
+      },
+      "source": {
+        "name": "Capp Notes (resumen de cierre)",
+        "url": "https://cappnotes.substack.com/p/closing-look-monday-november-2-2026"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "Legislativas en EE. UU.: los primeros resultados llegarán de madrugada, ya el miércoles en hora española.",
+      "en": "US midterms: the first results should arrive overnight, already Wednesday in Spain."
+    },
+    {
+      "es": "Consejo de Ministros con el decreto de ayudas por Urda y, por la tarde, comparecencia de Óscar Puente en el Congreso.",
+      "en": "The Cabinet takes up the Urda aid decree, and Óscar Puente appears before Congress this afternoon."
+    },
+    {
+      "es": "Ormuz: atención a la respuesta de Irán a los ataques en Qeshm y a si avanzan las negociaciones; también se falla hoy el Premio Cervantes.",
+      "en": "Hormuz: watch how Iran responds to the Qeshm strikes and whether talks move forward; the Cervantes Prize is also announced today."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "swung to",
+      "translation": "pasó a (un resultado opuesto)",
+      "pos": "verb",
+      "example": "The firm swung to a loss after a strong year."
+    },
+    {
+      "term": "cooled",
+      "translation": "se enfrió, se moderó",
+      "pos": "verb",
+      "example": "Demand cooled after the summer."
+    },
+    {
+      "term": "filing",
+      "translation": "documento presentado ante el regulador",
+      "pos": "noun",
+      "example": "The filing lists the main risks for investors."
+    },
+    {
+      "term": "amended",
+      "translation": "modificado, enmendado",
+      "pos": "verb",
+      "example": "The company amended its plan after the review."
+    },
+    {
+      "term": "committed spending",
+      "translation": "gasto comprometido",
+      "pos": "noun",
+      "example": "Committed spending limits how fast a company can change course."
+    },
+    {
+      "term": "all-stock",
+      "translation": "pagado íntegramente en acciones",
+      "pos": "adjective",
+      "example": "An all-stock offer avoids taking on new debt."
+    },
+    {
+      "term": "consolidation",
+      "translation": "concentración empresarial",
+      "pos": "noun",
+      "example": "Consolidation has reduced the number of suppliers."
+    },
+    {
+      "term": "notes",
+      "translation": "bonos, pagarés de deuda",
+      "pos": "noun",
+      "example": "The utility issued notes maturing in 2031."
+    },
+    {
+      "term": "dilution",
+      "translation": "dilución",
+      "pos": "noun",
+      "example": "Investors dislike the dilution from a new share issue."
+    },
+    {
+      "term": "slump",
+      "translation": "bache, caída fuerte",
+      "pos": "noun",
+      "example": "The slump in demand hit every supplier."
+    },
+    {
+      "term": "equity",
+      "translation": "capital, acciones",
+      "pos": "noun",
+      "example": "The project is funded with debt and equity."
+    },
+    {
+      "term": "conceding",
+      "translation": "admitiendo, reconociendo",
+      "pos": "verb",
+      "example": "She spoke frankly, conceding that costs had risen."
+    },
+    {
+      "term": "hearsay",
+      "translation": "rumores, habladurías",
+      "pos": "noun",
+      "example": "Without a document, the claim is just hearsay."
+    },
+    {
+      "term": "sourcing",
+      "translation": "procedencia de la información",
+      "pos": "noun",
+      "example": "Editors checked the sourcing of the story."
+    },
+    {
+      "term": "curb",
+      "translation": "frenar, limitar",
+      "pos": "verb",
+      "example": "New rules aim to curb speculation."
+    },
+    {
+      "term": "tumbling",
+      "translation": "desplomándose",
+      "pos": "verb",
+      "example": "Prices came tumbling down after the announcement."
+    },
+    {
+      "term": "unfreezing",
+      "translation": "descongelando",
+      "pos": "verb",
+      "example": "Unfreezing the funds will take several weeks."
+    },
+    {
+      "term": "on the ballot",
+      "translation": "sometido a votación",
+      "pos": "phrase",
+      "example": "Two tax measures are on the ballot this year."
+    },
+    {
+      "term": "on the eve of",
+      "translation": "en vísperas de",
+      "pos": "phrase",
+      "example": "On the eve of the deadline, talks collapsed."
+    },
+    {
+      "term": "to call",
+      "translation": "decidir, declarar (un resultado)",
+      "pos": "verb",
+      "example": "The race was too close to call."
+    },
+    {
+      "term": "de-escalation",
+      "translation": "desescalada",
+      "pos": "noun",
+      "example": "Both sides publicly back de-escalation."
+    },
+    {
+      "term": "modelled on",
+      "translation": "inspirado en, basado en",
+      "pos": "phrase",
+      "example": "The law is modelled on an earlier scheme."
+    },
+    {
+      "term": "strands",
+      "translation": "líneas, ejes",
+      "pos": "noun",
+      "example": "The plan has three main strands."
+    },
+    {
+      "term": "calls for",
+      "translation": "peticiones de",
+      "pos": "noun",
+      "example": "There are growing calls for an inquiry."
+    },
+    {
+      "term": "gazette",
+      "translation": "boletín oficial",
+      "pos": "noun",
+      "example": "The decree appeared in the official gazette."
+    },
+    {
+      "term": "pollsters",
+      "translation": "encuestadoras",
+      "pos": "noun",
+      "example": "Pollsters expect a high turnout."
+    },
+    {
+      "term": "backbone",
+      "translation": "columna vertebral",
+      "pos": "noun",
+      "example": "Transmission lines are the backbone of the system."
+    },
+    {
+      "term": "firmness coefficients",
+      "translation": "coeficientes de firmeza",
+      "pos": "noun",
+      "example": "Firmness coefficients reflect how reliably a plant can deliver at peak."
+    },
+    {
+      "term": "reserve prices",
+      "translation": "precios de reserva",
+      "pos": "noun",
+      "example": "Reserve prices cap what bidders can be paid."
+    },
+    {
+      "term": "tripped",
+      "translation": "disparó, saltó (protección eléctrica)",
+      "pos": "verb",
+      "example": "The breaker tripped during the storm."
+    },
+    {
+      "term": "redundancy",
+      "translation": "redundancia",
+      "pos": "noun",
+      "example": "A second line adds redundancy to the network."
+    },
+    {
+      "term": "cyclical",
+      "translation": "cíclico",
+      "pos": "adjective",
+      "example": "Cyclical stocks often rise when growth picks up."
+    },
+    {
+      "term": "thinner margins",
+      "translation": "márgenes más estrechos",
+      "pos": "noun",
+      "example": "Higher input costs mean thinner margins."
+    },
+    {
+      "term": "flattered",
+      "translation": "favorecido, maquillado",
+      "pos": "verb",
+      "example": "Results were flattered by a one-off gain."
+    },
+    {
+      "term": "guidance",
+      "translation": "previsiones de la empresa",
+      "pos": "noun",
+      "example": "The firm raised its guidance for next year."
+    },
+    {
+      "term": "tariff refunds",
+      "translation": "devoluciones de aranceles",
+      "pos": "noun",
+      "example": "Tariff refunds lifted profit this quarter."
+    },
+    {
+      "term": "rate hike",
+      "translation": "subida de tipos",
+      "pos": "noun",
+      "example": "A rate hike would raise borrowing costs."
+    },
+    {
+      "term": "implied",
+      "translation": "implicaban, daban a entender",
+      "pos": "verb",
+      "example": "Prices implied a slower recovery."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Anthropic has amended its S-1 to add third-quarter figures: revenue of $17 billion, up from $11.6 billion in the second quarter, but growth cooled to about 47% from roughly 144%.",
+      "es": "Anthropic ha modificado su folleto S-1 para añadir las cifras del tercer trimestre: ingresos de 17.000 millones de dólares, frente a 11.600 millones en el segundo, aunque el crecimiento se enfrió hasta cerca del 47 %, desde alrededor del 144 %."
+    },
+    {
+      "en": "The company swung to a $567 million operating loss after a $974 million profit, mainly because short-term compute bought to meet demand costs far more than its multi-year contracts.",
+      "es": "La empresa pasó de un beneficio operativo de 974 millones a una pérdida de 567 millones, sobre todo porque la capacidad de cómputo a corto plazo que compró para atender la demanda cuesta mucho más que sus contratos plurianuales."
+    },
+    {
+      "en": "Fortune puts its committed spending at about $895 billion, mostly on compute and infrastructure, and the filing still gives no listing date.",
+      "es": "Fortune sitúa sus compromisos de gasto en unos 895.000 millones, en su mayoría en cómputo e infraestructura, y el documento sigue sin dar fecha de cotización."
+    },
+    {
+      "en": "It is a rare audited look at the economics of a frontier AI lab, and it shows that scarce compute can erase margins even when sales surge.",
+      "es": "Es una mirada auditada poco habitual a las cuentas de un gran laboratorio de IA, y muestra que la escasez de cómputo puede borrar márgenes aunque las ventas se disparen."
+    },
+    {
+      "en": "The chipmaker Marvell has agreed to acquire Lumentum, a maker of optical components, in an all-stock transaction valued at around $115 billion.",
+      "es": "El fabricante de chips Marvell ha acordado comprar Lumentum, que produce componentes ópticos, en una operación pagada íntegramente en acciones y valorada en unos 115.000 millones de dólares."
+    },
+    {
+      "en": "Optical parts carry data between processors in AI data centres, which explains the industrial logic, but both stocks fell on Monday.",
+      "es": "Las piezas ópticas transportan datos entre procesadores en los centros de datos de IA, lo que explica la lógica industrial, pero ambas acciones cayeron el lunes."
+    },
+    {
+      "en": "Consolidation is reaching the networking layer of AI, not just the chips themselves.",
+      "es": "La concentración empresarial está llegando a la capa de redes de la IA, no solo a los chips."
+    },
+    {
+      "en": "Oracle announced a $10 billion share sale alongside $10 billion of notes, and its stock dropped nearly 9% on the day.",
+      "es": "Oracle anunció una venta de acciones de 10.000 millones de dólares junto con otros 10.000 millones en bonos, y su cotización cayó casi un 9 % en la sesión."
+    },
+    {
+      "en": "Selling new shares means dilution for existing holders, and the move landed while the market was already nervous about who will pay for all this AI capacity.",
+      "es": "Vender acciones nuevas supone dilución para los accionistas actuales, y el anuncio llegó con el mercado ya nervioso por quién pagará toda esta capacidad de IA."
+    },
+    {
+      "en": "The tech slump now centres on financing: investors are asking how much debt and equity the data centre boom can absorb.",
+      "es": "El bache tecnológico gira ahora en torno a la financiación: los inversores se preguntan cuánta deuda y capital puede absorber el auge de los centros de datos."
+    },
+    {
+      "en": "At the opening of ADIPEC in Abu Dhabi, Sam Altman argued that AI can make energy systems more efficient and reliable while conceding that its growth will require significantly more energy.",
+      "es": "En la apertura de ADIPEC en Abu Dabi, Sam Altman defendió que la IA puede hacer más eficientes y fiables los sistemas energéticos, aunque admitió que su crecimiento exigirá bastante más energía."
+    },
+    {
+      "en": "ADNOC, the Emirati state oil company, will be the first energy firm to deploy OpenAI Frontier, under a partnership that also includes G42.",
+      "es": "ADNOC, la petrolera estatal emiratí, será la primera energética en desplegar OpenAI Frontier, dentro de una alianza en la que también participa G42."
+    },
+    {
+      "en": "The article cites IEA estimates of 485 TWh of data centre consumption in 2025, potentially reaching about 950 TWh by 2030.",
+      "es": "El artículo cita estimaciones de la AIE: 485 TWh de consumo de centros de datos en 2025, que podrían llegar a unos 950 TWh en 2030."
+    },
+    {
+      "en": "That demand curve is exactly what is pushing connection requests on distribution grids like i-DE's.",
+      "es": "Esa curva de demanda es justo la que está empujando las peticiones de acceso en redes de distribución como la de i-DE."
+    },
+    {
+      "en": "Developers on X claim to have spotted a model called gpt-6.2-astra in Codex traffic, and a Mythos 5.5 reference in Anthropic's website code, along with talk of a Fable 5.5 release.",
+      "es": "Desarrolladores en X aseguran haber detectado un modelo llamado gpt-6.2-astra en el tráfico de Codex y una referencia a Mythos 5.5 en el código de la web de Anthropic, además de hablar de un lanzamiento de Fable 5.5."
+    },
+    {
+      "en": "Neither company has announced any of this, and the sourcing is social media posts relayed by a crypto news feed, so treat it as hearsay until there is an official release.",
+      "es": "Ninguna de las dos empresas ha anunciado nada de esto, y el origen son publicaciones en redes recogidas por un canal de noticias de criptomonedas, así que conviene tomarlo como rumor hasta que haya un lanzamiento oficial."
+    },
+    {
+      "en": "Iranian media reported a series of explosions late on Monday on Qeshm Island and in Bandar Lengeh, both near the Strait of Hormuz.",
+      "es": "Medios iraníes informaron de una serie de explosiones a última hora del lunes en la isla de Qeshm y en Bandar Lengeh, ambas cerca del estrecho de Ormuz."
+    },
+    {
+      "en": "Unnamed US officials described them as defensive strikes meant to curb Iran's ability to attack commercial shipping, and said the campaign has been kept quiet so as not to signal a return to major combat.",
+      "es": "Funcionarios estadounidenses anónimos las describieron como ataques defensivos para limitar la capacidad de Irán de atacar buques comerciales, y dijeron que la campaña se ha llevado con discreción para no dar la señal de una vuelta al combate a gran escala."
+    },
+    {
+      "en": "It complicates the optimism about talks that sent oil tumbling only hours earlier.",
+      "es": "Complica el optimismo sobre las negociaciones que hundió el petróleo solo unas horas antes."
+    },
+    {
+      "en": "Trump wrote that a deal could happen and Vance said some progress had been made, while Iran's foreign minister Araghchi described intensive indirect talks with Qatar and Pakistan as mediators.",
+      "es": "Trump escribió que puede haber acuerdo y Vance dijo que se ha avanzado algo, mientras el ministro de Exteriores iraní, Araghchi, habló de negociaciones indirectas intensas con Catar y Pakistán como mediadores."
+    },
+    {
+      "en": "A senior Iranian official said the strait could reopen within two days if Washington accepts Tehran's demands, which include lifting oil sanctions, unfreezing assets and ending the blockade of Iranian ports.",
+      "es": "Un alto cargo iraní dijo que el estrecho podría reabrirse en dos días si Washington acepta las exigencias de Teherán, entre ellas levantar las sanciones al petróleo, descongelar activos y poner fin al bloqueo de los puertos iraníes."
+    },
+    {
+      "en": "Trump also threatened further action against one or two targets, so the signals remain mixed.",
+      "es": "Trump también amenazó con actuar contra uno o dos objetivos más, de modo que las señales siguen siendo contradictorias."
+    },
+    {
+      "en": "Polls open across all 50 states today for the midterms, with all 435 House seats and 35 of the 100 in the Senate on the ballot, plus many governorships.",
+      "es": "Hoy se abren las urnas en los 50 estados para las legislativas, con los 435 escaños de la Cámara y 35 de los 100 del Senado en juego, además de muchos gobiernos estatales."
+    },
+    {
+      "en": "On the eve of the vote, the Trump administration asked the Supreme Court to temporarily stop California from counting mail ballots from more than 20,000 voters that federal officials allege are likely non-citizens.",
+      "es": "En la víspera, el Gobierno de Trump pidió al Tribunal Supremo que impida temporalmente a California contar los votos por correo de más de 20.000 electores que, según funcionarios federales, probablemente no son ciudadanos."
+    },
+    {
+      "en": "Close races may take days to call because of slow mail-in counts.",
+      "es": "Las contiendas ajustadas pueden tardar días en decidirse por el lento recuento del voto por correo."
+    },
+    {
+      "en": "A Russian attack on a school serving as a humanitarian centre in the village of Komyshuvakha killed at least 24 people, with some later reports giving 26, and the regional governor said 27 were missing.",
+      "es": "Un ataque ruso contra una escuela que servía de centro humanitario en la aldea de Komishuvaja mató al menos a 24 personas (algunos recuentos posteriores hablan de 26), y el gobernador regional dijo que había 27 desaparecidos."
+    },
+    {
+      "en": "Zelensky said more bombs fell on the shelter where people had gathered after the first strike, and called it proof that Moscow does not want de-escalation.",
+      "es": "Zelenski dijo que cayeron más bombas sobre el refugio donde se había reunido la gente tras el primer ataque, y lo calificó de prueba de que Moscú no quiere una desescalada."
+    },
+    {
+      "en": "The US envoy said Russia, Ukraine and the US will meet in Abu Dhabi to discuss post-war security, de-escalation and humanitarian issues, with an energy and maritime ceasefire and prisoner exchanges on the technical agenda.",
+      "es": "El enviado estadounidense dijo que Rusia, Ucrania y EE. UU. se reunirán en Abu Dabi para hablar de seguridad de posguerra, desescalada y asuntos humanitarios, con un alto el fuego energético y marítimo e intercambios de prisioneros en la agenda técnica."
+    },
+    {
+      "en": "The gap remains wide: the Kremlin rejects a ceasefire and demands the rest of Donetsk and Luhansk, while Kyiv wants to freeze the current front line.",
+      "es": "La distancia sigue siendo grande: el Kremlin rechaza un alto el fuego y exige el resto de Donetsk y Lugansk, mientras Kiev quiere congelar la línea del frente actual."
+    },
+    {
+      "en": "Transport Minister Óscar Puente will brief the Cabinet on the Urda rail crash, which left 69 dead, and ministers are expected to pass a decree modelled on the one approved after the Adamuz accident.",
+      "es": "El ministro de Transportes, Óscar Puente, informará al Consejo de Ministros sobre el accidente ferroviario de Urda, con 69 fallecidos, y se espera que se apruebe un decreto inspirado en el de Adamuz."
+    },
+    {
+      "en": "Pedro Sánchez outlined four strands on Monday: direct aid, advance compensation payments, better sick-leave cover and support offices in the regions; the final amounts had not yet been published.",
+      "es": "Pedro Sánchez avanzó el lunes cuatro ejes: ayudas directas, anticipos de indemnizaciones, mejor cobertura de la baja y oficinas de atención en las comunidades; los importes definitivos aún no se habían publicado."
+    },
+    {
+      "en": "The minister appears before Congress this afternoon, with calls for his resignation from the opposition and from some of the government's allies, including Ada Colau according to El Mundo.",
+      "es": "El ministro comparece esta tarde en el Congreso, con peticiones de dimisión de la oposición y de parte de los aliados del Gobierno, entre ellos Ada Colau según El Mundo."
+    },
+    {
+      "en": "Today's front pages carry unconfirmed claims about the crash: La Razón says the LZB signalling system went down shortly beforehand, and ABC reports that Adif acknowledged critical problems with high-speed communications in July.",
+      "es": "Las portadas de hoy recogen informaciones aún sin confirmar sobre el accidente: La Razón dice que el sistema de señalización LZB cayó poco antes, y ABC afirma que Adif reconoció en julio problemas críticos en las comunicaciones de alta velocidad."
+    },
+    {
+      "en": "The official gazette publishes the lists of candidates for the 29 November general election, and the Supreme Court is studying whether to extend its temporary suspension of voting rights for the children of naturalised citizens under the so-called grandchildren's law.",
+      "es": "El BOE publica las candidaturas para las generales del 29 de noviembre, y el Tribunal Supremo estudia si extiende la suspensión cautelar del voto a los hijos de nacionalizados por la llamada ley de nietos."
+    },
+    {
+      "en": "An average of 16 pollsters puts the PP on 30.5%, the PSOE on 27.4%, Vox on 19.1% and Frente Amplio on 6.4%.",
+      "es": "Una media de 16 institutos sitúa al PP en el 30,5 %, al PSOE en el 27,4 %, a Vox en el 19,1 % y a Frente Amplio en el 6,4 %."
+    },
+    {
+      "en": "According to El Periódico de la Energía, the ministry wants to pass the 2025-2030 grid plan, worth about €17 billion, before the election, and is still presenting it to the last three regions.",
+      "es": "Según El Periódico de la Energía, el Ministerio quiere aprobar antes de las elecciones la planificación de redes 2025-2030, de unos 17.000 millones de euros, y aún la presenta a las tres últimas comunidades."
+    },
+    {
+      "en": "Minister Sara Aagesen could also set by ministerial order the terms of the first capacity market auction, including firmness coefficients, reserve prices and guarantees, with combined-cycle plants, storage and some industrial consumers taking part.",
+      "es": "La ministra Sara Aagesen también podría fijar por orden las condiciones de la primera subasta del mercado de capacidad, incluidos coeficientes de firmeza, precios de reserva y garantías, con participación de ciclos combinados, almacenamiento y algunos consumidores industriales."
+    },
+    {
+      "en": "The grid plan sets the transmission backbone that distribution investment has to plug into, so its timing feeds directly into planning at networks like i-DE.",
+      "es": "La planificación fija la columna vertebral de transporte a la que debe conectarse la inversión en distribución, así que su calendario afecta directamente a la planificación de redes como i-DE."
+    },
+    {
+      "en": "Power failed across the Canary island at 06:38 on Monday and returned at 10:26, after a 66 kV line had already tripped at 04:10, leaving around 17,600 customers without supply.",
+      "es": "La luz se fue en toda la isla canaria a las 06:38 del lunes y volvió a las 10:26, después de que una línea de 66 kV ya hubiera disparado a las 04:10, dejando sin suministro a unos 17.600 clientes."
+    },
+    {
+      "en": "Red Eléctrica says the first fault did not cause the second, and the regional president reported no injuries.",
+      "es": "Red Eléctrica afirma que la primera avería no causó la segunda, y el presidente regional informó de que no hubo daños personales."
+    },
+    {
+      "en": "Small island systems show how quickly a single failure can spread when there is little redundancy.",
+      "es": "Los sistemas insulares pequeños muestran lo rápido que puede propagarse un fallo cuando hay poca redundancia."
+    },
+    {
+      "en": "Solaria gained 4.49% and Acciona Energía 3.24% on Monday, while Repsol lost 2.47% as crude sank.",
+      "es": "Solaria ganó un 4,49 % y Acciona Energía un 3,24 % el lunes, mientras Repsol perdía un 2,47 % con el desplome del crudo."
+    },
+    {
+      "en": "Naturgy, Endesa and Redeia also ended lower, down 0.88%, 0.87% and 0.65%, in a market otherwise led by cyclical names.",
+      "es": "Naturgy, Endesa y Redeia también cerraron en rojo, con caídas del 0,88 %, 0,87 % y 0,65 %, en un mercado liderado por los valores cíclicos."
+    },
+    {
+      "en": "Apple reported revenue of $114.5 billion, up 12% and above its guidance, with the iPhone up 17.5% and Greater China up 21%.",
+      "es": "Apple presentó ingresos de 114.500 millones de dólares, un 12 % más y por encima de lo que había previsto, con el iPhone subiendo un 17,5 % y la Gran China un 21 %."
+    },
+    {
+      "en": "It expects gross margin of 45% to 46% next quarter, down from 47.9%, a figure flattered by about a point from tariff refunds.",
+      "es": "Espera un margen bruto del 45 % al 46 % el próximo trimestre, frente al 47,9 % actual, una cifra favorecida en torno a un punto por devoluciones de aranceles."
+    },
+    {
+      "en": "The ISM manufacturing index rose to 55.5 in October, beating forecasts, although construction spending fell 1.9% in September, the sharpest drop since April 2020.",
+      "es": "El índice manufacturero ISM subió a 55,5 en octubre, mejor de lo previsto, aunque el gasto en construcción cayó un 1,9 % en septiembre, el mayor descenso desde abril de 2020."
+    },
+    {
+      "en": "Futures on Monday implied about a 72% chance that the Federal Reserve will raise rates in December, a striking shift for an economy still coping with an oil shock.",
+      "es": "Los futuros implicaban el lunes cerca de un 72 % de probabilidad de que la Reserva Federal suba tipos en diciembre, un giro llamativo para una economía que sigue lidiando con un choque petrolero."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "dilution",
+    "pos": "noun",
+    "translation": "dilución",
+    "definition_en": "The reduction in existing shareholders' percentage ownership when a company issues new shares.",
+    "example_en": "The capital increase funds the grid programme, but it also means some dilution for current investors.",
+    "example_es": "La ampliación de capital financia el programa de redes, pero también supone cierta dilución para los accionistas actuales."
+  },
+  "recommendations": [
+    {
+      "id": "energia-a-granel-128-corazon-electrico-ue-relano",
+      "type": "podcast",
+      "title": "El corazón eléctrico de la UE, con Eduardo Relaño",
+      "speaker": "Eduardo Relaño (CORESO), con Ismael Morales y Marcial González",
+      "outlet": "Energía a granel",
+      "duration_min": 66,
+      "language": "es",
+      "topics": [
+        "redes",
+        "energía",
+        "Europa"
+      ],
+      "summary": "Episodio 128, publicado hace una semana. Explica cómo se coordina el sistema eléctrico europeo a través de ENTSO-E y CORESO, y qué hacen estos centros de coordinación regional.",
+      "why": "Muy útil para situar la red española dentro del sistema europeo, en castellano y con un experto de operación.",
+      "url": "https://www.ivoox.com/en/el-corazon-electrico-ue-eduardo-audios-mp3_rf_182824994_1.html"
+    },
+    {
+      "id": "energia-a-granel-127-vuelta-al-mundo-urbasos",
+      "type": "podcast",
+      "title": "La vuelta al mundo, con Ignacio Urbasos",
+      "speaker": "Ignacio Urbasos",
+      "outlet": "Energía a granel",
+      "duration_min": 60,
+      "language": "es",
+      "topics": [
+        "energía",
+        "geopolítica"
+      ],
+      "summary": "Episodio 127, de hace tres semanas, sobre la geopolítica de la energía en distintas regiones del mundo.",
+      "why": "Da contexto a lo que está pasando con Ormuz y el precio del crudo.",
+      "url": "https://www.ivoox.com/en/la-vuelta-al-mundo-ignacio-urbasos-127-audios-mp3_rf_182079941_1.html"
+    },
+    {
+      "id": "modo-transmission-ben-braun-fluence-red",
+      "type": "video",
+      "title": "¿Qué mantiene realmente unida la red?",
+      "speaker": "Ben Braun (Fluence), con Ed Porter",
+      "outlet": "Transmission (Modo Energy)",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "redes",
+        "almacenamiento"
+      ],
+      "summary": "Conversación de septiembre de 2026 sobre qué da estabilidad a la red y el papel de las baterías. Modo describe sus entrevistas como de 30 a 45 minutos.",
+      "why": "Buen inglés técnico y conceptos de estabilidad que te sirven para entender los debates tras los apagones.",
+      "url": "https://www.youtube.com/watch?v=ht__FtSKXXE"
+    },
+    {
+      "id": "modo-transmission-pablo-martinez-bess-espana",
+      "type": "video",
+      "title": "Saturación solar y colapso de la red: la oportunidad BESS de España",
+      "speaker": "Pablo Martínez Serrano (Modo Energy)",
+      "outlet": "Transmission (Modo Energy)",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "almacenamiento",
+        "España",
+        "renovables"
+      ],
+      "summary": "De abril de 2026: por qué España tiene unos 42 GW de solar a escala de red y menos de 100 MW de baterías conectadas, y qué oportunidad abre eso.",
+      "why": "Directamente ligado a tu trabajo en redes y al mercado de capacidad que se decide este mes.",
+      "url": "https://www.youtube.com/watch?v=8CwB38oLEYM"
+    },
+    {
+      "id": "energy-gang-new-market-ai-compute-gpu-futures",
+      "type": "podcast",
+      "title": "A new market for AI compute: What GPU futures could mean for energy",
+      "speaker": "Ed Crooks y colaboradores",
+      "outlet": "Energy Gang (Wood Mackenzie)",
+      "duration_min": 40,
+      "language": "en",
+      "topics": [
+        "IA",
+        "energía",
+        "mercados"
+      ],
+      "summary": "Episodio de septiembre sobre la idea de negociar capacidad de cómputo con futuros, y lo que supondría para la demanda de electricidad.",
+      "why": "Une tus dos intereses y ayuda a entender el problema de cómputo caro a corto plazo que asoma en las cuentas de Anthropic.",
+      "url": "https://www.iheart.com/podcast/869-energy-gang-28497009/episode/a-new-market-for-ai-compute-343413895/"
+    },
+    {
+      "id": "energyconnects-altman-aljaber-adipec-2026",
+      "type": "article",
+      "title": "AI is a necessity for energy industry, not just an option, Al Jaber and Altman tell ADIPEC",
+      "speaker": "Sam Altman y Sultan Al Jaber",
+      "outlet": "Energy Connects",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "IA",
+        "energía"
+      ],
+      "summary": "Crónica de la apertura de ADIPEC, con los mensajes de Altman y Al Jaber y los datos de la AIE sobre el consumo de los centros de datos.",
+      "why": "Lectura breve con cifras de demanda eléctrica de la IA fáciles de citar en el trabajo.",
+      "url": "https://www.energyconnects.com/opinion/features/2026/november/ai-is-a-necessity-for-energy-industry-not-just-an-option-al-jaber-and-altman-tell-adipec/"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "El lunes lo marcó el petróleo: el Brent cayó un 7,6 % por la esperanza de un acuerdo entre EE. UU. e Irán, y eso animó a los valores cíclicos. El IBEX subió un 1,63 % hasta los 18.957 puntos, con Fluidra y Amadeus a la cabeza (+4,65 %), y el Euro Stoxx 50 ganó un 0,89 %. En Wall Street el Dow subió, pero el Nasdaq volvió a caer por las dudas sobre el gasto en IA, con Oracle y la compra de Lumentum por Marvell como focos. Deutsche Bank elevó su recomendación sobre tecnología a sobreponderar, mientras el VIX subía a 21,15. El bono español a 10 años cerró en el 3,917 %. Ojo: tras el cierre llegaron las noticias de Qeshm, que pueden devolver parte de la tensión al crudo. Los datos de divisas y bitcoin son aproximados según la hora de la fuente; no encontré el nivel exacto de cierre del Euro Stoxx 50.",
+      "en": "Oil set the tone on Monday: Brent fell 7.6% on hopes of a US-Iran deal, which lifted cyclical stocks. The IBEX rose 1.63% to 18,957, led by Fluidra and Amadeus (+4.65%), and the Euro Stoxx 50 gained 0.89%. On Wall Street the Dow rose, but the Nasdaq slipped again on doubts about AI spending, with Oracle and Marvell's purchase of Lumentum in focus. Deutsche Bank upgraded tech to overweight, while the VIX climbed to 21.15. Spain's 10-year yield closed at 3.917%. Note that the Qeshm reports came after the close, and could put some tension back into crude. Currency and bitcoin figures are approximate depending on the source's timing, and I could not find the exact Euro Stoxx 50 closing level."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35",
+        "value": 18957,
+        "change_pct": 1.63
+      },
+      {
+        "name": "S&P 500",
+        "value": 7541.4,
+        "change_pct": -0.51
+      },
+      {
+        "name": "Nasdaq Composite",
+        "value": 25164.32,
+        "change_pct": -1.07
+      },
+      {
+        "name": "Dow Jones",
+        "value": 51983.98,
+        "change_pct": 0.41
+      },
+      {
+        "name": "Brent (USD/barril)",
+        "value": 104.77,
+        "change_pct": -7.63
+      },
+      {
+        "name": "Oro (USD/onza)",
+        "value": 3956.9,
+        "change_pct": 1.49
+      },
+      {
+        "name": "EUR/USD",
+        "value": 1.1188,
+        "change_pct": 0.05
+      },
+      {
+        "name": "Bitcoin (USD, aprox.)",
+        "value": 76700,
+        "change_pct": -2.0
+      }
+    ],
+    "learn": {
+      "concept": "Retribución regulada de una red",
+      "explanation": "Una distribuidora no fija sus precios: el regulador decide cuánto ingresa por tener y operar la red. De forma simplificada, la retribución suma tres piezas: la retribución financiera (activos reconocidos, o RAB, por la tasa fijada), la amortización de esos activos y los costes de operación reconocidos, más posibles incentivos o penalizaciones por calidad y pérdidas. Ejemplo: con una RAB de 1.000 M€ y la tasa del 6,58 % que la CNMC ha fijado para 2026-2031, la retribución financiera sería de unos 65,8 M€ al año; si esos activos se amortizan a 40 años, se añaden 25 M€. Por eso importa tanto qué inversión se reconoce y cuándo: cada euro admitido en la RAB genera ingresos durante décadas. Y por eso una distribuidora vigila que el coste de financiarse quede por debajo de la tasa regulada. Las cifras son solo ilustrativas: la fórmula real está en las circulares de la CNMC, que conviene mirar en detalle para tu trabajo y el TFG."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
