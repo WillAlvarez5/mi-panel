@@ -1,0 +1,1017 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T07:07:51+01:00",
+  "last_updated": "2026-11-04T07:07:51+01:00",
+  "headline": {
+    "es": "Los demócratas ganan el Senado según AP y, según varios medios, también la Cámara, en un duro golpe a Trump. Irán dice tener un plan de «máxima disuasión» mientras siguen los incidentes en Ormuz, y la factura regulada de la luz de octubre toca máximos de cuatro años.",
+    "en": "Democrats win the Senate, according to AP, and the House, according to several outlets, in a major blow to Trump. Iran says a 'maximum deterrence' plan is ready as incidents continue in Hormuz, and October's regulated power bill hits a four-year high."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "Google presenta Gemini 4 Carbon, que supera por un punto a Claude Opus 5.5 en un índice independiente",
+        "en": "Google unveils Gemini 4 Carbon, edging past Claude Opus 5.5 on an independent index"
+      },
+      "body": {
+        "es": "Artificial Analysis sitúa a Gemini 4 Carbon en cabeza de su índice de inteligencia, un punto por delante de Claude Opus 5.5, y el modelo lidera cuatro de las nueve pruebas que lo componen. Tom's Hardware indica que cada tarea de la prueba cuesta alrededor de un 23 % menos que con Opus 5.5 y que Carbon también encabeza un test de fiabilidad factual, aunque la mejor nota ahí es solo 54 en una escala de -100 a 100. El acceso llega primero a especialistas en ciberdefensa mediante un programa de Google llamado Fairwind, y se promete abrirlo más adelante.",
+        "en": "Artificial Analysis ranks Gemini 4 Carbon first on its Intelligence Index, one point ahead of Claude Opus 5.5, and the model leads four of the nine underlying tests. Tom's Hardware reports that each benchmark task costs about 23% less to run than on Opus 5.5, and that Carbon also tops a test measuring factual reliability, though the best score there is only 54 on a scale from -100 to 100. Access is being rolled out to cyber defenders first through a Google programme called Fairwind, with wider availability promised later."
+      },
+      "why_it_matters": {
+        "es": "Un punto de ventaja es poco, y el despliegue escalonado muestra que los laboratorios ya ven las capacidades de ciberseguridad como un motivo para limitar quién recibe antes un modelo.",
+        "en": "A one-point lead is narrow, and the staggered release shows that labs now treat cyber capabilities as a reason to limit who gets a model first."
+      },
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic avisa a los inversores de que sus modelos podrían acelerar pronto el propio avance de la IA",
+        "en": "Anthropic warns investors its models could soon speed up AI progress itself"
+      },
+      "body": {
+        "es": "El folleto de salida a bolsa que Anthropic modificó el lunes dice que modelos futuros podrían cruzar de forma inminente su umbral interno de progreso drásticamente acelerado por la propia IA, según resúmenes del documento. La empresa añade que ningún modelo actual suyo está por encima de esa línea. No hemos podido abrir el documento directamente, así que la redacción procede de coberturas secundarias.",
+        "en": "Anthropic's amended IPO filing, submitted on Monday, says future models could imminently cross its internal threshold for dramatically faster progress attributable to AI, according to summaries of the document. The company also says that no model it has today sits above that line. We could not open the filing directly, so the wording here comes from secondary coverage."
+      },
+      "why_it_matters": {
+        "es": "Los factores de riesgo de un folleto se redactan en parte como protección legal, así que esto es una advertencia y no una previsión, pero pone la IA que se mejora a sí misma delante de los inversores generalistas.",
+        "en": "Risk factors in a filing are written partly to protect a company legally, so this is a disclosure rather than a forecast, but it puts self-improving AI in front of mainstream investors."
+      },
+      "source": {
+        "name": "AI Unraveled",
+        "url": "https://enoumen.substack.com/p/anthropic-warns-self-improving-ai"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "AMD logra ingresos récord de 13.400 millones de dólares",
+        "en": "AMD posts record revenue of $13.4 billion"
+      },
+      "body": {
+        "es": "AMD comunicó tras el cierre del martes unos ingresos trimestrales récord de 13.400 millones de dólares, por encima de los cerca de 13.000 millones que había previsto en agosto. Sus acciones ya habían subido un 3,65 % durante la sesión, en un rebote de las tecnológicas de chips tras tres días seguidos de caídas del Nasdaq.",
+        "en": "AMD reported record quarterly revenue of $13.4 billion after Tuesday's closing bell, above the roughly $13 billion it had guided in August. Its shares had already climbed 3.65% during the session as chipmakers rebounded after three straight losing days for the Nasdaq."
+      },
+      "why_it_matters": {
+        "es": "Con crecientes dudas sobre el retorno del gasto en IA, los resultados de los fabricantes de chips son una de las lecturas más claras de la demanda en tiempo real.",
+        "en": "With doubts growing over the return on AI spending, chip results are one of the clearest real-time readings of demand."
+      },
+      "source": {
+        "name": "Stocktitan",
+        "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "Una nueva prueba de SemiAnalysis deja en un 12 % la mejor nota en trabajo profesional real",
+        "en": "A new SemiAnalysis test puts the top score on real professional work at just 12%"
+      },
+      "body": {
+        "es": "SemiAnalysis ha lanzado GDPx, una prueba de 206 tareas en 11 campos profesionales, y el mejor resultado hasta ahora es un 12 %, logrado por Claude Opus 5.5. Las cifras nos llegan por un resumen especializado, porque no se pudo abrir la publicación original.",
+        "en": "SemiAnalysis has launched GDPx, a benchmark of 206 tasks across 11 professional fields, and the best result so far is 12%, achieved by Claude Opus 5.5. The figures reached us through a curated summary, as the original post could not be opened."
+      },
+      "why_it_matters": {
+        "es": "Es un recordatorio útil de que una nota alta en una prueba académica no se traduce automáticamente en trabajo profesional terminado.",
+        "en": "It is a useful reminder that a high score on an academic test does not automatically translate into finished professional work."
+      },
+      "source": {
+        "name": "SemiAnalysis",
+        "url": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "Un modelo de IA mejora a otro retocando directamente una mínima parte de sus pesos",
+        "en": "An AI model improves another by directly tweaking a tiny share of its weights"
+      },
+      "body": {
+        "es": "En un experimento publicado esta semana, GPT-6 Astra modificó alrededor del 0,016 % de los pesos de un pequeño modelo Qwen y subió su nota en la prueba MATH-500 del 7,9 % al 48,1 %. Casi toda la mejora vino de corregir la costumbre de quedarse atascado en bucles repetitivos, el intento llevó unas 20 horas y un modelo Gemma no mostró una mejora clara. Los autores no demostraron un ciclo de automejora.",
+        "en": "In an experiment published this week, GPT-6 Astra edited about 0.016% of the weights of a small Qwen model and lifted its score on the MATH-500 test from 7.9% to 48.1%. Most of the gain came from fixing a habit of getting stuck in repetitive loops, the attempt took about 20 hours, and a Gemma model showed no clear improvement. The authors did not demonstrate a self-improvement loop."
+      },
+      "source": {
+        "name": "Blog de los autores",
+        "url": "https://rikiyat.github.io/blog/weight-space-programming/"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "Sin confirmar: Nvidia pediría a sus socios en la nube que la mayoría de sus nuevos contratos sean fuera de China",
+        "en": "Unconfirmed: Nvidia is said to be asking cloud partners to sign most new contracts outside China"
+      },
+      "body": {
+        "es": "Según se atribuye a Financial Times, Nvidia habría dicho a sus socios en la nube que al menos el 51 % de sus nuevos contratos debe ser con clientes de fuera de China, al parecer solo de palabra. Solo lo hemos visto en el resumen de un boletín, y Nvidia no lo ha confirmado.",
+        "en": "The Financial Times reportedly says Nvidia has told cloud partners that at least 51% of their new contracts should be with customers outside China, apparently only verbally. We saw this only in a newsletter summary, and it has not been confirmed by Nvidia."
+      },
+      "source": {
+        "name": "AI Unraveled (cita a FT)",
+        "url": "https://enoumen.substack.com/p/anthropic-warns-self-improving-ai"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Los demócratas arrebatan el Senado a los republicanos, según AP",
+        "en": "Democrats take the Senate from Republicans, AP projects"
+      },
+      "body": {
+        "es": "Associated Press dio el Senado a los demócratas la noche del martes tras ganar escaños republicanos en Texas, Ohio, Carolina del Norte e Iowa, la ganancia neta de cuatro que necesitaban. Maine y Michigan seguían contando cuando publicó TIME, así que la mayoría podría aumentar.",
+        "en": "The Associated Press called the Senate for Democrats late on Tuesday after they won Republican-held seats in Texas, Ohio, North Carolina and Iowa, the net gain of four they needed. Maine and Michigan were still being counted when TIME published, so the majority could grow."
+      },
+      "why_it_matters": {
+        "es": "Los republicanos tenían la cámara por 53-47 antes de la votación; el Senado confirma jueces y altos cargos, así que esto reduce el margen de maniobra de Trump en sus dos últimos años.",
+        "en": "Republicans held the chamber 53-47 before the vote; the Senate confirms judges and senior officials, so this limits Trump's room for manoeuvre for his final two years."
+      },
+      "source": {
+        "name": "TIME",
+        "url": "https://time.com/article/2026/11/04/democrats-win-control-of-senate-in-blue-wave-election/"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "La Cámara también se inclina hacia los demócratas, aunque el margen sigue sin aclararse",
+        "en": "The House also tips to Democrats, though the margin is still unclear"
+      },
+      "body": {
+        "es": "Varios medios han dado la Cámara a los demócratas, aunque AP aún no lo había hecho cuando publicó TIME y el margen final sigue sin estar claro. Si se confirma, Hakeem Jeffries sería el primer presidente negro de la Cámara y Chuck Schumer sustituiría a John Thune como líder de la mayoría en el Senado.",
+        "en": "Several outlets have called the House for Democrats, although AP had not done so when TIME published and the final margin remains unclear. If confirmed, Hakeem Jeffries would become the first Black Speaker and Chuck Schumer would take over as Senate majority leader from John Thune."
+      },
+      "why_it_matters": {
+        "es": "El control de ambas cámaras daría a los demócratas poder para bloquear leyes y abrir investigaciones, lo que abre una etapa de gobierno dividido.",
+        "en": "Control of both chambers would give Democrats the power to block legislation and launch investigations, which sets up a period of divided government."
+      },
+      "source": {
+        "name": "TIME",
+        "url": "https://time.com/article/2026/11/04/democrats-win-control-of-senate-in-blue-wave-election/"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "Irán dice tener listo un plan de «máxima disuasión» y crecen los incidentes en Ormuz",
+        "en": "Iran says a 'maximum deterrence' plan is ready as Hormuz incidents mount"
+      },
+      "body": {
+        "es": "Teherán afirma tener preparado un plan para responder de inmediato a cualquier nuevo ataque de EE. UU. y dice estar actualizando su lista de objetivos estadounidenses e israelíes. La agencia marítima británica informó de un petrolero alcanzado por dos proyectiles no identificados cerca del estrecho, mientras que la Guardia Revolucionaria dijo que tres petroleros habían estallado al chocar con minas.",
+        "en": "Tehran said it has a plan ready for an immediate response to any new US attack and is updating its list of US and Israeli targets. The UK's maritime monitoring agency reported a tanker hit by two unidentified projectiles near the strait, while the Revolutionary Guard said three tankers had exploded after striking mines."
+      },
+      "why_it_matters": {
+        "es": "Cada incidente cerca de Ormuz repercute directamente en el petróleo y el gas, y a través del gas en la factura eléctrica española.",
+        "en": "Every incident near Hormuz feeds directly into oil and gas prices, and through gas into Spain's electricity bills."
+      },
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "La diplomacia sigue abierta, pero Netanyahu presiona a Trump para reanudar los ataques",
+        "en": "Diplomacy stays open, but Netanyahu is pressing Trump to resume strikes"
+      },
+      "body": {
+        "es": "Catar y Pakistán median, y entre las exigencias iraníes están liberar activos congelados, levantar el bloqueo estadounidense y poner fin a las hostilidades en todos los frentes. Medios españoles han hablado de un memorando mediado por Catar que ninguna de las partes confirma, y AP dijo que Netanyahu insta a Trump a reanudar los ataques tras las legislativas y que Trump no lo ha decidido.",
+        "en": "Qatar and Pakistan are mediating, and Iran's demands include unfreezing assets, lifting the US blockade and ending hostilities on all fronts. Spanish media reported a Qatari-brokered memorandum that neither side has confirmed, while AP said Netanyahu is urging Trump to resume strikes after the midterms and that Trump has not decided."
+      },
+      "source": {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Nuevos muertos en Gaza pese al alto el fuego",
+        "en": "More deaths in Gaza despite the ceasefire"
+      },
+      "body": {
+        "es": "Las fuerzas israelíes mataron a cuatro personas en Gaza y un quinto palestino murió por heridas anteriores, según Al Jazeera. Casi 1.600 palestinos han muerto desde que empezó el alto el fuego auspiciado por EE. UU. en octubre de 2025.",
+        "en": "Israeli forces killed four people in Gaza and a fifth Palestinian died of earlier wounds, according to Al Jazeera. Nearly 1,600 Palestinians have been killed since the US-brokered ceasefire began in October 2025."
+      },
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "El Gobierno aprueba el decreto de ayudas a las víctimas de Urda",
+        "en": "Government approves aid decree for the victims of the Urda rail crash"
+      },
+      "body": {
+        "es": "El Consejo de Ministros aprobó el martes un real decreto para apoyar a los afectados por el accidente de trenes de Urda, que dejó 69 muertos y más de 200 heridos. El texto final aún espera su publicación en el BOE y, aunque un titular habla de 30 millones de euros, no hemos podido confirmar la cifra ni su desglose.",
+        "en": "The Council of Ministers approved a royal decree on Tuesday to support those affected by the Urda train crash, which killed 69 people and injured more than 200. The final text is still awaiting publication in the official gazette, and although one headline mentions €30 million, we could not confirm the amount or its breakdown."
+      },
+      "source": {
+        "name": "Moncloa.com",
+        "url": "https://www.moncloa.com/2026/11/03/ayudas-victimas-urda-real-decreto-3460860/"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "Puente comparece en el Congreso por Urda con peticiones de dimisión",
+        "en": "Puente appears before Congress over Urda amid calls to resign"
+      },
+      "body": {
+        "es": "El ministro de Transportes, Óscar Puente, compareció el martes en la Diputación Permanente del Congreso para dar cuenta del accidente, con la vista ya puesta en las generales del 29 de noviembre. Infobae señala que tanto la oposición como socios del Gobierno han pedido su dimisión.",
+        "en": "Transport Minister Óscar Puente appeared before Congress's standing committee on Tuesday to account for the crash, with the campaign for the 29 November general election already under way. Infobae reports that both the opposition and government partners have called for his resignation."
+      },
+      "source": {
+        "name": "Infobae",
+        "url": "https://www.infobae.com/espana/2026/11/03/oscar-puente-comparece-en-el-congreso-por-el-accidente-de-trenes-de-urda-en-directo-ultima-hora-del-consejo-de-ministros-y-las-primeras-medidas-tras-la-tragedia/"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "PP y Vox proponen eliminar en Extremadura el ecoimpuesto que pagan las dueñas de Almaraz",
+        "en": "PP and Vox propose scrapping Extremadura's eco-tax on the owners of Almaraz"
+      },
+      "body": {
+        "es": "El presupuesto regional de 2027 propone un recorte del 30 % del impuesto a las generadoras eléctricas desde el año próximo y una exención total en 2029, lo que supone dejar de ingresar unos 178 millones de euros. El proyecto sigue su trámite en el parlamento regional, donde ambos partidos tienen mayoría absoluta.",
+        "en": "The 2027 regional budget proposes a 30% cut to the tax on electricity generators from next year and a full exemption by 2029, costing about €178 million in lost revenue. The bill is still going through the regional parliament, where the two parties hold an absolute majority."
+      },
+      "why_it_matters": {
+        "es": "El impuesto recae sobre todo en la central nuclear de Almaraz, de Iberdrola, Endesa y Naturgy, así que influye en las cuentas de mantenerla abierta.",
+        "en": "The levy falls mainly on the Almaraz nuclear plant, owned by Iberdrola, Endesa and Naturgy, so it matters for the economics of keeping the plant open."
+      },
+      "source": {
+        "name": "Moncloa.com",
+        "url": "https://www.moncloa.com/2026/11/03/presupuestos-extremadura-iberdrola-endesa-naturgy-3460806"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "La factura regulada de la luz de octubre sube un 29 % y marca máximos de cuatro años",
+        "en": "October's regulated power bill jumps 29% to a four-year high"
+      },
+      "body": {
+        "es": "El consumidor de referencia con tarifa regulada pagó más de 80 euros en octubre, un 29 % más que un año antes, con el mercado mayorista en una media de 165 €/MWh y un pico anual de casi 245 euros el día 30. El gas por encima de 100 €/MWh explica buena parte de la subida, y los futuros apuntan a unos 193 €/MWh para noviembre.",
+        "en": "The reference consumer on the regulated tariff paid more than €80 in October, 29% up on a year earlier, as the wholesale price averaged €165/MWh with a yearly peak of nearly €245 on 30 October. Gas above €100/MWh explains much of the rise, and futures point to about €193/MWh for November."
+      },
+      "why_it_matters": {
+        "es": "Los costes regulados con los que trabajas son una parte fija de la factura, así que cuando la energía se dispara así, el debate político sobre toda la factura también se complica para las redes.",
+        "en": "The regulated charges you work with are a fixed part of the bill, so when energy costs surge like this the politics of the whole bill tend to get harder for network companies too."
+      },
+      "source": {
+        "name": "Merca2",
+        "url": "https://merca2.es/2026/11/02/factura-electrica-octubre-maximos-2022-2490137"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "El CEO de RWE: los centros de datos llegan antes de lo que el sistema eléctrico puede crecer",
+        "en": "RWE's CEO: data centres arrive faster than the power system can grow"
+      },
+      "body": {
+        "es": "En la feria ADIPEC, Markus Krebber dijo que un centro de datos tarda de tres a cuatro años en llegar al mercado, mientras que ampliar el sistema eléctrico lleva cinco o más. Otros directivos, como Meg O'Neill, de bp, defendieron que la demanda de la IA está desplazando la inversión hacia la resiliencia y la seguridad de suministro.",
+        "en": "Speaking at the ADIPEC energy conference, Markus Krebber said a data centre takes three to four years to reach the market, while ramping up the power system takes five years or more. Other executives, including bp's Meg O'Neill, argued that AI demand is shifting investment towards resilience and security of supply."
+      },
+      "why_it_matters": {
+        "es": "Ese desfase temporal es justo la razón por la que la inversión anticipada en red ha ganado prioridad.",
+        "en": "That timing gap is exactly why anticipatory grid investment has moved up the agenda."
+      },
+      "source": {
+        "name": "Energy Connects",
+        "url": "https://www.energyconnects.com/opinion/features/2026/november/ai-drives-new-thinking-on-energy-investment-resilience-and-growth/"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "Iberdrola y Norges Bank amplían su sociedad conjunta con 274 MW eólicos en Portugal",
+        "en": "Iberdrola and Norges Bank add 274 MW of Portuguese wind to their joint venture"
+      },
+      "body": {
+        "es": "El parque eólico de Tâmega se suma a la alianza, que ya supera 1,8 GW y más de 2.000 millones invertidos, y se espera que llegue a unos 2,3 GW en 2027. El activo ya está en operación, así que esto traspasa propiedad y no añade capacidad nueva.",
+        "en": "The Tâmega wind farm joins the partnership, which now exceeds 1.8 GW and more than €2 billion invested, with about 2.3 GW expected during 2027. The asset is already operating, so this transfers ownership rather than adding new capacity."
+      },
+      "why_it_matters": {
+        "es": "Estas alianzas son una forma habitual de que las eléctricas roten capital hacia otras prioridades, como las redes.",
+        "en": "Partnerships like this are a common way for utilities to recycle capital into other priorities such as grids."
+      },
+      "source": {
+        "name": "GreentechLead",
+        "url": "https://greentechlead.com/energy-news/renewables-news-iberdrola-rwe-ecowende-56301"
+      }
+    },
+    {
+      "id": "energia-4",
+      "section": "energia",
+      "title": {
+        "es": "Italia autoriza casi 7 GW de baterías en dos meses",
+        "en": "Italy authorises nearly 7 GW of batteries in two months"
+      },
+      "body": {
+        "es": "El ministerio de Energía italiano autorizó en octubre 3,7 GW de baterías en 24 proyectos, tras 3,2 GW en septiembre, y cerca del 60 % de esta última tanda está en Apulia. Autorizar no es construir, pero la cartera muestra lo rápido que el sur de Europa está apostando por el almacenamiento.",
+        "en": "Italy's energy ministry cleared 3.7 GW of battery storage across 24 projects in October, after 3.2 GW in September, and about 60% of the latest batch is in Puglia. Authorisation does not mean construction, but the pipeline shows how quickly southern Europe is turning to storage."
+      },
+      "source": {
+        "name": "ESS News",
+        "url": "https://ess-news.com/2026/11/03/italy-authorizes-nearly-7-gw-of-battery-storage"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "Wall Street cierra mixta antes del resultado electoral: chips arriba, Apple abajo",
+        "en": "Wall Street ends mixed ahead of the results: chips up, Apple down"
+      },
+      "body": {
+        "es": "El Nasdaq subió un 0,83 % y cortó tres días de caídas gracias al rebote de los semiconductores, mientras que el Dow cedió un 0,38 % después de que Apple cayera un 1,9 % por una previsión floja de margen bruto ligada al encarecimiento de la memoria. Antes de la votación, JPMorgan veía dos tercios de probabilidad de un triunfo demócrata y esperaba una reacción contenida del S&P 500, aunque algunos inversores temen nuevos límites a los centros de datos.",
+        "en": "The Nasdaq rose 0.83% and snapped a three-day losing streak as semiconductor shares rallied, while the Dow slipped 0.38% after Apple fell 1.9% on a weak gross margin forecast linked to rising memory costs. Before the vote, JPMorgan saw a two-thirds chance of a Democratic sweep and expected only a muted S&P 500 reaction, though some investors fear new limits on data centres."
+      },
+      "source": {
+        "name": "TheStreet",
+        "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "Los mercados dan por probable una subida de la Fed en diciembre",
+        "en": "Markets see a Fed rate hike as likely in December"
+      },
+      "body": {
+        "es": "Los operadores descuentan cerca de un 75 % de probabilidad de una subida de un cuarto de punto en la reunión de la Fed del 8 y 9 de diciembre, y el bono estadounidense a 10 años cerró cerca del 4,97 %. El banco central de Australia subió tipos por quinta vez este año, y el miembro del BCE Peter Kažimír advirtió de que los mercados quizá subestiman nuevas subidas.",
+        "en": "Traders price about a 75% chance of a quarter-point rise at the Fed's 8-9 December meeting, and the US 10-year yield ended near 4.97%. Australia's central bank raised rates for the fifth time this year, and ECB policymaker Peter Kažimír warned that markets may be underestimating further increases."
+      },
+      "why_it_matters": {
+        "es": "Unos tipos más altos encarecen la deuda de los negocios intensivos en capital, como las eléctricas, y por eso importa para la inversión en redes reguladas.",
+        "en": "Higher rates raise the cost of debt for capital-heavy businesses such as utilities, which is why this matters for regulated network investment."
+      },
+      "source": {
+        "name": "Economía Responsable",
+        "url": "https://www.economiaresponsablefinanzas.com/inversiones/mercados/mercados-hoy-3-noviembre-2026/"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "EE. UU.: recuento final en Maine y Michigan, y margen en la Cámara. Primeras reacciones de Trump y de los líderes demócratas.",
+      "en": "US: final counts in Maine and Michigan and the size of the House margin, plus first reactions from Trump and Democratic leaders."
+    },
+    {
+      "es": "Mercados: reacción de Wall Street al vuelco electoral y a los resultados de AMD; sigue también el Brent con la tensión en Ormuz.",
+      "en": "Markets: Wall Street's reaction to the election upset and AMD's results, and Brent as tension continues in Hormuz."
+    },
+    {
+      "es": "Ucrania: el Kremlin habló de contactos «después del 4 de noviembre» y Witkoff, de una reunión en Abu Dabi desde el día 10; atento a la confirmación de fecha y sede.",
+      "en": "Ukraine: the Kremlin spoke of contacts 'after 4 November' and Witkoff of a meeting in Abu Dhabi from the 10th; watch for confirmation of the date and venue."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "edging past",
+      "translation": "superando por poco",
+      "pos": "verb",
+      "example": "The new phone is edging past its rival in sales."
+    },
+    {
+      "term": "underlying",
+      "translation": "subyacente, de base",
+      "pos": "adjective",
+      "example": "The underlying data tells a different story."
+    },
+    {
+      "term": "rolled out",
+      "translation": "desplegado, lanzado por fases",
+      "pos": "verb",
+      "example": "The service was rolled out across Europe."
+    },
+    {
+      "term": "staggered",
+      "translation": "escalonado",
+      "pos": "adjective",
+      "example": "A staggered release lowers the risk."
+    },
+    {
+      "term": "amended",
+      "translation": "modificado, enmendado",
+      "pos": "adjective",
+      "example": "The amended contract was signed on Friday."
+    },
+    {
+      "term": "filing",
+      "translation": "documento presentado ante el regulador",
+      "pos": "noun",
+      "example": "The company's filing lists its main risks."
+    },
+    {
+      "term": "threshold",
+      "translation": "umbral",
+      "pos": "noun",
+      "example": "Sales passed the threshold of one million units."
+    },
+    {
+      "term": "disclosure",
+      "translation": "divulgación de información",
+      "pos": "noun",
+      "example": "The disclosure surprised shareholders."
+    },
+    {
+      "term": "guided",
+      "translation": "previsto (ante inversores)",
+      "pos": "verb",
+      "example": "The firm guided lower profits for next year."
+    },
+    {
+      "term": "closing bell",
+      "translation": "cierre de la bolsa",
+      "pos": "noun",
+      "example": "The results came out after the closing bell."
+    },
+    {
+      "term": "chipmakers",
+      "translation": "fabricantes de chips",
+      "pos": "noun",
+      "example": "Chipmakers led the market higher."
+    },
+    {
+      "term": "weights",
+      "translation": "pesos (de un modelo de IA)",
+      "pos": "noun",
+      "example": "Training adjusts the weights of the network."
+    },
+    {
+      "term": "stuck in",
+      "translation": "atascado en",
+      "pos": "phrase",
+      "example": "The project got stuck in endless meetings."
+    },
+    {
+      "term": "reportedly",
+      "translation": "según se informa",
+      "pos": "adverb",
+      "example": "The deal is reportedly close to being signed."
+    },
+    {
+      "term": "called",
+      "translation": "dar por ganador (a un candidato)",
+      "pos": "verb",
+      "example": "Networks called the race just before midnight."
+    },
+    {
+      "term": "net gain",
+      "translation": "ganancia neta",
+      "pos": "noun",
+      "example": "The party made a net gain of four seats."
+    },
+    {
+      "term": "room for manoeuvre",
+      "translation": "margen de maniobra",
+      "pos": "phrase",
+      "example": "High debt leaves little room for manoeuvre."
+    },
+    {
+      "term": "tips to",
+      "translation": "se inclina hacia",
+      "pos": "verb",
+      "example": "The balance of power tips to the opposition."
+    },
+    {
+      "term": "divided government",
+      "translation": "gobierno dividido",
+      "pos": "noun",
+      "example": "Divided government often slows legislation."
+    },
+    {
+      "term": "deterrence",
+      "translation": "disuasión",
+      "pos": "noun",
+      "example": "Nuclear deterrence shaped the Cold War."
+    },
+    {
+      "term": "mount",
+      "translation": "aumentar, acumularse",
+      "pos": "verb",
+      "example": "Costs mount as the delay continues."
+    },
+    {
+      "term": "unfreezing",
+      "translation": "descongelar",
+      "pos": "verb",
+      "example": "Unfreezing the funds needs a court order."
+    },
+    {
+      "term": "brokered",
+      "translation": "mediado, negociado",
+      "pos": "verb",
+      "example": "The UN brokered a short truce."
+    },
+    {
+      "term": "urging",
+      "translation": "instando",
+      "pos": "verb",
+      "example": "Doctors are urging people to get vaccinated."
+    },
+    {
+      "term": "wounds",
+      "translation": "heridas",
+      "pos": "noun",
+      "example": "He recovered from his wounds within weeks."
+    },
+    {
+      "term": "under way",
+      "translation": "en marcha",
+      "pos": "phrase",
+      "example": "Repairs are already under way."
+    },
+    {
+      "term": "scrapping",
+      "translation": "eliminar, suprimir",
+      "pos": "verb",
+      "example": "The council is scrapping the old parking fee."
+    },
+    {
+      "term": "levy",
+      "translation": "gravamen, impuesto",
+      "pos": "noun",
+      "example": "The new levy applies from January."
+    },
+    {
+      "term": "surge",
+      "translation": "dispararse",
+      "pos": "verb",
+      "example": "Prices surge when supply runs short."
+    },
+    {
+      "term": "ramping up",
+      "translation": "aumentar progresivamente",
+      "pos": "verb",
+      "example": "The factory is ramping up production."
+    },
+    {
+      "term": "anticipatory",
+      "translation": "anticipado",
+      "pos": "adjective",
+      "example": "Anticipatory investment avoids later bottlenecks."
+    },
+    {
+      "term": "recycle capital",
+      "translation": "rotar capital",
+      "pos": "phrase",
+      "example": "Utilities sell stakes to recycle capital."
+    },
+    {
+      "term": "pipeline",
+      "translation": "cartera de proyectos",
+      "pos": "noun",
+      "example": "The firm has a strong pipeline of new projects."
+    },
+    {
+      "term": "snapped",
+      "translation": "cortó, interrumpió",
+      "pos": "verb",
+      "example": "The index snapped a five-day winning run."
+    },
+    {
+      "term": "muted",
+      "translation": "contenido, moderado",
+      "pos": "adjective",
+      "example": "The market's reaction was muted."
+    },
+    {
+      "term": "sweep",
+      "translation": "victoria arrolladora",
+      "pos": "noun",
+      "example": "A clean sweep gave the party full control."
+    },
+    {
+      "term": "yield",
+      "translation": "rentabilidad (de un bono)",
+      "pos": "noun",
+      "example": "The bond's yield rose after the data."
+    },
+    {
+      "term": "policymaker",
+      "translation": "responsable de política (monetaria)",
+      "pos": "noun",
+      "example": "One policymaker argued for a pause."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Artificial Analysis ranks Gemini 4 Carbon first on its Intelligence Index, one point ahead of Claude Opus 5.5, and the model leads four of the nine underlying tests.",
+      "es": "Artificial Analysis sitúa a Gemini 4 Carbon en cabeza de su índice de inteligencia, un punto por delante de Claude Opus 5.5, y el modelo lidera cuatro de las nueve pruebas que lo componen."
+    },
+    {
+      "en": "Tom's Hardware reports that each benchmark task costs about 23% less to run than on Opus 5.5, and that Carbon also tops a test measuring factual reliability, though the best score there is only 54 on a scale from -100 to 100.",
+      "es": "Tom's Hardware indica que cada tarea de la prueba cuesta alrededor de un 23 % menos que con Opus 5.5 y que Carbon también encabeza un test de fiabilidad factual, aunque la mejor nota ahí es solo 54 en una escala de -100 a 100."
+    },
+    {
+      "en": "Access is being rolled out to cyber defenders first through a Google programme called Fairwind, with wider availability promised later.",
+      "es": "El acceso llega primero a especialistas en ciberdefensa mediante un programa de Google llamado Fairwind, y se promete abrirlo más adelante."
+    },
+    {
+      "en": "A one-point lead is narrow, and the staggered release shows that labs now treat cyber capabilities as a reason to limit who gets a model first.",
+      "es": "Un punto de ventaja es poco, y el despliegue escalonado muestra que los laboratorios ya ven las capacidades de ciberseguridad como un motivo para limitar quién recibe antes un modelo."
+    },
+    {
+      "en": "Anthropic's amended IPO filing, submitted on Monday, says future models could imminently cross its internal threshold for dramatically faster progress attributable to AI, according to summaries of the document.",
+      "es": "El folleto de salida a bolsa que Anthropic modificó el lunes dice que modelos futuros podrían cruzar de forma inminente su umbral interno de progreso drásticamente acelerado por la propia IA, según resúmenes del documento."
+    },
+    {
+      "en": "The company also says that no model it has today sits above that line.",
+      "es": "La empresa añade que ningún modelo actual suyo está por encima de esa línea."
+    },
+    {
+      "en": "We could not open the filing directly, so the wording here comes from secondary coverage.",
+      "es": "No hemos podido abrir el documento directamente, así que la redacción procede de coberturas secundarias."
+    },
+    {
+      "en": "Risk factors in a filing are written partly to protect a company legally, so this is a disclosure rather than a forecast, but it puts self-improving AI in front of mainstream investors.",
+      "es": "Los factores de riesgo de un folleto se redactan en parte como protección legal, así que esto es una advertencia y no una previsión, pero pone la IA que se mejora a sí misma delante de los inversores generalistas."
+    },
+    {
+      "en": "AMD reported record quarterly revenue of $13.4 billion after Tuesday's closing bell, above the roughly $13 billion it had guided in August.",
+      "es": "AMD comunicó tras el cierre del martes unos ingresos trimestrales récord de 13.400 millones de dólares, por encima de los cerca de 13.000 millones que había previsto en agosto."
+    },
+    {
+      "en": "Its shares had already climbed 3.65% during the session as chipmakers rebounded after three straight losing days for the Nasdaq.",
+      "es": "Sus acciones ya habían subido un 3,65 % durante la sesión, en un rebote de las tecnológicas de chips tras tres días seguidos de caídas del Nasdaq."
+    },
+    {
+      "en": "With doubts growing over the return on AI spending, chip results are one of the clearest real-time readings of demand.",
+      "es": "Con crecientes dudas sobre el retorno del gasto en IA, los resultados de los fabricantes de chips son una de las lecturas más claras de la demanda en tiempo real."
+    },
+    {
+      "en": "SemiAnalysis has launched GDPx, a benchmark of 206 tasks across 11 professional fields, and the best result so far is 12%, achieved by Claude Opus 5.5.",
+      "es": "SemiAnalysis ha lanzado GDPx, una prueba de 206 tareas en 11 campos profesionales, y el mejor resultado hasta ahora es un 12 %, logrado por Claude Opus 5.5."
+    },
+    {
+      "en": "The figures reached us through a curated summary, as the original post could not be opened.",
+      "es": "Las cifras nos llegan por un resumen especializado, porque no se pudo abrir la publicación original."
+    },
+    {
+      "en": "It is a useful reminder that a high score on an academic test does not automatically translate into finished professional work.",
+      "es": "Es un recordatorio útil de que una nota alta en una prueba académica no se traduce automáticamente en trabajo profesional terminado."
+    },
+    {
+      "en": "In an experiment published this week, GPT-6 Astra edited about 0.016% of the weights of a small Qwen model and lifted its score on the MATH-500 test from 7.9% to 48.1%.",
+      "es": "En un experimento publicado esta semana, GPT-6 Astra modificó alrededor del 0,016 % de los pesos de un pequeño modelo Qwen y subió su nota en la prueba MATH-500 del 7,9 % al 48,1 %."
+    },
+    {
+      "en": "Most of the gain came from fixing a habit of getting stuck in repetitive loops, the attempt took about 20 hours, and a Gemma model showed no clear improvement.",
+      "es": "Casi toda la mejora vino de corregir la costumbre de quedarse atascado en bucles repetitivos, el intento llevó unas 20 horas y un modelo Gemma no mostró una mejora clara."
+    },
+    {
+      "en": "The authors did not demonstrate a self-improvement loop.",
+      "es": "Los autores no demostraron un ciclo de automejora."
+    },
+    {
+      "en": "The Financial Times reportedly says Nvidia has told cloud partners that at least 51% of their new contracts should be with customers outside China, apparently only verbally.",
+      "es": "Según se atribuye a Financial Times, Nvidia habría dicho a sus socios en la nube que al menos el 51 % de sus nuevos contratos debe ser con clientes de fuera de China, al parecer solo de palabra."
+    },
+    {
+      "en": "We saw this only in a newsletter summary, and it has not been confirmed by Nvidia.",
+      "es": "Solo lo hemos visto en el resumen de un boletín, y Nvidia no lo ha confirmado."
+    },
+    {
+      "en": "The Associated Press called the Senate for Democrats late on Tuesday after they won Republican-held seats in Texas, Ohio, North Carolina and Iowa, the net gain of four they needed.",
+      "es": "Associated Press dio el Senado a los demócratas la noche del martes tras ganar escaños republicanos en Texas, Ohio, Carolina del Norte e Iowa, la ganancia neta de cuatro que necesitaban."
+    },
+    {
+      "en": "Maine and Michigan were still being counted when TIME published, so the majority could grow.",
+      "es": "Maine y Michigan seguían contando cuando publicó TIME, así que la mayoría podría aumentar."
+    },
+    {
+      "en": "Republicans held the chamber 53-47 before the vote; the Senate confirms judges and senior officials, so this limits Trump's room for manoeuvre for his final two years.",
+      "es": "Los republicanos tenían la cámara por 53-47 antes de la votación; el Senado confirma jueces y altos cargos, así que esto reduce el margen de maniobra de Trump en sus dos últimos años."
+    },
+    {
+      "en": "Several outlets have called the House for Democrats, although AP had not done so when TIME published and the final margin remains unclear.",
+      "es": "Varios medios han dado la Cámara a los demócratas, aunque AP aún no lo había hecho cuando publicó TIME y el margen final sigue sin estar claro."
+    },
+    {
+      "en": "If confirmed, Hakeem Jeffries would become the first Black Speaker and Chuck Schumer would take over as Senate majority leader from John Thune.",
+      "es": "Si se confirma, Hakeem Jeffries sería el primer presidente negro de la Cámara y Chuck Schumer sustituiría a John Thune como líder de la mayoría en el Senado."
+    },
+    {
+      "en": "Control of both chambers would give Democrats the power to block legislation and launch investigations, which sets up a period of divided government.",
+      "es": "El control de ambas cámaras daría a los demócratas poder para bloquear leyes y abrir investigaciones, lo que abre una etapa de gobierno dividido."
+    },
+    {
+      "en": "Tehran said it has a plan ready for an immediate response to any new US attack and is updating its list of US and Israeli targets.",
+      "es": "Teherán afirma tener preparado un plan para responder de inmediato a cualquier nuevo ataque de EE. UU. y dice estar actualizando su lista de objetivos estadounidenses e israelíes."
+    },
+    {
+      "en": "The UK's maritime monitoring agency reported a tanker hit by two unidentified projectiles near the strait, while the Revolutionary Guard said three tankers had exploded after striking mines.",
+      "es": "La agencia marítima británica informó de un petrolero alcanzado por dos proyectiles no identificados cerca del estrecho, mientras que la Guardia Revolucionaria dijo que tres petroleros habían estallado al chocar con minas."
+    },
+    {
+      "en": "Every incident near Hormuz feeds directly into oil and gas prices, and through gas into Spain's electricity bills.",
+      "es": "Cada incidente cerca de Ormuz repercute directamente en el petróleo y el gas, y a través del gas en la factura eléctrica española."
+    },
+    {
+      "en": "Qatar and Pakistan are mediating, and Iran's demands include unfreezing assets, lifting the US blockade and ending hostilities on all fronts.",
+      "es": "Catar y Pakistán median, y entre las exigencias iraníes están liberar activos congelados, levantar el bloqueo estadounidense y poner fin a las hostilidades en todos los frentes."
+    },
+    {
+      "en": "Spanish media reported a Qatari-brokered memorandum that neither side has confirmed, while AP said Netanyahu is urging Trump to resume strikes after the midterms and that Trump has not decided.",
+      "es": "Medios españoles han hablado de un memorando mediado por Catar que ninguna de las partes confirma, y AP dijo que Netanyahu insta a Trump a reanudar los ataques tras las legislativas y que Trump no lo ha decidido."
+    },
+    {
+      "en": "Israeli forces killed four people in Gaza and a fifth Palestinian died of earlier wounds, according to Al Jazeera.",
+      "es": "Las fuerzas israelíes mataron a cuatro personas en Gaza y un quinto palestino murió por heridas anteriores, según Al Jazeera."
+    },
+    {
+      "en": "Nearly 1,600 Palestinians have been killed since the US-brokered ceasefire began in October 2025.",
+      "es": "Casi 1.600 palestinos han muerto desde que empezó el alto el fuego auspiciado por EE. UU. en octubre de 2025."
+    },
+    {
+      "en": "The Council of Ministers approved a royal decree on Tuesday to support those affected by the Urda train crash, which killed 69 people and injured more than 200.",
+      "es": "El Consejo de Ministros aprobó el martes un real decreto para apoyar a los afectados por el accidente de trenes de Urda, que dejó 69 muertos y más de 200 heridos."
+    },
+    {
+      "en": "The final text is still awaiting publication in the official gazette, and although one headline mentions €30 million, we could not confirm the amount or its breakdown.",
+      "es": "El texto final aún espera su publicación en el BOE y, aunque un titular habla de 30 millones de euros, no hemos podido confirmar la cifra ni su desglose."
+    },
+    {
+      "en": "Transport Minister Óscar Puente appeared before Congress's standing committee on Tuesday to account for the crash, with the campaign for the 29 November general election already under way.",
+      "es": "El ministro de Transportes, Óscar Puente, compareció el martes en la Diputación Permanente del Congreso para dar cuenta del accidente, con la vista ya puesta en las generales del 29 de noviembre."
+    },
+    {
+      "en": "Infobae reports that both the opposition and government partners have called for his resignation.",
+      "es": "Infobae señala que tanto la oposición como socios del Gobierno han pedido su dimisión."
+    },
+    {
+      "en": "The 2027 regional budget proposes a 30% cut to the tax on electricity generators from next year and a full exemption by 2029, costing about €178 million in lost revenue.",
+      "es": "El presupuesto regional de 2027 propone un recorte del 30 % del impuesto a las generadoras eléctricas desde el año próximo y una exención total en 2029, lo que supone dejar de ingresar unos 178 millones de euros."
+    },
+    {
+      "en": "The bill is still going through the regional parliament, where the two parties hold an absolute majority.",
+      "es": "El proyecto sigue su trámite en el parlamento regional, donde ambos partidos tienen mayoría absoluta."
+    },
+    {
+      "en": "The levy falls mainly on the Almaraz nuclear plant, owned by Iberdrola, Endesa and Naturgy, so it matters for the economics of keeping the plant open.",
+      "es": "El impuesto recae sobre todo en la central nuclear de Almaraz, de Iberdrola, Endesa y Naturgy, así que influye en las cuentas de mantenerla abierta."
+    },
+    {
+      "en": "The reference consumer on the regulated tariff paid more than €80 in October, 29% up on a year earlier, as the wholesale price averaged €165/MWh with a yearly peak of nearly €245 on 30 October.",
+      "es": "El consumidor de referencia con tarifa regulada pagó más de 80 euros en octubre, un 29 % más que un año antes, con el mercado mayorista en una media de 165 €/MWh y un pico anual de casi 245 euros el día 30."
+    },
+    {
+      "en": "Gas above €100/MWh explains much of the rise, and futures point to about €193/MWh for November.",
+      "es": "El gas por encima de 100 €/MWh explica buena parte de la subida, y los futuros apuntan a unos 193 €/MWh para noviembre."
+    },
+    {
+      "en": "The regulated charges you work with are a fixed part of the bill, so when energy costs surge like this the politics of the whole bill tend to get harder for network companies too.",
+      "es": "Los costes regulados con los que trabajas son una parte fija de la factura, así que cuando la energía se dispara así, el debate político sobre toda la factura también se complica para las redes."
+    },
+    {
+      "en": "Speaking at the ADIPEC energy conference, Markus Krebber said a data centre takes three to four years to reach the market, while ramping up the power system takes five years or more.",
+      "es": "En la feria ADIPEC, Markus Krebber dijo que un centro de datos tarda de tres a cuatro años en llegar al mercado, mientras que ampliar el sistema eléctrico lleva cinco o más."
+    },
+    {
+      "en": "Other executives, including bp's Meg O'Neill, argued that AI demand is shifting investment towards resilience and security of supply.",
+      "es": "Otros directivos, como Meg O'Neill, de bp, defendieron que la demanda de la IA está desplazando la inversión hacia la resiliencia y la seguridad de suministro."
+    },
+    {
+      "en": "That timing gap is exactly why anticipatory grid investment has moved up the agenda.",
+      "es": "Ese desfase temporal es justo la razón por la que la inversión anticipada en red ha ganado prioridad."
+    },
+    {
+      "en": "The Tâmega wind farm joins the partnership, which now exceeds 1.8 GW and more than €2 billion invested, with about 2.3 GW expected during 2027.",
+      "es": "El parque eólico de Tâmega se suma a la alianza, que ya supera 1,8 GW y más de 2.000 millones invertidos, y se espera que llegue a unos 2,3 GW en 2027."
+    },
+    {
+      "en": "The asset is already operating, so this transfers ownership rather than adding new capacity.",
+      "es": "El activo ya está en operación, así que esto traspasa propiedad y no añade capacidad nueva."
+    },
+    {
+      "en": "Partnerships like this are a common way for utilities to recycle capital into other priorities such as grids.",
+      "es": "Estas alianzas son una forma habitual de que las eléctricas roten capital hacia otras prioridades, como las redes."
+    },
+    {
+      "en": "Italy's energy ministry cleared 3.7 GW of battery storage across 24 projects in October, after 3.2 GW in September, and about 60% of the latest batch is in Puglia.",
+      "es": "El ministerio de Energía italiano autorizó en octubre 3,7 GW de baterías en 24 proyectos, tras 3,2 GW en septiembre, y cerca del 60 % de esta última tanda está en Apulia."
+    },
+    {
+      "en": "Authorisation does not mean construction, but the pipeline shows how quickly southern Europe is turning to storage.",
+      "es": "Autorizar no es construir, pero la cartera muestra lo rápido que el sur de Europa está apostando por el almacenamiento."
+    },
+    {
+      "en": "The Nasdaq rose 0.83% and snapped a three-day losing streak as semiconductor shares rallied, while the Dow slipped 0.38% after Apple fell 1.9% on a weak gross margin forecast linked to rising memory costs.",
+      "es": "El Nasdaq subió un 0,83 % y cortó tres días de caídas gracias al rebote de los semiconductores, mientras que el Dow cedió un 0,38 % después de que Apple cayera un 1,9 % por una previsión floja de margen bruto ligada al encarecimiento de la memoria."
+    },
+    {
+      "en": "Before the vote, JPMorgan saw a two-thirds chance of a Democratic sweep and expected only a muted S&P 500 reaction, though some investors fear new limits on data centres.",
+      "es": "Antes de la votación, JPMorgan veía dos tercios de probabilidad de un triunfo demócrata y esperaba una reacción contenida del S&P 500, aunque algunos inversores temen nuevos límites a los centros de datos."
+    },
+    {
+      "en": "Traders price about a 75% chance of a quarter-point rise at the Fed's 8-9 December meeting, and the US 10-year yield ended near 4.97%.",
+      "es": "Los operadores descuentan cerca de un 75 % de probabilidad de una subida de un cuarto de punto en la reunión de la Fed del 8 y 9 de diciembre, y el bono estadounidense a 10 años cerró cerca del 4,97 %."
+    },
+    {
+      "en": "Australia's central bank raised rates for the fifth time this year, and ECB policymaker Peter Kažimír warned that markets may be underestimating further increases.",
+      "es": "El banco central de Australia subió tipos por quinta vez este año, y el miembro del BCE Peter Kažimír advirtió de que los mercados quizá subestiman nuevas subidas."
+    },
+    {
+      "en": "Higher rates raise the cost of debt for capital-heavy businesses such as utilities, which is why this matters for regulated network investment.",
+      "es": "Unos tipos más altos encarecen la deuda de los negocios intensivos en capital, como las eléctricas, y por eso importa para la inversión en redes reguladas."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "gross margin",
+    "pos": "noun",
+    "translation": "margen bruto",
+    "definition_en": "The share of revenue left after paying the direct costs of making a product, usually shown as a percentage.",
+    "example_en": "Rising memory costs put pressure on the company's gross margin.",
+    "example_es": "El encarecimiento de la memoria presiona el margen bruto de la empresa."
+  },
+  "recommendations": [
+    {
+      "id": "ai-unraveled-anthropic-self-improving-2026-11-03",
+      "type": "podcast",
+      "title": "Anthropic Warns Self-Improving AI Could Be Close",
+      "speaker": "AI Unraveled",
+      "outlet": "AI Unraveled",
+      "duration_min": 43,
+      "language": "en",
+      "topics": [
+        "IA",
+        "mercados"
+      ],
+      "summary": "Episodio del 3 de noviembre con un repaso de las noticias de IA de la semana, con el folleto de Anthropic como tema principal. Es sobre todo un resumen, y apoyado en fuentes secundarias.",
+      "why": "Sirve como práctica de escucha en inglés sobre la IA de esta semana, aunque conviene contrastar las cifras.",
+      "url": "https://enoumen.substack.com/p/anthropic-warns-self-improving-ai"
+    },
+    {
+      "id": "energyconnects-omv-delany-adipec-2026",
+      "type": "video",
+      "title": "OMV CEO: innovation and partnerships will power the next era of energy",
+      "speaker": "Emma Delany (CEO de OMV)",
+      "outlet": "Energy Connects",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "energía",
+        "IA",
+        "directivos"
+      ],
+      "summary": "Entrevista en ADIPEC 2026, publicada el 3 de noviembre. Habla de la cadena de valor integrada de OMV, del gran proyecto de gas europeo, de la alianza con ADNOC y de la IA como oportunidad.",
+      "why": "Es breve y permite oír en inglés cómo presenta su estrategia la CEO de una gran energética.",
+      "url": "https://www.energyconnects.com/videos/video-interviews/2026/november/omv-ceo-innovation-and-partnerships-will-power-the-next-era-of-energy/"
+    },
+    {
+      "id": "energyconnects-ai-energy-investment-resilience-2026",
+      "type": "article",
+      "title": "AI drives new thinking on energy investment, resilience and growth",
+      "speaker": "Meg O'Neill (bp), Markus Krebber (RWE), Richard Jackson (Oxy)",
+      "outlet": "Energy Connects",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "energía",
+        "redes",
+        "IA"
+      ],
+      "summary": "Crónica de un panel en ADIPEC sobre cómo la demanda de los centros de datos cambia las prioridades de inversión. Incluye el desfase de plazos entre centros de datos y sistema eléctrico.",
+      "why": "Conecta directamente con la planificación de inversiones en redes, que es tu día a día.",
+      "url": "https://www.energyconnects.com/opinion/features/2026/november/ai-drives-new-thinking-on-energy-investment-resilience-and-growth/"
+    },
+    {
+      "id": "energyconnects-industrial-ai-beyond-pilots-2026",
+      "type": "article",
+      "title": "Industrial AI moves beyond pilots as energy leaders focus on productivity, resilience and data sovereignty",
+      "speaker": "Roland Busch (Siemens), Girish Saligram (Weatherford), Uljan Sharka (Domyn)",
+      "outlet": "Energy Connects",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "IA",
+        "industria",
+        "energía"
+      ],
+      "summary": "Panel sobre cómo llevar la IA industrial más allá de los pilotos, con la propiedad de los datos y la recualificación como claves. Busch estima hasta un 20 % más de productividad en planta.",
+      "why": "Encaja con tu base de ingeniería de planta y tu interés por la IA aplicada.",
+      "url": "https://www.energyconnects.com/opinion/features/2026/november/industrial-ai-moves-beyond-pilots-as-energy-leaders-focus-on-productivity-resilience-and-data-sovereignty/"
+    },
+    {
+      "id": "morgan-stanley-thoughts-curious-calm-credit",
+      "type": "podcast",
+      "title": "Thoughts on the Market: The Curious Calm of Credit Markets",
+      "speaker": "Andrew Sheets (Morgan Stanley)",
+      "outlet": "Morgan Stanley",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "mercados",
+        "economía"
+      ],
+      "summary": "Episodio del 30 de octubre de este podcast diario de estrategas de Morgan Stanley, sobre la calma del crédito. La página también lista episodios recientes, incluidas las legislativas, con transcripción.",
+      "why": "Los episodios cortos con transcripción son ideales para practicar inglés financiero.",
+      "url": "https://www.morganstanley.com/insights/podcasts/thoughts-on-the-market"
+    },
+    {
+      "id": "bbva-blink-electricidad-cara-renovables-2026",
+      "type": "podcast",
+      "title": "¿Por qué la electricidad sigue siendo cara en España si hay más renovables?",
+      "speaker": "Pilar Más (BBVA Research)",
+      "outlet": "BBVA Blink",
+      "duration_min": 9,
+      "language": "es",
+      "topics": [
+        "energía",
+        "economía",
+        "redes"
+      ],
+      "summary": "Episodio de mayo de 2026. Explica por qué el gas sigue marcando precios, cómo funcionan el mercado y la factura, y por qué hacen falta almacenamiento, red y flexibilidad.",
+      "why": "Aunque no es de esta semana, explica en nueve minutos el trasfondo de la factura de octubre.",
+      "url": "https://www.bbva.com/es/sostenibilidad/podcast-por-que-la-electricidad-sigue-siendo-cara-en-espana-si-hay-mas-renovables/"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Sesión dividida el martes. En EE. UU., los chips impulsaron al Nasdaq (+0,83 %) y al S&P 500 (+0,36 %), con Nvidia, Broadcom y AMD al alza, mientras Apple lastró al Dow (-0,38 %). Europa cayó con ASML y las mineras; el IBEX perdió un 0,79 %, con ArcelorMittal, Inditex y Bankinter a la cola, y Grifols y Solaria al alza. El Brent cedió otro 1,1 %, hasta 103,60 dólares, tras un día muy volátil por Irán. El oro bajó por las expectativas de subida de tipos de la Fed, y el bono a 10 años de EE. UU. rozó el 5 %. Analistas como Daniela Hathorn (Capital.com) señalan las dudas sobre el retorno de la IA y los altos rendimientos como freno a la tecnología. Estos cierres son previos a conocerse el resultado electoral.",
+      "en": "Tuesday was a split session. In the US, chipmakers lifted the Nasdaq (+0.83%) and the S&P 500 (+0.36%), with Nvidia, Broadcom and AMD higher, while Apple weighed on the Dow (-0.38%). Europe fell with ASML and miners; the IBEX lost 0.79%, with ArcelorMittal, Inditex and Bankinter at the bottom and Grifols and Solaria higher. Brent lost another 1.1% to $103.60 after a very volatile day on Iran. Gold eased on expectations of a Fed rate rise, and the US 10-year yield neared 5%. Analysts such as Daniela Hathorn (Capital.com) point to doubts about AI returns and high yields as a brake on tech. These closes predate the election results."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35",
+        "value": 18807.2,
+        "change_pct": -0.79
+      },
+      {
+        "name": "Euro Stoxx 50",
+        "value": 6144.56,
+        "change_pct": -0.51
+      },
+      {
+        "name": "S&P 500",
+        "value": 7568.92,
+        "change_pct": 0.36
+      },
+      {
+        "name": "Nasdaq Composite",
+        "value": 25372.01,
+        "change_pct": 0.83
+      },
+      {
+        "name": "Dow Jones",
+        "value": 51786.72,
+        "change_pct": -0.38
+      },
+      {
+        "name": "Brent (USD/barril)",
+        "value": 103.6,
+        "change_pct": -1.1
+      },
+      {
+        "name": "Oro (USD/onza)",
+        "value": 3929.4,
+        "change_pct": -0.42
+      },
+      {
+        "name": "EUR/USD",
+        "value": 1.1187,
+        "change_pct": 0.06
+      },
+      {
+        "name": "Bitcoin (USD, aprox.)",
+        "value": 77723,
+        "change_pct": 1.22
+      }
+    ],
+    "learn": {
+      "concept": "Apalancamiento: deuda neta/EBITDA",
+      "explanation": "Mide cuántos años de EBITDA harían falta para pagar la deuda neta (deuda menos caja). Si una empresa debe 40.000 millones netos y genera 12.000 de EBITDA, su ratio es 3,3 veces. Las agencias de rating lo vigilan de cerca: en una eléctrica, un plan de inversión en redes grande se financia en buena parte con deuda, así que el ratio limita cuánto se puede invertir sin perder calificación. Con tipos al alza, como ahora, la deuda pesa más, por lo que este indicador y el coste de financiación se miran juntos."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
