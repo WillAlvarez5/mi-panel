@@ -1,0 +1,1080 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T07:07:21+01:00",
+  "last_updated": "2026-11-05T07:07:21+01:00",
+  "headline": {
+    "es": "Los demócratas controlarán el Congreso de EE.UU. y, con Trump y Vance admitiendo el coste de la guerra de Irán, el Brent se hunde casi un 9 %. El IBEX sube un 3 %, su mejor sesión desde abril, e Iberdrola supera los 150.000 millones en bolsa.",
+    "en": "Democrats will control the US Congress, and with Trump and Vance admitting the cost of the Iran war, Brent plunges almost 9%. The IBEX gains 3%, its best session since April, and Iberdrola passes €150 billion in market value."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "Los votantes se vuelven contra los centros de datos y las acciones de infraestructura de IA lo pagan",
+        "en": "Midterm voters turn on data centres, and AI infrastructure stocks pay the price"
+      },
+      "body": {
+        "es": "Las elecciones de EE.UU. han funcionado también como un plebiscito sobre los centros de datos: al menos 14 municipios de Ohio aprobaron prohibiciones o límites, según un recuento no oficial, y la gobernadora electa de Texas, Gina Hinojosa, pidió una moratoria en todo el estado. Los inversores reaccionaron rápido: Hut 8 se desplomó un 23 %, IREN perdió un 11 %, Core Scientific cayó un 10 % y los bonos de CoreWeave marcaron nuevos mínimos. Los economistas de Goldman Sachs calculan que las moratorias estatales podrían afectar a cerca del 45 % de la ampliación de capacidad prevista en EE.UU., aunque es una proyección y no un hecho.",
+        "en": "The US elections doubled as a referendum on data centres: at least 14 Ohio municipalities approved bans or limits, according to an unofficial count, and Texas governor-elect Gina Hinojosa called for a statewide moratorium. Investors reacted fast: Hut 8 tumbled 23%, IREN lost 11%, Core Scientific dropped 10%, and CoreWeave's bonds hit new lows. Goldman Sachs economists estimate that state-level moratoria could affect about 45% of the capacity expansion planned in the US, although that is a projection rather than a fact."
+      },
+      "why_it_matters": {
+        "es": "Por primera vez, la oposición local parece un verdadero cuello de botella para la IA, junto a los chips y la electricidad.",
+        "en": "For the first time, local opposition looks like a real bottleneck for AI, alongside chips and power."
+      },
+      "source": {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/coreweave-bonds-hit-new-lows-as-texas-data-centers-in-crosshairs"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "OpenAI dice que un modelo sin publicar halló 948 exploits en Linux; a Claude se le atribuyen dos fallos en Xen",
+        "en": "OpenAI says an unreleased model found 948 Linux exploits; Claude is credited with two Xen flaws"
+      },
+      "body": {
+        "es": "OpenAI informa de que un prototipo basado en un modelo de ciberseguridad sin publicar generó 948 exploits funcionales de escalada de privilegios contra un kernel de Linux estándar, con un coste de API de unos 1,2 millones de dólares. La empresa dice que está coordinando la divulgación con los responsables del kernel, pero las cifras son suyas y no se han comprobado de forma independiente. Por otro lado, un aviso de seguridad de Xen atribuye a Claude, de Anthropic, el hallazgo de dos errores que permiten a una máquina virtual invitada maliciosa leer y escribir en la memoria de otras máquinas del mismo servidor.",
+        "en": "OpenAI reports that a prototype pipeline built on an unreleased cyber model produced 948 working privilege-escalation exploits against a stock Linux kernel, at an API cost of about $1.2 million. The company says it is coordinating disclosure with the kernel's maintainers, but the figures are its own and have not been independently checked. Separately, a Xen security advisory credits Anthropic's Claude with finding two bugs that let a malicious guest virtual machine read and write the memory of other machines on the same host."
+      },
+      "why_it_matters": {
+        "es": "Encontrar fallos a esta escala solo ayuda a los defensores si los parches llegan antes de que los atacantes construyan las mismas herramientas.",
+        "en": "Finding flaws at this scale helps defenders only if patches arrive before attackers build the same tools."
+      },
+      "source": {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "Goldman y Apollo ofrecen a inversores una financiación de GPU de SpaceX de 40.000 millones mientras crece la deuda de la IA",
+        "en": "Goldman and Apollo shop a $40 billion SpaceX GPU deal as AI debt keeps growing"
+      },
+      "body": {
+        "es": "Goldman Sachs y Apollo están tanteando a inversores para una financiación de unos 40.000 millones de dólares destinada a los chips gráficos de SpaceX, al parecer la mayor de este tipo, que cubre 47.300 millones en equipos que se alquilarían de vuelta durante unos cinco años. Meta también colocó su primer bono en euros, de 9.000 millones, que atrajo una cifra récord de 53.000 millones en órdenes, y Google aceptó avalar el arrendamiento de 401 MW de TeraWulf para Anthropic en Kentucky.",
+        "en": "Goldman Sachs and Apollo are sounding out investors on roughly $40 billion of financing for SpaceX's graphics chips, reportedly the largest deal of its kind, covering $47.3 billion of hardware that would be leased back for about five years. Meta also priced a debut €9 billion euro bond that drew a record €53 billion of orders, and Google agreed to backstop TeraWulf's 401 MW Kentucky lease for Anthropic."
+      },
+      "why_it_matters": {
+        "es": "La expansión de la IA está pasando de la caja de las empresas a los mercados de crédito, de modo que un frenazo afectaría ahora también a los prestamistas.",
+        "en": "The AI build-out is moving from company cash flow to credit markets, so a slowdown would now hit lenders as well."
+      },
+      "source": {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/goldman-apollo-in-talks-to-sell-spacex-s-40-billion-ai-deal"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "OpenAI lanza Images 2.6 y ofrece ChatGPT a los ingenieros mecánicos",
+        "en": "OpenAI ships Images 2.6 and pitches ChatGPT to mechanical engineers"
+      },
+      "body": {
+        "es": "OpenAI lanzó el miércoles ChatGPT Images 2.6, que añade GIF animados e imágenes de referencia reutilizables, además de dos modelos de API, uno orientado a la velocidad y otro capaz de exportar archivos SVG. Un día antes publicó un artículo sobre el uso de ChatGPT y Codex en CAD, diseño de placas de circuito y simulación, en el que cita a Mazda y Chip Ganassi Racing como socios e insiste en que sigue siendo necesaria la revisión humana.",
+        "en": "OpenAI released ChatGPT Images 2.6 on Wednesday, adding animated GIFs and reusable reference images, plus two API models, one tuned for speed and one able to export SVG files. A day earlier, it published a post on using ChatGPT and Codex for CAD, circuit-board design and simulation, naming Mazda and Chip Ganassi Racing as partners and stressing that human review is still required."
+      },
+      "why_it_matters": {
+        "es": "Tu propio campo es ya un mercado objetivo: las herramientas de ingeniería se están convirtiendo en uno de los próximos campos de batalla de las empresas de IA.",
+        "en": "Your own field is now a target market: engineering tools are becoming one of the next battlegrounds for AI companies."
+      },
+      "source": {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic presenta FlashProve, una forma de demostrar qué modelo generó un resultado",
+        "en": "Anthropic outlines FlashProve, a way to prove which model wrote an output"
+      },
+      "body": {
+        "es": "Anthropic ha descrito FlashProve, un sistema de código abierto en proyecto que usaría criptografía para demostrar qué modelo produjo un resultado concreto. Sigue en desarrollo, sin cifras de sobrecarga, sin lista de modelos compatibles y sin fecha de lanzamiento.",
+        "en": "Anthropic has described FlashProve, a proposed open-source system that would use cryptography to prove which model produced a given output. It is still a work in progress, with no figures on overhead, no list of supported models and no release date."
+      },
+      "why_it_matters": {
+        "es": "Si funciona, clientes y reguladores podrían verificar que una API barata ejecuta de verdad el modelo que anuncia.",
+        "en": "If it works, customers and regulators could verify that a cheap API really runs the model it advertises."
+      },
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "AMD pone precio a la startup de chips de inferencia Taalas: 2.900 millones de dólares",
+        "en": "AMD puts a $2.9 billion price tag on inference-chip startup Taalas"
+      },
+      "body": {
+        "es": "Un documento regulatorio muestra que AMD pagará unos 2.900 millones de dólares en efectivo y acciones por la canadiense Taalas, una startup de chips centrada en inferencia, de los cuales 1.400 millones son contingentes. La operación se anunció en agosto y aún necesita aprobación regulatoria.",
+        "en": "A regulatory filing shows AMD will pay about $2.9 billion in cash and stock for Toronto-based Taalas, a chip startup focused on inference, with $1.4 billion of that contingent. The deal was announced in August and still needs regulatory approval."
+      },
+      "why_it_matters": {
+        "es": "La inferencia, es decir, ejecutar los modelos en lugar de entrenarlos, es donde está tomando forma la próxima ronda de competencia en chips.",
+        "en": "Inference, the work of running models rather than training them, is where the next round of chip competition is taking shape."
+      },
+      "source": {
+        "name": "The Globe and Mail",
+        "url": "https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Los demócratas se hacen con el Congreso, con dos carreras al Senado aún demasiado ajustadas",
+        "en": "Democrats take Congress, with two Senate races still too close to call"
+      },
+      "body": {
+        "es": "Los demócratas controlarán ambas cámaras desde el 3 de enero, con al menos 54 escaños en el Senado. Misisipi y Alaska siguen abiertos: Scott Colom ganaba por 1.138 votos en Misisipi el miércoles por la noche y Mary Peltola iba por delante por 637 en Alaska, donde los resultados completos no llegarán hasta el 18 de noviembre.",
+        "en": "Democrats will control both chambers from 3 January, with at least 54 Senate seats. Mississippi and Alaska remain open: Scott Colom led by 1,138 votes in Mississippi on Wednesday night, and Mary Peltola was ahead by 637 in Alaska, where full results are not due until 18 November."
+      },
+      "why_it_matters": {
+        "es": "Trump se enfrentará a citaciones e investigaciones durante el resto de su mandato, y el líder demócrata en el Senado, Chuck Schumer, ha prometido justo eso.",
+        "en": "Trump will face subpoenas and investigations for the rest of his term, and Senate leader Chuck Schumer has promised exactly that."
+      },
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Trump sopesa ataques o un acuerdo con Irán después de que Vance culpe a la guerra de la derrota",
+        "en": "Trump weighs strikes or a deal with Iran after Vance blames the war for the defeat"
+      },
+      "body": {
+        "es": "El vicepresidente Vance dijo que la guerra fue la razón de la derrota republicana, y Trump lo calificó de bastante cierto, aunque insistió en que volvería a hacerlo. Según Axios, el presidente duda entre nuevos ataques, un acuerdo o seguir presionando, y Vance encabeza a los asesores partidarios de un pacto. Los mediadores, con Catar a la cabeza, dicen que las conversaciones directas podrían reanudarse en cuestión de días, pero Irán quiere que se levante el bloqueo naval y se alivien las sanciones antes de reabrir Ormuz.",
+        "en": "Vice President Vance said the war was the reason Republicans lost, and Trump called that largely true while insisting he would do it again. According to Axios, the president is choosing between new strikes, a deal and continued pressure, with Vance leading the advisers who favour an agreement. Mediators led by Qatar say direct talks could resume within days, but Iran wants the naval blockade lifted and sanctions eased before it reopens Hormuz."
+      },
+      "why_it_matters": {
+        "es": "El petróleo ya ha descontado parte de un acuerdo, así que una vuelta a los ataques podría revertir la caída con rapidez.",
+        "en": "Oil has already priced in part of a deal, so a return to strikes could reverse the fall quickly."
+      },
+      "source": {
+        "name": "Gulf News",
+        "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "Siguen los incidentes con petroleros en Ormuz mientras Teherán rechaza cualquier cambio de tono",
+        "en": "Tanker incidents continue in Hormuz while Tehran rejects any change of tone"
+      },
+      "body": {
+        "es": "La Guardia Revolucionaria de Irán afirma que cuatro petroleros quedaron destruidos tras chocar con minas al sur del estrecho y que otros dos fueron apresados, y el jueves informó de otro incendio; nada de ello se ha confirmado de forma independiente. El líder supremo, Mojtabá Jamenei, dijo que la hostilidad de EE.UU. continuará sea cual sea el partido en el poder, mientras el presidente del Parlamento celebraba el resultado electoral como un voto contra la guerra.",
+        "en": "Iran's Revolutionary Guards claim that four tankers were destroyed after hitting mines south of the strait and that two more were seized, and they reported another fire on Thursday; none of this has been independently confirmed. Supreme Leader Mojtaba Khamenei said US hostility will last whichever party is in power, even as the parliament speaker celebrated the election result as a vote against war."
+      },
+      "source": {
+        "name": "Just Security",
+        "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Trump dice que la mayor parte de la ayuda militar de EE.UU. a Israel terminará este año",
+        "en": "Trump says most US military aid to Israel will end this year"
+      },
+      "body": {
+        "es": "Trump dijo que el grueso de la ayuda militar de EE.UU. a Israel, unos 4.000 millones de dólares al año, se cortará a finales de año en virtud de un acuerdo con Netanyahu, y que la sustituirán las ventas de armas. Los responsables israelíes parecieron sorprendidos y no han confirmado el acuerdo, y el Congreso, que controla los fondos, podría tener la última palabra.",
+        "en": "Trump said the bulk of US military aid to Israel, roughly $4 billion a year, will be cut off at the end of the year under an arrangement with Netanyahu, with arms sales taking its place. Israeli officials appeared surprised and have not confirmed the arrangement, and Congress, which controls the funding, may have the final say."
+      },
+      "source": {
+        "name": "10 Things Global News",
+        "url": "https://www.10things.news/p/10-things-global-news-4th-november-a76"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Sube a 37 el número de muertos por el ataque ruso a un centro de ayuda ucraniano",
+        "en": "Toll from Russian strike on a Ukrainian aid centre rises to 37"
+      },
+      "body": {
+        "es": "El gobernador regional dice que ya se conocen 37 muertos por el bombardeo ruso de un centro de reparto de ayuda en la región de Zaporiyia, y que al menos 59 personas siguen desaparecidas. Más al norte, el primer ministro polaco, Donald Tusk, anunció una operación especial en la frontera con Rusia, por las advertencias de posibles sabotajes.",
+        "en": "The regional governor says 37 people are now known to have died in the Russian bombing of an aid distribution centre in the Zaporizhzhia region, and at least 59 are missing. Further north, Polish Prime Minister Donald Tusk announced a special operation on the border with Russia, citing warnings of sabotage."
+      },
+      "source": {
+        "name": "Just Security",
+        "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+      }
+    },
+    {
+      "id": "mundo-6",
+      "section": "mundo",
+      "title": {
+        "es": "EE.UU. y Canadá se acercan a un acuerdo comercial, aunque quedan grandes diferencias",
+        "en": "US and Canada edge towards a trade deal, though big gaps remain"
+      },
+      "body": {
+        "es": "Trump dice que el acuerdo con Canadá está cerca, mientras que el primer ministro, Mark Carney, afirma que las conversaciones se intensifican pero que quedan cuestiones importantes por resolver.",
+        "en": "Trump says a deal with Canada is close, while Prime Minister Mark Carney says talks are intensifying but that major issues are still unresolved."
+      },
+      "source": {
+        "name": "10 Things Global News",
+        "url": "https://www.10things.news/p/10-things-global-news-4th-november-a76"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "Cuerpo asume Transportes y el presidente de Adif deja el cargo",
+        "en": "Cuerpo takes over Transport and the head of Adif steps down"
+      },
+      "body": {
+        "es": "Tras la dimisión de Óscar Puente por el accidente ferroviario de Urda, que causó 69 muertos, el ministro de Economía, Carlos Cuerpo, dirigirá también Transportes hasta las elecciones del 29 de noviembre. El miércoles, Cuerpo dijo que el presidente de Adif, Luis Pedro Marco de la Peña, le había presentado su dimisión; algunos medios lo describen como un cese. El funeral de Estado se celebrará en Toledo el 12 de noviembre.",
+        "en": "After Óscar Puente resigned over the Urda rail crash, which killed 69 people, Economy Minister Carlos Cuerpo will also run the Transport Ministry until the 29 November election. On Wednesday, Cuerpo said Adif's president, Luis Pedro Marco de la Peña, had handed in his resignation; some media describe it as a dismissal. The state funeral will be held in Toledo on 12 November."
+      },
+      "source": {
+        "name": "El Español",
+        "url": "https://www.elespanol.com/espana/20261104/elecciones-generales-directo-ultima-hora-dimision-oscar-puente-renuncia-listas-psoe/1003744445175_10.html"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "Los partidos discuten el formato de los debates electorales",
+        "en": "Parties argue over the format of the election debates"
+      },
+      "body": {
+        "es": "Alberto Núñez Feijóo dice que acudirá a un debate a cuatro propuesto por Atresmedia para el 26 de noviembre. El PSOE acepta un cara a cara entre Pedro Sánchez y Feijóo en una cadena privada el 16 de noviembre, pero quiere que el debate a cuatro se haga en la televisión pública, TVE.",
+        "en": "Alberto Núñez Feijóo says he will attend a four-way debate proposed by Atresmedia for 26 November. The PSOE accepts a head-to-head between Pedro Sánchez and Feijóo on a private channel on 16 November, but wants the four-way debate to be held on public broadcaster TVE."
+      },
+      "source": {
+        "name": "El Español",
+        "url": "https://www.elespanol.com/espana/20261104/elecciones-generales-directo-ultima-hora-dimision-oscar-puente-renuncia-listas-psoe/1003744445175_10.html"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "El Supremo estudia ampliar la suspensión cautelar de algunos derechos de voto",
+        "en": "Supreme Court considers extending a suspension of some voting rights"
+      },
+      "body": {
+        "es": "El Tribunal Supremo estudia si extiende la suspensión cautelar del voto el 29 de noviembre a los hijos de quienes se nacionalizaron por la llamada ley de nietos, como piden Vox e Iustitia Europa; el Gobierno se opone. Por otro lado, The Objective informa de que en el consulado en México se alteraron expedientes a mano para que entraran en plazo, una información para la que no recoge respuesta oficial.",
+        "en": "The Supreme Court is studying whether to extend a precautionary suspension of the vote on 29 November to the children of people naturalised under the so-called grandchildren's law, as Vox and Iustitia Europa have asked; the government is opposed. Separately, The Objective reports that files at the consulate in Mexico were altered by hand to fit the deadline, a claim for which it did not cite an official response."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/04/temas-del-dia-de-efe-espana-del-miercoles-4-de-noviembre-de-2026-1340-horas/"
+      }
+    },
+    {
+      "id": "espana-4",
+      "section": "espana",
+      "title": {
+        "es": "España suma 186.612 afiliados en octubre",
+        "en": "Spain adds 186,612 jobs in October"
+      },
+      "body": {
+        "es": "La afiliación a la Seguridad Social subió en 186.612 personas en octubre, impulsada por la educación, hasta un total de 22,6 millones de trabajadores.",
+        "en": "Social Security registrations rose by 186,612 in October, helped by the education sector, taking the total to 22.6 million workers."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/04/temas-del-dia-de-efe-espana-del-miercoles-4-de-noviembre-de-2026-1340-horas/"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "El precio regulado de la luz sigue cerca del máximo del año",
+        "en": "Regulated power prices stay close to the year's high"
+      },
+      "body": {
+        "es": "La tarifa regulada PVPC promedia hoy 238,69 euros/MWh, apenas por debajo de los 246 del miércoles, los más altos del año. Lo peor llega por la tarde, con un pico de 317,52 euros entre las 19:00 y las 21:00, mientras que la hora más barata, de 12:00 a 13:00, cuesta 183,51 euros.",
+        "en": "The regulated PVPC tariff averages €238.69 per MWh today, only slightly below Wednesday's €246, the highest of the year. Evenings are the worst, with a peak of €317.52 between 19:00 and 21:00, while the cheapest hour, from 12:00 to 13:00, costs €183.51."
+      },
+      "why_it_matters": {
+        "es": "La bajada del mediodía muestra cuánto sigue abaratando la solar los precios, incluso cuando el gas marca precios muy altos por la tarde.",
+        "en": "The midday dip shows how much solar output still pushes prices down, even when gas sets very high evening prices."
+      },
+      "source": {
+        "name": "Consumidor Global",
+        "url": "https://www.consumidorglobal.com/hogar/precio-luz-baja-jueves-5-noviembre-sigue-maximos-horas_20894_102.html"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "Iberdrola supera los 150.000 millones de euros en bolsa",
+        "en": "Iberdrola breaks through €150 billion in market value"
+      },
+      "body": {
+        "es": "Iberdrola superó los 150.000 millones de euros de capitalización durante la sesión del miércoles, con un máximo histórico de 22,56 euros por acción hacia el mediodía y una subida de más del 22 % en el año. Hasta cinco casas de análisis han elevado su valoración desde los resultados del 21 de octubre, por la demanda de los centros de datos y la necesidad de invertir en redes.",
+        "en": "Iberdrola passed €150 billion in market capitalisation during Wednesday's session, trading at a record €22.56 per share around midday, up more than 22% this year. Up to five brokers have raised their valuations since the 21 October results, pointing to data-centre demand and the need for grid investment."
+      },
+      "why_it_matters": {
+        "es": "Tu departamento está en el centro de esta historia: la base de activos regulados de Iberdrola es de 56.000 millones de euros, y su presidente prevé unos 1.200 millones de inversión en distribución en España en 2027.",
+        "en": "Your department sits at the heart of this story: Iberdrola's regulated asset base stands at €56 billion, and its chairman plans about €1.2 billion of Spanish distribution investment in 2027."
+      },
+      "source": {
+        "name": "The Objective",
+        "url": "https://theobjective.com/economia/2026-11-04/iberdrola-maximos-bolsa-capitalizacion"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "España suaviza el decreto de centros de datos pero mantiene el 80 % horario de renovables",
+        "en": "Spain softens its data-centre decree but keeps the 80% hourly renewables rule"
+      },
+      "body": {
+        "es": "El nuevo borrador eleva el umbral de las obligaciones energéticas de 1 a 10 MW, y los centros que lo superen deberán cubrir al menos el 80 % de su consumo horario con renovables, con las baterías como opción admitida. Durante una transición de unos cinco años, los operadores podrán aceptar en su lugar la interrumpibilidad, es decir, que Red Eléctrica les corte el suministro si el sistema lo necesita. La patronal del sector considera que ese es el punto más grave, mientras que los grupos ecologistas dicen que el texto es menos ambicioso que el anterior.",
+        "en": "The new draft raises the threshold for the energy obligations from 1 MW to 10 MW, and centres above it must cover at least 80% of their hourly consumption with renewables, with batteries now accepted as an option. During a transition of about five years, operators may instead accept interruptibility, meaning Red Eléctrica could cut their supply when the system needs it. The sector's association calls that the most serious point, while environmental groups say the text is less ambitious than before."
+      },
+      "why_it_matters": {
+        "es": "El Gobierno quiere aprobar el decreto antes de las elecciones, y marcará la rapidez con la que se conectan grandes cargas nuevas a las redes españolas.",
+        "en": "The government wants the decree approved before the election, and it will shape how quickly large new loads connect to Spanish grids."
+      },
+      "source": {
+        "name": "Moncloa.com",
+        "url": "https://www.moncloa.com/2026/11/03/decreto-centros-datos-renovables-3461006/"
+      }
+    },
+    {
+      "id": "energia-4",
+      "section": "energia",
+      "title": {
+        "es": "La CNMC inspecciona a un grupo energético sin identificar por un posible cierre de mercado",
+        "en": "CNMC inspects an unnamed energy group over possible market foreclosure"
+      },
+      "body": {
+        "es": "El regulador de la competencia inspeccionó entre el 26 y el 29 de octubre las oficinas de un grupo energético que no ha identificado, por un posible cierre discriminatorio de mercado que limitaría a otros operadores. Las inspecciones no prejuzgan el resultado, pero el abuso de posición de dominio puede acarrear multas de hasta el 10 % de la facturación anual.",
+        "en": "The competition watchdog searched the offices of an energy group it has not named between 26 and 29 October, over possible discriminatory foreclosure that would limit rival operators. Inspections do not prejudge the outcome, but abuse of dominance can bring fines of up to 10% of annual turnover."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/la-cnmc-investiga-posibles-practicas-anticompetitivas-en-los-mercados-energeticos-en-espana-2/"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "La banca impulsa al IBEX a su mejor sesión desde abril",
+        "en": "Banks lift the IBEX to its best session since April"
+      },
+      "body": {
+        "es": "El IBEX 35 subió un 3 %, hasta 19.370,9 puntos, liderado por Inditex y la banca, con Santander un 4,87 % arriba y CaixaBank un 4,66 %, mientras que Indra y ACS cayeron más de un 5 %. Los analistas interpretan el resultado como un bloqueo en Washington, que limita los cambios bruscos de política y aumenta la presión para acabar con la guerra.",
+        "en": "The IBEX 35 jumped 3% to 19,370.9 points, led by Inditex and the banks, with Santander up 4.87% and CaixaBank up 4.66%, while Indra and ACS fell more than 5%. Analysts read the outcome as gridlock in Washington, which limits sudden policy changes and raises pressure to end the war."
+      },
+      "source": {
+        "name": "Diario de Santiago (EFE)",
+        "url": "https://www.diariodesantiago.es/economia/el-ibex-35-se-dispara-un-3-y-firma-su-mejor-sesion-desde-abril-tras-las-elecciones-en-ee-uu/"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "Las subidas de tipos vuelven a estar sobre la mesa, con el Banco de Inglaterra en primer lugar",
+        "en": "Rate rises are back on the table, with the Bank of England first in line"
+      },
+      "body": {
+        "es": "Las previsiones apuntan a que el Banco de Inglaterra subirá hoy los tipos del 3,75 % al 4 %, y la inflación de la eurozona, del 4 % en octubre, mantiene abierta una subida del BCE en diciembre. Los futuros también descuentan cerca de un 77 % de probabilidad de una subida de la Fed en diciembre, según un resumen de mercado.",
+        "en": "Forecasts show the Bank of England raising its rate today from 3.75% to 4%, and euro zone inflation at 4% in October keeps an ECB rise in December in play. Futures also price in about a 77% chance of a Fed hike in December, according to one market recap."
+      },
+      "why_it_matters": {
+        "es": "Unos tipos más altos encarecen la inversión en redes financiada con deuda, algo que afecta directamente a las eléctricas reguladas.",
+        "en": "Higher rates make debt-financed grid investment more expensive, which matters directly to regulated utilities."
+      },
+      "source": {
+        "name": "Finwire",
+        "url": "https://finwire.io/news/forex-news/financial-forex-market-recap-nov-4-2026"
+      }
+    },
+    {
+      "id": "economia-3",
+      "section": "economia",
+      "title": {
+        "es": "CVS planea dividirse en dos y a los inversores no les convence",
+        "en": "CVS plans to split in two, and investors are unimpressed"
+      },
+      "body": {
+        "es": "CVS Health planea separar su negocio de seguros y prestaciones de su cadena de farmacias antes del primer semestre de 2028, y sus acciones cayeron un 12,5 % pese a mejores resultados y a una previsión al alza.",
+        "en": "CVS Health plans to separate its insurance and benefits business from its pharmacy chain by the first half of 2028, and its shares fell 12.5% despite better results and raised guidance."
+      },
+      "source": {
+        "name": "TheStreet",
+        "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "Banco de Inglaterra: decisión de tipos a las 13:00 (hora de Madrid); se espera una subida al 4 %.",
+      "en": "Bank of England: rate decision at 13:00 Madrid time, with a rise to 4% expected."
+    },
+    {
+      "es": "Irán: si hay respuesta a la propuesta que median Catar y otros, y si Trump aclara entre ataques o acuerdo.",
+      "en": "Iran: whether there is a reply to the proposal mediated by Qatar and others, and whether Trump chooses between strikes and a deal."
+    },
+    {
+      "es": "España: Cuerpo se reúne con los sindicatos ferroviarios por las huelgas, y Sánchez y Milei se ven en la Cumbre Iberoamericana.",
+      "en": "Spain: Cuerpo meets the rail unions over the planned strikes, and Sánchez and Milei meet at the Ibero-American Summit."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "doubled as",
+      "translation": "sirvió también como",
+      "pos": "verb",
+      "example": "The garage doubled as a workshop."
+    },
+    {
+      "term": "moratorium",
+      "translation": "moratoria",
+      "pos": "noun",
+      "example": "The city imposed a moratorium on new permits."
+    },
+    {
+      "term": "tumbled",
+      "translation": "se desplomó",
+      "pos": "verb",
+      "example": "Shares tumbled after the profit warning."
+    },
+    {
+      "term": "bottleneck",
+      "translation": "cuello de botella",
+      "pos": "noun",
+      "example": "Slow permits are the main bottleneck."
+    },
+    {
+      "term": "privilege-escalation",
+      "translation": "escalada de privilegios",
+      "pos": "adjective",
+      "example": "A privilege-escalation bug gives attackers admin rights."
+    },
+    {
+      "term": "maintainers",
+      "translation": "responsables de mantenimiento",
+      "pos": "noun",
+      "example": "The maintainers released a patch overnight."
+    },
+    {
+      "term": "credits",
+      "translation": "atribuye el mérito a",
+      "pos": "verb",
+      "example": "The report credits the team with the discovery."
+    },
+    {
+      "term": "patches",
+      "translation": "parches",
+      "pos": "noun",
+      "example": "Install the security patches as soon as possible."
+    },
+    {
+      "term": "sounding out",
+      "translation": "tanteando",
+      "pos": "verb",
+      "example": "They are sounding out buyers before the sale."
+    },
+    {
+      "term": "leased back",
+      "translation": "alquilado de vuelta",
+      "pos": "verb",
+      "example": "The building was sold and leased back to the firm."
+    },
+    {
+      "term": "debut",
+      "translation": "de estreno, primero",
+      "pos": "adjective",
+      "example": "The company issued its debut bond."
+    },
+    {
+      "term": "backstop",
+      "translation": "avalar, respaldar",
+      "pos": "verb",
+      "example": "The bank agreed to backstop the loan."
+    },
+    {
+      "term": "lenders",
+      "translation": "prestamistas",
+      "pos": "noun",
+      "example": "Lenders are asking for higher interest."
+    },
+    {
+      "term": "pitches",
+      "translation": "presenta, intenta vender",
+      "pos": "verb",
+      "example": "She pitches the idea to investors every week."
+    },
+    {
+      "term": "overhead",
+      "translation": "sobrecarga, coste adicional",
+      "pos": "noun",
+      "example": "Encryption adds some overhead to each request."
+    },
+    {
+      "term": "price tag",
+      "translation": "precio",
+      "pos": "noun",
+      "example": "The project has a huge price tag."
+    },
+    {
+      "term": "contingent",
+      "translation": "condicionado",
+      "pos": "adjective",
+      "example": "Half the payment is contingent on results."
+    },
+    {
+      "term": "too close to call",
+      "translation": "demasiado ajustado para dar un ganador",
+      "pos": "phrase",
+      "example": "The race is still too close to call."
+    },
+    {
+      "term": "subpoenas",
+      "translation": "citaciones judiciales",
+      "pos": "noun",
+      "example": "The committee issued subpoenas to two executives."
+    },
+    {
+      "term": "weighs",
+      "translation": "sopesa",
+      "pos": "verb",
+      "example": "The board weighs a new offer."
+    },
+    {
+      "term": "blockade",
+      "translation": "bloqueo",
+      "pos": "noun",
+      "example": "The naval blockade halted exports."
+    },
+    {
+      "term": "priced in",
+      "translation": "descontado",
+      "pos": "verb",
+      "example": "The rate cut was already priced in."
+    },
+    {
+      "term": "seized",
+      "translation": "apresados, incautados",
+      "pos": "verb",
+      "example": "Police seized two ships."
+    },
+    {
+      "term": "the bulk of",
+      "translation": "el grueso de",
+      "pos": "phrase",
+      "example": "The bulk of the money went to networks."
+    },
+    {
+      "term": "toll",
+      "translation": "número de víctimas",
+      "pos": "noun",
+      "example": "The death toll rose overnight."
+    },
+    {
+      "term": "sabotage",
+      "translation": "sabotaje",
+      "pos": "noun",
+      "example": "Investigators suspect sabotage."
+    },
+    {
+      "term": "edge towards",
+      "translation": "se acercan poco a poco a",
+      "pos": "verb",
+      "example": "The two sides edge towards an agreement."
+    },
+    {
+      "term": "steps down",
+      "translation": "deja el cargo",
+      "pos": "verb",
+      "example": "The CEO steps down next month."
+    },
+    {
+      "term": "head-to-head",
+      "translation": "cara a cara",
+      "pos": "noun",
+      "example": "The candidates agreed to a head-to-head."
+    },
+    {
+      "term": "precautionary",
+      "translation": "cautelar",
+      "pos": "adjective",
+      "example": "The court ordered a precautionary measure."
+    },
+    {
+      "term": "naturalised",
+      "translation": "nacionalizados",
+      "pos": "verb",
+      "example": "She was naturalised as a Spanish citizen."
+    },
+    {
+      "term": "breaks through",
+      "translation": "supera, rompe",
+      "pos": "verb",
+      "example": "The index breaks through a key level."
+    },
+    {
+      "term": "brokers",
+      "translation": "casas de análisis, intermediarios",
+      "pos": "noun",
+      "example": "Several brokers raised their price targets."
+    },
+    {
+      "term": "softens",
+      "translation": "suaviza",
+      "pos": "verb",
+      "example": "The minister softens the draft law."
+    },
+    {
+      "term": "watchdog",
+      "translation": "organismo regulador",
+      "pos": "noun",
+      "example": "The watchdog opened an inquiry."
+    },
+    {
+      "term": "foreclosure",
+      "translation": "cierre, exclusión de mercado",
+      "pos": "noun",
+      "example": "Market foreclosure harms smaller rivals."
+    },
+    {
+      "term": "prejudge",
+      "translation": "prejuzgar",
+      "pos": "verb",
+      "example": "We should not prejudge the outcome."
+    },
+    {
+      "term": "turnover",
+      "translation": "facturación",
+      "pos": "noun",
+      "example": "Fines can reach 10% of turnover."
+    },
+    {
+      "term": "gridlock",
+      "translation": "bloqueo político",
+      "pos": "noun",
+      "example": "Gridlock in Congress delayed the budget."
+    },
+    {
+      "term": "unimpressed",
+      "translation": "poco convencidos",
+      "pos": "adjective",
+      "example": "Investors were unimpressed by the plan."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The US elections doubled as a referendum on data centres: at least 14 Ohio municipalities approved bans or limits, according to an unofficial count, and Texas governor-elect Gina Hinojosa called for a statewide moratorium.",
+      "es": "Las elecciones de EE.UU. han funcionado también como un plebiscito sobre los centros de datos: al menos 14 municipios de Ohio aprobaron prohibiciones o límites, según un recuento no oficial, y la gobernadora electa de Texas, Gina Hinojosa, pidió una moratoria en todo el estado."
+    },
+    {
+      "en": "Investors reacted fast: Hut 8 tumbled 23%, IREN lost 11%, Core Scientific dropped 10%, and CoreWeave's bonds hit new lows.",
+      "es": "Los inversores reaccionaron rápido: Hut 8 se desplomó un 23 %, IREN perdió un 11 %, Core Scientific cayó un 10 % y los bonos de CoreWeave marcaron nuevos mínimos."
+    },
+    {
+      "en": "Goldman Sachs economists estimate that state-level moratoria could affect about 45% of the capacity expansion planned in the US, although that is a projection rather than a fact.",
+      "es": "Los economistas de Goldman Sachs calculan que las moratorias estatales podrían afectar a cerca del 45 % de la ampliación de capacidad prevista en EE.UU., aunque es una proyección y no un hecho."
+    },
+    {
+      "en": "For the first time, local opposition looks like a real bottleneck for AI, alongside chips and power.",
+      "es": "Por primera vez, la oposición local parece un verdadero cuello de botella para la IA, junto a los chips y la electricidad."
+    },
+    {
+      "en": "OpenAI reports that a prototype pipeline built on an unreleased cyber model produced 948 working privilege-escalation exploits against a stock Linux kernel, at an API cost of about $1.2 million.",
+      "es": "OpenAI informa de que un prototipo basado en un modelo de ciberseguridad sin publicar generó 948 exploits funcionales de escalada de privilegios contra un kernel de Linux estándar, con un coste de API de unos 1,2 millones de dólares."
+    },
+    {
+      "en": "The company says it is coordinating disclosure with the kernel's maintainers, but the figures are its own and have not been independently checked.",
+      "es": "La empresa dice que está coordinando la divulgación con los responsables del kernel, pero las cifras son suyas y no se han comprobado de forma independiente."
+    },
+    {
+      "en": "Separately, a Xen security advisory credits Anthropic's Claude with finding two bugs that let a malicious guest virtual machine read and write the memory of other machines on the same host.",
+      "es": "Por otro lado, un aviso de seguridad de Xen atribuye a Claude, de Anthropic, el hallazgo de dos errores que permiten a una máquina virtual invitada maliciosa leer y escribir en la memoria de otras máquinas del mismo servidor."
+    },
+    {
+      "en": "Finding flaws at this scale helps defenders only if patches arrive before attackers build the same tools.",
+      "es": "Encontrar fallos a esta escala solo ayuda a los defensores si los parches llegan antes de que los atacantes construyan las mismas herramientas."
+    },
+    {
+      "en": "Goldman Sachs and Apollo are sounding out investors on roughly $40 billion of financing for SpaceX's graphics chips, reportedly the largest deal of its kind, covering $47.3 billion of hardware that would be leased back for about five years.",
+      "es": "Goldman Sachs y Apollo están tanteando a inversores para una financiación de unos 40.000 millones de dólares destinada a los chips gráficos de SpaceX, al parecer la mayor de este tipo, que cubre 47.300 millones en equipos que se alquilarían de vuelta durante unos cinco años."
+    },
+    {
+      "en": "Meta also priced a debut €9 billion euro bond that drew a record €53 billion of orders, and Google agreed to backstop TeraWulf's 401 MW Kentucky lease for Anthropic.",
+      "es": "Meta también colocó su primer bono en euros, de 9.000 millones, que atrajo una cifra récord de 53.000 millones en órdenes, y Google aceptó avalar el arrendamiento de 401 MW de TeraWulf para Anthropic en Kentucky."
+    },
+    {
+      "en": "The AI build-out is moving from company cash flow to credit markets, so a slowdown would now hit lenders as well.",
+      "es": "La expansión de la IA está pasando de la caja de las empresas a los mercados de crédito, de modo que un frenazo afectaría ahora también a los prestamistas."
+    },
+    {
+      "en": "OpenAI released ChatGPT Images 2.6 on Wednesday, adding animated GIFs and reusable reference images, plus two API models, one tuned for speed and one able to export SVG files.",
+      "es": "OpenAI lanzó el miércoles ChatGPT Images 2.6, que añade GIF animados e imágenes de referencia reutilizables, además de dos modelos de API, uno orientado a la velocidad y otro capaz de exportar archivos SVG."
+    },
+    {
+      "en": "A day earlier, it published a post on using ChatGPT and Codex for CAD, circuit-board design and simulation, naming Mazda and Chip Ganassi Racing as partners and stressing that human review is still required.",
+      "es": "Un día antes publicó un artículo sobre el uso de ChatGPT y Codex en CAD, diseño de placas de circuito y simulación, en el que cita a Mazda y Chip Ganassi Racing como socios e insiste en que sigue siendo necesaria la revisión humana."
+    },
+    {
+      "en": "Your own field is now a target market: engineering tools are becoming one of the next battlegrounds for AI companies.",
+      "es": "Tu propio campo es ya un mercado objetivo: las herramientas de ingeniería se están convirtiendo en uno de los próximos campos de batalla de las empresas de IA."
+    },
+    {
+      "en": "Anthropic has described FlashProve, a proposed open-source system that would use cryptography to prove which model produced a given output.",
+      "es": "Anthropic ha descrito FlashProve, un sistema de código abierto en proyecto que usaría criptografía para demostrar qué modelo produjo un resultado concreto."
+    },
+    {
+      "en": "It is still a work in progress, with no figures on overhead, no list of supported models and no release date.",
+      "es": "Sigue en desarrollo, sin cifras de sobrecarga, sin lista de modelos compatibles y sin fecha de lanzamiento."
+    },
+    {
+      "en": "If it works, customers and regulators could verify that a cheap API really runs the model it advertises.",
+      "es": "Si funciona, clientes y reguladores podrían verificar que una API barata ejecuta de verdad el modelo que anuncia."
+    },
+    {
+      "en": "A regulatory filing shows AMD will pay about $2.9 billion in cash and stock for Toronto-based Taalas, a chip startup focused on inference, with $1.4 billion of that contingent.",
+      "es": "Un documento regulatorio muestra que AMD pagará unos 2.900 millones de dólares en efectivo y acciones por la canadiense Taalas, una startup de chips centrada en inferencia, de los cuales 1.400 millones son contingentes."
+    },
+    {
+      "en": "The deal was announced in August and still needs regulatory approval.",
+      "es": "La operación se anunció en agosto y aún necesita aprobación regulatoria."
+    },
+    {
+      "en": "Inference, the work of running models rather than training them, is where the next round of chip competition is taking shape.",
+      "es": "La inferencia, es decir, ejecutar los modelos en lugar de entrenarlos, es donde está tomando forma la próxima ronda de competencia en chips."
+    },
+    {
+      "en": "Democrats will control both chambers from 3 January, with at least 54 Senate seats.",
+      "es": "Los demócratas controlarán ambas cámaras desde el 3 de enero, con al menos 54 escaños en el Senado."
+    },
+    {
+      "en": "Mississippi and Alaska remain open: Scott Colom led by 1,138 votes in Mississippi on Wednesday night, and Mary Peltola was ahead by 637 in Alaska, where full results are not due until 18 November.",
+      "es": "Misisipi y Alaska siguen abiertos: Scott Colom ganaba por 1.138 votos en Misisipi el miércoles por la noche y Mary Peltola iba por delante por 637 en Alaska, donde los resultados completos no llegarán hasta el 18 de noviembre."
+    },
+    {
+      "en": "Trump will face subpoenas and investigations for the rest of his term, and Senate leader Chuck Schumer has promised exactly that.",
+      "es": "Trump se enfrentará a citaciones e investigaciones durante el resto de su mandato, y el líder demócrata en el Senado, Chuck Schumer, ha prometido justo eso."
+    },
+    {
+      "en": "Vice President Vance said the war was the reason Republicans lost, and Trump called that largely true while insisting he would do it again.",
+      "es": "El vicepresidente Vance dijo que la guerra fue la razón de la derrota republicana, y Trump lo calificó de bastante cierto, aunque insistió en que volvería a hacerlo."
+    },
+    {
+      "en": "According to Axios, the president is choosing between new strikes, a deal and continued pressure, with Vance leading the advisers who favour an agreement.",
+      "es": "Según Axios, el presidente duda entre nuevos ataques, un acuerdo o seguir presionando, y Vance encabeza a los asesores partidarios de un pacto."
+    },
+    {
+      "en": "Mediators led by Qatar say direct talks could resume within days, but Iran wants the naval blockade lifted and sanctions eased before it reopens Hormuz.",
+      "es": "Los mediadores, con Catar a la cabeza, dicen que las conversaciones directas podrían reanudarse en cuestión de días, pero Irán quiere que se levante el bloqueo naval y se alivien las sanciones antes de reabrir Ormuz."
+    },
+    {
+      "en": "Oil has already priced in part of a deal, so a return to strikes could reverse the fall quickly.",
+      "es": "El petróleo ya ha descontado parte de un acuerdo, así que una vuelta a los ataques podría revertir la caída con rapidez."
+    },
+    {
+      "en": "Iran's Revolutionary Guards claim that four tankers were destroyed after hitting mines south of the strait and that two more were seized, and they reported another fire on Thursday; none of this has been independently confirmed.",
+      "es": "La Guardia Revolucionaria de Irán afirma que cuatro petroleros quedaron destruidos tras chocar con minas al sur del estrecho y que otros dos fueron apresados, y el jueves informó de otro incendio; nada de ello se ha confirmado de forma independiente."
+    },
+    {
+      "en": "Supreme Leader Mojtaba Khamenei said US hostility will last whichever party is in power, even as the parliament speaker celebrated the election result as a vote against war.",
+      "es": "El líder supremo, Mojtabá Jamenei, dijo que la hostilidad de EE.UU. continuará sea cual sea el partido en el poder, mientras el presidente del Parlamento celebraba el resultado electoral como un voto contra la guerra."
+    },
+    {
+      "en": "Trump said the bulk of US military aid to Israel, roughly $4 billion a year, will be cut off at the end of the year under an arrangement with Netanyahu, with arms sales taking its place.",
+      "es": "Trump dijo que el grueso de la ayuda militar de EE.UU. a Israel, unos 4.000 millones de dólares al año, se cortará a finales de año en virtud de un acuerdo con Netanyahu, y que la sustituirán las ventas de armas."
+    },
+    {
+      "en": "Israeli officials appeared surprised and have not confirmed the arrangement, and Congress, which controls the funding, may have the final say.",
+      "es": "Los responsables israelíes parecieron sorprendidos y no han confirmado el acuerdo, y el Congreso, que controla los fondos, podría tener la última palabra."
+    },
+    {
+      "en": "The regional governor says 37 people are now known to have died in the Russian bombing of an aid distribution centre in the Zaporizhzhia region, and at least 59 are missing.",
+      "es": "El gobernador regional dice que ya se conocen 37 muertos por el bombardeo ruso de un centro de reparto de ayuda en la región de Zaporiyia, y que al menos 59 personas siguen desaparecidas."
+    },
+    {
+      "en": "Further north, Polish Prime Minister Donald Tusk announced a special operation on the border with Russia, citing warnings of sabotage.",
+      "es": "Más al norte, el primer ministro polaco, Donald Tusk, anunció una operación especial en la frontera con Rusia, por las advertencias de posibles sabotajes."
+    },
+    {
+      "en": "Trump says a deal with Canada is close, while Prime Minister Mark Carney says talks are intensifying but that major issues are still unresolved.",
+      "es": "Trump dice que el acuerdo con Canadá está cerca, mientras que el primer ministro, Mark Carney, afirma que las conversaciones se intensifican pero que quedan cuestiones importantes por resolver."
+    },
+    {
+      "en": "After Óscar Puente resigned over the Urda rail crash, which killed 69 people, Economy Minister Carlos Cuerpo will also run the Transport Ministry until the 29 November election.",
+      "es": "Tras la dimisión de Óscar Puente por el accidente ferroviario de Urda, que causó 69 muertos, el ministro de Economía, Carlos Cuerpo, dirigirá también Transportes hasta las elecciones del 29 de noviembre."
+    },
+    {
+      "en": "On Wednesday, Cuerpo said Adif's president, Luis Pedro Marco de la Peña, had handed in his resignation; some media describe it as a dismissal.",
+      "es": "El miércoles, Cuerpo dijo que el presidente de Adif, Luis Pedro Marco de la Peña, le había presentado su dimisión; algunos medios lo describen como un cese."
+    },
+    {
+      "en": "The state funeral will be held in Toledo on 12 November.",
+      "es": "El funeral de Estado se celebrará en Toledo el 12 de noviembre."
+    },
+    {
+      "en": "Alberto Núñez Feijóo says he will attend a four-way debate proposed by Atresmedia for 26 November.",
+      "es": "Alberto Núñez Feijóo dice que acudirá a un debate a cuatro propuesto por Atresmedia para el 26 de noviembre."
+    },
+    {
+      "en": "The PSOE accepts a head-to-head between Pedro Sánchez and Feijóo on a private channel on 16 November, but wants the four-way debate to be held on public broadcaster TVE.",
+      "es": "El PSOE acepta un cara a cara entre Pedro Sánchez y Feijóo en una cadena privada el 16 de noviembre, pero quiere que el debate a cuatro se haga en la televisión pública, TVE."
+    },
+    {
+      "en": "The Supreme Court is studying whether to extend a precautionary suspension of the vote on 29 November to the children of people naturalised under the so-called grandchildren's law, as Vox and Iustitia Europa have asked; the government is opposed.",
+      "es": "El Tribunal Supremo estudia si extiende la suspensión cautelar del voto el 29 de noviembre a los hijos de quienes se nacionalizaron por la llamada ley de nietos, como piden Vox e Iustitia Europa; el Gobierno se opone."
+    },
+    {
+      "en": "Separately, The Objective reports that files at the consulate in Mexico were altered by hand to fit the deadline, a claim for which it did not cite an official response.",
+      "es": "Por otro lado, The Objective informa de que en el consulado en México se alteraron expedientes a mano para que entraran en plazo, una información para la que no recoge respuesta oficial."
+    },
+    {
+      "en": "Social Security registrations rose by 186,612 in October, helped by the education sector, taking the total to 22.6 million workers.",
+      "es": "La afiliación a la Seguridad Social subió en 186.612 personas en octubre, impulsada por la educación, hasta un total de 22,6 millones de trabajadores."
+    },
+    {
+      "en": "The regulated PVPC tariff averages €238.69 per MWh today, only slightly below Wednesday's €246, the highest of the year.",
+      "es": "La tarifa regulada PVPC promedia hoy 238,69 euros/MWh, apenas por debajo de los 246 del miércoles, los más altos del año."
+    },
+    {
+      "en": "Evenings are the worst, with a peak of €317.52 between 19:00 and 21:00, while the cheapest hour, from 12:00 to 13:00, costs €183.51.",
+      "es": "Lo peor llega por la tarde, con un pico de 317,52 euros entre las 19:00 y las 21:00, mientras que la hora más barata, de 12:00 a 13:00, cuesta 183,51 euros."
+    },
+    {
+      "en": "The midday dip shows how much solar output still pushes prices down, even when gas sets very high evening prices.",
+      "es": "La bajada del mediodía muestra cuánto sigue abaratando la solar los precios, incluso cuando el gas marca precios muy altos por la tarde."
+    },
+    {
+      "en": "Iberdrola passed €150 billion in market capitalisation during Wednesday's session, trading at a record €22.56 per share around midday, up more than 22% this year.",
+      "es": "Iberdrola superó los 150.000 millones de euros de capitalización durante la sesión del miércoles, con un máximo histórico de 22,56 euros por acción hacia el mediodía y una subida de más del 22 % en el año."
+    },
+    {
+      "en": "Up to five brokers have raised their valuations since the 21 October results, pointing to data-centre demand and the need for grid investment.",
+      "es": "Hasta cinco casas de análisis han elevado su valoración desde los resultados del 21 de octubre, por la demanda de los centros de datos y la necesidad de invertir en redes."
+    },
+    {
+      "en": "Your department sits at the heart of this story: Iberdrola's regulated asset base stands at €56 billion, and its chairman plans about €1.2 billion of Spanish distribution investment in 2027.",
+      "es": "Tu departamento está en el centro de esta historia: la base de activos regulados de Iberdrola es de 56.000 millones de euros, y su presidente prevé unos 1.200 millones de inversión en distribución en España en 2027."
+    },
+    {
+      "en": "The new draft raises the threshold for the energy obligations from 1 MW to 10 MW, and centres above it must cover at least 80% of their hourly consumption with renewables, with batteries now accepted as an option.",
+      "es": "El nuevo borrador eleva el umbral de las obligaciones energéticas de 1 a 10 MW, y los centros que lo superen deberán cubrir al menos el 80 % de su consumo horario con renovables, con las baterías como opción admitida."
+    },
+    {
+      "en": "During a transition of about five years, operators may instead accept interruptibility, meaning Red Eléctrica could cut their supply when the system needs it.",
+      "es": "Durante una transición de unos cinco años, los operadores podrán aceptar en su lugar la interrumpibilidad, es decir, que Red Eléctrica les corte el suministro si el sistema lo necesita."
+    },
+    {
+      "en": "The sector's association calls that the most serious point, while environmental groups say the text is less ambitious than before.",
+      "es": "La patronal del sector considera que ese es el punto más grave, mientras que los grupos ecologistas dicen que el texto es menos ambicioso que el anterior."
+    },
+    {
+      "en": "The government wants the decree approved before the election, and it will shape how quickly large new loads connect to Spanish grids.",
+      "es": "El Gobierno quiere aprobar el decreto antes de las elecciones, y marcará la rapidez con la que se conectan grandes cargas nuevas a las redes españolas."
+    },
+    {
+      "en": "The competition watchdog searched the offices of an energy group it has not named between 26 and 29 October, over possible discriminatory foreclosure that would limit rival operators.",
+      "es": "El regulador de la competencia inspeccionó entre el 26 y el 29 de octubre las oficinas de un grupo energético que no ha identificado, por un posible cierre discriminatorio de mercado que limitaría a otros operadores."
+    },
+    {
+      "en": "Inspections do not prejudge the outcome, but abuse of dominance can bring fines of up to 10% of annual turnover.",
+      "es": "Las inspecciones no prejuzgan el resultado, pero el abuso de posición de dominio puede acarrear multas de hasta el 10 % de la facturación anual."
+    },
+    {
+      "en": "The IBEX 35 jumped 3% to 19,370.9 points, led by Inditex and the banks, with Santander up 4.87% and CaixaBank up 4.66%, while Indra and ACS fell more than 5%.",
+      "es": "El IBEX 35 subió un 3 %, hasta 19.370,9 puntos, liderado por Inditex y la banca, con Santander un 4,87 % arriba y CaixaBank un 4,66 %, mientras que Indra y ACS cayeron más de un 5 %."
+    },
+    {
+      "en": "Analysts read the outcome as gridlock in Washington, which limits sudden policy changes and raises pressure to end the war.",
+      "es": "Los analistas interpretan el resultado como un bloqueo en Washington, que limita los cambios bruscos de política y aumenta la presión para acabar con la guerra."
+    },
+    {
+      "en": "Forecasts show the Bank of England raising its rate today from 3.75% to 4%, and euro zone inflation at 4% in October keeps an ECB rise in December in play.",
+      "es": "Las previsiones apuntan a que el Banco de Inglaterra subirá hoy los tipos del 3,75 % al 4 %, y la inflación de la eurozona, del 4 % en octubre, mantiene abierta una subida del BCE en diciembre."
+    },
+    {
+      "en": "Futures also price in about a 77% chance of a Fed hike in December, according to one market recap.",
+      "es": "Los futuros también descuentan cerca de un 77 % de probabilidad de una subida de la Fed en diciembre, según un resumen de mercado."
+    },
+    {
+      "en": "Higher rates make debt-financed grid investment more expensive, which matters directly to regulated utilities.",
+      "es": "Unos tipos más altos encarecen la inversión en redes financiada con deuda, algo que afecta directamente a las eléctricas reguladas."
+    },
+    {
+      "en": "CVS Health plans to separate its insurance and benefits business from its pharmacy chain by the first half of 2028, and its shares fell 12.5% despite better results and raised guidance.",
+      "es": "CVS Health planea separar su negocio de seguros y prestaciones de su cadena de farmacias antes del primer semestre de 2028, y sus acciones cayeron un 12,5 % pese a mejores resultados y a una previsión al alza."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "backstop",
+    "pos": "verb / noun",
+    "translation": "avalar, respaldar; garantía de último recurso",
+    "definition_en": "To promise to cover a commitment if the party responsible for it cannot; also the guarantee itself.",
+    "example_en": "Google agreed to backstop the lease, which made lenders far more willing to finance the project.",
+    "example_es": "Google aceptó avalar el arrendamiento, lo que hizo que los prestamistas estuvieran mucho más dispuestos a financiar el proyecto."
+  },
+  "recommendations": [
+    {
+      "id": "cfr-spillover-blue-wave-swonk",
+      "type": "podcast",
+      "title": "After the Blue Wave, What Do Voters Want From the Economy?",
+      "speaker": "Rebecca Patterson y Diane Swonk (economista jefe de KPMG)",
+      "outlet": "The Spillover (Council on Foreign Relations)",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "economía",
+        "política",
+        "IA"
+      ],
+      "summary": "Episodio del 4 de noviembre sobre lo que significan las elecciones para la economía: asequibilidad, el coste de los centros de datos en electricidad y agua, el riesgo de rechazo a la IA y el empleo.",
+      "why": "Conecta en una sola conversación las noticias de hoy sobre elecciones, inflación y centros de datos, y tiene transcripción para seguirla en inglés.",
+      "url": "https://www.cfr.org/podcasts/spillover/after-the-blue-wave-what-do-voters-want-from-the-economy"
+    },
+    {
+      "id": "aljazeera-mississippi-alaska-senate-delay",
+      "type": "article",
+      "title": "What's delaying the US Senate election results in Mississippi and Alaska?",
+      "speaker": "Al Jazeera y AP",
+      "outlet": "Al Jazeera",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "política",
+        "EE.UU."
+      ],
+      "summary": "Explica por qué siguen abiertas las dos últimas carreras al Senado: los votos por correo de Misisipi y el voto preferencial de Alaska, con sus plazos.",
+      "why": "Es un buen ejemplo de inglés explicativo sobre un sistema electoral y aclara cifras que hoy cambian cada hora.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska"
+    },
+    {
+      "id": "kpmg-strategic-compass-bob-blue-dominion",
+      "type": "podcast",
+      "title": "Powering Tomorrow: Leadership, Energy, and the AI Boom",
+      "speaker": "Bob Blue (CEO de Dominion Energy) con Patrick Ryan",
+      "outlet": "KPMG Strategic Compass",
+      "duration_min": 33,
+      "language": "en",
+      "topics": [
+        "energía",
+        "IA",
+        "regulación"
+      ],
+      "summary": "El CEO de una gran eléctrica regulada de EE.UU. habla de crecimiento regional, cambio regulatorio, IA, ciberseguridad y aranceles. Es de abril de 2026, no de esta semana.",
+      "why": "Ofrece la visión de un directivo de eléctrica regulada, muy cercana a tu trabajo en control de inversiones.",
+      "url": "https://kpmg.com/us/en/podcasts/2026/powering-tomorrow-leadership-energy-ai-boom.html"
+    },
+    {
+      "id": "moncloa-decreto-centros-datos-10mw-2026",
+      "type": "article",
+      "title": "El Gobierno flexibiliza el decreto de centros de datos: sube el umbral a 10 MW y mantiene el 80% de renovables horarias",
+      "speaker": "Elena Ríos",
+      "outlet": "Moncloa.com",
+      "duration_min": null,
+      "language": "es",
+      "topics": [
+        "energía",
+        "regulación",
+        "centros de datos"
+      ],
+      "summary": "Detalla los cambios del borrador del 3 de noviembre: umbral, renovables horarias, baterías, interrumpibilidad y reacciones de ecologistas y patronales.",
+      "why": "Es la regulación que marcará cómo se conectan las grandes cargas a la red de distribución.",
+      "url": "https://www.moncloa.com/2026/11/03/decreto-centros-datos-renovables-3461006/"
+    },
+    {
+      "id": "periodico-energia-endesa-hibridacion-baterias-2026",
+      "type": "article",
+      "title": "Endesa inicia la hibridación con baterías de litio de tres proyectos solares en la Península Ibérica",
+      "speaker": "Redacción",
+      "outlet": "El Periódico de la Energía",
+      "duration_min": null,
+      "language": "es",
+      "topics": [
+        "energía",
+        "almacenamiento"
+      ],
+      "summary": "Tres proyectos con baterías grid-forming en Badajoz y Málaga, 60 MW y 120 MWh en total, con una inversión de 25,2 millones de euros y puesta en marcha prevista a finales de 2027.",
+      "why": "Da cifras reales para calcular el coste por MWh de almacenamiento, un ejercicio útil para tu perfil.",
+      "url": "https://elperiodicodelaenergia.com/endesa-inicia-la-hibridacion-con-baterias-de-litio-de-tres-proyectos-solares-en-la-peninsula-iberica/"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Fuerte subida tras las elecciones: el Dow gana un 3,03 %, su mejor día desde abril de 2025, y el IBEX, un 3 %. Los analistas leen el Congreso dividido como un freno a cambios bruscos de política y ven más opciones de un acuerdo con Irán, lo que hundió el crudo y bajó el dólar y los rendimientos de los bonos. La tecnología fue desigual: Apple, Microsoft y Amazon subieron con fuerza, pero Nvidia cedió un 3,17 % y Vistra y GE Vernova cayeron por el temor a moratorias a los centros de datos. Algunos analistas dudan de que el impulso dure. Datos del cierre del miércoles 4 de noviembre; no se encontró el nivel del Euro Stoxx 50 ni el cierre de Iberdrola.",
+      "en": "Stocks surged after the election: the Dow gained 3.03%, its best day since April 2025, and the IBEX rose 3%. Analysts see a divided Congress as a brake on sudden policy shifts and a deal with Iran as more likely, which sank crude and pushed the dollar and bond yields lower. Tech was mixed: Apple, Microsoft and Amazon rose sharply, but Nvidia slipped 3.17%, and Vistra and GE Vernova fell on fears of data-centre moratoria. Some analysts doubt the rally will last. Figures are from Wednesday's close on 4 November; the Euro Stoxx 50 level and Iberdrola's closing price could not be found."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35",
+        "value": 19370.9,
+        "change_pct": 3.0
+      },
+      {
+        "name": "Euro Stoxx 50",
+        "value": null,
+        "change_pct": 1.97
+      },
+      {
+        "name": "S&P 500",
+        "value": 7688.62,
+        "change_pct": 1.58
+      },
+      {
+        "name": "Nasdaq Composite",
+        "value": 25736.51,
+        "change_pct": 1.44
+      },
+      {
+        "name": "Dow Jones",
+        "value": 53356.12,
+        "change_pct": 3.03
+      },
+      {
+        "name": "Brent (USD/barril)",
+        "value": 94.62,
+        "change_pct": -8.67
+      },
+      {
+        "name": "Oro (USD/onza)",
+        "value": 4070.2,
+        "change_pct": 3.29
+      },
+      {
+        "name": "EUR/USD",
+        "value": 1.1235,
+        "change_pct": 0.39
+      },
+      {
+        "name": "Bitcoin (USD, aprox.)",
+        "value": 80230,
+        "change_pct": 3.7
+      }
+    ],
+    "learn": {
+      "concept": "Capitalización bursátil y valor de empresa (EV)",
+      "explanation": "La capitalización es el precio de la acción por el número de acciones: lo que el mercado paga por el capital, como los 150.000 millones de Iberdrola. No dice cuánto vale todo el negocio, porque ignora la deuda. El valor de empresa (EV) se calcula sumando la deuda neta a la capitalización. Ejemplo inventado: con 100.000 millones de capitalización y 50.000 de deuda neta, el EV es de 150.000 millones. En una eléctrica, con mucha deuda para financiar redes, por eso se compara el EV con el EBITDA o con la base de activos regulados, y no solo la capitalización."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
