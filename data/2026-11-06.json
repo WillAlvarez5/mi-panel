@@ -1,0 +1,1019 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T07:06:49+01:00",
+  "last_updated": "2026-11-06T07:06:49+01:00",
+  "headline": {
+    "es": "La IA hunde a Wall Street: el S&P 500 cae un 4,36 % en su peor día desde abril de 2025 y el Nasdaq entra en corrección, por el temor a que el nuevo Congreso frene los centros de datos. Irán dice que varios petroleros han ardido en Ormuz y el Brent roza los 98 dólares.",
+    "en": "AI sinks Wall Street: the S&P 500 drops 4.36%, its worst day since April 2025, and the Nasdaq enters correction on fears that the new Congress will slow data centres. Iran says tankers have caught fire in Hormuz, and Brent nears $98."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "La IA arrastra a Wall Street: los chips sufren su peor día en años",
+        "en": "AI drags Wall Street down as chipmakers suffer their worst day in years"
+      },
+      "body": {
+        "en": "Investors dumped chip stocks on Thursday, fearing that the Democrats' win in Congress and local opposition to data centres will slow the AI build-out. Micron lost 17.46%, AMD 17.26% and Nvidia 9.26%, while Qualcomm's weak phone-chip sales added to the gloom. UBS strategists reckon that about 30% of the data-centre capacity expected in 2028 is now at risk, according to Reuters as cited by StockTitan.",
+        "es": "Los inversores se deshicieron de acciones de chips el jueves, por el temor a que la victoria demócrata en el Congreso y la oposición local a los centros de datos frenen el despliegue de la IA. Micron perdió un 17,46 %, AMD un 17,26 % y Nvidia un 9,26 %, y las flojas ventas de chips para móviles de Qualcomm agravaron el pesimismo. Los estrategas de UBS calculan que cerca del 30 % de la capacidad de centros de datos prevista para 2028 está ahora en riesgo, según Reuters, citada por StockTitan."
+      },
+      "why_it_matters": {
+        "en": "Much of the rally rested on the assumption that data centres would keep getting built, so politics has become a direct risk to AI valuations.",
+        "es": "Buena parte de las subidas se apoyaba en la idea de que se seguirían construyendo centros de datos, así que la política se ha convertido en un riesgo directo para las valoraciones de la IA."
+      },
+      "source": {
+        "name": "StockTitan",
+        "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "OpenAI lanza GPT-6 Cyber, solo para clientes de seguridad aprobados",
+        "en": "OpenAI launches GPT-6 Cyber, for approved security customers only"
+      },
+      "body": {
+        "en": "OpenAI unveiled GPT-6 Cyber on Thursday, initially for a small group of customers in its Daybreak Red offensive-testing programme, with wider access promised over the coming weeks. The company says the model uncovered at least 81 high-severity Firefox flaws and produced working exploits for 948 Linux kernel vulnerabilities, 588 of them previously unknown. Those figures come from OpenAI, which says the flaws were reported and fixed, and it has added stricter identity checks and misalignment monitoring.",
+        "es": "OpenAI presentó GPT-6 Cyber el jueves, de entrada para un grupo reducido de clientes de su programa de pruebas ofensivas Daybreak Red, y promete ampliar el acceso en las próximas semanas. La empresa afirma que el modelo descubrió al menos 81 fallos graves en Firefox y creó exploits funcionales para 948 vulnerabilidades del kernel de Linux, 588 de ellas desconocidas hasta entonces. Esas cifras proceden de la propia OpenAI, que dice que los fallos se comunicaron y corrigieron, y ha añadido controles de identidad más estrictos y vigilancia de desalineación."
+      },
+      "why_it_matters": {
+        "en": "Gartner expects AI cybersecurity spending to almost double this year to $51.3 billion, so the same tools that find bugs are turning into a large business.",
+        "es": "Gartner prevé que el gasto en ciberseguridad con IA casi se duplique este año, hasta 51.300 millones de dólares, de modo que las mismas herramientas que encuentran fallos se están convirtiendo en un gran negocio."
+      },
+      "source": {
+        "name": "CyberScoop",
+        "url": "https://cyberscoop.com/openai-gpt-6-cyber-security-model/"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "Meta compra Conductor, una startup que coordina agentes de programación",
+        "en": "Meta buys Conductor, a startup that coordinates coding agents"
+      },
+      "body": {
+        "en": "Meta has acquired Conductor, a company founded in 2024 whose software runs teams of AI coding agents in parallel, without disclosing the price. Conductor will switch off its cloud service on 20 November and delete users' cloud data afterwards, while its core features will carry on until early next year.",
+        "es": "Meta ha adquirido Conductor, una empresa fundada en 2024 cuyo software hace trabajar en paralelo a equipos de agentes de programación con IA, sin revelar el precio. Conductor apagará su servicio en la nube el 20 de noviembre y después borrará los datos de los usuarios en ella, mientras que sus funciones principales seguirán hasta principios del año que viene."
+      },
+      "why_it_matters": {
+        "en": "Big AI labs are buying the tooling around their models, and customers of small startups can lose a product at short notice.",
+        "es": "Los grandes laboratorios de IA están comprando las herramientas que rodean a sus modelos, y los clientes de pequeñas startups pueden perder un producto con poco margen."
+      },
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic refuerza los controles de empresa y amplía las marcas de agua",
+        "en": "Anthropic tightens enterprise controls and extends its text watermarks"
+      },
+      "body": {
+        "en": "Anthropic has added hooks that send prompts and tool calls to security vendors, plus a beta security centre that compares a company's settings with its recommendations. It is also rolling out text watermarks to older Claude models, with a further wave due from 16 November, ahead of an EU AI Act transparency deadline in December. These details come from a secondary digest, as the Anthropic release notes could not be checked this morning.",
+        "es": "Anthropic ha añadido enlaces que envían las peticiones y las llamadas a herramientas a proveedores de seguridad, además de un centro de seguridad en beta que compara la configuración de una empresa con sus recomendaciones. También está extendiendo las marcas de agua de texto a modelos de Claude más antiguos, con una nueva tanda a partir del 16 de noviembre, antes de que venza en diciembre un plazo de transparencia de la ley europea de IA. Estos detalles proceden de un resumen secundario, porque esta mañana no se han podido comprobar las notas de versión de Anthropic."
+      },
+      "source": {
+        "name": "DEV Community (AI Daily Digest)",
+        "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-6-2026-openai-ships-gpt-6-cyber-meta-buys-conductor-anthropic-locks-1jij"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "Una congresista demócrata pide pausar la IA avanzada",
+        "en": "A Democratic congresswoman calls for a pause on advanced AI"
+      },
+      "body": {
+        "en": "Representative Yassamin Ansari has called for a pause on advanced AI development, tighter regulation and a ban on artificial superintelligence. It is one lawmaker's position rather than party policy, but it landed on the very day markets were pricing in tougher rules.",
+        "es": "La congresista Yassamin Ansari ha pedido una pausa en el desarrollo de la IA avanzada, una regulación más estricta y la prohibición de la superinteligencia artificial. Es la postura de una legisladora y no la política de su partido, pero llegó justo el día en que los mercados descontaban normas más duras."
+      },
+      "source": {
+        "name": "The Standard",
+        "url": "https://www.thestandard.com.hk/news/article/347704/Morning-Recap-November-6-2026"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Irán dice que varios petroleros han ardido en Ormuz, en plena tensión con EE.UU.",
+        "en": "Iran says tankers have caught fire in Hormuz as tension with the US persists"
+      },
+      "body": {
+        "en": "Iranian forces say five oil tankers and a tugboat caught fire in separate incidents around the Strait of Hormuz, and they attribute several of them to mines. The New York Times, citing unnamed Pentagon officials, reports that thousands of US troops are ready to resume major combat operations if Trump gives the order, while Qatar says both sides are reviewing mediators' proposals.",
+        "es": "Las fuerzas iraníes dicen que cinco petroleros y un remolcador se incendiaron en distintos incidentes en torno al estrecho de Ormuz, y atribuyen varios de ellos a minas. The New York Times, citando a fuentes anónimas del Pentágono, informa de que miles de soldados de EE.UU. están listos para reanudar grandes operaciones de combate si Trump lo ordena, mientras que Catar dice que ambas partes estudian las propuestas de los mediadores."
+      },
+      "why_it_matters": {
+        "en": "The strait normally carries about a fifth of the world's oil, so each incident feeds straight into energy prices and inflation.",
+        "es": "Por el estrecho pasa normalmente cerca de una quinta parte del petróleo mundial, así que cada incidente repercute de lleno en los precios de la energía y en la inflación."
+      },
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Trump admite el coste electoral de la guerra, pero dice que volvería a hacerlo",
+        "en": "Trump concedes the war cost him votes but says he would do it again"
+      },
+      "body": {
+        "en": "Trump accepted that the war with Iran largely explains his party's midterm losses, pointing to petrol prices, yet insisted he would have gone ahead anyway. He told the Financial Times that he has no immediate plans to order new strikes, while Washington sanctioned a network linked to Iran's shadow fleet.",
+        "es": "Trump aceptó que la guerra con Irán explica en gran parte las pérdidas de su partido en las legislativas, y señaló el precio de la gasolina, pero insistió en que habría seguido adelante de todos modos. Dijo al Financial Times que no tiene planes inmediatos de ordenar nuevos ataques, mientras Washington sancionaba a una red vinculada a la flota en la sombra de Irán."
+      },
+      "source": {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "Dimite el presidente de Paraguay por el colapso de un banco digital",
+        "en": "Paraguay's president resigns over the collapse of a digital bank"
+      },
+      "body": {
+        "en": "Santiago Peña stepped down on Thursday, just before the lower house voted unanimously to impeach him, two days after the central bank took over Ueno Bank. The lender had close to three million customers in a country where it claimed more than 60% of adults, and it held about $800 million in public deposits.",
+        "es": "Santiago Peña dimitió el jueves, justo antes de que la Cámara de Diputados votara por unanimidad su destitución, dos días después de que el banco central interviniera Ueno Bank. La entidad tenía cerca de tres millones de clientes en un país en el que decía contar con más del 60 % de los adultos, y guardaba unos 800 millones de dólares en depósitos públicos."
+      },
+      "why_it_matters": {
+        "en": "It shows how a single fast-growing digital bank can become big enough to bring down a government.",
+        "es": "Muestra cómo un solo banco digital de rápido crecimiento puede hacerse lo bastante grande como para tumbar a un gobierno."
+      },
+      "source": {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/11/05/paraguayan-president-resigns-amid-bank-collapse-leaving-3m-people-without-access-to-bank-a"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Zelenski pide en Madrid material para reparar la red eléctrica de Ucrania",
+        "en": "In Madrid, Zelenskyy asks for equipment to repair Ukraine's power grid"
+      },
+      "body": {
+        "en": "At the Ibero-American Summit, the first with Ukraine represented, Zelenskyy asked leaders for transformers, cables and generators. Trilateral talks with Russia and the US are due to resume next week in the United Arab Emirates, and Melania Trump hosted Russian and Ukrainian officials at the White House on Thursday.",
+        "es": "En la Cumbre Iberoamericana, la primera con representación de Ucrania, Zelenski pidió a los líderes transformadores, cables y generadores. Las conversaciones a tres bandas con Rusia y EE.UU. deben reanudarse la semana que viene en Emiratos Árabes Unidos, y Melania Trump recibió el jueves a responsables rusos y ucranianos en la Casa Blanca."
+      },
+      "why_it_matters": {
+        "en": "Transformers are in short supply worldwide, so Ukraine's request competes with the same equipment that European grid operators are queuing for.",
+        "es": "Los transformadores escasean en todo el mundo, de modo que la petición de Ucrania compite por el mismo equipo por el que hacen cola los operadores de red europeos."
+      },
+      "source": {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/11/06/zelenskyy-urges-latin-american-leaders-to-help-repair-ukraines-power-grid"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Una nueva oleada de falsas amenazas de bomba afecta a 27 vuelos en Europa",
+        "en": "A new wave of bomb hoaxes hits 27 flights across Europe"
+      },
+      "body": {
+        "en": "At least 27 passenger flights between Ireland and Bulgaria received hoax bomb threats on Thursday, the second wave this week. Some aircraft made unscheduled landings, and fighter jets escorted or intercepted others.",
+        "es": "Al menos 27 vuelos de pasajeros, de Irlanda a Bulgaria, recibieron falsas amenazas de bomba el jueves, en la segunda oleada de la semana. Algunos aviones hicieron aterrizajes no previstos, y cazas escoltaron o interceptaron a otros."
+      },
+      "source": {
+        "name": "The Standard",
+        "url": "https://www.thestandard.com.hk/news/article/347704/Morning-Recap-November-6-2026"
+      }
+    },
+    {
+      "id": "mundo-6",
+      "section": "mundo",
+      "title": {
+        "es": "Huelga de un día en Francia contra Macron, con marchas en su mayoría pacíficas",
+        "en": "One-day strike in France challenges Macron, with largely peaceful marches"
+      },
+      "body": {
+        "en": "Some public-sector workers staged a one-day strike in France on Thursday, with marches across the country and some clashes with police in Paris and Lyon.",
+        "es": "Parte de los empleados públicos franceses hizo una huelga de un día el jueves, con marchas por todo el país y algunos choques con la policía en París y Lyon."
+      },
+      "source": {
+        "name": "The Standard",
+        "url": "https://www.thestandard.com.hk/news/article/347704/Morning-Recap-November-6-2026"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "La UCO registra la casa de Ábalos en una nueva fase del caso Koldo",
+        "en": "Spain's Civil Guard searches Ábalos's home in a new phase of the Koldo case"
+      },
+      "body": {
+        "en": "The Civil Guard's UCO unit searched the home of former minister José Luis Ábalos and asked the rail agency Adif for details of contracts it suspects were rigged, with six people detained, according to EFE. Ábalos has separately asked the Constitutional Court to overturn his conviction, and the new searches are at the investigation stage, with no ruling on them.",
+        "es": "La UCO de la Guardia Civil registró el domicilio del exministro José Luis Ábalos y pidió a Adif datos de contratos que sospecha que fueron amañados, con seis detenidos, según EFE. Por otra parte, Ábalos ha pedido al Tribunal Constitucional que anule su condena, y los nuevos registros están en fase de investigación, sin ninguna resolución sobre ellos."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/05/temas-del-dia-de-efe-espana-del-5-de-noviembre-de-2026-2210-horas/"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "Madrid acoge una Cumbre Iberoamericana con IA en la declaración final",
+        "en": "Madrid hosts an Ibero-American Summit whose declaration covers AI"
+      },
+      "body": {
+        "en": "King Felipe VI, Pedro Sánchez, Javier Milei and Zelenskyy all spoke at the 30th summit, whose final declaration addresses artificial intelligence and civil protection. EFE described the greeting between Sánchez and Milei as cold.",
+        "es": "El rey Felipe VI, Pedro Sánchez, Javier Milei y Zelenski intervinieron en la XXX cumbre, cuya declaración final aborda la inteligencia artificial y la protección civil. EFE describió como frío el saludo entre Sánchez y Milei."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/05/temas-del-dia-de-efe-espana-del-5-de-noviembre-de-2026-2210-horas/"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "El salario mínimo subirá un 5,3 % en 2027, hasta 1.286 euros",
+        "en": "Spain's minimum wage will rise 5.3% in 2027, to €1,286"
+      },
+      "body": {
+        "en": "The minimum wage will go up by 5.3% next year to €1,286 gross a month, EFE reports. Unions had been demanding at least 7%.",
+        "es": "El salario mínimo subirá un 5,3 % el año que viene, hasta 1.286 euros brutos al mes, informa EFE. Los sindicatos reclamaban al menos un 7 %."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/05/temas-del-dia-de-efe-espana-del-5-de-noviembre-de-2026-2210-horas/"
+      }
+    },
+    {
+      "id": "espana-4",
+      "section": "espana",
+      "title": {
+        "es": "Se podrá votar con DNI electrónico el 29-N, y Cuerpo afronta tres días de huelga ferroviaria",
+        "en": "The electronic ID can be used to vote on 29 November, and Cuerpo faces a three-day rail strike"
+      },
+      "body": {
+        "en": "The Electoral Board has cleared the electronic ID card for voting in the 29 November general election. Carlos Cuerpo, who has just taken over the transport ministry, faces three days of rail strikes after the Urda accident in Toledo.",
+        "es": "La Junta Electoral ha autorizado el uso del DNI electrónico para votar en las elecciones generales del 29 de noviembre. Carlos Cuerpo, que acaba de asumir el Ministerio de Transportes, afronta tres días de huelga ferroviaria tras el accidente de Urda, en Toledo."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/05/temas-del-dia-de-efe-espana-del-5-de-noviembre-de-2026-2210-horas/"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "El MITECO detalla la nueva planificación eléctrica a 2030 en Castilla-La Mancha",
+        "en": "The ministry sets out the revised 2030 grid plan for Castilla-La Mancha"
+      },
+      "body": {
+        "en": "Energy secretary Joan Groizard reviewed the revised plan with the regional government, following 2,566 submissions during the public hearing. For the region it includes 15 new substations, 191 km of new lines and the upgrading of 1,553 km of existing ones. The region's government complains that a lack of grid capacity is holding back industry and housing.",
+        "es": "El secretario de Estado de Energía, Joan Groizard, repasó la propuesta revisada con el gobierno regional, tras recibir 2.566 alegaciones en la audiencia pública. Para la región incluye 15 nuevas subestaciones, 191 km de líneas nuevas y la repotenciación de 1.553 km de las existentes. El gobierno regional se queja de que la falta de capacidad de red está frenando la industria y la vivienda."
+      },
+      "why_it_matters": {
+        "en": "This is the transmission plan run by Red Eléctrica, but new substations and demand decide where distributors such as i-DE will have to invest next.",
+        "es": "Es el plan de la red de transporte que gestiona Red Eléctrica, pero las nuevas subestaciones y la demanda determinan dónde tendrán que invertir después distribuidoras como i-DE."
+      },
+      "source": {
+        "name": "MITECO",
+        "url": "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2026/noviembre/reunion-del-miteco-y-castilla-la-mancha-para-tratar-la-nueva-pro.html"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "La luz regulada sube y supera los 300 euros/MWh en la hora punta",
+        "en": "Regulated power prices rise and top €300/MWh at the evening peak"
+      },
+      "body": {
+        "en": "Spain's regulated tariff averages €245.63/MWh today, 2.91% more than on Thursday, with a peak of €300.67/MWh between 18:00 and 19:00. The cheapest hour is 12:00 to 13:00, at €195.15/MWh.",
+        "es": "La tarifa regulada española promedia hoy 245,63 €/MWh, un 2,91 % más que el jueves, con un máximo de 300,67 €/MWh entre las 18:00 y las 19:00. La hora más barata es de 12:00 a 13:00, a 195,15 €/MWh."
+      },
+      "source": {
+        "name": "Consumidor Global",
+        "url": "https://www.consumidorglobal.com/hogar/precio-luz-sube-este-viernes-6-noviembre-con-pico-300-euros-mwh_20908_102.html"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "Las utilities aguantan el golpe mientras cae lo ligado a los centros de datos",
+        "en": "Utilities hold up while data-centre power plays fall"
+      },
+      "body": {
+        "en": "US utilities slipped just 0.71% on Thursday against an 8% fall for technology, while GE Vernova lost 7.48% on worries about the data-centre pipeline. Iberdrola's closing price could not be confirmed in the sources checked.",
+        "es": "Las utilities de EE.UU. solo cedieron un 0,71 % el jueves, frente al 8 % que cayó la tecnología, mientras que GE Vernova perdió un 7,48 % por las dudas sobre los proyectos de centros de datos. No se ha podido confirmar el cierre de Iberdrola en las fuentes consultadas."
+      },
+      "why_it_matters": {
+        "en": "Regulated networks earn a return that does not depend on AI demand, which is why they often behave defensively in a sell-off.",
+        "es": "Las redes reguladas obtienen una retribución que no depende de la demanda de la IA, y por eso suelen comportarse de forma defensiva en una caída."
+      },
+      "source": {
+        "name": "CappNotes",
+        "url": "https://cappnotes.substack.com/p/closing-look-thursday-november-5"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "El IBEX se desmarca de Wall Street y cierra casi en 19.500 puntos",
+        "en": "The IBEX decouples from Wall Street and closes near 19,500"
+      },
+      "body": {
+        "en": "The IBEX 35 rose 0.59% to 19,486, helped by Rovi, up 8.31% after a 67% jump in nine-month profit, and by banks such as BBVA. The Spanish index has little exposure to chipmakers, though Indra fell 3.94% and the wider STOXX 600 lost 0.38%.",
+        "es": "El IBEX 35 subió un 0,59 %, hasta 19.486 puntos, ayudado por Rovi, que ganó un 8,31 % tras disparar un 67 % su beneficio a nueve meses, y por bancos como BBVA. El índice español apenas está expuesto a los fabricantes de chips, aunque Indra cayó un 3,94 % y el conjunto del STOXX 600 perdió un 0,38 %."
+      },
+      "source": {
+        "name": "EFE / Press Digital",
+        "url": "https://www.pressdigital.es/articulo/economia/2026-11-05/6080621-ibex-35-resiste-desplome-tecnologicas-eeuu-sube-06-crudo-97-dolares"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "El Banco de Inglaterra sube los tipos al 4 %, y Banxico los baja",
+        "en": "The Bank of England raises rates to 4% as Mexico cuts"
+      },
+      "body": {
+        "en": "The Bank of England raised its main rate by a quarter point to 4%, its first increase since 2023, on an 8-1 vote, with Andrew Bailey saying that ending the Middle East conflict would be the best outcome. Mexico's central bank went the other way, trimming its rate to 6.25%, and markets now see roughly a two-in-three chance of a Fed hike in December, down from about 83% on Wednesday.",
+        "es": "El Banco de Inglaterra subió un cuarto de punto su tipo principal, hasta el 4 %, su primera subida desde 2023, por 8 votos a 1, y Andrew Bailey dijo que el mejor resultado sería el fin del conflicto en Oriente Medio. El banco central de México fue en sentido contrario y recortó su tipo al 6,25 %, y los mercados ven ahora cerca de dos posibilidades entre tres de que la Fed suba en diciembre, frente a alrededor del 83 % del miércoles."
+      },
+      "why_it_matters": {
+        "en": "A higher cost of money raises the return that investors demand from grid projects, which matters for regulated businesses with heavy investment plans.",
+        "es": "Un mayor coste del dinero eleva la rentabilidad que exigen los inversores a los proyectos de red, algo importante para negocios regulados con grandes planes de inversión."
+      },
+      "source": {
+        "name": "StockTitan",
+        "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+      }
+    },
+    {
+      "id": "economia-3",
+      "section": "economia",
+      "title": {
+        "es": "La productividad de EE.UU. sorprende antes del dato de empleo de hoy",
+        "en": "US productivity surprises ahead of today's jobs report"
+      },
+      "body": {
+        "en": "US productivity grew 3.6% in the third quarter and unit labour costs fell 0.7%, while jobless claims dropped to 189,000. Those figures ease some inflation worries just before the October payrolls report, with a consensus of about 65,000 new jobs.",
+        "es": "La productividad de EE.UU. creció un 3,6 % en el tercer trimestre y los costes laborales unitarios cayeron un 0,7 %, mientras que las peticiones de subsidio bajaron a 189.000. Esos datos alivian en parte la preocupación por la inflación justo antes del informe de empleo de octubre, con un consenso de unos 65.000 nuevos puestos."
+      },
+      "source": {
+        "name": "CappNotes",
+        "url": "https://cappnotes.substack.com/p/closing-look-thursday-november-5"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "EE.UU.: informe de empleo de octubre a las 14:30 (hora de Madrid); el consenso espera unos 65.000 puestos y un paro del 4,2 %.",
+      "en": "US: October jobs report at 14:30 Madrid time, with a consensus of about 65,000 jobs and 4.2% unemployment."
+    },
+    {
+      "es": "Bolsas: si Wall Street estabiliza o prolonga la caída, con Vistra, productora de electricidad ligada a los centros de datos, entre las empresas que presentan resultados.",
+      "en": "Stocks: whether Wall Street steadies or keeps falling, with Vistra, a power producer tied to data centres, among the companies reporting results."
+    },
+    {
+      "es": "Irán: si hay respuesta a las propuestas de los mediadores de Catar o nuevos incidentes en Ormuz.",
+      "en": "Iran: whether there is a reply to the Qatari mediators' proposals, or further incidents in Hormuz."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "dumped",
+      "translation": "se deshicieron de, vendieron en masa",
+      "pos": "verb",
+      "example": "Traders dumped the shares after the warning."
+    },
+    {
+      "term": "build-out",
+      "translation": "despliegue, construcción a gran escala",
+      "pos": "noun",
+      "example": "The build-out of fast chargers will take years."
+    },
+    {
+      "term": "gloom",
+      "translation": "pesimismo",
+      "pos": "noun",
+      "example": "The results added to the gloom among investors."
+    },
+    {
+      "term": "reckon",
+      "translation": "calculan, creen",
+      "pos": "verb",
+      "example": "Analysts reckon that demand will recover next year."
+    },
+    {
+      "term": "at risk",
+      "translation": "en riesgo",
+      "pos": "phrase",
+      "example": "Thousands of jobs are at risk."
+    },
+    {
+      "term": "rested on",
+      "translation": "se apoyaba en",
+      "pos": "phrasal verb",
+      "example": "The forecast rested on cheap energy."
+    },
+    {
+      "term": "valuations",
+      "translation": "valoraciones",
+      "pos": "noun",
+      "example": "Valuations look stretched after the rally."
+    },
+    {
+      "term": "flaws",
+      "translation": "fallos, defectos",
+      "pos": "noun",
+      "example": "The audit found serious flaws in the system."
+    },
+    {
+      "term": "exploits",
+      "translation": "programas que aprovechan una vulnerabilidad",
+      "pos": "noun",
+      "example": "Researchers wrote exploits to prove the bug was real."
+    },
+    {
+      "term": "uncovered",
+      "translation": "descubrió, sacó a la luz",
+      "pos": "verb",
+      "example": "The review uncovered several errors."
+    },
+    {
+      "term": "misalignment",
+      "translation": "desalineación (cuando una IA actúa contra lo previsto)",
+      "pos": "noun",
+      "example": "Engineers test the model for signs of misalignment."
+    },
+    {
+      "term": "tooling",
+      "translation": "herramientas, utillaje",
+      "pos": "noun",
+      "example": "Better tooling saves developers hours each week."
+    },
+    {
+      "term": "at short notice",
+      "translation": "con poco margen, con poco preaviso",
+      "pos": "phrase",
+      "example": "The meeting was cancelled at short notice."
+    },
+    {
+      "term": "switch off",
+      "translation": "apagar",
+      "pos": "phrasal verb",
+      "example": "They will switch off the old system in March."
+    },
+    {
+      "term": "carry on",
+      "translation": "continuar",
+      "pos": "phrasal verb",
+      "example": "The work will carry on through the winter."
+    },
+    {
+      "term": "rolling out",
+      "translation": "desplegando, lanzando de forma gradual",
+      "pos": "phrasal verb",
+      "example": "The bank is rolling out the app across Europe."
+    },
+    {
+      "term": "lawmaker",
+      "translation": "legislador",
+      "pos": "noun",
+      "example": "One lawmaker proposed an amendment."
+    },
+    {
+      "term": "pricing in",
+      "translation": "descontando (en el precio)",
+      "pos": "phrasal verb",
+      "example": "Markets are pricing in two rate rises."
+    },
+    {
+      "term": "tugboat",
+      "translation": "remolcador",
+      "pos": "noun",
+      "example": "A tugboat guided the ship into port."
+    },
+    {
+      "term": "feeds straight into",
+      "translation": "repercute directamente en",
+      "pos": "phrase",
+      "example": "The cost of gas feeds straight into power bills."
+    },
+    {
+      "term": "shadow fleet",
+      "translation": "flota en la sombra",
+      "pos": "noun",
+      "example": "The shadow fleet moves sanctioned oil around the world."
+    },
+    {
+      "term": "stepped down",
+      "translation": "dimitió, dejó el cargo",
+      "pos": "phrasal verb",
+      "example": "The chairman stepped down after the vote."
+    },
+    {
+      "term": "impeach",
+      "translation": "destituir mediante juicio político",
+      "pos": "verb",
+      "example": "Parliament moved to impeach the minister."
+    },
+    {
+      "term": "lender",
+      "translation": "entidad de crédito",
+      "pos": "noun",
+      "example": "The lender tightened its mortgage criteria."
+    },
+    {
+      "term": "in short supply",
+      "translation": "escaso",
+      "pos": "phrase",
+      "example": "Skilled electricians are in short supply."
+    },
+    {
+      "term": "queuing",
+      "translation": "haciendo cola",
+      "pos": "verb",
+      "example": "Developers are queuing for a grid connection."
+    },
+    {
+      "term": "hoax",
+      "translation": "falso, engaño",
+      "pos": "noun",
+      "example": "The call turned out to be a hoax."
+    },
+    {
+      "term": "unscheduled",
+      "translation": "no previsto",
+      "pos": "adjective",
+      "example": "The plane made an unscheduled stop."
+    },
+    {
+      "term": "staged",
+      "translation": "llevaron a cabo, organizaron",
+      "pos": "verb",
+      "example": "Workers staged a walkout on Friday."
+    },
+    {
+      "term": "clashes",
+      "translation": "enfrentamientos",
+      "pos": "noun",
+      "example": "There were clashes outside the parliament."
+    },
+    {
+      "term": "rigged",
+      "translation": "amañados",
+      "pos": "adjective",
+      "example": "The inquiry looks at whether the tenders were rigged."
+    },
+    {
+      "term": "overturn",
+      "translation": "anular, revocar",
+      "pos": "verb",
+      "example": "The court may overturn the decision."
+    },
+    {
+      "term": "submissions",
+      "translation": "alegaciones, aportaciones",
+      "pos": "noun",
+      "example": "The regulator received many submissions on the draft."
+    },
+    {
+      "term": "upgrading",
+      "translation": "repotenciación, mejora",
+      "pos": "noun",
+      "example": "The upgrading of the line will raise its capacity."
+    },
+    {
+      "term": "holding back",
+      "translation": "frenando",
+      "pos": "phrasal verb",
+      "example": "High costs are holding back investment."
+    },
+    {
+      "term": "slipped",
+      "translation": "cedieron, bajaron un poco",
+      "pos": "verb",
+      "example": "Shares slipped at the open."
+    },
+    {
+      "term": "pipeline",
+      "translation": "cartera de proyectos",
+      "pos": "noun",
+      "example": "The firm has a strong pipeline of solar projects."
+    },
+    {
+      "term": "trimming",
+      "translation": "recortando",
+      "pos": "verb",
+      "example": "The company is trimming its forecast."
+    },
+    {
+      "term": "unit labour costs",
+      "translation": "costes laborales unitarios",
+      "pos": "noun",
+      "example": "Unit labour costs rose faster than prices."
+    },
+    {
+      "term": "payrolls",
+      "translation": "nóminas; empleo (dato de empleo de EE.UU.)",
+      "pos": "noun",
+      "example": "Payrolls grew more slowly than expected."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Investors dumped chip stocks on Thursday, fearing that the Democrats' win in Congress and local opposition to data centres will slow the AI build-out.",
+      "es": "Los inversores se deshicieron de acciones de chips el jueves, por el temor a que la victoria demócrata en el Congreso y la oposición local a los centros de datos frenen el despliegue de la IA."
+    },
+    {
+      "en": "Micron lost 17.46%, AMD 17.26% and Nvidia 9.26%, while Qualcomm's weak phone-chip sales added to the gloom.",
+      "es": "Micron perdió un 17,46 %, AMD un 17,26 % y Nvidia un 9,26 %, y las flojas ventas de chips para móviles de Qualcomm agravaron el pesimismo."
+    },
+    {
+      "en": "UBS strategists reckon that about 30% of the data-centre capacity expected in 2028 is now at risk, according to Reuters as cited by StockTitan.",
+      "es": "Los estrategas de UBS calculan que cerca del 30 % de la capacidad de centros de datos prevista para 2028 está ahora en riesgo, según Reuters, citada por StockTitan."
+    },
+    {
+      "en": "Much of the rally rested on the assumption that data centres would keep getting built, so politics has become a direct risk to AI valuations.",
+      "es": "Buena parte de las subidas se apoyaba en la idea de que se seguirían construyendo centros de datos, así que la política se ha convertido en un riesgo directo para las valoraciones de la IA."
+    },
+    {
+      "en": "OpenAI unveiled GPT-6 Cyber on Thursday, initially for a small group of customers in its Daybreak Red offensive-testing programme, with wider access promised over the coming weeks.",
+      "es": "OpenAI presentó GPT-6 Cyber el jueves, de entrada para un grupo reducido de clientes de su programa de pruebas ofensivas Daybreak Red, y promete ampliar el acceso en las próximas semanas."
+    },
+    {
+      "en": "The company says the model uncovered at least 81 high-severity Firefox flaws and produced working exploits for 948 Linux kernel vulnerabilities, 588 of them previously unknown.",
+      "es": "La empresa afirma que el modelo descubrió al menos 81 fallos graves en Firefox y creó exploits funcionales para 948 vulnerabilidades del kernel de Linux, 588 de ellas desconocidas hasta entonces."
+    },
+    {
+      "en": "Those figures come from OpenAI, which says the flaws were reported and fixed, and it has added stricter identity checks and misalignment monitoring.",
+      "es": "Esas cifras proceden de la propia OpenAI, que dice que los fallos se comunicaron y corrigieron, y ha añadido controles de identidad más estrictos y vigilancia de desalineación."
+    },
+    {
+      "en": "Gartner expects AI cybersecurity spending to almost double this year to $51.3 billion, so the same tools that find bugs are turning into a large business.",
+      "es": "Gartner prevé que el gasto en ciberseguridad con IA casi se duplique este año, hasta 51.300 millones de dólares, de modo que las mismas herramientas que encuentran fallos se están convirtiendo en un gran negocio."
+    },
+    {
+      "en": "Meta has acquired Conductor, a company founded in 2024 whose software runs teams of AI coding agents in parallel, without disclosing the price.",
+      "es": "Meta ha adquirido Conductor, una empresa fundada en 2024 cuyo software hace trabajar en paralelo a equipos de agentes de programación con IA, sin revelar el precio."
+    },
+    {
+      "en": "Conductor will switch off its cloud service on 20 November and delete users' cloud data afterwards, while its core features will carry on until early next year.",
+      "es": "Conductor apagará su servicio en la nube el 20 de noviembre y después borrará los datos de los usuarios en ella, mientras que sus funciones principales seguirán hasta principios del año que viene."
+    },
+    {
+      "en": "Big AI labs are buying the tooling around their models, and customers of small startups can lose a product at short notice.",
+      "es": "Los grandes laboratorios de IA están comprando las herramientas que rodean a sus modelos, y los clientes de pequeñas startups pueden perder un producto con poco margen."
+    },
+    {
+      "en": "Anthropic has added hooks that send prompts and tool calls to security vendors, plus a beta security centre that compares a company's settings with its recommendations.",
+      "es": "Anthropic ha añadido enlaces que envían las peticiones y las llamadas a herramientas a proveedores de seguridad, además de un centro de seguridad en beta que compara la configuración de una empresa con sus recomendaciones."
+    },
+    {
+      "en": "It is also rolling out text watermarks to older Claude models, with a further wave due from 16 November, ahead of an EU AI Act transparency deadline in December.",
+      "es": "También está extendiendo las marcas de agua de texto a modelos de Claude más antiguos, con una nueva tanda a partir del 16 de noviembre, antes de que venza en diciembre un plazo de transparencia de la ley europea de IA."
+    },
+    {
+      "en": "These details come from a secondary digest, as the Anthropic release notes could not be checked this morning.",
+      "es": "Estos detalles proceden de un resumen secundario, porque esta mañana no se han podido comprobar las notas de versión de Anthropic."
+    },
+    {
+      "en": "Representative Yassamin Ansari has called for a pause on advanced AI development, tighter regulation and a ban on artificial superintelligence.",
+      "es": "La congresista Yassamin Ansari ha pedido una pausa en el desarrollo de la IA avanzada, una regulación más estricta y la prohibición de la superinteligencia artificial."
+    },
+    {
+      "en": "It is one lawmaker's position rather than party policy, but it landed on the very day markets were pricing in tougher rules.",
+      "es": "Es la postura de una legisladora y no la política de su partido, pero llegó justo el día en que los mercados descontaban normas más duras."
+    },
+    {
+      "en": "Iranian forces say five oil tankers and a tugboat caught fire in separate incidents around the Strait of Hormuz, and they attribute several of them to mines.",
+      "es": "Las fuerzas iraníes dicen que cinco petroleros y un remolcador se incendiaron en distintos incidentes en torno al estrecho de Ormuz, y atribuyen varios de ellos a minas."
+    },
+    {
+      "en": "The New York Times, citing unnamed Pentagon officials, reports that thousands of US troops are ready to resume major combat operations if Trump gives the order, while Qatar says both sides are reviewing mediators' proposals.",
+      "es": "The New York Times, citando a fuentes anónimas del Pentágono, informa de que miles de soldados de EE.UU. están listos para reanudar grandes operaciones de combate si Trump lo ordena, mientras que Catar dice que ambas partes estudian las propuestas de los mediadores."
+    },
+    {
+      "en": "The strait normally carries about a fifth of the world's oil, so each incident feeds straight into energy prices and inflation.",
+      "es": "Por el estrecho pasa normalmente cerca de una quinta parte del petróleo mundial, así que cada incidente repercute de lleno en los precios de la energía y en la inflación."
+    },
+    {
+      "en": "Trump accepted that the war with Iran largely explains his party's midterm losses, pointing to petrol prices, yet insisted he would have gone ahead anyway.",
+      "es": "Trump aceptó que la guerra con Irán explica en gran parte las pérdidas de su partido en las legislativas, y señaló el precio de la gasolina, pero insistió en que habría seguido adelante de todos modos."
+    },
+    {
+      "en": "He told the Financial Times that he has no immediate plans to order new strikes, while Washington sanctioned a network linked to Iran's shadow fleet.",
+      "es": "Dijo al Financial Times que no tiene planes inmediatos de ordenar nuevos ataques, mientras Washington sancionaba a una red vinculada a la flota en la sombra de Irán."
+    },
+    {
+      "en": "Santiago Peña stepped down on Thursday, just before the lower house voted unanimously to impeach him, two days after the central bank took over Ueno Bank.",
+      "es": "Santiago Peña dimitió el jueves, justo antes de que la Cámara de Diputados votara por unanimidad su destitución, dos días después de que el banco central interviniera Ueno Bank."
+    },
+    {
+      "en": "The lender had close to three million customers in a country where it claimed more than 60% of adults, and it held about $800 million in public deposits.",
+      "es": "La entidad tenía cerca de tres millones de clientes en un país en el que decía contar con más del 60 % de los adultos, y guardaba unos 800 millones de dólares en depósitos públicos."
+    },
+    {
+      "en": "It shows how a single fast-growing digital bank can become big enough to bring down a government.",
+      "es": "Muestra cómo un solo banco digital de rápido crecimiento puede hacerse lo bastante grande como para tumbar a un gobierno."
+    },
+    {
+      "en": "At the Ibero-American Summit, the first with Ukraine represented, Zelenskyy asked leaders for transformers, cables and generators.",
+      "es": "En la Cumbre Iberoamericana, la primera con representación de Ucrania, Zelenski pidió a los líderes transformadores, cables y generadores."
+    },
+    {
+      "en": "Trilateral talks with Russia and the US are due to resume next week in the United Arab Emirates, and Melania Trump hosted Russian and Ukrainian officials at the White House on Thursday.",
+      "es": "Las conversaciones a tres bandas con Rusia y EE.UU. deben reanudarse la semana que viene en Emiratos Árabes Unidos, y Melania Trump recibió el jueves a responsables rusos y ucranianos en la Casa Blanca."
+    },
+    {
+      "en": "Transformers are in short supply worldwide, so Ukraine's request competes with the same equipment that European grid operators are queuing for.",
+      "es": "Los transformadores escasean en todo el mundo, de modo que la petición de Ucrania compite por el mismo equipo por el que hacen cola los operadores de red europeos."
+    },
+    {
+      "en": "At least 27 passenger flights between Ireland and Bulgaria received hoax bomb threats on Thursday, the second wave this week.",
+      "es": "Al menos 27 vuelos de pasajeros, de Irlanda a Bulgaria, recibieron falsas amenazas de bomba el jueves, en la segunda oleada de la semana."
+    },
+    {
+      "en": "Some aircraft made unscheduled landings, and fighter jets escorted or intercepted others.",
+      "es": "Algunos aviones hicieron aterrizajes no previstos, y cazas escoltaron o interceptaron a otros."
+    },
+    {
+      "en": "Some public-sector workers staged a one-day strike in France on Thursday, with marches across the country and some clashes with police in Paris and Lyon.",
+      "es": "Parte de los empleados públicos franceses hizo una huelga de un día el jueves, con marchas por todo el país y algunos choques con la policía en París y Lyon."
+    },
+    {
+      "en": "The Civil Guard's UCO unit searched the home of former minister José Luis Ábalos and asked the rail agency Adif for details of contracts it suspects were rigged, with six people detained, according to EFE.",
+      "es": "La UCO de la Guardia Civil registró el domicilio del exministro José Luis Ábalos y pidió a Adif datos de contratos que sospecha que fueron amañados, con seis detenidos, según EFE."
+    },
+    {
+      "en": "Ábalos has separately asked the Constitutional Court to overturn his conviction, and the new searches are at the investigation stage, with no ruling on them.",
+      "es": "Por otra parte, Ábalos ha pedido al Tribunal Constitucional que anule su condena, y los nuevos registros están en fase de investigación, sin ninguna resolución sobre ellos."
+    },
+    {
+      "en": "King Felipe VI, Pedro Sánchez, Javier Milei and Zelenskyy all spoke at the 30th summit, whose final declaration addresses artificial intelligence and civil protection.",
+      "es": "El rey Felipe VI, Pedro Sánchez, Javier Milei y Zelenski intervinieron en la XXX cumbre, cuya declaración final aborda la inteligencia artificial y la protección civil."
+    },
+    {
+      "en": "EFE described the greeting between Sánchez and Milei as cold.",
+      "es": "EFE describió como frío el saludo entre Sánchez y Milei."
+    },
+    {
+      "en": "The minimum wage will go up by 5.3% next year to €1,286 gross a month, EFE reports.",
+      "es": "El salario mínimo subirá un 5,3 % el año que viene, hasta 1.286 euros brutos al mes, informa EFE."
+    },
+    {
+      "en": "Unions had been demanding at least 7%.",
+      "es": "Los sindicatos reclamaban al menos un 7 %."
+    },
+    {
+      "en": "The Electoral Board has cleared the electronic ID card for voting in the 29 November general election.",
+      "es": "La Junta Electoral ha autorizado el uso del DNI electrónico para votar en las elecciones generales del 29 de noviembre."
+    },
+    {
+      "en": "Carlos Cuerpo, who has just taken over the transport ministry, faces three days of rail strikes after the Urda accident in Toledo.",
+      "es": "Carlos Cuerpo, que acaba de asumir el Ministerio de Transportes, afronta tres días de huelga ferroviaria tras el accidente de Urda, en Toledo."
+    },
+    {
+      "en": "Energy secretary Joan Groizard reviewed the revised plan with the regional government, following 2,566 submissions during the public hearing.",
+      "es": "El secretario de Estado de Energía, Joan Groizard, repasó la propuesta revisada con el gobierno regional, tras recibir 2.566 alegaciones en la audiencia pública."
+    },
+    {
+      "en": "For the region it includes 15 new substations, 191 km of new lines and the upgrading of 1,553 km of existing ones.",
+      "es": "Para la región incluye 15 nuevas subestaciones, 191 km de líneas nuevas y la repotenciación de 1.553 km de las existentes."
+    },
+    {
+      "en": "The region's government complains that a lack of grid capacity is holding back industry and housing.",
+      "es": "El gobierno regional se queja de que la falta de capacidad de red está frenando la industria y la vivienda."
+    },
+    {
+      "en": "This is the transmission plan run by Red Eléctrica, but new substations and demand decide where distributors such as i-DE will have to invest next.",
+      "es": "Es el plan de la red de transporte que gestiona Red Eléctrica, pero las nuevas subestaciones y la demanda determinan dónde tendrán que invertir después distribuidoras como i-DE."
+    },
+    {
+      "en": "Spain's regulated tariff averages €245.63/MWh today, 2.91% more than on Thursday, with a peak of €300.67/MWh between 18:00 and 19:00.",
+      "es": "La tarifa regulada española promedia hoy 245,63 €/MWh, un 2,91 % más que el jueves, con un máximo de 300,67 €/MWh entre las 18:00 y las 19:00."
+    },
+    {
+      "en": "The cheapest hour is 12:00 to 13:00, at €195.15/MWh.",
+      "es": "La hora más barata es de 12:00 a 13:00, a 195,15 €/MWh."
+    },
+    {
+      "en": "US utilities slipped just 0.71% on Thursday against an 8% fall for technology, while GE Vernova lost 7.48% on worries about the data-centre pipeline.",
+      "es": "Las utilities de EE.UU. solo cedieron un 0,71 % el jueves, frente al 8 % que cayó la tecnología, mientras que GE Vernova perdió un 7,48 % por las dudas sobre los proyectos de centros de datos."
+    },
+    {
+      "en": "Iberdrola's closing price could not be confirmed in the sources checked.",
+      "es": "No se ha podido confirmar el cierre de Iberdrola en las fuentes consultadas."
+    },
+    {
+      "en": "Regulated networks earn a return that does not depend on AI demand, which is why they often behave defensively in a sell-off.",
+      "es": "Las redes reguladas obtienen una retribución que no depende de la demanda de la IA, y por eso suelen comportarse de forma defensiva en una caída."
+    },
+    {
+      "en": "The IBEX 35 rose 0.59% to 19,486, helped by Rovi, up 8.31% after a 67% jump in nine-month profit, and by banks such as BBVA.",
+      "es": "El IBEX 35 subió un 0,59 %, hasta 19.486 puntos, ayudado por Rovi, que ganó un 8,31 % tras disparar un 67 % su beneficio a nueve meses, y por bancos como BBVA."
+    },
+    {
+      "en": "The Spanish index has little exposure to chipmakers, though Indra fell 3.94% and the wider STOXX 600 lost 0.38%.",
+      "es": "El índice español apenas está expuesto a los fabricantes de chips, aunque Indra cayó un 3,94 % y el conjunto del STOXX 600 perdió un 0,38 %."
+    },
+    {
+      "en": "The Bank of England raised its main rate by a quarter point to 4%, its first increase since 2023, on an 8-1 vote, with Andrew Bailey saying that ending the Middle East conflict would be the best outcome.",
+      "es": "El Banco de Inglaterra subió un cuarto de punto su tipo principal, hasta el 4 %, su primera subida desde 2023, por 8 votos a 1, y Andrew Bailey dijo que el mejor resultado sería el fin del conflicto en Oriente Medio."
+    },
+    {
+      "en": "Mexico's central bank went the other way, trimming its rate to 6.25%, and markets now see roughly a two-in-three chance of a Fed hike in December, down from about 83% on Wednesday.",
+      "es": "El banco central de México fue en sentido contrario y recortó su tipo al 6,25 %, y los mercados ven ahora cerca de dos posibilidades entre tres de que la Fed suba en diciembre, frente a alrededor del 83 % del miércoles."
+    },
+    {
+      "en": "A higher cost of money raises the return that investors demand from grid projects, which matters for regulated businesses with heavy investment plans.",
+      "es": "Un mayor coste del dinero eleva la rentabilidad que exigen los inversores a los proyectos de red, algo importante para negocios regulados con grandes planes de inversión."
+    },
+    {
+      "en": "US productivity grew 3.6% in the third quarter and unit labour costs fell 0.7%, while jobless claims dropped to 189,000.",
+      "es": "La productividad de EE.UU. creció un 3,6 % en el tercer trimestre y los costes laborales unitarios cayeron un 0,7 %, mientras que las peticiones de subsidio bajaron a 189.000."
+    },
+    {
+      "en": "Those figures ease some inflation worries just before the October payrolls report, with a consensus of about 65,000 new jobs.",
+      "es": "Esos datos alivian en parte la preocupación por la inflación justo antes del informe de empleo de octubre, con un consenso de unos 65.000 nuevos puestos."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "correction",
+    "pos": "noun",
+    "translation": "corrección (de mercado)",
+    "definition_en": "A fall of at least 10% in a share index or asset from its recent high, usually seen as less severe than a bear market.",
+    "example_en": "The Nasdaq closed in correction territory after a brutal day for chipmakers.",
+    "example_es": "El Nasdaq cerró en zona de corrección tras un día brutal para los fabricantes de chips."
+  },
+  "recommendations": [
+    {
+      "id": "morgan-stanley-thoughts-solving-ai-power-bottleneck",
+      "type": "podcast",
+      "title": "Solving AI's Power Bottleneck",
+      "speaker": "Andrew Percoco y David Arcaro",
+      "outlet": "Thoughts on the Market (Morgan Stanley)",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "IA",
+        "energía",
+        "baterías"
+      ],
+      "summary": "Episodio del 3 de noviembre sobre el déficit de electricidad para la IA, que calculan en unos 80 GW en 2029, y el papel de las baterías en los centros de datos. Búscalo en la lista de episodios de la página.",
+      "why": "Es el otro lado de la caída de ayer: mientras el mercado teme que se frene la construcción, aquí se explica por qué la red sigue siendo el cuello de botella.",
+      "url": "https://www.morganstanley.com/insights/podcasts/thoughts-on-the-market"
+    },
+    {
+      "id": "morgan-stanley-thoughts-midterm-three-takeaways",
+      "type": "podcast",
+      "title": "Midterm Election Results: Three Key Takeaways",
+      "speaker": "Ariana Salvatore",
+      "outlet": "Thoughts on the Market (Morgan Stanley)",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "política",
+        "economía",
+        "mercados"
+      ],
+      "summary": "Episodio del 4 de noviembre con tres conclusiones de las elecciones legislativas para los inversores. Tiene transcripción en la propia página.",
+      "why": "Ayuda a entender por qué un resultado electoral puede mover tanto las bolsas, y la transcripción viene bien para seguirlo en inglés.",
+      "url": "https://www.morganstanley.com/insights/podcasts/thoughts-on-the-market"
+    },
+    {
+      "id": "fool-hidden-gems-wall-street-turning-on-ai",
+      "type": "podcast",
+      "title": "Is Wall Street Turning on AI?",
+      "speaker": "Travis Hoium, Jason Hall y Asit Sharma",
+      "outlet": "Hidden Gems (The Motley Fool)",
+      "duration_min": 41,
+      "language": "en",
+      "topics": [
+        "IA",
+        "bolsa",
+        "inversión"
+      ],
+      "summary": "Conversación del 30 de octubre sobre la caída de Alphabet, el flujo de caja de las grandes tecnológicas, la salida a bolsa de Anthropic y los riesgos de la infraestructura de IA.",
+      "why": "Se grabó una semana antes del desplome y permite ver qué dudas ya estaban sobre la mesa.",
+      "url": "https://www.fool.com/podcasts/hidden-gems/2026-10-30-is-wall-street-turning-on-ai/"
+    },
+    {
+      "id": "latitude-open-circuit-ai-selloff-clean-energy",
+      "type": "article",
+      "title": "The AI stock selloff hits clean energy",
+      "speaker": "Stephen Lacey con Caroline Golin (NRG) y Jigar Shah (Multiplier)",
+      "outlet": "Latitude Media (Open Circuit)",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "energía",
+        "IA",
+        "financiación"
+      ],
+      "summary": "Transcripción de un episodio del 27 de octubre sobre cómo las dudas con la IA afectan a la energía limpia: salidas a bolsa aparcadas, necesidades de ingresos y rechazo social a los centros de datos.",
+      "why": "Conecta directamente el mercado de la IA con la financiación de proyectos energéticos, un tema cercano a tu trabajo en inversiones.",
+      "url": "https://www.latitudemedia.com/news/the-ai-stock-selloff-hits-clean-energy/"
+    },
+    {
+      "id": "miteco-planificacion-2030-castilla-la-mancha",
+      "type": "article",
+      "title": "Reunión del MITECO y Castilla-La Mancha sobre la nueva propuesta de planificación eléctrica a 2030",
+      "speaker": "Joan Groizard y María Mercedes Gómez",
+      "outlet": "MITECO",
+      "duration_min": 3,
+      "language": "es",
+      "topics": [
+        "redes",
+        "regulación",
+        "planificación"
+      ],
+      "summary": "Nota oficial del 4 de noviembre con las cifras de la propuesta tras las alegaciones: subestaciones, líneas y capacidad de acceso para demanda, renovables y almacenamiento.",
+      "why": "Fuente primaria y breve para familiarizarte con el vocabulario de la planificación de la red, útil para tus prácticas.",
+      "url": "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2026/noviembre/reunion-del-miteco-y-castilla-la-mancha-para-tratar-la-nueva-pro.html"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Peor día de Wall Street desde abril de 2025: el S&P 500 cayó un 4,36 % y el Nasdaq, un 5,52 %, con lo que entra en corrección (cerca de un 12 % por debajo de su récord). El temor es que el Congreso demócrata y la oposición local frenen los centros de datos, y los chips lo pagaron: el sector tecnológico del S&P bajó un 8 %. Keith Lerner (Truist) señala que el tamaño de la caída ya contagia al resto del mercado, y Paul Mueller (AIER) ve en la deuda la principal preocupación. Europa resistió mejor y el IBEX subió un 0,59 %. El Brent rebotó hasta los 98 dólares por los incidentes en Ormuz, y el VIX se disparó hasta 28. Datos del cierre del jueves 5 de noviembre. El Brent es el precio de liquidación (otras fuentes dan unos 97 dólares al cierre europeo). No se encontró el nivel del Euro Stoxx 50 ni el cierre de Iberdrola, y la variación del euro no era fiable.",
+      "en": "Wall Street had its worst day since April 2025: the S&P 500 fell 4.36% and the Nasdaq 5.52%, putting it in correction territory, about 12% below its record. The fear is that a Democratic Congress and local opposition will slow data centres, and chips paid the price, with the S&P's technology sector down 8%. Keith Lerner of Truist says the size of the drop is now spreading to the wider market, and Paul Mueller of AIER sees debt as the main worry. Europe held up better, and the IBEX rose 0.59%. Brent rebounded to $98 on the Hormuz incidents, and the VIX jumped to 28. Figures are from Thursday's close on 5 November. Brent is the settlement price, and other sources show about $97 at the European close. The Euro Stoxx 50 level and Iberdrola's close could not be found, and the euro's percentage change was not reliable."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35",
+        "value": 19486,
+        "change_pct": 0.59
+      },
+      {
+        "name": "STOXX Europe 600",
+        "value": 654.87,
+        "change_pct": -0.38
+      },
+      {
+        "name": "S&P 500",
+        "value": 7353.73,
+        "change_pct": -4.36
+      },
+      {
+        "name": "Nasdaq Composite",
+        "value": 24315.0,
+        "change_pct": -5.52
+      },
+      {
+        "name": "Dow Jones",
+        "value": 51523.06,
+        "change_pct": -3.44
+      },
+      {
+        "name": "VIX",
+        "value": 28.18,
+        "change_pct": 69.66
+      },
+      {
+        "name": "Brent (USD/barril)",
+        "value": 98.29,
+        "change_pct": 3.8
+      },
+      {
+        "name": "Oro (USD/onza, aprox.)",
+        "value": 4098,
+        "change_pct": 0.61
+      },
+      {
+        "name": "EUR/USD",
+        "value": 1.1222,
+        "change_pct": null
+      },
+      {
+        "name": "Bitcoin (USD, aprox.)",
+        "value": 75855,
+        "change_pct": -5.66
+      }
+    ],
+    "learn": {
+      "concept": "Beta y acciones defensivas",
+      "explanation": "La beta mide cuánto se mueve una acción respecto al mercado. Con beta 1 se mueve como el índice; con 0,5, aproximadamente la mitad; con 2, el doble. Ayer se vio bien: la tecnología cayó un 8 % y las utilities de EE.UU. solo un 0,71 %, porque buena parte de sus ingresos está regulada y es poco sensible al ciclo. La beta también importa para tu trabajo, porque entra en el cálculo del coste del capital (CAPM), y este en el WACC. Ejemplo inventado: con un tipo sin riesgo del 3 %, una prima de mercado del 5 % y beta 0,6, el coste del capital propio sería 3 % + 0,6 × 5 % = 6 %. Con beta 1,5 sería del 10,5 %. Por eso un negocio más estable puede financiarse más barato."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
