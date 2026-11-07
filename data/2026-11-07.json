@@ -1,0 +1,1013 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T07:05:47+01:00",
+  "last_updated": "2026-11-07T07:05:47+01:00",
+  "headline": {
+    "es": "EE.UU. vuelve a atacar defensas aéreas iraníes mientras Catar propone un «acuerdo puente» para reabrir Ormuz. En los mercados, los chips rebotan tras el desplome y un empleo mucho mejor de lo esperado acerca una subida de tipos de la Fed en diciembre.",
+    "en": "The US struck Iranian air defences again as Qatar proposed a 'bridge deal' to reopen Hormuz. In markets, chip stocks bounced after their rout, and much stronger-than-expected US jobs data made a December Fed hike more likely."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "Una revisión externa concluye que la investigación en IA de Anthropic se está acelerando",
+        "en": "An outside review says Anthropic's AI research is speeding up"
+      },
+      "body": {
+        "es": "METR, un evaluador independiente, calcula que Anthropic mejora ahora las capacidades de la IA a aproximadamente el doble de ritmo que antes. Revisó datos internos del 12 de agosto al 29 de octubre y vio que las herramientas de IA ayudan a la plantilla a programar y a analizar experimentos. La mayor parte de las pruebas clave del informe, de unas 100 páginas, está tachada, algo que Anthropic justifica para proteger información confidencial.",
+        "en": "METR, an independent evaluator, estimates that Anthropic is now improving AI capabilities at roughly twice its earlier pace. It reviewed internal data from 12 August to 29 October and found AI tools helping staff with coding and with analysing experiments. Most of the key evidence in the roughly 100-page report is redacted, which Anthropic says protects confidential information."
+      },
+      "why_it_matters": {
+        "es": "Llega días después de que el folleto de salida a bolsa de Anthropic advirtiera de que podría alcanzar pronto su propio umbral de aceleración impulsada por la IA, así que la revisión externa de esa afirmación pesa de verdad.",
+        "en": "It comes days after Anthropic's IPO filing warned that it may soon reach its own threshold for AI-driven acceleration, so outside scrutiny of that claim now carries real weight."
+      },
+      "source": {
+        "name": "METR",
+        "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "El Departamento de Justicia de EE.UU. crea un grupo especial sobre «superinteligencia»",
+        "en": "The US Justice Department sets up a 'Super Intelligence' task force"
+      },
+      "body": {
+        "es": "El fiscal general Todd Blanche anunció un grupo de trabajo para perseguir el mal uso de la IA avanzada por parte de Estados extranjeros, redes criminales y empresas. Lo copresidirán dos altos cargos, Stanley Woodward y Stephen Weiss, y absorberá la unidad de litigios sobre IA que ya tenía el departamento.",
+        "en": "Attorney General Todd Blanche announced a task force to prosecute the misuse of advanced AI by foreign states, criminal networks and companies. It will be co-chaired by two senior officials, Stanley Woodward and Stephen Weiss, and will absorb the department's existing AI litigation unit."
+      },
+      "why_it_matters": {
+        "es": "Indica que Washington quiere vigilar la IA a través de procesos judiciales, no solo con nuevas leyes.",
+        "en": "It signals that Washington wants to police AI through prosecutions, not only through new laws."
+      },
+      "source": {
+        "name": "The Neuron",
+        "url": "https://www.theneuron.ai/news/doj-super-intelligence-task-force-explained/"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "Thinking Machines busca 5.000 millones y lanza un nuevo modelo",
+        "en": "Thinking Machines seeks $5bn and releases a new open model"
+      },
+      "body": {
+        "es": "La startup de Mira Murati estaría captando 5.000 millones de dólares, liderados por Accel, con una valoración de 40.000 millones antes de la nueva inversión, casi el triple que el año pasado, y Nvidia negocia aportar unos 2.500 millones. También ha lanzado Inkling 2 Small, un modelo con 594.000 millones de parámetros, de los que solo unos 17.000 millones se activan en cada petición. Los pesos se publicarán cuando terminen las pruebas de seguridad.",
+        "en": "Mira Murati's start-up is reportedly raising $5bn led by Accel at a $40bn valuation before the new money, roughly triple last year's figure, with Nvidia in talks to put in about $2.5bn. It also released Inkling 2 Small, a model with 594 billion parameters of which only about 17 billion are active for each request. The weights will be published once safety testing is finished."
+      },
+      "why_it_matters": {
+        "es": "Incluso en plena caída de la bolsa, los inversores siguen pagando caro por los grandes laboratorios de IA.",
+        "en": "Even in the middle of a sell-off, investors are still paying up for top AI labs."
+      },
+      "source": {
+        "name": "Thinking Machines",
+        "url": "https://thinkingmachines.ai/news/inkling-2-small/"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "Los chips recuperan parte del desplome del jueves",
+        "en": "Chip stocks claw back part of Thursday's rout"
+      },
+      "body": {
+        "es": "Las acciones de semiconductores rebotaron el viernes tras su peor día en años: AMD subió un 11,04 %, Intel un 7,71 % y Nvidia un 2,78 %. De media, los grandes fabricantes recuperaron cerca de un tercio de lo perdido, y Lam Research se disparó un 8,23 % tras anunciar una recompra de acciones de 25.000 millones de dólares. Una estratega de Jefferies describió la caída como una reacción y no como un cambio de fondo.",
+        "en": "Semiconductor shares bounced on Friday after their worst day in years: AMD rose 11.04%, Intel 7.71% and Nvidia 2.78%. On average, the big chipmakers recovered about a third of what they had lost, and Lam Research jumped 8.23% after announcing a $25bn share buyback. A Jefferies strategist described the selloff as a reaction rather than a fundamental reset."
+      },
+      "source": {
+        "name": "StockTitan",
+        "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "Claude ya puede leer tus cuentas bancarias, en una beta en EE.UU.",
+        "en": "Claude can now read your bank accounts, in a US beta"
+      },
+      "body": {
+        "es": "Anthropic ha lanzado una beta de finanzas personales que permite a los suscriptores de pago en EE.UU. conectar algunas cuentas bancarias a través de Plaid. El acceso es solo de lectura y abarca hasta dos años de historial, de modo que Claude puede analizar gastos pero no mover ni invertir dinero.",
+        "en": "Anthropic launched a personal finance beta that lets paying US subscribers connect selected bank accounts through Plaid. Access is read-only and covers up to two years of history, so Claude can analyse spending but cannot move or invest money."
+      },
+      "why_it_matters": {
+        "es": "Los asistentes de IA entran en datos personales delicados, lo que pondrá a prueba tanto las normas de privacidad como la confianza de los usuarios.",
+        "en": "AI assistants are moving into sensitive personal data, which will test both privacy rules and users' trust."
+      },
+      "source": {
+        "name": "The Neuron",
+        "url": "https://www.theneuron.ai/news/claude-bank-accounts-financial-data-privacy/"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "Meta aparca su plan de rastrear las webs de sus clientes empresariales",
+        "en": "Meta shelves plan to scrape its business users' websites"
+      },
+      "body": {
+        "es": "Meta ha suspendido de forma indefinida un cambio en sus condiciones comerciales, previsto para el 20 de noviembre, que le habría permitido rastrear las webs de los titulares de cuentas de Meta Business. El cambio de rumbo llegó tras las quejas y las resoluciones de los reguladores de Noruega y Brasil.",
+        "en": "Meta has indefinitely paused a change to its business terms, due on 20 November, that would have let it scrape the websites of Meta Business account holders. The U-turn followed pushback and rulings by regulators in Norway and Brazil."
+      },
+      "source": {
+        "name": "AI Weekly",
+        "url": "https://aiweekly.co/alerts/meta-pauses-nov-20-scraping-terms-after-norway-brazil-rulings"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "EE.UU. lanza nuevos ataques contra las defensas aéreas de Irán",
+        "en": "US carries out new strikes on Iran's air defences"
+      },
+      "body": {
+        "es": "Donald Trump dijo que las fuerzas de EE.UU. atacaron el viernes defensas aéreas iraníes; calificó los ataques de menores y afirmó que un sistema antiaéreo quedó inutilizado en minutos. La televisión estatal iraní informó de dos explosiones en la isla de Qeshm, en el estrecho de Ormuz, en los primeros ataques desde la derrota republicana en las legislativas.",
+        "en": "Donald Trump said US forces hit Iranian air defences on Friday, calling the strikes minor and saying an anti-aircraft system was knocked out within minutes. Iranian state media reported two explosions on Qeshm Island, in the Strait of Hormuz, in the first strikes since Republicans lost the midterms."
+      },
+      "source": {
+        "name": "AP vía Business Standard",
+        "url": "https://www.business-standard.com/world-news/us-carries-out-fresh-targeted-strikes-on-iran-s-air-defences-trump-126110700064_1.html"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Catar propone un «acuerdo puente» de dos días entre Washington y Teherán",
+        "en": "Qatar tables a two-day 'bridge deal' between Washington and Tehran"
+      },
+      "body": {
+        "es": "Según el plan del que se ha informado, EE.UU. levantaría el bloqueo de puertos y liberaría parte de los fondos congelados mientras Irán dejaría entrar a los inspectores de la ONU en los lugares bombardeados, y después Irán reabriría Ormuz de forma temporal. Teherán estudia las propuestas, pero dice que no negociará su programa nuclear hasta que se levanten las sanciones y cesen las hostilidades; el OIEA calcula que Irán tiene 440,9 kg de uranio enriquecido al 60 %.",
+        "en": "Under the reported plan, the US would lift its port blockade and free some frozen funds while Iran let UN inspectors into bombed sites, and Iran would then reopen Hormuz on a temporary basis. Tehran is studying the proposals but says it will not discuss its nuclear programme until sanctions are lifted and hostilities end; the IAEA says Iran holds 440.9 kg of uranium enriched to 60%."
+      },
+      "why_it_matters": {
+        "es": "Una reapertura temporal de Ormuz aliviaría casi de inmediato el precio del petróleo y los costes del transporte marítimo.",
+        "en": "A temporary reopening of Hormuz would ease oil prices and shipping costs almost immediately."
+      },
+      "source": {
+        "name": "AP vía Business Standard",
+        "url": "https://www.business-standard.com/world-news/us-carries-out-fresh-targeted-strikes-on-iran-s-air-defences-trump-126110700064_1.html"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "Trump habla de «muchos avances» con Irán, mientras se informa de posibles nuevos ataques",
+        "en": "Trump talks of 'a lot of progress' with Iran amid reports of new attacks"
+      },
+      "body": {
+        "es": "Trump dijo a los periodistas que se han hecho muchos avances con Irán y aseguró que EE.UU. controla el tráfico marítimo por Ormuz. Al mismo tiempo, TASS, citando a Fox News, informó de que Washington sopesa reanudar las hostilidades el 9 de noviembre, algo que no se ha confirmado.",
+        "en": "Trump told reporters that a lot of progress had been made with Iran and claimed the US controls shipping through Hormuz. At the same time, TASS, citing Fox News, said Washington was weighing a resumption of hostilities on 9 November, a report that has not been confirmed."
+      },
+      "source": {
+        "name": "TASS",
+        "url": "https://tass.com/world/2214143"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Al menos 25 marinos han muerto en Ormuz desde el inicio de la guerra, según la ONU",
+        "en": "At least 25 seafarers have died in Hormuz since the war began, says the UN"
+      },
+      "body": {
+        "es": "La Organización Marítima Internacional contabiliza unos 130 ataques contra buques mercantes en la zona desde finales de febrero; el último con víctimas fue contra el petrolero Velos Sapphire el 5 de noviembre. Miles de tripulantes siguen atrapados en el Golfo, con escasez de agua, comida y atención médica.",
+        "en": "The International Maritime Organization counts about 130 attacks on merchant ships in the region since late February, the latest fatal one on the tanker Velos Sapphire on 5 November. Thousands of crew members remain stranded in the Gulf, short of water, food and medical care."
+      },
+      "source": {
+        "name": "Trend",
+        "url": "https://www.trend.az/world/us/4243983.html"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Rubio estaría planteándose dejar el Gobierno de Trump",
+        "en": "Rubio reportedly weighs leaving the Trump administration"
+      },
+      "body": {
+        "es": "El secretario de Estado, Marco Rubio, estaría pensando en dimitir tras la derrota republicana en las elecciones de mitad de mandato. No hay confirmación oficial.",
+        "en": "Secretary of State Marco Rubio is reportedly considering stepping down after the Republicans' defeat in the midterms. There has been no official confirmation."
+      },
+      "source": {
+        "name": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/rubio-weighs-leaving-trump-administration-after-gop-s-midterm-loss-126110600129_1.html"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "La Fiscalía Europea registra Adif por los fondos europeos de la línea del AVE Madrid-Sevilla",
+        "en": "European prosecutors search Adif over EU funds for the Madrid-Seville high-speed line"
+      },
+      "body": {
+        "es": "Tras el accidente ferroviario de Urda, la Fiscalía Europea registró Adif, la Agencia Estatal de Seguridad Ferroviaria (AESF) y el Tribunal de Cuentas por un presunto desvío de fondos europeos en la línea. Quince personas siguen hospitalizadas en Castilla-La Mancha, dos de ellas en la UCI.",
+        "en": "After the Urda train crash, the European Public Prosecutor's Office searched Adif, the rail safety agency (AESF) and the Court of Auditors over the alleged misuse of EU funds on the line. Fifteen people remain in hospital in Castilla-La Mancha, two of them in intensive care."
+      },
+      "source": {
+        "name": "EFE vía Infobae",
+        "url": "https://www.infobae.com/espana/2026/11/06/la-fiscalia-europea-registra-adif-la-aesf-y-el-tribunal-de-cuentas-por-un-presunto-desvio-de-fondos-europeos-en-la-linea-del-ave-madrid-sevilla/"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "Cuerpo intenta desactivar las huelgas de trenes de la próxima semana",
+        "en": "Cuerpo tries to head off next week's train strikes"
+      },
+      "body": {
+        "es": "Carlos Cuerpo, ministro de Transportes en funciones desde la dimisión de Óscar Puente, se reunió con el sindicato de maquinistas Semaf para intentar desconvocar las huelgas de Renfe previstas para el 10 y el 12 de noviembre. El Gobierno y los sindicatos ferroviarios acordaron cerrar con urgencia nuevas medidas de seguridad.",
+        "en": "Carlos Cuerpo, acting transport minister since Óscar Puente resigned, met the train drivers' union Semaf to try to call off the Renfe strikes planned for 10 and 12 November. The government and the rail unions agreed to finalise new safety measures urgently."
+      },
+      "source": {
+        "name": "EFE vía Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/06/temas-del-dia-de-efe-espana-del-viernes-6-de-noviembre-de-2026-1330-horas/"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "El juez rechaza investigar a Zapatero por malversación en el caso Plus Ultra",
+        "en": "Judge declines to investigate Zapatero for embezzlement in the Plus Ultra case"
+      },
+      "body": {
+        "es": "El juez rechazó la petición de la Fiscalía de abrir una línea de investigación por malversación relacionada con unas joyas. El expresidente del Gobierno sigue investigado por fraude y contrabando.",
+        "en": "The judge turned down the prosecutor's request to add an embezzlement inquiry linked to some jewellery. The former prime minister remains under investigation for fraud and smuggling."
+      },
+      "source": {
+        "name": "Infobae",
+        "url": "https://www.infobae.com/espana/2026/11/06/el-juez-del-caso-plus-ultra-rechaza-investigar-a-zapatero-por-malversacion-como-pedia-la-fiscalia-por-las-joyas-seguira-imputado-por-fraude-y-contrabando/"
+      }
+    },
+    {
+      "id": "espana-4",
+      "section": "espana",
+      "title": {
+        "es": "La Policía detiene a 12 miembros del grupo ultra Núcleo Nacional",
+        "en": "Police arrest 12 members of the far-right group Núcleo Nacional"
+      },
+      "body": {
+        "es": "La Policía Nacional practicó las detenciones en siete provincias y registró la sede del grupo en Madrid.",
+        "en": "The National Police made the arrests in seven provinces and searched the group's headquarters in Madrid."
+      },
+      "source": {
+        "name": "EFE vía Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/06/temas-del-dia-de-efe-espana-del-viernes-6-de-noviembre-de-2026-1330-horas/"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "España encabeza la primera protesta europea coordinada contra los centros de datos",
+        "en": "Spain leads Europe's first coordinated protest against data centres"
+      },
+      "body": {
+        "es": "La campaña «Stop Dirty Data Centres» suma unos 75 actos en Europa entre el viernes y el sábado, hasta 20 de ellos en España, con el apoyo de unas 102 organizaciones. Su única reivindicación es una moratoria de nuevas construcciones hasta que haya normas claras de transparencia, electricidad y agua; la patronal SpainDC prevé que la capacidad en España pase de 439 MW a finales de 2025 a hasta 2.537 MW en 2030.",
+        "en": "The 'Stop Dirty Data Centres' campaign has about 75 events across Europe on Friday and Saturday, up to 20 of them in Spain, backed by some 102 organisations. Its single demand is a moratorium on new builds until there are clear rules on transparency, power and water; the industry group SpainDC expects Spanish capacity to grow from 439 MW at the end of 2025 to as much as 2,537 MW by 2030."
+      },
+      "why_it_matters": {
+        "es": "Los centros de datos son una de las principales fuentes de nueva demanda para redes de distribución como la de i-DE, así que la oposición local puede cambiar los planes de inversión y las colas de conexión.",
+        "en": "Data centres are one of the main sources of new demand for distribution grids like i-DE's, so local opposition can change investment plans and connection queues."
+      },
+      "source": {
+        "name": "elDiario.es",
+        "url": "https://www.eldiario.es/tecnologia/espana-lidera-primera-movilizacion-europea-centros-datos-promesas-ia-son-falsas_1_13639661.html"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "Google planea un centro de datos de 17.000 millones en Wyoming alimentado con pilas de combustible propias",
+        "en": "Google plans a $17bn data centre in Wyoming powered by on-site fuel cells"
+      },
+      "body": {
+        "es": "El complejo, en el condado de Laramie, se abastecerá en parte de una planta de pilas de combustible de 702 MW con captura de carbono, que construirá Bloom Energy y contratará American Electric Power. Generar la electricidad en el propio emplazamiento es una forma de no esperar años a una conexión a la red.",
+        "en": "The campus in Laramie County will draw partly on a planned 702 MW fuel-cell plant with carbon capture, built by Bloom Energy and contracted by American Electric Power. Generating power on site is a way to avoid waiting years for a grid connection."
+      },
+      "source": {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-05/google-plans-to-spend-17-billion-on-wyoming-data-center"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "Las renovables lideran el IBEX mientras Iberdrola cede",
+        "en": "Renewable stocks lead the IBEX while Iberdrola slips"
+      },
+      "body": {
+        "es": "Solaria subió un 3,56 % y Acciona un 3,36 %, los dos mejores valores del índice, mientras Iberdrola bajó un 0,53 % en una jornada de caídas en Madrid.",
+        "en": "Solaria rose 3.56% and Acciona 3.36%, the two best performers on the index, while Iberdrola fell 0.53% on a down day for Madrid."
+      },
+      "source": {
+        "name": "El Diario de Madrid",
+        "url": "https://www.eldiariodemadrid.es/articulo/economia/ibex-35-cierre-semana-subida-348-19369-puntos/20261106185259146312.html"
+      }
+    },
+    {
+      "id": "energia-4",
+      "section": "energia",
+      "title": {
+        "es": "Iberdrola ficha a Deloitte para vender sus redes de calor",
+        "en": "Iberdrola hires Deloitte to sell its heat networks"
+      },
+      "body": {
+        "es": "Según elEconomista, Iberdrola ha contratado a Deloitte para buscar comprador para su negocio de redes de calor.",
+        "en": "According to elEconomista, Iberdrola has hired Deloitte to look for a buyer for its district heating business."
+      },
+      "why_it_matters": {
+        "es": "Vender activos no estratégicos libera capital para la prioridad del grupo, que son las redes eléctricas reguladas.",
+        "en": "Selling non-core assets frees up capital for the group's priority, which is regulated electricity networks."
+      },
+      "source": {
+        "name": "elEconomista",
+        "url": "https://eleconomista.es/capital-riesgo/noticias/14026071/11/26/iberdrola-ficha-a-deloitte-para-encontrar-comprador-para-sus-redes-de-calor.html"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "El empleo de EE.UU. supera con creces lo previsto y aumenta la probabilidad de que la Fed suba tipos",
+        "en": "US jobs smash expectations and boost the odds of a Fed hike"
+      },
+      "body": {
+        "es": "La economía de EE.UU. creó 165.000 empleos en octubre, muy por encima de los cerca de 60.000 previstos, y el paro bajó al 4,1 %. Subieron las rentabilidades de los bonos y los futuros descuentan ya una subida de tipos en diciembre con una probabilidad de entre el 65 % y el 80 %, según la fuente.",
+        "en": "The US economy added 165,000 jobs in October, far above the roughly 60,000 expected, and unemployment dipped to 4.1%. Treasury yields rose and futures now price in a December rate hike with a probability of between 65% and 80%, depending on the source."
+      },
+      "why_it_matters": {
+        "es": "Unos tipos más altos en EE.UU. suelen encarecer la financiación en todo el mundo, también para negocios intensivos en capital como las eléctricas.",
+        "en": "Higher US rates tend to lift borrowing costs worldwide, including for capital-heavy businesses like utilities."
+      },
+      "source": {
+        "name": "StockTitan",
+        "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "El IBEX cede el viernes pero firma su mejor semana desde abril",
+        "en": "The IBEX dips on Friday but posts its best week since April"
+      },
+      "body": {
+        "es": "El índice bajó un 0,60 %, hasta 19.369,5 puntos, lastrado por los grandes bancos e Inditex, pero aun así ganó más de un 3 % en la semana. Además, el español Pablo Hernández de Cos ha surgido como candidato a presidir el BCE, frente al neerlandés Klaas Knot.",
+        "en": "The index fell 0.60% to 19,369.5 points, weighed down by the big banks and Inditex, but still gained more than 3% over the week. Spain's Pablo Hernández de Cos has also emerged as a candidate to lead the ECB, up against the Dutch central banker Klaas Knot."
+      },
+      "source": {
+        "name": "Bolsamanía",
+        "url": "https://www.bolsamania.com/noticias/cronica-ibex/viernes-6-noviembre-caidas-sell-off-wall-street-tecnologia-informe-empleo--24065170.html"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "Irán: si Teherán responde a las propuestas de Catar, y si se confirman los planes de reanudar ataques el lunes 9.",
+      "en": "Iran: whether Tehran replies to Qatar's proposals, and whether reports of renewed strikes on Monday the 9th are confirmed."
+    },
+    {
+      "es": "Segunda jornada de protestas contra los centros de datos en Europa, con hasta 20 actos en España.",
+      "en": "A second day of protests against data centres across Europe, with up to 20 events in Spain."
+    },
+    {
+      "es": "Fin de semana de campaña para el 29-N y llegada de la borrasca Bruna, con lluvias y riesgo de inundaciones desde hoy.",
+      "en": "A weekend of campaigning ahead of the 29 November election, and the arrival of storm Bruna, with rain and a risk of flooding from today."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "redacted",
+      "translation": "tachado, censurado (en un documento)",
+      "pos": "adjective",
+      "example": "Key parts of the contract were redacted."
+    },
+    {
+      "term": "threshold",
+      "translation": "umbral",
+      "pos": "noun",
+      "example": "The company crossed the revenue threshold for a stock market listing."
+    },
+    {
+      "term": "scrutiny",
+      "translation": "escrutinio, examen minucioso",
+      "pos": "noun",
+      "example": "The deal faces close scrutiny from regulators."
+    },
+    {
+      "term": "carries real weight",
+      "translation": "tiene verdadero peso",
+      "pos": "phrase",
+      "example": "Her opinion carries real weight in the boardroom."
+    },
+    {
+      "term": "task force",
+      "translation": "grupo de trabajo, unidad especial",
+      "pos": "noun",
+      "example": "The ministry set up a task force on grid congestion."
+    },
+    {
+      "term": "prosecute",
+      "translation": "procesar, llevar a juicio",
+      "pos": "verb",
+      "example": "Prosecutors decided to prosecute the former director."
+    },
+    {
+      "term": "co-chaired",
+      "translation": "copresidido",
+      "pos": "verb",
+      "example": "The committee is co-chaired by two ministers."
+    },
+    {
+      "term": "absorb",
+      "translation": "absorber, integrar",
+      "pos": "verb",
+      "example": "The new unit will absorb the old department."
+    },
+    {
+      "term": "police",
+      "translation": "vigilar, controlar (como verbo)",
+      "pos": "verb",
+      "example": "It is hard to police how companies use personal data."
+    },
+    {
+      "term": "reportedly",
+      "translation": "según se informa, al parecer",
+      "pos": "adverb",
+      "example": "The firm is reportedly in talks to buy a rival."
+    },
+    {
+      "term": "paying up",
+      "translation": "pagar caro, desembolsar mucho",
+      "pos": "phrasal verb",
+      "example": "Investors are paying up for regulated assets."
+    },
+    {
+      "term": "bounced",
+      "translation": "rebotaron",
+      "pos": "verb",
+      "example": "Shares bounced after the strong results."
+    },
+    {
+      "term": "claw back",
+      "translation": "recuperar (con esfuerzo)",
+      "pos": "phrasal verb",
+      "example": "The stock clawed back half of its losses."
+    },
+    {
+      "term": "rout",
+      "translation": "desplome, debacle",
+      "pos": "noun",
+      "example": "The bond rout pushed yields to a ten-year high."
+    },
+    {
+      "term": "buyback",
+      "translation": "recompra de acciones",
+      "pos": "noun",
+      "example": "The utility announced a modest share buyback."
+    },
+    {
+      "term": "reset",
+      "translation": "cambio de fondo, reajuste",
+      "pos": "noun",
+      "example": "Analysts see a reset in market expectations."
+    },
+    {
+      "term": "read-only",
+      "translation": "solo lectura",
+      "pos": "adjective",
+      "example": "Auditors were given read-only access to the database."
+    },
+    {
+      "term": "shelves",
+      "translation": "aparca, archiva",
+      "pos": "verb",
+      "example": "The board shelves the project until prices recover."
+    },
+    {
+      "term": "scrape",
+      "translation": "extraer datos automáticamente (de webs)",
+      "pos": "verb",
+      "example": "Bots scrape prices from competitors' websites."
+    },
+    {
+      "term": "u-turn",
+      "translation": "cambio de rumbo, marcha atrás",
+      "pos": "noun",
+      "example": "The government made a U-turn on the tax."
+    },
+    {
+      "term": "pushback",
+      "translation": "rechazo, resistencia",
+      "pos": "noun",
+      "example": "The plan met strong pushback from local residents."
+    },
+    {
+      "term": "knocked out",
+      "translation": "inutilizado, dejado fuera de combate",
+      "pos": "phrasal verb",
+      "example": "The storm knocked out power to thousands of homes."
+    },
+    {
+      "term": "tables",
+      "translation": "presenta (una propuesta)",
+      "pos": "verb",
+      "example": "The minister tables a new bill next week."
+    },
+    {
+      "term": "blockade",
+      "translation": "bloqueo",
+      "pos": "noun",
+      "example": "The naval blockade cut off fuel imports."
+    },
+    {
+      "term": "weighing",
+      "translation": "sopesando, valorando",
+      "pos": "verb",
+      "example": "The regulator is weighing a change to the rules."
+    },
+    {
+      "term": "stranded",
+      "translation": "atrapado, varado",
+      "pos": "adjective",
+      "example": "Thousands of passengers were stranded at the airport."
+    },
+    {
+      "term": "stepping down",
+      "translation": "dimitir, dejar el cargo",
+      "pos": "phrasal verb",
+      "example": "The CEO is stepping down at the end of the year."
+    },
+    {
+      "term": "embezzlement",
+      "translation": "malversación",
+      "pos": "noun",
+      "example": "He was charged with embezzlement of public funds."
+    },
+    {
+      "term": "smuggling",
+      "translation": "contrabando",
+      "pos": "noun",
+      "example": "Customs officers broke up a tobacco smuggling ring."
+    },
+    {
+      "term": "head off",
+      "translation": "evitar, atajar",
+      "pos": "phrasal verb",
+      "example": "The company raised wages to head off a strike."
+    },
+    {
+      "term": "call off",
+      "translation": "desconvocar, cancelar",
+      "pos": "phrasal verb",
+      "example": "The unions agreed to call off the strike."
+    },
+    {
+      "term": "acting",
+      "translation": "en funciones, interino",
+      "pos": "adjective",
+      "example": "She was appointed acting finance director."
+    },
+    {
+      "term": "moratorium",
+      "translation": "moratoria",
+      "pos": "noun",
+      "example": "The city imposed a moratorium on new hotels."
+    },
+    {
+      "term": "connection queues",
+      "translation": "colas de conexión (a la red)",
+      "pos": "noun",
+      "example": "Long connection queues are delaying solar projects."
+    },
+    {
+      "term": "on site",
+      "translation": "en el propio emplazamiento",
+      "pos": "phrase",
+      "example": "The factory generates part of its power on site."
+    },
+    {
+      "term": "slips",
+      "translation": "cede, baja ligeramente",
+      "pos": "verb",
+      "example": "The euro slips against the dollar."
+    },
+    {
+      "term": "non-core assets",
+      "translation": "activos no estratégicos",
+      "pos": "noun",
+      "example": "The group sold non-core assets to cut debt."
+    },
+    {
+      "term": "district heating",
+      "translation": "calefacción urbana, red de calor",
+      "pos": "noun",
+      "example": "District heating supplies hot water to the whole neighbourhood."
+    },
+    {
+      "term": "smash expectations",
+      "translation": "superar con creces las previsiones",
+      "pos": "phrase",
+      "example": "Sales smashed expectations in the third quarter."
+    },
+    {
+      "term": "weighed down",
+      "translation": "lastrado",
+      "pos": "phrasal verb",
+      "example": "The index was weighed down by bank shares."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "METR, an independent evaluator, estimates that Anthropic is now improving AI capabilities at roughly twice its earlier pace.",
+      "es": "METR, un evaluador independiente, calcula que Anthropic mejora ahora las capacidades de la IA a aproximadamente el doble de ritmo que antes."
+    },
+    {
+      "en": "It reviewed internal data from 12 August to 29 October and found AI tools helping staff with coding and with analysing experiments.",
+      "es": "Revisó datos internos del 12 de agosto al 29 de octubre y vio que las herramientas de IA ayudan a la plantilla a programar y a analizar experimentos."
+    },
+    {
+      "en": "Most of the key evidence in the roughly 100-page report is redacted, which Anthropic says protects confidential information.",
+      "es": "La mayor parte de las pruebas clave del informe, de unas 100 páginas, está tachada, algo que Anthropic justifica para proteger información confidencial."
+    },
+    {
+      "en": "It comes days after Anthropic's IPO filing warned that it may soon reach its own threshold for AI-driven acceleration, so outside scrutiny of that claim now carries real weight.",
+      "es": "Llega días después de que el folleto de salida a bolsa de Anthropic advirtiera de que podría alcanzar pronto su propio umbral de aceleración impulsada por la IA, así que la revisión externa de esa afirmación pesa de verdad."
+    },
+    {
+      "en": "Attorney General Todd Blanche announced a task force to prosecute the misuse of advanced AI by foreign states, criminal networks and companies.",
+      "es": "El fiscal general Todd Blanche anunció un grupo de trabajo para perseguir el mal uso de la IA avanzada por parte de Estados extranjeros, redes criminales y empresas."
+    },
+    {
+      "en": "It will be co-chaired by two senior officials, Stanley Woodward and Stephen Weiss, and will absorb the department's existing AI litigation unit.",
+      "es": "Lo copresidirán dos altos cargos, Stanley Woodward y Stephen Weiss, y absorberá la unidad de litigios sobre IA que ya tenía el departamento."
+    },
+    {
+      "en": "It signals that Washington wants to police AI through prosecutions, not only through new laws.",
+      "es": "Indica que Washington quiere vigilar la IA a través de procesos judiciales, no solo con nuevas leyes."
+    },
+    {
+      "en": "Mira Murati's start-up is reportedly raising $5bn led by Accel at a $40bn valuation before the new money, roughly triple last year's figure, with Nvidia in talks to put in about $2.5bn.",
+      "es": "La startup de Mira Murati estaría captando 5.000 millones de dólares, liderados por Accel, con una valoración de 40.000 millones antes de la nueva inversión, casi el triple que el año pasado, y Nvidia negocia aportar unos 2.500 millones."
+    },
+    {
+      "en": "It also released Inkling 2 Small, a model with 594 billion parameters of which only about 17 billion are active for each request.",
+      "es": "También ha lanzado Inkling 2 Small, un modelo con 594.000 millones de parámetros, de los que solo unos 17.000 millones se activan en cada petición."
+    },
+    {
+      "en": "The weights will be published once safety testing is finished.",
+      "es": "Los pesos se publicarán cuando terminen las pruebas de seguridad."
+    },
+    {
+      "en": "Even in the middle of a sell-off, investors are still paying up for top AI labs.",
+      "es": "Incluso en plena caída de la bolsa, los inversores siguen pagando caro por los grandes laboratorios de IA."
+    },
+    {
+      "en": "Semiconductor shares bounced on Friday after their worst day in years: AMD rose 11.04%, Intel 7.71% and Nvidia 2.78%.",
+      "es": "Las acciones de semiconductores rebotaron el viernes tras su peor día en años: AMD subió un 11,04 %, Intel un 7,71 % y Nvidia un 2,78 %."
+    },
+    {
+      "en": "On average, the big chipmakers recovered about a third of what they had lost, and Lam Research jumped 8.23% after announcing a $25bn share buyback.",
+      "es": "De media, los grandes fabricantes recuperaron cerca de un tercio de lo perdido, y Lam Research se disparó un 8,23 % tras anunciar una recompra de acciones de 25.000 millones de dólares."
+    },
+    {
+      "en": "A Jefferies strategist described the selloff as a reaction rather than a fundamental reset.",
+      "es": "Una estratega de Jefferies describió la caída como una reacción y no como un cambio de fondo."
+    },
+    {
+      "en": "Anthropic launched a personal finance beta that lets paying US subscribers connect selected bank accounts through Plaid.",
+      "es": "Anthropic ha lanzado una beta de finanzas personales que permite a los suscriptores de pago en EE.UU. conectar algunas cuentas bancarias a través de Plaid."
+    },
+    {
+      "en": "Access is read-only and covers up to two years of history, so Claude can analyse spending but cannot move or invest money.",
+      "es": "El acceso es solo de lectura y abarca hasta dos años de historial, de modo que Claude puede analizar gastos pero no mover ni invertir dinero."
+    },
+    {
+      "en": "AI assistants are moving into sensitive personal data, which will test both privacy rules and users' trust.",
+      "es": "Los asistentes de IA entran en datos personales delicados, lo que pondrá a prueba tanto las normas de privacidad como la confianza de los usuarios."
+    },
+    {
+      "en": "Meta has indefinitely paused a change to its business terms, due on 20 November, that would have let it scrape the websites of Meta Business account holders.",
+      "es": "Meta ha suspendido de forma indefinida un cambio en sus condiciones comerciales, previsto para el 20 de noviembre, que le habría permitido rastrear las webs de los titulares de cuentas de Meta Business."
+    },
+    {
+      "en": "The U-turn followed pushback and rulings by regulators in Norway and Brazil.",
+      "es": "El cambio de rumbo llegó tras las quejas y las resoluciones de los reguladores de Noruega y Brasil."
+    },
+    {
+      "en": "Donald Trump said US forces hit Iranian air defences on Friday, calling the strikes minor and saying an anti-aircraft system was knocked out within minutes.",
+      "es": "Donald Trump dijo que las fuerzas de EE.UU. atacaron el viernes defensas aéreas iraníes; calificó los ataques de menores y afirmó que un sistema antiaéreo quedó inutilizado en minutos."
+    },
+    {
+      "en": "Iranian state media reported two explosions on Qeshm Island, in the Strait of Hormuz, in the first strikes since Republicans lost the midterms.",
+      "es": "La televisión estatal iraní informó de dos explosiones en la isla de Qeshm, en el estrecho de Ormuz, en los primeros ataques desde la derrota republicana en las legislativas."
+    },
+    {
+      "en": "Under the reported plan, the US would lift its port blockade and free some frozen funds while Iran let UN inspectors into bombed sites, and Iran would then reopen Hormuz on a temporary basis.",
+      "es": "Según el plan del que se ha informado, EE.UU. levantaría el bloqueo de puertos y liberaría parte de los fondos congelados mientras Irán dejaría entrar a los inspectores de la ONU en los lugares bombardeados, y después Irán reabriría Ormuz de forma temporal."
+    },
+    {
+      "en": "Tehran is studying the proposals but says it will not discuss its nuclear programme until sanctions are lifted and hostilities end; the IAEA says Iran holds 440.9 kg of uranium enriched to 60%.",
+      "es": "Teherán estudia las propuestas, pero dice que no negociará su programa nuclear hasta que se levanten las sanciones y cesen las hostilidades; el OIEA calcula que Irán tiene 440,9 kg de uranio enriquecido al 60 %."
+    },
+    {
+      "en": "A temporary reopening of Hormuz would ease oil prices and shipping costs almost immediately.",
+      "es": "Una reapertura temporal de Ormuz aliviaría casi de inmediato el precio del petróleo y los costes del transporte marítimo."
+    },
+    {
+      "en": "Trump told reporters that a lot of progress had been made with Iran and claimed the US controls shipping through Hormuz.",
+      "es": "Trump dijo a los periodistas que se han hecho muchos avances con Irán y aseguró que EE.UU. controla el tráfico marítimo por Ormuz."
+    },
+    {
+      "en": "At the same time, TASS, citing Fox News, said Washington was weighing a resumption of hostilities on 9 November, a report that has not been confirmed.",
+      "es": "Al mismo tiempo, TASS, citando a Fox News, informó de que Washington sopesa reanudar las hostilidades el 9 de noviembre, algo que no se ha confirmado."
+    },
+    {
+      "en": "The International Maritime Organization counts about 130 attacks on merchant ships in the region since late February, the latest fatal one on the tanker Velos Sapphire on 5 November.",
+      "es": "La Organización Marítima Internacional contabiliza unos 130 ataques contra buques mercantes en la zona desde finales de febrero; el último con víctimas fue contra el petrolero Velos Sapphire el 5 de noviembre."
+    },
+    {
+      "en": "Thousands of crew members remain stranded in the Gulf, short of water, food and medical care.",
+      "es": "Miles de tripulantes siguen atrapados en el Golfo, con escasez de agua, comida y atención médica."
+    },
+    {
+      "en": "Secretary of State Marco Rubio is reportedly considering stepping down after the Republicans' defeat in the midterms.",
+      "es": "El secretario de Estado, Marco Rubio, estaría pensando en dimitir tras la derrota republicana en las elecciones de mitad de mandato."
+    },
+    {
+      "en": "There has been no official confirmation.",
+      "es": "No hay confirmación oficial."
+    },
+    {
+      "en": "After the Urda train crash, the European Public Prosecutor's Office searched Adif, the rail safety agency (AESF) and the Court of Auditors over the alleged misuse of EU funds on the line.",
+      "es": "Tras el accidente ferroviario de Urda, la Fiscalía Europea registró Adif, la Agencia Estatal de Seguridad Ferroviaria (AESF) y el Tribunal de Cuentas por un presunto desvío de fondos europeos en la línea."
+    },
+    {
+      "en": "Fifteen people remain in hospital in Castilla-La Mancha, two of them in intensive care.",
+      "es": "Quince personas siguen hospitalizadas en Castilla-La Mancha, dos de ellas en la UCI."
+    },
+    {
+      "en": "Carlos Cuerpo, acting transport minister since Óscar Puente resigned, met the train drivers' union Semaf to try to call off the Renfe strikes planned for 10 and 12 November.",
+      "es": "Carlos Cuerpo, ministro de Transportes en funciones desde la dimisión de Óscar Puente, se reunió con el sindicato de maquinistas Semaf para intentar desconvocar las huelgas de Renfe previstas para el 10 y el 12 de noviembre."
+    },
+    {
+      "en": "The government and the rail unions agreed to finalise new safety measures urgently.",
+      "es": "El Gobierno y los sindicatos ferroviarios acordaron cerrar con urgencia nuevas medidas de seguridad."
+    },
+    {
+      "en": "The judge turned down the prosecutor's request to add an embezzlement inquiry linked to some jewellery.",
+      "es": "El juez rechazó la petición de la Fiscalía de abrir una línea de investigación por malversación relacionada con unas joyas."
+    },
+    {
+      "en": "The former prime minister remains under investigation for fraud and smuggling.",
+      "es": "El expresidente del Gobierno sigue investigado por fraude y contrabando."
+    },
+    {
+      "en": "The National Police made the arrests in seven provinces and searched the group's headquarters in Madrid.",
+      "es": "La Policía Nacional practicó las detenciones en siete provincias y registró la sede del grupo en Madrid."
+    },
+    {
+      "en": "The 'Stop Dirty Data Centres' campaign has about 75 events across Europe on Friday and Saturday, up to 20 of them in Spain, backed by some 102 organisations.",
+      "es": "La campaña «Stop Dirty Data Centres» suma unos 75 actos en Europa entre el viernes y el sábado, hasta 20 de ellos en España, con el apoyo de unas 102 organizaciones."
+    },
+    {
+      "en": "Its single demand is a moratorium on new builds until there are clear rules on transparency, power and water; the industry group SpainDC expects Spanish capacity to grow from 439 MW at the end of 2025 to as much as 2,537 MW by 2030.",
+      "es": "Su única reivindicación es una moratoria de nuevas construcciones hasta que haya normas claras de transparencia, electricidad y agua; la patronal SpainDC prevé que la capacidad en España pase de 439 MW a finales de 2025 a hasta 2.537 MW en 2030."
+    },
+    {
+      "en": "Data centres are one of the main sources of new demand for distribution grids like i-DE's, so local opposition can change investment plans and connection queues.",
+      "es": "Los centros de datos son una de las principales fuentes de nueva demanda para redes de distribución como la de i-DE, así que la oposición local puede cambiar los planes de inversión y las colas de conexión."
+    },
+    {
+      "en": "The campus in Laramie County will draw partly on a planned 702 MW fuel-cell plant with carbon capture, built by Bloom Energy and contracted by American Electric Power.",
+      "es": "El complejo, en el condado de Laramie, se abastecerá en parte de una planta de pilas de combustible de 702 MW con captura de carbono, que construirá Bloom Energy y contratará American Electric Power."
+    },
+    {
+      "en": "Generating power on site is a way to avoid waiting years for a grid connection.",
+      "es": "Generar la electricidad en el propio emplazamiento es una forma de no esperar años a una conexión a la red."
+    },
+    {
+      "en": "Solaria rose 3.56% and Acciona 3.36%, the two best performers on the index, while Iberdrola fell 0.53% on a down day for Madrid.",
+      "es": "Solaria subió un 3,56 % y Acciona un 3,36 %, los dos mejores valores del índice, mientras Iberdrola bajó un 0,53 % en una jornada de caídas en Madrid."
+    },
+    {
+      "en": "According to elEconomista, Iberdrola has hired Deloitte to look for a buyer for its district heating business.",
+      "es": "Según elEconomista, Iberdrola ha contratado a Deloitte para buscar comprador para su negocio de redes de calor."
+    },
+    {
+      "en": "Selling non-core assets frees up capital for the group's priority, which is regulated electricity networks.",
+      "es": "Vender activos no estratégicos libera capital para la prioridad del grupo, que son las redes eléctricas reguladas."
+    },
+    {
+      "en": "The US economy added 165,000 jobs in October, far above the roughly 60,000 expected, and unemployment dipped to 4.1%.",
+      "es": "La economía de EE.UU. creó 165.000 empleos en octubre, muy por encima de los cerca de 60.000 previstos, y el paro bajó al 4,1 %."
+    },
+    {
+      "en": "Treasury yields rose and futures now price in a December rate hike with a probability of between 65% and 80%, depending on the source.",
+      "es": "Subieron las rentabilidades de los bonos y los futuros descuentan ya una subida de tipos en diciembre con una probabilidad de entre el 65 % y el 80 %, según la fuente."
+    },
+    {
+      "en": "Higher US rates tend to lift borrowing costs worldwide, including for capital-heavy businesses like utilities.",
+      "es": "Unos tipos más altos en EE.UU. suelen encarecer la financiación en todo el mundo, también para negocios intensivos en capital como las eléctricas."
+    },
+    {
+      "en": "The index fell 0.60% to 19,369.5 points, weighed down by the big banks and Inditex, but still gained more than 3% over the week.",
+      "es": "El índice bajó un 0,60 %, hasta 19.369,5 puntos, lastrado por los grandes bancos e Inditex, pero aun así ganó más de un 3 % en la semana."
+    },
+    {
+      "en": "Spain's Pablo Hernández de Cos has also emerged as a candidate to lead the ECB, up against the Dutch central banker Klaas Knot.",
+      "es": "Además, el español Pablo Hernández de Cos ha surgido como candidato a presidir el BCE, frente al neerlandés Klaas Knot."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "rotation",
+    "pos": "noun",
+    "translation": "rotación (sectorial)",
+    "definition_en": "A shift of investors' money out of one group of stocks or sectors and into another, rather than out of the market altogether.",
+    "example_en": "Danske Bank sees the tech sell-off as a rotation within equities, not a mass exit from stocks.",
+    "example_es": "Danske Bank ve la caída tecnológica como una rotación dentro de la renta variable, no como una salida masiva de la bolsa."
+  },
+  "recommendations": [
+    {
+      "id": "energyconnects-melles-hitachi-ai-electrification",
+      "type": "podcast",
+      "title": "AI, electrification, and the race to future-proof energy infrastructure",
+      "speaker": "Bruno Melles (Hitachi Energy)",
+      "outlet": "Energy Connects",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "energía",
+        "redes",
+        "IA"
+      ],
+      "summary": "Conversación grabada en ADIPEC con el responsable del negocio de transformadores de Hitachi Energy sobre por qué la expansión de las redes va lenta (personal, permisos, capacidad de fabricación) y qué tecnologías marcarán la próxima década: HVDC, baterías y automatización de la red.",
+      "why": "El cuello de botella de los transformadores afecta directamente a los plazos y costes de inversión en distribución, justo lo que se controla en tu departamento.",
+      "url": "https://www.energyconnects.com/podcast/energy-connects/2026/november/ai-electrification-and-the-race-to-future-proof-energy-infrastructure/"
+    },
+    {
+      "id": "energyconnects-melles-electrified-future-interview",
+      "type": "article",
+      "title": "Building the infrastructure for an electrified future",
+      "speaker": "Bruno Melles (Hitachi Energy)",
+      "outlet": "Energy Connects",
+      "duration_min": 6,
+      "language": "en",
+      "topics": [
+        "energía",
+        "redes"
+      ],
+      "summary": "Entrevista escrita con ejemplos concretos: transformadores de 400 kV para grandes plantas solares en Abu Dabi y transformadores digitales para mantenimiento preventivo. Resume las prioridades en inversión en red, digitalización y asequibilidad.",
+      "why": "Lectura corta en inglés técnico y de negocio, buena para acompañar el podcast anterior.",
+      "url": "https://www.energyconnects.com/opinion/interviews/2026/november/building-the-infrastructure-for-an-electrified-future/"
+    },
+    {
+      "id": "eldiario-movilizacion-europea-centros-datos-2026",
+      "type": "article",
+      "title": "España lidera la primera movilización europea contra los centros de datos",
+      "speaker": "Carlos del Castillo",
+      "outlet": "elDiario.es",
+      "duration_min": 8,
+      "language": "es",
+      "topics": [
+        "energía",
+        "IA",
+        "centros de datos"
+      ],
+      "summary": "Reportaje sobre la campaña que pide una moratoria de centros de datos en Europa, con cifras de capacidad instalada en España y previsiones a 2030.",
+      "why": "Ayuda a entender el lado social de la nueva demanda eléctrica que tanto pesa en la planificación de redes.",
+      "url": "https://www.eldiario.es/tecnologia/espana-lidera-primera-movilizacion-europea-centros-datos-promesas-ia-son-falsas_1_13639661.html"
+    },
+    {
+      "id": "metr-anthropic-rd-acceleration-2026-11",
+      "type": "article",
+      "title": "Anthropic AI R&D acceleration assessment",
+      "speaker": "METR",
+      "outlet": "METR",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "IA",
+        "seguridad"
+      ],
+      "summary": "La evaluación independiente que concluye que Anthropic avanza a cerca del doble de ritmo gracias a sus propias herramientas de IA. El blog resume un informe de unas 100 páginas.",
+      "why": "Es la fuente original de una de las noticias de IA más comentadas de la semana; no hace falta leer el informe entero, basta con el resumen.",
+      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+    },
+    {
+      "id": "wharton-ripple-effect-nave-shaw-ai-intuition",
+      "type": "podcast",
+      "title": "How AI is reshaping human intuition and reasoning",
+      "speaker": "Gideon Nave y Steven Shaw",
+      "outlet": "Ripple Effect (Wharton)",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "IA",
+        "psicología"
+      ],
+      "summary": "Dos investigadores de Wharton hablan de la «rendición cognitiva»: cuándo dejamos de razonar por nuestra cuenta y aceptamos lo que dice la IA.",
+      "why": "Útil para alguien que empieza a usar IA a diario en el trabajo: ayuda a saber cuándo fiarse y cuándo comprobar.",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/ripple-effect/how-ai-is-reshaping-human-intuition-and-reasoning-gideon-nave-and-steven-shaw/"
+    },
+    {
+      "id": "menlo-2026-state-of-enterprise-ai",
+      "type": "article",
+      "title": "2026: The State of Enterprise AI",
+      "speaker": "Menlo Ventures",
+      "outlet": "Menlo Ventures",
+      "duration_min": null,
+      "language": "en",
+      "topics": [
+        "IA",
+        "empresa",
+        "inversión"
+      ],
+      "summary": "Informe anual de un fondo de capital riesgo sobre cómo están adoptando la IA las grandes empresas: gasto, casos de uso y proveedores.",
+      "why": "Da contexto de negocio a la pregunta que se hace hoy el mercado: qué retorno está dando de verdad la inversión en IA.",
+      "url": "https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Viernes de rebote parcial en Wall Street tras el peor día desde abril de 2025: el S&P 500 subió un 0,31 % y el Nasdaq un 1,09 %, empujados por los chips (AMD +11 %), mientras el Dow cedió un 0,46 %. En la semana, el S&P perdió cerca de un 2,7 % y el Nasdaq un 3,4 %. El informe de empleo (165.000 puestos frente a unos 60.000 previstos) elevó las rentabilidades, con el bono a 10 años en el 4,86 %, y reforzó las apuestas por una subida de la Fed en diciembre. Jane Gibbons (Jefferies) ve la caída del jueves como una reacción, no un cambio de fondo, y Danske Bank habla de rotación dentro de la bolsa más que de huida. En Europa el IBEX bajó un 0,60 %, lastrado por la banca, pero cerró su mejor semana desde abril. El dólar se fortaleció y el euro cayó hacia 1,11-1,12; el Brent se quedó cerca de 98 dólares, con su mayor caída semanal en tiempo, y el oro bajó a unos 4.080 dólares. No se encontró el cierre del Euro Stoxx 50.",
+      "en": "Wall Street partly rebounded on Friday after its worst day since April 2025: the S&P 500 rose 0.31% and the Nasdaq 1.09%, lifted by chipmakers (AMD up 11%), while the Dow slipped 0.46%. Over the week the S&P lost about 2.7% and the Nasdaq 3.4%. The jobs report, with 165,000 new jobs against roughly 60,000 expected, pushed yields higher, with the 10-year Treasury at 4.86%, and strengthened bets on a December Fed hike. Jane Gibbons of Jefferies sees Thursday's drop as a reaction rather than a fundamental reset, and Danske Bank talks of rotation within equities rather than an exodus. In Europe the IBEX fell 0.60%, dragged down by banks, but still had its best week since April. The dollar firmed and the euro slid towards 1.11-1.12; Brent stayed close to $98, heading for its biggest weekly fall in a while, and gold eased to about $4,080. The Euro Stoxx 50 close was not found."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35",
+        "value": 19369.5,
+        "change_pct": -0.6
+      },
+      {
+        "name": "S&P 500",
+        "value": 7376.86,
+        "change_pct": 0.31
+      },
+      {
+        "name": "Nasdaq Composite",
+        "value": 24579.42,
+        "change_pct": 1.09
+      },
+      {
+        "name": "Dow Jones",
+        "value": 51285.73,
+        "change_pct": -0.46
+      },
+      {
+        "name": "VIX",
+        "value": 25.64,
+        "change_pct": -9.01
+      },
+      {
+        "name": "Brent (USD/barril, aprox.)",
+        "value": 97.79,
+        "change_pct": -0.51
+      },
+      {
+        "name": "Oro (USD/onza, aprox.)",
+        "value": 4081,
+        "change_pct": -0.79
+      },
+      {
+        "name": "EUR/USD (aprox.)",
+        "value": 1.1143,
+        "change_pct": -0.82
+      },
+      {
+        "name": "Bitcoin (USD, aprox.)",
+        "value": 75943,
+        "change_pct": null
+      },
+      {
+        "name": "Bono EE.UU. 10 años (%)",
+        "value": 4.86,
+        "change_pct": null
+      }
+    ],
+    "learn": {
+      "concept": "Recompra de acciones (buyback)",
+      "explanation": "Una empresa recompra acciones cuando usa su caja para comprar sus propios títulos en bolsa y, normalmente, amortizarlos. Al haber menos acciones, el beneficio por acción (BPA) sube aunque el beneficio total no cambie, y cada accionista pasa a tener un trozo algo mayor de la empresa. Es una alternativa al dividendo para devolver dinero al accionista. Ayer Lam Research subió un 8 % tras anunciar una de 25.000 millones de dólares. Ejemplo inventado: una empresa gana 1.000 millones y tiene 500 millones de acciones (BPA de 2 €); si recompra y amortiza 50 millones, el BPA pasa a 1.000/450 ≈ 2,22 €. En una eléctrica con grandes planes de inversión en redes, en cambio, la caja suele destinarse antes al CAPEX que a recomprar acciones."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
