@@ -1,0 +1,1019 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T06:59:28+01:00",
+  "last_updated": "2026-11-08T06:59:28+01:00",
+  "headline": {
+    "es": "Explosiones en Qeshm y Jask y nuevas acciones del bloqueo de EE.UU. mientras Irán estudia las propuestas de Catar. En España, último fin de semana de precampaña antes del 29N; en IA, DeepMind demuestra que sus agentes pueden debilitar el viejo cifrado RSA.",
+    "en": "Blasts hit Qeshm and Jask and the US tightens its blockade as Iran weighs Qatari proposals. Spain enters the last weekend before the 29 November campaign, and DeepMind shows its AI agents can crack open weaknesses in old RSA encryption."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "Agentes de IA de DeepMind encuentran debilidades en el RSA de 1024 bits",
+        "en": "DeepMind's AI agents uncover weaknesses in 1024-bit RSA"
+      },
+      "body": {
+        "es": "Google DeepMind afirma que agentes de IA, trabajando junto a los criptógrafos Nadia Heninger y Emmanuel Thomé, lograron dos avances contra el antiguo RSA de 1024 bits en pocas semanas. Una técnica hace unas 1.600 veces más eficiente falsificar ciertas firmas, y la otra reduce unas 30 veces el coste adicional de factorizar lotes de claves. Según la información, el estándar RSA-2048, de uso generalizado, no se ve afectado.",
+        "en": "Google DeepMind says AI agents, working alongside cryptographers Nadia Heninger and Emmanuel Thomé, made two advances against legacy 1024-bit RSA in just a few weeks. One technique makes forging certain signatures roughly 1,600 times more efficient, while the other slashes the extra cost of factoring batches of keys by about 30 times. The widely used RSA-2048 standard is reported to be unaffected."
+      },
+      "why_it_matters": {
+        "es": "Es un ejemplo llamativo de cómo la IA acelera la investigación experta, y un recordatorio de que el cifrado obsoleto sigue presente en muchos sistemas.",
+        "en": "It is a striking example of AI accelerating expert research, and a reminder that outdated encryption still lingers in many systems."
+      },
+      "source": {
+        "name": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/google-deepmind-ai-rsa-1024-bit-weaknesses/"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "Microchip avisa: los clientes de IA acaparan la capacidad de fabricación",
+        "en": "Microchip warns that AI buyers are crowding out chip capacity"
+      },
+      "body": {
+        "es": "Las acciones de Microchip cayeron alrededor de un 10% después de que su consejero delegado dijera que los clientes de IA han absorbido la capacidad externa de ensamblaje y pruebas. Los plazos de entrega habituales han pasado de 4-8 semanas a hasta 32 semanas, y la empresa calcula que el cuello de botella tardará unos seis meses en aliviarse.",
+        "en": "Microchip's shares tumbled about 10% after its chief executive said AI customers had soaked up outsourced assembly and test capacity. Standard lead times have stretched from 4-8 weeks to as much as 32 weeks, and the company expects the squeeze to take around six months to ease."
+      },
+      "why_it_matters": {
+        "es": "El auge de la IA empieza a provocar escasez de chips corrientes que se usan en coches, fábricas y electrodomésticos.",
+        "en": "The AI boom is starting to create shortages for ordinary chips used in cars, factories and appliances."
+      },
+      "source": {
+        "name": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/11/07/the-chip-shortage-is-back-and-microchip-says-ai-customers-are-crowding-everyone-out/"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "Perplexity lanza «Teammates», agentes que trabajan sin parar",
+        "en": "Perplexity unveils 'Teammates', always-on AI agents"
+      },
+      "body": {
+        "es": "Perplexity ha presentado Teammates, agentes persistentes que pueden asumir responsabilidades fijas, coordinar a otros agentes y funcionar las 24 horas. La función llega primero a la web para los suscriptores de su plan superior Max, y después a las apps móviles.",
+        "en": "Perplexity has introduced Teammates, persistent agents that can take on standing responsibilities, coordinate other agents and keep running around the clock. The feature is rolling out on the web for subscribers to its top-tier Max plan, with mobile apps to follow."
+      },
+      "why_it_matters": {
+        "es": "La carrera pasa de chatbots que responden preguntas a agentes que se encargan por sí solos de tareas continuas.",
+        "en": "The race is shifting from chatbots that answer questions to agents that handle ongoing work on their own."
+      },
+      "source": {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "Google abarata y alarga su modelo de vídeo Gemini Omni",
+        "en": "Google makes its Gemini Omni video model cheaper and longer"
+      },
+      "body": {
+        "es": "Google ha lanzado Gemini Omni 1.2 Flash, que genera vídeos de hasta 15 segundos, frente a los 10 anteriores. El precio del vídeo en 720p a través de la API de Gemini baja un 30%, hasta siete céntimos por segundo, y ya se pueden retocar los vídeos en varias rondas.",
+        "en": "Google has released Gemini Omni 1.2 Flash, which generates video clips of up to 15 seconds, up from 10. The price for 720p video through the Gemini API drops 30% to seven cents per second, and users can now refine clips over several turns."
+      },
+      "source": {
+        "name": "Google",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic explica cómo «recuerdan» sus agentes, incluso mientras «duermen»",
+        "en": "Anthropic explains how its agents remember, even while 'dreaming'"
+      },
+      "body": {
+        "es": "Anthropic ha publicado una investigación que describe un sistema de memoria de tres capas para sus agentes de IA. Claude toma notas durante una sesión, modelos más potentes deciden cuáles merece la pena conservar y un proceso de «sueño» consolida los recuerdos en los momentos de inactividad.",
+        "en": "Anthropic has published research describing a three-layer memory system for its AI agents. Claude jots down notes during a session, stronger models judge which ones are worth keeping, and a 'dreaming' process consolidates memories during idle time."
+      },
+      "why_it_matters": {
+        "es": "La memoria a largo plazo es uno de los grandes obstáculos para tener agentes que trabajen de forma fiable durante semanas y no solo minutos.",
+        "en": "Long-term memory is one of the main hurdles to agents that can work reliably over weeks rather than minutes."
+      },
+      "source": {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/research/components-of-agent-memory"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "El Sudeste Asiático frena la avalancha de centros de datos",
+        "en": "Southeast Asia puts the brakes on its data-centre boom"
+      },
+      "body": {
+        "es": "El Sudeste Asiático concentra aproximadamente la mitad de la capacidad de centros de datos en construcción de Asia-Pacífico, con Malasia y Tailandia a la cabeza. Tailandia ha suspendido 49 proyectos y congelado la aprobación de otros 117, mientras que Malasia estaría rechazando nuevas solicitudes no vinculadas a la IA.",
+        "en": "Southeast Asia accounts for roughly half of the data-centre capacity under construction in Asia-Pacific, led by Malaysia and Thailand. Thailand has suspended 49 projects and frozen approvals for 117 more, while Malaysia is reportedly turning away new applications not linked to AI."
+      },
+      "why_it_matters": {
+        "es": "La presión sobre las redes eléctricas y el agua está llevando a gobiernos de todo el mundo a racionar el crecimiento de los centros de datos.",
+        "en": "Pressure on power grids and water is pushing governments everywhere to ration data-centre growth."
+      },
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Explosiones en Qeshm y Jask mientras Irán estudia propuestas de desescalada",
+        "en": "Explosions rock Qeshm and Jask as Iran weighs de-escalation proposals"
+      },
+      "body": {
+        "es": "Los medios estatales iraníes informaron de dos explosiones en la isla de Qeshm y de varias más en el puerto de Jask el sábado por la noche, aunque la causa sigue sin estar clara. El ejército iraní también aseguró que dos petroleros se incendiaron tras chocar con minas en una «ruta no autorizada» del estrecho, algo que Trump tacha de invención para encarecer la energía.",
+        "en": "Iranian state media reported two blasts on Qeshm Island and several more at the port of Jask on Saturday evening, although the cause remains unclear. Iran's military also said two tankers caught fire after hitting mines on an 'unauthorised route' through the strait, claims that Trump dismisses as fabricated to push up energy prices."
+      },
+      "source": {
+        "name": "ABC News (Australia)",
+        "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "EE.UU. dispara contra un buque que intentaba romper el bloqueo y amplía su cerco a las fronteras terrestres",
+        "en": "US fires on a blockade runner and widens its squeeze to Iran's land borders"
+      },
+      "body": {
+        "es": "El Mando Central de EE.UU. dijo que sus aviones dispararon contra la popa del carguero Huda en el golfo de Omán después de que ignorara los avisos e intentara romper el bloqueo naval. Además, puso en marcha la «Task Force Iron Gate» para cortar el paso de tecnología armamentística, bienes de doble uso e ingresos ilícitos por las fronteras terrestres de Irán y el mar Caspio.",
+        "en": "US Central Command said its aircraft fired at the stern of the cargo ship Huda in the Gulf of Oman after it ignored warnings and tried to break the naval blockade. It also launched 'Task Force Iron Gate' to choke off weapons technology, dual-use goods and illicit revenue crossing Iran's land borders and the Caspian Sea."
+      },
+      "why_it_matters": {
+        "es": "Washington afirma que el bloqueo ya ha impedido unos 25.000 millones de dólares en ventas de crudo iraní.",
+        "en": "Washington says the blockade has already blocked about $25 billion in Iranian oil sales."
+      },
+      "source": {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "La Guardia Revolucionaria levanta su límite autoimpuesto al alcance de sus misiles",
+        "en": "Iran's Revolutionary Guards lift their self-imposed missile range cap"
+      },
+      "body": {
+        "es": "La Guardia Revolucionaria anunció que elimina el límite de alcance de unos 2.000 kilómetros que se había impuesto para sus misiles balísticos. No se sabe que Irán tenga misiles con un alcance mucho mayor, por lo que el gesto se interpreta sobre todo como una señal política.",
+        "en": "The IRGC announced it is scrapping the roughly 2,000-kilometre range limit it had placed on its ballistic missiles. Iran is not known to possess missiles that fly much further, so the move is seen mainly as a political signal."
+      },
+      "why_it_matters": {
+        "es": "Puede inquietar más a las capitales europeas y complicar la mediación encabezada por Catar.",
+        "en": "It could make European capitals more nervous and complicate the Qatari-led mediation."
+      },
+      "source": {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Catar sigue mediando, pero Irán pone condiciones para hablar del programa nuclear",
+        "en": "Qatar keeps mediating, but Iran sets conditions for any nuclear talks"
+      },
+      "body": {
+        "es": "Trump habló de desescalada con el emir de Catar, cuyas propuestas intentan acercar posturas sobre el programa nuclear iraní. Teherán dice que las está estudiando, pero que no negociará sobre el asunto nuclear hasta que Washington cumpla varias condiciones previas.",
+        "en": "Trump discussed de-escalation with Qatar's emir, whose proposals try to bridge differences over Iran's nuclear programme. Tehran says it is reviewing them but will not negotiate on nuclear issues until Washington meets several preconditions."
+      },
+      "source": {
+        "name": "ABC News (Australia)",
+        "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Decenas de muertos en Yemen por bombardeos atribuidos a Arabia Saudí",
+        "en": "Dozens killed in Yemen in strikes blamed on Saudi Arabia"
+      },
+      "body": {
+        "es": "Las autoridades hutíes afirman que al menos 33 personas murieron en ataques contra Al-Shariya, en la provincia de Saná, mientras que otro ataque en un mercado de Taiz mató a 30. Riad no ha hecho comentarios, y la ONU calcula que más de 1.600 personas han muerto desde que se reanudaron los combates.",
+        "en": "Houthi authorities say at least 33 people died in strikes on Al-Shariya, in Sanaa province, while a separate attack on a market in Taiz killed 30. Riyadh has not commented, and the UN says more than 1,600 people have been killed since fighting resumed."
+      },
+      "source": {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "Último fin de semana de precampaña antes del 29N",
+        "en": "Last weekend of pre-campaign rallies before the 29 November election"
+      },
+      "body": {
+        "es": "Los líderes celebran sus últimos mítines de precampaña: Sánchez en Bilbao, Feijóo en Málaga con Juanma Moreno y Ada Colau en Palma. La campaña oficial arranca a medianoche del jueves al viernes.",
+        "en": "Party leaders are holding their final pre-campaign rallies: Sánchez in Bilbao, Feijóo in Málaga with Juanma Moreno, and Ada Colau in Palma. The official campaign kicks off at midnight between Thursday and Friday."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/07/temas-del-dia-de-efe-espana-del-domingo-8-de-noviembre-de-2026/"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "Cataluña, clave del 29N: debate de candidatos esta noche",
+        "en": "Catalonia, key to the election: candidates debate tonight"
+      },
+      "body": {
+        "es": "Los 48 escaños de Cataluña en el Congreso se consideran decisivos: el PSC quiere sostener a Sánchez, el PP espera recortar distancias y ERC y Junts aspiran a volver a ser decisivos. RTVE Catalunya organiza esta noche, a las 22:00, un debate entre los candidatos catalanes.",
+        "en": "Catalonia's 48 seats in Congress are seen as decisive: the PSC wants to prop up Sánchez, the PP hopes to narrow the gap, and ERC and Junts aim to be kingmakers again. RTVE Catalunya hosts a debate among the Catalan candidates tonight at 10 p.m."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/07/temas-del-dia-de-efe-espana-del-domingo-8-de-noviembre-de-2026/"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "La borrasca Bruna trae lluvias intensas y alerta en Canarias",
+        "en": "Storm Bruna brings heavy rain and alerts across the Canary Islands"
+      },
+      "body": {
+        "es": "Un frente asociado a la borrasca Bruna trae lluvias fuertes y tormentas al oeste de Andalucía, Extremadura, Galicia y la cornisa cantábrica. En Canarias, cinco islas están en alerta y Gran Canaria ha prohibido las reuniones públicas y privadas desde el mediodía.",
+        "en": "A front linked to Storm Bruna is bringing heavy rain and thunderstorms to western Andalusia, Extremadura, Galicia and the Cantabrian coast. In the Canaries, five islands are on alert and Gran Canaria has banned public and private gatherings from midday."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/07/hoy-sera-noticia-domingo-8-de-noviembre/"
+      }
+    },
+    {
+      "id": "espana-4",
+      "section": "espana",
+      "title": {
+        "es": "La DANA de Valencia elevó un 36% el riesgo de parto prematuro",
+        "en": "Valencia's 2024 floods raised the risk of premature birth by 36%"
+      },
+      "body": {
+        "es": "Un estudio de unos 12.000 nacimientos en la zona afectada por la DANA de 2024 en Valencia concluye que el riesgo de parto prematuro aumentó un 36%.",
+        "en": "A study of around 12,000 births in the area hit by the 2024 floods in Valencia found the risk of premature delivery rose by 36%."
+      },
+      "why_it_matters": {
+        "es": "Demuestra que el coste sanitario de los fenómenos extremos se prolonga mucho más allá de la propia catástrofe.",
+        "en": "It shows that the health toll of extreme weather lasts well beyond the disaster itself."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/07/temas-del-dia-de-efe-espana-del-domingo-8-de-noviembre-de-2026/"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "Iberdrola renovará 1.300 km de líneas de transporte en Nueva York",
+        "en": "Iberdrola to overhaul 1,300 km of transmission lines in New York"
+      },
+      "body": {
+        "es": "Iberdrola prevé modernizar unos 1.300 kilómetros de líneas de transporte de alta tensión en el estado de Nueva York a través de su negocio de redes en EE.UU.",
+        "en": "Iberdrola plans to upgrade around 1,300 kilometres of high-voltage transmission lines in New York State through its US network business."
+      },
+      "why_it_matters": {
+        "es": "Encaja con la estrategia del grupo de volcar capital en redes reguladas en EE.UU. y Reino Unido, donde la rentabilidad se considera más atractiva que en España.",
+        "en": "It fits the group's strategy of pouring capital into regulated networks in the US and UK, where returns are seen as more attractive than in Spain."
+      },
+      "source": {
+        "name": "elEconomista",
+        "url": "https://eleconomista.es/energia/noticias/14026407/11/26/iberdrola-renovara-1300-kilometros-de-lineas-electricas-de-transporte-en-nueva-york.html"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "España es el país de la UE que más renovable desperdicia por congestión de red",
+        "en": "Spain wastes more renewable power than any other EU country due to grid congestion"
+      },
+      "body": {
+        "es": "España recorta más producción renovable que ningún otro país de la UE porque su red no siempre puede absorber o transportar la electricidad que se genera.",
+        "en": "Spain curtails more renewable output than any other EU member because its grid cannot always absorb or move the electricity being generated."
+      },
+      "why_it_matters": {
+        "es": "Refuerza los argumentos a favor de acelerar la inversión en redes y almacenamiento, el centro del debate actual con la CNMC sobre la retribución de las redes.",
+        "en": "It strengthens the case for faster grid investment and storage, the core of the current debate over network remuneration with the CNMC."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/electricas/"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "Almaraz I, parada tras un incidente en la turbina",
+        "en": "Almaraz unit 1 shuts down after a turbine incident"
+      },
+      "body": {
+        "es": "El reactor 1 de la central nuclear de Almaraz (Cáceres) se desconectó tras un incidente en su turbina principal.",
+        "en": "Reactor 1 at the Almaraz nuclear plant in Cáceres went offline after an incident in its main turbine."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/electricas/"
+      }
+    },
+    {
+      "id": "energia-4",
+      "section": "energia",
+      "title": {
+        "es": "Alemania prevé 110.000 millones para sus redes de distribución",
+        "en": "Germany plans €110 billion for its distribution grids"
+      },
+      "body": {
+        "es": "Alemania prevé invertir unos 110.000 millones de euros en redes de distribución, aunque el centro de estudios Agora Energiewende sostiene que podría ahorrarse una cuarta parte.",
+        "en": "Germany expects to spend around €110 billion on distribution networks, although the think tank Agora Energiewende argues that a quarter of that could be saved."
+      },
+      "why_it_matters": {
+        "es": "Es una referencia útil de la magnitud del capex en distribución al que se enfrenta Europa, incluidos los planes de i-DE.",
+        "en": "It is a useful benchmark for the scale of distribution capex Europe is facing, including i-DE's own plans."
+      },
+      "source": {
+        "name": "El Periódico de la Energía",
+        "url": "https://elperiodicodelaenergia.com/electricas/"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "Semana de vértigo: el Brent se hunde un 13,6% y el oro sube un 5%",
+        "en": "A wild week: Brent sinks 13.6% and gold climbs 5%"
+      },
+      "body": {
+        "es": "El Brent cerró la semana cerca de 98 dólares por barril, con una caída de alrededor del 13,6%, ante la esperanza de un acuerdo sobre Ormuz. El oro, en cambio, subió alrededor de un 5%, hasta unos 4.080 dólares la onza, mientras que el bitcoin cedió un 1,6%, hasta unos 76.000 dólares.",
+        "en": "Brent crude ended the week near $98 a barrel, down about 13.6%, as hopes of a deal over Hormuz grew. Gold, by contrast, gained around 5% to roughly $4,080 an ounce, while bitcoin slipped 1.6% to about $76,000."
+      },
+      "source": {
+        "name": "NordFX",
+        "url": "https://nordfx.com/market-news/forex-cryptocurrency-forecast-november-09-13-2026"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "El IPC de EE.UU. del martes, examen clave para la Fed",
+        "en": "Tuesday's US inflation figures are the next big test for the Fed"
+      },
+      "body": {
+        "es": "El IPC de octubre de EE.UU. se publica el martes, y los precios de producción, el viernes. Tras un dato de empleo espectacular, los mercados descuentan una alta probabilidad de que la Fed suba los tipos en diciembre, y una inflación elevada lo confirmaría.",
+        "en": "October's US consumer price index comes out on Tuesday, followed by producer prices on Friday. After a blockbuster jobs report, markets are pricing in a high chance that the Fed raises rates in December, and a hot inflation reading would cement that view."
+      },
+      "why_it_matters": {
+        "es": "Unos tipos más altos encarecen la deuda de negocios intensivos en capital, como las eléctricas.",
+        "en": "Higher rates raise the cost of debt for capital-heavy businesses such as utilities."
+      },
+      "source": {
+        "name": "NordFX",
+        "url": "https://nordfx.com/market-news/forex-cryptocurrency-forecast-november-09-13-2026"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "22:00 – Debate de candidatos catalanes al 29N en RTVE Catalunya.",
+      "en": "10 p.m. – Debate among Catalan candidates for the 29 November election on RTVE Catalunya."
+    },
+    {
+      "es": "Mítines del último fin de semana de precampaña (Sánchez en Bilbao, Feijóo en Málaga, Colau en Palma).",
+      "en": "Final pre-campaign rallies (Sánchez in Bilbao, Feijóo in Málaga, Colau in Palma)."
+    },
+    {
+      "es": "Borrasca Bruna: alerta por lluvias en Canarias y el oeste peninsular.",
+      "en": "Storm Bruna: rain alerts in the Canary Islands and western mainland Spain."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "legacy",
+      "translation": "heredado, antiguo",
+      "pos": "adj",
+      "example": "Many banks still run legacy systems."
+    },
+    {
+      "term": "forging",
+      "translation": "falsificar",
+      "pos": "verb",
+      "example": "Forging a signature is a crime."
+    },
+    {
+      "term": "slashes",
+      "translation": "recorta drásticamente",
+      "pos": "verb",
+      "example": "The update slashes costs by half."
+    },
+    {
+      "term": "lingers",
+      "translation": "persiste, perdura",
+      "pos": "verb",
+      "example": "Old encryption still lingers in many devices."
+    },
+    {
+      "term": "tumbled",
+      "translation": "cayeron en picado",
+      "pos": "verb",
+      "example": "Shares tumbled after the warning."
+    },
+    {
+      "term": "soaked up",
+      "translation": "absorbido, acaparado",
+      "pos": "phrasal verb",
+      "example": "Big buyers have soaked up all the supply."
+    },
+    {
+      "term": "lead times",
+      "translation": "plazos de entrega",
+      "pos": "noun",
+      "example": "Lead times for transformers keep growing."
+    },
+    {
+      "term": "squeeze",
+      "translation": "estrechez, aprieto",
+      "pos": "noun",
+      "example": "The supply squeeze should ease next year."
+    },
+    {
+      "term": "ease",
+      "translation": "aliviarse, suavizarse",
+      "pos": "verb",
+      "example": "Prices may ease in spring."
+    },
+    {
+      "term": "shortages",
+      "translation": "escasez",
+      "pos": "noun",
+      "example": "Shortages hit carmakers hard."
+    },
+    {
+      "term": "standing responsibilities",
+      "translation": "responsabilidades fijas",
+      "pos": "noun",
+      "example": "The agent has standing responsibilities, like weekly reports."
+    },
+    {
+      "term": "around the clock",
+      "translation": "las 24 horas",
+      "pos": "idiom",
+      "example": "The plant operates around the clock."
+    },
+    {
+      "term": "rolling out",
+      "translation": "desplegando, lanzando",
+      "pos": "phrasal verb",
+      "example": "The bank is rolling out a new app."
+    },
+    {
+      "term": "top-tier",
+      "translation": "de gama alta",
+      "pos": "adj",
+      "example": "It is only available on the top-tier plan."
+    },
+    {
+      "term": "jots down",
+      "translation": "apunta",
+      "pos": "phrasal verb",
+      "example": "She jots down ideas in a notebook."
+    },
+    {
+      "term": "idle",
+      "translation": "inactivo",
+      "pos": "adj",
+      "example": "Idle servers still consume power."
+    },
+    {
+      "term": "hurdles",
+      "translation": "obstáculos",
+      "pos": "noun",
+      "example": "Permitting is one of the biggest hurdles."
+    },
+    {
+      "term": "puts the brakes on",
+      "translation": "frena",
+      "pos": "idiom",
+      "example": "The regulator put the brakes on new connections."
+    },
+    {
+      "term": "ration",
+      "translation": "racionar",
+      "pos": "verb",
+      "example": "Some countries ration grid access."
+    },
+    {
+      "term": "weighs",
+      "translation": "sopesa",
+      "pos": "verb",
+      "example": "The board weighs two offers."
+    },
+    {
+      "term": "blasts",
+      "translation": "explosiones",
+      "pos": "noun",
+      "example": "Two blasts were heard near the port."
+    },
+    {
+      "term": "dismisses",
+      "translation": "descarta, desestima",
+      "pos": "verb",
+      "example": "He dismisses the report as false."
+    },
+    {
+      "term": "blockade runner",
+      "translation": "buque que burla un bloqueo",
+      "pos": "noun",
+      "example": "A blockade runner was stopped at sea."
+    },
+    {
+      "term": "stern",
+      "translation": "popa",
+      "pos": "noun",
+      "example": "The ship was hit at the stern."
+    },
+    {
+      "term": "choke off",
+      "translation": "estrangular, cortar",
+      "pos": "phrasal verb",
+      "example": "Sanctions aim to choke off funding."
+    },
+    {
+      "term": "dual-use goods",
+      "translation": "bienes de doble uso",
+      "pos": "noun",
+      "example": "Dual-use goods need export licences."
+    },
+    {
+      "term": "illicit",
+      "translation": "ilícito",
+      "pos": "adj",
+      "example": "Illicit trade is hard to track."
+    },
+    {
+      "term": "scrapping",
+      "translation": "eliminando, desechando",
+      "pos": "verb",
+      "example": "The firm is scrapping its old plan."
+    },
+    {
+      "term": "bridge differences",
+      "translation": "acercar posturas",
+      "pos": "idiom",
+      "example": "Mediators tried to bridge differences."
+    },
+    {
+      "term": "preconditions",
+      "translation": "condiciones previas",
+      "pos": "noun",
+      "example": "They refused to talk without preconditions."
+    },
+    {
+      "term": "prop up",
+      "translation": "sostener, apuntalar",
+      "pos": "phrasal verb",
+      "example": "Subsidies prop up the industry."
+    },
+    {
+      "term": "narrow the gap",
+      "translation": "reducir la distancia",
+      "pos": "idiom",
+      "example": "The party hopes to narrow the gap."
+    },
+    {
+      "term": "kingmakers",
+      "translation": "partidos bisagra decisivos",
+      "pos": "noun",
+      "example": "Small parties often act as kingmakers."
+    },
+    {
+      "term": "overhaul",
+      "translation": "renovar a fondo",
+      "pos": "verb",
+      "example": "They plan to overhaul the network."
+    },
+    {
+      "term": "pouring capital into",
+      "translation": "volcar capital en",
+      "pos": "idiom",
+      "example": "Utilities are pouring capital into grids."
+    },
+    {
+      "term": "curtails",
+      "translation": "recorta (producción)",
+      "pos": "verb",
+      "example": "The operator curtails wind output at night."
+    },
+    {
+      "term": "benchmark",
+      "translation": "referencia",
+      "pos": "noun",
+      "example": "Use last year's figure as a benchmark."
+    },
+    {
+      "term": "blockbuster",
+      "translation": "espectacular, de récord",
+      "pos": "adj",
+      "example": "It was a blockbuster quarter."
+    },
+    {
+      "term": "pricing in",
+      "translation": "descontando (en los precios)",
+      "pos": "phrasal verb",
+      "example": "Markets are pricing in a rate hike."
+    },
+    {
+      "term": "cement",
+      "translation": "consolidar",
+      "pos": "verb",
+      "example": "The deal cemented their partnership."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Google DeepMind says AI agents, working alongside cryptographers Nadia Heninger and Emmanuel Thomé, made two advances against legacy 1024-bit RSA in just a few weeks.",
+      "es": "Google DeepMind afirma que agentes de IA, trabajando junto a los criptógrafos Nadia Heninger y Emmanuel Thomé, lograron dos avances contra el antiguo RSA de 1024 bits en pocas semanas."
+    },
+    {
+      "en": "One technique makes forging certain signatures roughly 1,600 times more efficient, while the other slashes the extra cost of factoring batches of keys by about 30 times.",
+      "es": "Una técnica hace unas 1.600 veces más eficiente falsificar ciertas firmas, y la otra reduce unas 30 veces el coste adicional de factorizar lotes de claves."
+    },
+    {
+      "en": "The widely used RSA-2048 standard is reported to be unaffected.",
+      "es": "Según la información, el estándar RSA-2048, de uso generalizado, no se ve afectado."
+    },
+    {
+      "en": "It is a striking example of AI accelerating expert research, and a reminder that outdated encryption still lingers in many systems.",
+      "es": "Es un ejemplo llamativo de cómo la IA acelera la investigación experta, y un recordatorio de que el cifrado obsoleto sigue presente en muchos sistemas."
+    },
+    {
+      "en": "Microchip's shares tumbled about 10% after its chief executive said AI customers had soaked up outsourced assembly and test capacity.",
+      "es": "Las acciones de Microchip cayeron alrededor de un 10% después de que su consejero delegado dijera que los clientes de IA han absorbido la capacidad externa de ensamblaje y pruebas."
+    },
+    {
+      "en": "Standard lead times have stretched from 4-8 weeks to as much as 32 weeks, and the company expects the squeeze to take around six months to ease.",
+      "es": "Los plazos de entrega habituales han pasado de 4-8 semanas a hasta 32 semanas, y la empresa calcula que el cuello de botella tardará unos seis meses en aliviarse."
+    },
+    {
+      "en": "The AI boom is starting to create shortages for ordinary chips used in cars, factories and appliances.",
+      "es": "El auge de la IA empieza a provocar escasez de chips corrientes que se usan en coches, fábricas y electrodomésticos."
+    },
+    {
+      "en": "Perplexity has introduced Teammates, persistent agents that can take on standing responsibilities, coordinate other agents and keep running around the clock.",
+      "es": "Perplexity ha presentado Teammates, agentes persistentes que pueden asumir responsabilidades fijas, coordinar a otros agentes y funcionar las 24 horas."
+    },
+    {
+      "en": "The feature is rolling out on the web for subscribers to its top-tier Max plan, with mobile apps to follow.",
+      "es": "La función llega primero a la web para los suscriptores de su plan superior Max, y después a las apps móviles."
+    },
+    {
+      "en": "The race is shifting from chatbots that answer questions to agents that handle ongoing work on their own.",
+      "es": "La carrera pasa de chatbots que responden preguntas a agentes que se encargan por sí solos de tareas continuas."
+    },
+    {
+      "en": "Google has released Gemini Omni 1.2 Flash, which generates video clips of up to 15 seconds, up from 10.",
+      "es": "Google ha lanzado Gemini Omni 1.2 Flash, que genera vídeos de hasta 15 segundos, frente a los 10 anteriores."
+    },
+    {
+      "en": "The price for 720p video through the Gemini API drops 30% to seven cents per second, and users can now refine clips over several turns.",
+      "es": "El precio del vídeo en 720p a través de la API de Gemini baja un 30%, hasta siete céntimos por segundo, y ya se pueden retocar los vídeos en varias rondas."
+    },
+    {
+      "en": "Anthropic has published research describing a three-layer memory system for its AI agents.",
+      "es": "Anthropic ha publicado una investigación que describe un sistema de memoria de tres capas para sus agentes de IA."
+    },
+    {
+      "en": "Claude jots down notes during a session, stronger models judge which ones are worth keeping, and a 'dreaming' process consolidates memories during idle time.",
+      "es": "Claude toma notas durante una sesión, modelos más potentes deciden cuáles merece la pena conservar y un proceso de «sueño» consolida los recuerdos en los momentos de inactividad."
+    },
+    {
+      "en": "Long-term memory is one of the main hurdles to agents that can work reliably over weeks rather than minutes.",
+      "es": "La memoria a largo plazo es uno de los grandes obstáculos para tener agentes que trabajen de forma fiable durante semanas y no solo minutos."
+    },
+    {
+      "en": "Southeast Asia accounts for roughly half of the data-centre capacity under construction in Asia-Pacific, led by Malaysia and Thailand.",
+      "es": "El Sudeste Asiático concentra aproximadamente la mitad de la capacidad de centros de datos en construcción de Asia-Pacífico, con Malasia y Tailandia a la cabeza."
+    },
+    {
+      "en": "Thailand has suspended 49 projects and frozen approvals for 117 more, while Malaysia is reportedly turning away new applications not linked to AI.",
+      "es": "Tailandia ha suspendido 49 proyectos y congelado la aprobación de otros 117, mientras que Malasia estaría rechazando nuevas solicitudes no vinculadas a la IA."
+    },
+    {
+      "en": "Pressure on power grids and water is pushing governments everywhere to ration data-centre growth.",
+      "es": "La presión sobre las redes eléctricas y el agua está llevando a gobiernos de todo el mundo a racionar el crecimiento de los centros de datos."
+    },
+    {
+      "en": "Iranian state media reported two blasts on Qeshm Island and several more at the port of Jask on Saturday evening, although the cause remains unclear.",
+      "es": "Los medios estatales iraníes informaron de dos explosiones en la isla de Qeshm y de varias más en el puerto de Jask el sábado por la noche, aunque la causa sigue sin estar clara."
+    },
+    {
+      "en": "Iran's military also said two tankers caught fire after hitting mines on an 'unauthorised route' through the strait, claims that Trump dismisses as fabricated to push up energy prices.",
+      "es": "El ejército iraní también aseguró que dos petroleros se incendiaron tras chocar con minas en una «ruta no autorizada» del estrecho, algo que Trump tacha de invención para encarecer la energía."
+    },
+    {
+      "en": "US Central Command said its aircraft fired at the stern of the cargo ship Huda in the Gulf of Oman after it ignored warnings and tried to break the naval blockade.",
+      "es": "El Mando Central de EE.UU. dijo que sus aviones dispararon contra la popa del carguero Huda en el golfo de Omán después de que ignorara los avisos e intentara romper el bloqueo naval."
+    },
+    {
+      "en": "It also launched 'Task Force Iron Gate' to choke off weapons technology, dual-use goods and illicit revenue crossing Iran's land borders and the Caspian Sea.",
+      "es": "Además, puso en marcha la «Task Force Iron Gate» para cortar el paso de tecnología armamentística, bienes de doble uso e ingresos ilícitos por las fronteras terrestres de Irán y el mar Caspio."
+    },
+    {
+      "en": "Washington says the blockade has already blocked about $25 billion in Iranian oil sales.",
+      "es": "Washington afirma que el bloqueo ya ha impedido unos 25.000 millones de dólares en ventas de crudo iraní."
+    },
+    {
+      "en": "The IRGC announced it is scrapping the roughly 2,000-kilometre range limit it had placed on its ballistic missiles.",
+      "es": "La Guardia Revolucionaria anunció que elimina el límite de alcance de unos 2.000 kilómetros que se había impuesto para sus misiles balísticos."
+    },
+    {
+      "en": "Iran is not known to possess missiles that fly much further, so the move is seen mainly as a political signal.",
+      "es": "No se sabe que Irán tenga misiles con un alcance mucho mayor, por lo que el gesto se interpreta sobre todo como una señal política."
+    },
+    {
+      "en": "It could make European capitals more nervous and complicate the Qatari-led mediation.",
+      "es": "Puede inquietar más a las capitales europeas y complicar la mediación encabezada por Catar."
+    },
+    {
+      "en": "Trump discussed de-escalation with Qatar's emir, whose proposals try to bridge differences over Iran's nuclear programme.",
+      "es": "Trump habló de desescalada con el emir de Catar, cuyas propuestas intentan acercar posturas sobre el programa nuclear iraní."
+    },
+    {
+      "en": "Tehran says it is reviewing them but will not negotiate on nuclear issues until Washington meets several preconditions.",
+      "es": "Teherán dice que las está estudiando, pero que no negociará sobre el asunto nuclear hasta que Washington cumpla varias condiciones previas."
+    },
+    {
+      "en": "Houthi authorities say at least 33 people died in strikes on Al-Shariya, in Sanaa province, while a separate attack on a market in Taiz killed 30.",
+      "es": "Las autoridades hutíes afirman que al menos 33 personas murieron en ataques contra Al-Shariya, en la provincia de Saná, mientras que otro ataque en un mercado de Taiz mató a 30."
+    },
+    {
+      "en": "Riyadh has not commented, and the UN says more than 1,600 people have been killed since fighting resumed.",
+      "es": "Riad no ha hecho comentarios, y la ONU calcula que más de 1.600 personas han muerto desde que se reanudaron los combates."
+    },
+    {
+      "en": "Party leaders are holding their final pre-campaign rallies: Sánchez in Bilbao, Feijóo in Málaga with Juanma Moreno, and Ada Colau in Palma.",
+      "es": "Los líderes celebran sus últimos mítines de precampaña: Sánchez en Bilbao, Feijóo en Málaga con Juanma Moreno y Ada Colau en Palma."
+    },
+    {
+      "en": "The official campaign kicks off at midnight between Thursday and Friday.",
+      "es": "La campaña oficial arranca a medianoche del jueves al viernes."
+    },
+    {
+      "en": "Catalonia's 48 seats in Congress are seen as decisive: the PSC wants to prop up Sánchez, the PP hopes to narrow the gap, and ERC and Junts aim to be kingmakers again.",
+      "es": "Los 48 escaños de Cataluña en el Congreso se consideran decisivos: el PSC quiere sostener a Sánchez, el PP espera recortar distancias y ERC y Junts aspiran a volver a ser decisivos."
+    },
+    {
+      "en": "RTVE Catalunya hosts a debate among the Catalan candidates tonight at 10 p.m.",
+      "es": "RTVE Catalunya organiza esta noche, a las 22:00, un debate entre los candidatos catalanes."
+    },
+    {
+      "en": "A front linked to Storm Bruna is bringing heavy rain and thunderstorms to western Andalusia, Extremadura, Galicia and the Cantabrian coast.",
+      "es": "Un frente asociado a la borrasca Bruna trae lluvias fuertes y tormentas al oeste de Andalucía, Extremadura, Galicia y la cornisa cantábrica."
+    },
+    {
+      "en": "In the Canaries, five islands are on alert and Gran Canaria has banned public and private gatherings from midday.",
+      "es": "En Canarias, cinco islas están en alerta y Gran Canaria ha prohibido las reuniones públicas y privadas desde el mediodía."
+    },
+    {
+      "en": "A study of around 12,000 births in the area hit by the 2024 floods in Valencia found the risk of premature delivery rose by 36%.",
+      "es": "Un estudio de unos 12.000 nacimientos en la zona afectada por la DANA de 2024 en Valencia concluye que el riesgo de parto prematuro aumentó un 36%."
+    },
+    {
+      "en": "It shows that the health toll of extreme weather lasts well beyond the disaster itself.",
+      "es": "Demuestra que el coste sanitario de los fenómenos extremos se prolonga mucho más allá de la propia catástrofe."
+    },
+    {
+      "en": "Iberdrola plans to upgrade around 1,300 kilometres of high-voltage transmission lines in New York State through its US network business.",
+      "es": "Iberdrola prevé modernizar unos 1.300 kilómetros de líneas de transporte de alta tensión en el estado de Nueva York a través de su negocio de redes en EE.UU."
+    },
+    {
+      "en": "It fits the group's strategy of pouring capital into regulated networks in the US and UK, where returns are seen as more attractive than in Spain.",
+      "es": "Encaja con la estrategia del grupo de volcar capital en redes reguladas en EE.UU. y Reino Unido, donde la rentabilidad se considera más atractiva que en España."
+    },
+    {
+      "en": "Spain curtails more renewable output than any other EU member because its grid cannot always absorb or move the electricity being generated.",
+      "es": "España recorta más producción renovable que ningún otro país de la UE porque su red no siempre puede absorber o transportar la electricidad que se genera."
+    },
+    {
+      "en": "It strengthens the case for faster grid investment and storage, the core of the current debate over network remuneration with the CNMC.",
+      "es": "Refuerza los argumentos a favor de acelerar la inversión en redes y almacenamiento, el centro del debate actual con la CNMC sobre la retribución de las redes."
+    },
+    {
+      "en": "Reactor 1 at the Almaraz nuclear plant in Cáceres went offline after an incident in its main turbine.",
+      "es": "El reactor 1 de la central nuclear de Almaraz (Cáceres) se desconectó tras un incidente en su turbina principal."
+    },
+    {
+      "en": "Germany expects to spend around €110 billion on distribution networks, although the think tank Agora Energiewende argues that a quarter of that could be saved.",
+      "es": "Alemania prevé invertir unos 110.000 millones de euros en redes de distribución, aunque el centro de estudios Agora Energiewende sostiene que podría ahorrarse una cuarta parte."
+    },
+    {
+      "en": "It is a useful benchmark for the scale of distribution capex Europe is facing, including i-DE's own plans.",
+      "es": "Es una referencia útil de la magnitud del capex en distribución al que se enfrenta Europa, incluidos los planes de i-DE."
+    },
+    {
+      "en": "Brent crude ended the week near $98 a barrel, down about 13.6%, as hopes of a deal over Hormuz grew.",
+      "es": "El Brent cerró la semana cerca de 98 dólares por barril, con una caída de alrededor del 13,6%, ante la esperanza de un acuerdo sobre Ormuz."
+    },
+    {
+      "en": "Gold, by contrast, gained around 5% to roughly $4,080 an ounce, while bitcoin slipped 1.6% to about $76,000.",
+      "es": "El oro, en cambio, subió alrededor de un 5%, hasta unos 4.080 dólares la onza, mientras que el bitcoin cedió un 1,6%, hasta unos 76.000 dólares."
+    },
+    {
+      "en": "October's US consumer price index comes out on Tuesday, followed by producer prices on Friday.",
+      "es": "El IPC de octubre de EE.UU. se publica el martes, y los precios de producción, el viernes."
+    },
+    {
+      "en": "After a blockbuster jobs report, markets are pricing in a high chance that the Fed raises rates in December, and a hot inflation reading would cement that view.",
+      "es": "Tras un dato de empleo espectacular, los mercados descuentan una alta probabilidad de que la Fed suba los tipos en diciembre, y una inflación elevada lo confirmaría."
+    },
+    {
+      "en": "Higher rates raise the cost of debt for capital-heavy businesses such as utilities.",
+      "es": "Unos tipos más altos encarecen la deuda de negocios intensivos en capital, como las eléctricas."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "lead time",
+    "pos": "noun",
+    "translation": "plazo de entrega",
+    "definition_en": "The time between placing an order and receiving the goods.",
+    "example_en": "Lead times for high-voltage transformers now exceed two years, which delays grid projects.",
+    "example_es": "Los plazos de entrega de los transformadores de alta tensión ya superan los dos años, lo que retrasa los proyectos de red."
+  },
+  "recommendations": [
+    {
+      "id": "anthropic-components-of-agent-memory",
+      "type": "article",
+      "title": "Components of agent memory",
+      "speaker": "Equipo de investigación de Anthropic",
+      "outlet": "Anthropic",
+      "duration_min": 15,
+      "language": "en",
+      "topics": [
+        "IA",
+        "agentes"
+      ],
+      "summary": "Describe cómo los agentes de Claude guardan notas, deciden qué recordar y consolidan la memoria en los ratos de inactividad.",
+      "why": "Explica de primera mano un problema clave de los agentes de IA; buen inglés técnico.",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory"
+    },
+    {
+      "id": "guardian-datacentres-southeast-asia-2026-11",
+      "type": "article",
+      "title": "Data centres in Southeast Asia",
+      "speaker": "The Guardian",
+      "outlet": "The Guardian",
+      "duration_min": 8,
+      "language": "en",
+      "topics": [
+        "IA",
+        "energía",
+        "redes"
+      ],
+      "summary": "Reportaje sobre la expansión de centros de datos en Malasia y Tailandia y las moratorias que empiezan a imponer sus gobiernos.",
+      "why": "El mismo dilema que vive España: demanda de IA frente a capacidad de red.",
+      "url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia"
+    },
+    {
+      "id": "247wallst-microchip-ai-crowding-out-2026-11",
+      "type": "article",
+      "title": "The chip shortage is back and Microchip says AI customers are crowding everyone out",
+      "speaker": "24/7 Wall St.",
+      "outlet": "24/7 Wall St.",
+      "duration_min": 6,
+      "language": "en",
+      "topics": [
+        "IA",
+        "chips",
+        "mercados"
+      ],
+      "summary": "Analiza la advertencia de Microchip sobre plazos de entrega disparados por la demanda de IA y el castigo en bolsa.",
+      "why": "Ayuda a entender los cuellos de botella de la cadena de suministro, también relevantes para equipos de red.",
+      "url": "https://247wallst.com/investing/2026/11/07/the-chip-shortage-is-back-and-microchip-says-ai-customers-are-crowding-everyone-out/"
+    },
+    {
+      "id": "energyconnects-uae-ai-autonomous-operations",
+      "type": "video",
+      "title": "How UAE's AI leadership is accelerating the future of autonomous operations",
+      "speaker": "Entrevista en ADIPEC 2026",
+      "outlet": "Energy Connects",
+      "duration_min": 10,
+      "language": "en",
+      "topics": [
+        "energía",
+        "IA"
+      ],
+      "summary": "Entrevista sobre cómo la IA lleva a la industria energética hacia operaciones autónomas.",
+      "why": "Formato corto para practicar listening con vocabulario del sector energético.",
+      "url": "https://www.energyconnects.com/videos/video-interviews/2026/november/how-uaes-ai-leadership-is-accelerating-the-future-of-autonomous-operations/"
+    },
+    {
+      "id": "powermag-trusted-control-ai-power-generation",
+      "type": "article",
+      "title": "Trusted Control Is the Foundation for AI in Power Generation",
+      "speaker": "POWER Magazine",
+      "outlet": "POWER",
+      "duration_min": 8,
+      "language": "en",
+      "topics": [
+        "energía",
+        "IA",
+        "control"
+      ],
+      "summary": "Defiende que la IA en generación eléctrica solo funciona sobre sistemas de control fiables y verificables.",
+      "why": "Une tu base de ingeniería (control) con el debate sobre IA en el sector eléctrico.",
+      "url": "https://www.powermag.com/trusted-control-is-the-foundation-for-ai-in-power-generation/"
+    },
+    {
+      "id": "el-debate-de-la-economia-podcast",
+      "type": "podcast",
+      "title": "El Debate de la Economía",
+      "speaker": "Varios economistas",
+      "outlet": "Apple Podcasts",
+      "duration_min": 40,
+      "language": "es",
+      "topics": [
+        "economía",
+        "España"
+      ],
+      "summary": "Podcast de tertulia económica en español sobre la actualidad de España y los mercados.",
+      "why": "Útil para seguir el debate económico de cara al 29N en tu idioma.",
+      "url": "https://podcasts.apple.com/podcast/id1772053133"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Domingo sin mercados: datos del cierre del viernes. Semana marcada por la venta masiva en tecnológicas tras las elecciones de mitad de mandato en EE.UU., un rebote parcial de los chips y un empleo muy fuerte que eleva las apuestas de una subida de tipos de la Fed en diciembre. El Brent cayó con fuerza en la semana por la esperanza de un acuerdo en Ormuz y el oro subió. Los analistas ven el IPC del martes como el próximo gran catalizador.",
+      "en": "No trading on Sunday: figures are Friday's closes. The week was shaped by a tech sell-off after the US midterms, a partial rebound in chips and a very strong jobs report that boosted bets on a December Fed hike. Brent fell sharply over the week on hopes of a Hormuz deal while gold rose. Analysts see Tuesday's CPI as the next big catalyst."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35 (cierre viernes)",
+        "value": 19369.5,
+        "change_pct": -0.6
+      },
+      {
+        "name": "S&P 500 (cierre viernes)",
+        "value": 7376.86,
+        "change_pct": 0.31
+      },
+      {
+        "name": "Nasdaq Composite (cierre viernes)",
+        "value": 24579.42,
+        "change_pct": 1.09
+      },
+      {
+        "name": "Dow Jones (cierre viernes)",
+        "value": 51285.73,
+        "change_pct": -0.46
+      },
+      {
+        "name": "Brent (USD/barril, semana)",
+        "value": 97.75,
+        "change_pct": -13.6
+      },
+      {
+        "name": "Oro (USD/onza, semana)",
+        "value": 4079.5,
+        "change_pct": 5.0
+      },
+      {
+        "name": "EUR/USD (semana)",
+        "value": 1.114,
+        "change_pct": -0.2
+      },
+      {
+        "name": "Bitcoin (USD, semana)",
+        "value": 76038,
+        "change_pct": -1.6
+      }
+    ],
+    "learn": {
+      "concept": "IPC e inflación subyacente",
+      "explanation": "El IPC mide cuánto sube el precio de una cesta de bienes y servicios. La inflación subyacente excluye energía y alimentos frescos, que son muy volátiles, y por eso es la que más miran los bancos centrales para decidir los tipos. Si la subyacente sube, es probable que suban los tipos de interés, lo que encarece la deuda y eleva el coste de capital (WACC) de negocios regulados como las redes de distribución. En España, la retribución de redes se actualiza por periodos regulatorios, así que un repunte de tipos entre periodos estrecha el margen entre lo que se cobra y lo que cuesta financiarse."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
