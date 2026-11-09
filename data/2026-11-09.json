@@ -1,0 +1,1019 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T07:03:27+01:00",
+  "last_updated": "2026-11-09T07:03:27+01:00",
+  "headline": {
+    "es": "Asia rebota con fuerza después de que Trump viera «muy improbable» volver a atacar Irán, mientras el consejo de Nvidia investiga si Jensen Huang fue objetivo de espías extranjeros. Hoy arranca la COP31 y en España termina la precampaña del 29N.",
+    "en": "Asian markets bounce back after Trump called new strikes on Iran 'highly unlikely', while Nvidia's board investigates whether Jensen Huang was targeted by foreign spies. COP31 opens today, and Spain's pre-campaign for 29 November draws to a close."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "El consejo de Nvidia investiga si Jensen Huang fue objetivo de una operación de espionaje",
+        "en": "Nvidia's board opens an inquiry into whether Jensen Huang was targeted by foreign spies"
+      },
+      "body": {
+        "es": "El consejo de Nvidia anunció que sus consejeros independientes, con ayuda de abogados externos, examinarán las informaciones de que su consejero delegado, Jensen Huang, fue objetivo de una operación de inteligencia extranjera. El consejo subrayó que no ha encontrado pruebas de que se vieran comprometidos secretos de la empresa y reiteró su confianza en Huang. Ese mismo día, Axios informó de que Huang había reconocido una relación extramatrimonial en un correo a la plantilla.",
+        "en": "Nvidia's board said its independent directors, helped by outside lawyers, will examine reports that CEO Jensen Huang was the target of a foreign intelligence operation. The board stressed it has found no evidence that company secrets were compromised and reaffirmed its confidence in Huang. The same day, Axios reported that Huang had admitted to an affair in an email to staff."
+      },
+      "why_it_matters": {
+        "es": "Nvidia es el termómetro de la inversión en IA, y sus acciones cayeron alrededor de un 3,5% fuera de horario mientras los analistas avisaban de más volatilidad.",
+        "en": "Nvidia is the bellwether of the AI trade, and its shares slipped about 3.5% in after-hours trading as analysts warned of extra volatility."
+      },
+      "source": {
+        "name": "Nvidia Newsroom",
+        "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "Las tecnológicas de IA han colocado más de 300.000 millones en acciones este año",
+        "en": "AI firms have sold more than $300 billion of stock this year"
+      },
+      "body": {
+        "es": "Según The Information, las empresas de IA han vendido o fijado precio a más de 300.000 millones de dólares en acciones y bonos convertibles obligatorios en 2026, y hay unos 100.000 millones más en camino. Esa avalancha de nueva oferta llegó justo cuando el Nasdaq 100 sufrió el jueves pasado una pérdida récord de 2,3 billones de dólares en un solo día. Algunos gestores europeos describen el desplome como una revalorización a la baja del gasto en IA, no como el final del auge.",
+        "en": "According to The Information, AI companies have sold or priced over $300 billion in shares and mandatory convertible bonds in 2026, with roughly another $100 billion in the pipeline. The flood of new supply came just as the Nasdaq 100 suffered a record $2.3 trillion one-day wipeout last Thursday. Some European fund managers describe the slump as a repricing of AI spending rather than the end of the boom."
+      },
+      "why_it_matters": {
+        "es": "Si se agota el apetito de los inversores, los laboratorios de IA podrían tener problemas para financiar los centros de datos y las centrales que han prometido.",
+        "en": "If investors' appetite runs out, AI labs could struggle to fund the data centres and power plants they have promised."
+      },
+      "source": {
+        "name": "The Information",
+        "url": "https://www.theinformation.com/articles/ai-stock-can-market-absorb"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "El agente de DeepSeek supera los 1,5 millones de usuarios diarios",
+        "en": "DeepSeek's agent app passes 1.5 million daily users"
+      },
+      "body": {
+        "es": "DeepSeek afirma que Harness, su aplicación de agentes de código abierto, alcanzó 1,54 millones de usuarios activos diarios el 4 de noviembre, menos de tres meses después de su lanzamiento. La plataforma procesa unos 92 billones de tokens al día, unos 60 millones por usuario, una muestra de cuánta capacidad de cálculo devoran los agentes.",
+        "en": "DeepSeek says Harness, its open-source agent app, hit 1.54 million daily active users on 4 November, less than three months after launch. The platform processes around 92 trillion tokens a day, or about 60 million per user, a sign of how compute-hungry agents are."
+      },
+      "why_it_matters": {
+        "es": "Demuestra que la IA china de código abierto compite por el mismo mercado de agentes que los laboratorios estadounidenses.",
+        "en": "It shows Chinese open-source AI is competing for the same agent market as US labs."
+      },
+      "source": {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "Una opción de Claude Code dejaba credenciales a la vista en miles de repositorios",
+        "en": "A Claude Code setting left credentials exposed in thousands of repositories"
+      },
+      "body": {
+        "es": "La empresa de ciberseguridad Apiiro descubrió que la opción «no volver a preguntar» de Claude Code guarda los comandos aprobados, credenciales incluidas, en un fichero de configuración en texto plano que Git no excluye por defecto. Al analizar código público de GitHub, detectó 2.539 secretos distintos en casi 2.000 repositorios. Por otro lado, Anthropic comunicó a sus clientes empresariales que una empresa de seguridad externa accedió a finales de octubre a metadatos de cuentas y de uso, aunque no a conversaciones ni a datos de pago.",
+        "en": "Security firm Apiiro found that Claude Code's \"don't ask again\" option stores approved commands, credentials included, in a plain-text settings file that is not excluded from Git by default. Scanning public GitHub code, it detected 2,539 distinct secrets in nearly 2,000 repositories. Separately, Anthropic told enterprise customers that an outside security firm had accessed account and usage metadata in late October, though not conversations or payment data."
+      },
+      "why_it_matters": {
+        "es": "A medida que se extienden los agentes de programación, pequeñas funciones de comodidad pueden convertirse en graves fugas de seguridad.",
+        "en": "As coding agents spread, small convenience features can turn into serious security leaks."
+      },
+      "source": {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "Un juez deja seguir la demanda colectiva por el uso de los planes Claude Max",
+        "en": "Judge lets class action over Claude Max usage limits go ahead"
+      },
+      "body": {
+        "es": "Un juez de EE.UU. dictaminó que la afirmación de Anthropic de que los planes Max ofrecen «cinco o veinte veces más uso» pudo razonablemente engañar a los suscriptores. Seguirán adelante las acusaciones de declaraciones engañosas por negligencia y de incumplimiento de contrato, ya que los demandantes alegan que los multiplicadores se aplican por sesión de cinco horas y no por mes.",
+        "en": "A US judge ruled that Anthropic's claim that Max plans offer \"five or twenty times more usage\" could plausibly have misled subscribers. Claims of negligent misrepresentation and breach of contract will proceed, as plaintiffs argue the multipliers apply per five-hour session rather than per month."
+      },
+      "source": {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/news/anthropic-claude-max-lawsuit-ruling-usage-claims"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "xAI marca por defecto los textos de Grok para cumplir la ley de IA europea",
+        "en": "xAI watermarks Grok's text by default, citing the EU AI Act"
+      },
+      "body": {
+        "es": "xAI ha empezado a insertar una marca de agua estadística invisible en los textos generados a través de la API de Grok en siete modelos. La función viene activada por defecto y los clientes solo pueden desactivarla acogiéndose a una excepción de las normas de transparencia de la ley de IA de la UE.",
+        "en": "xAI has started embedding an invisible statistical watermark in text produced through its Grok API for seven models. The feature is switched on by default, and customers can only turn it off by invoking an exception under the EU AI Act's transparency rules."
+      },
+      "why_it_matters": {
+        "es": "Es una de las primeras grandes pruebas de la norma europea que obliga a que el contenido generado por IA sea identificable.",
+        "en": "It is one of the first big tests of Europe's rule that AI-generated content must be identifiable."
+      },
+      "source": {
+        "name": "Data Studios",
+        "url": "https://www.datastudios.org/post/grok-api-invisible-text-watermarking-default-november-7-eu-ai-act"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Trump ve «muy improbable» volver a atacar Irán si avanzan las conversaciones",
+        "en": "Trump says new strikes on Iran are 'highly unlikely' if talks progress"
+      },
+      "body": {
+        "es": "El domingo, el presidente Trump dijo que era muy improbable reanudar los ataques contra Irán mientras sigan avanzando las negociaciones para poner fin a la guerra. Sus palabras empujaron el Brent hacia los 98 dólares por barril en las primeras horas de negociación en Asia.",
+        "en": "On Sunday, President Trump said a resumption of attacks on Iran was highly unlikely as long as negotiations to end the war keep moving forward. His remarks pushed Brent crude down towards $98 a barrel in early Asian trading."
+      },
+      "why_it_matters": {
+        "es": "Cualquier distensión en el conflicto aliviaría la presión sobre los precios de la energía y la inflación en Europa.",
+        "en": "Any easing of the conflict would relieve pressure on energy prices and inflation in Europe."
+      },
+      "source": {
+        "name": "Reuters / Business Recorder",
+        "url": "https://www.brecorder.com/news/40448089"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Irán deja pasar por Ormuz los barcos de India, China, Catar e Irak",
+        "en": "Iran lets ships from India, China, Qatar and Iraq through Hormuz"
+      },
+      "body": {
+        "es": "Teherán ha eximido de sus restricciones en Ormuz a los barcos de cuatro países: cobra peaje a los indios y chinos, mientras que los cataríes pasan gratis. Catar media en unas conversaciones basadas en una oferta iraní de reabrir el estrecho si Washington levanta su bloqueo naval y las sanciones.",
+        "en": "Tehran has exempted vessels from four countries from its Hormuz restrictions, charging transit fees to Indian and Chinese ships while Qatari ones pass free. Qatar is mediating talks built around an Iranian offer to reopen the strait if Washington lifts its naval blockade and sanctions."
+      },
+      "why_it_matters": {
+        "es": "Los analistas creen que las exenciones apenas cambian por ahora el suministro de petróleo, ya que desde febrero han sido atacados más de 120 buques mercantes.",
+        "en": "Analysts say the exemptions barely change oil supply for now, since more than 120 merchant ships have been hit since February."
+      },
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "Rusia sube el nivel de su delegación para las conversaciones de paz en Abu Dabi",
+        "en": "Russia upgrades its delegation for peace talks in Abu Dhabi"
+      },
+      "body": {
+        "es": "Moscú enviará al viceministro de Exteriores Serguéi Riabkov y a altos mandos militares a la próxima ronda de conversaciones con Ucrania en Abu Dabi, la primera vez que participa. El equipo ucraniano estará encabezado por Rustem Umérov.",
+        "en": "Moscow will send Deputy Foreign Minister Sergei Ryabkov and senior military officers to the next round of talks with Ukraine in Abu Dhabi, the first time he joins them. Ukraine's team will be led by Rustem Umerov."
+      },
+      "source": {
+        "name": "The Kyiv Independent",
+        "url": "https://kyivindependent.com/"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Sube a 55 el número de muertos en el ataque ruso a un centro de ayuda en Zaporiyia",
+        "en": "Death toll from Russian strike on Zaporizhzhia aid centre rises to 55"
+      },
+      "body": {
+        "es": "El ataque contra un punto de reparto de ayuda en Komishuvaja es ya el más mortífero de Rusia en la región desde el inicio de la invasión a gran escala. Mientras tanto, misiles balísticos dañaron un gran puente de Kiev y alcanzaron subestaciones que conectan centrales nucleares con la capital.",
+        "en": "The strike on an aid distribution point in Komyshuvakha is now the deadliest Russian attack on the region since the full-scale invasion began. Meanwhile, ballistic missiles damaged a major bridge in Kyiv and hit substations linking nuclear plants to the capital."
+      },
+      "why_it_matters": {
+        "es": "Los ataques a subestaciones muestran por qué la resiliencia de la red se ha convertido en una cuestión militar en Ucrania.",
+        "en": "Attacks on substations show why grid resilience has become a military issue in Ukraine."
+      },
+      "source": {
+        "name": "The Kyiv Independent",
+        "url": "https://kyivindependent.com/"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Arabia Saudí intercepta un misil hutí lanzado contra el este del país",
+        "en": "Saudi Arabia intercepts a Houthi missile fired at its eastern region"
+      },
+      "body": {
+        "es": "La coalición liderada por Arabia Saudí afirmó haber derribado un misil balístico de los hutíes de Yemen, después de que sonaran las alarmas en varias zonas, entre ellas Dhahran, sede de Aramco.",
+        "en": "The Saudi-led coalition said it shot down a ballistic missile from Yemen's Houthis, after civil defence sirens sounded in several areas including Dhahran, home to Aramco's headquarters."
+      },
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog-november-08-2026/"
+      }
+    },
+    {
+      "id": "mundo-6",
+      "section": "mundo",
+      "title": {
+        "es": "Prisión preventiva para el expresidente paraguayo Santiago Peña",
+        "en": "Paraguay's former president Santiago Peña is held in pretrial detention"
+      },
+      "body": {
+        "es": "Un juez ordenó la prisión del expresidente destituido mientras afronta cargos de administración desleal y mala gestión de fondos vinculados a la quiebra del banco Ueno.",
+        "en": "A judge ordered the impeached ex-president to be held while he faces charges of breach of trust and mismanaging funds linked to the collapse of Ueno Bank."
+      },
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog-november-08-2026/"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "Termina la precampaña: la campaña del 29N arranca el jueves a medianoche",
+        "en": "Pre-campaign ends: the official campaign for 29 November starts on Thursday at midnight"
+      },
+      "body": {
+        "es": "Los líderes cerraron el último fin de semana de precampaña con mítines en Bilbao, Málaga, Palma y Barcelona, y los candidatos catalanes se midieron en un debate televisado el domingo por la noche. La campaña oficial empieza a medianoche del jueves al viernes.",
+        "en": "Party leaders wrapped up the last pre-campaign weekend with rallies in Bilbao, Málaga, Palma and Barcelona, and Catalan candidates faced off in a televised debate on Sunday night. The official campaign begins at midnight between Thursday and Friday."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/07/temas-del-dia-de-efe-espana-del-domingo-8-de-noviembre-de-2026/"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "Huelga de maquinistas de Renfe del 10 al 12 de noviembre",
+        "en": "Renfe train drivers to strike from 10 to 12 November"
+      },
+      "body": {
+        "es": "Los maquinistas de Renfe harán huelga tres días a partir del martes, con servicios mínimos fijados por el Gobierno. Hoy es festivo en la ciudad de Madrid por la Almudena.",
+        "en": "Renfe's train drivers will walk out for three days starting Tuesday, with minimum services set by the government. Today is a public holiday in the city of Madrid for the feast of La Almudena."
+      },
+      "source": {
+        "name": "elDiario.es",
+        "url": "https://www.eldiario.es/economia/son-servicios-minimos-renfe-huelga-maquinistas-10-12-noviembre_1_13647598.html"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "Las demandas por despido marcan un récord pese al empleo en máximos",
+        "en": "Unfair dismissal claims hit a record even as employment peaks"
+      },
+      "body": {
+        "es": "Las demandas por despido han alcanzado un máximo histórico, junto con un aumento de los despidos colectivos, pese a que España nunca había tenido tanta gente trabajando.",
+        "en": "Claims for unfair dismissal have reached an all-time high, alongside a rise in collective layoffs, even though Spain has never had so many people in work."
+      },
+      "source": {
+        "name": "EFE / Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/07/temas-del-dia-de-efe-espana-del-domingo-8-de-noviembre-de-2026/"
+      }
+    },
+    {
+      "id": "espana-4",
+      "section": "espana",
+      "title": {
+        "es": "Cae la inversión entre España y Latinoamérica",
+        "en": "Investment between Spain and Latin America declines"
+      },
+      "body": {
+        "es": "La inversión latinoamericana en España cayó un 7,8%, mientras que la española en la región bajó casi el doble, un 14,3%.",
+        "en": "Latin American investment in Spain fell 7.8%, while Spanish investment in the region dropped almost twice as much, by 14.3%."
+      },
+      "source": {
+        "name": "Infobae",
+        "url": "https://www.infobae.com/espana/2026/11/08/la-inversion-de-latinoamerica-en-espana-cae-un-78-y-la-espanola-en-america-latina-se-desploma-casi-el-doble-un-143/"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "Galán: más de 90.000 millones en activos regulados de redes en cinco años",
+        "en": "Galán: over €90 billion in regulated network assets within five years"
+      },
+      "body": {
+        "es": "En un encuentro con unos 300 empleados, el presidente de Iberdrola, Ignacio Galán, reiteró los objetivos de superar los 90.000 millones de euros en activos regulados de redes y sumar 15.000 MW de nueva potencia en cinco años. El grupo prevé que el beneficio neto ajustado crezca alrededor de un 10% anual hasta 2030.",
+        "en": "At a meeting with around 300 employees, Iberdrola chairman Ignacio Galán reiterated the targets of more than €90 billion in regulated grid assets and 15,000 MW of new capacity over five years. The group expects adjusted net profit to grow about 10% a year until 2030."
+      },
+      "why_it_matters": {
+        "es": "Los activos regulados de redes son justo lo que tu departamento planifica y controla: generan la mayor parte de los beneficios futuros de Iberdrola.",
+        "en": "Regulated network assets are exactly what your department plans and monitors: they drive most of Iberdrola's future earnings."
+      },
+      "source": {
+        "name": "Atalayar",
+        "url": "https://www.atalayar.com/articulo/economia-y-empresas/presidente-iberdrola-comparte-300-empleados-vision-liderazgo-mundial-compania/20261106102554230305.html"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "Anthropic compra 1,7 GW de generadores de gas para sus centros de datos",
+        "en": "Anthropic buys 1.7 GW of gas generators for its data centres"
+      },
+      "body": {
+        "es": "Según el Financial Times, Anthropic se comprometió a pagar unos 3.400 millones de dólares para quedarse con un pedido de 1,7 GW de generadores de gas de Caterpillar realizado por OnePWR Solutions. El acuerdo le asegura un puesto en la cola de producción de Caterpillar, que hoy es un recurso escaso.",
+        "en": "According to the Financial Times, Anthropic committed around $3.4 billion to take over an order for 1.7 GW of Caterpillar gas generators placed by OnePWR Solutions. The deal buys it a place in Caterpillar's production queue, which is now a scarce asset."
+      },
+      "why_it_matters": {
+        "es": "Las empresas de IA construyen su propia generación porque las conexiones a la red tardan años, un reto para las eléctricas que planifican la inversión en redes.",
+        "en": "AI companies are building their own power because grid connections take years, a challenge for utilities planning network investment."
+      },
+      "source": {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "Arranca la COP31 en Antalya",
+        "en": "COP31 opens in Antalya"
+      },
+      "body": {
+        "es": "La cumbre del clima de la ONU arranca hoy en Antalya (Turquía) y durará hasta el 20 de noviembre, con el australiano Chris Bowen al frente de las negociaciones.",
+        "en": "The UN climate summit opens today in Antalya, Turkey, and runs until 20 November, with Australia's Chris Bowen leading the negotiations."
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
+      }
+    },
+    {
+      "id": "energia-4",
+      "section": "energia",
+      "title": {
+        "es": "Iberdrola contrata a Deloitte para vender sus redes de calor",
+        "en": "Iberdrola hires Deloitte to find a buyer for its heating networks"
+      },
+      "body": {
+        "es": "Iberdrola ha contratado a Deloitte para buscar comprador para su negocio de redes de calor, mientras concentra el capital en las redes eléctricas.",
+        "en": "Iberdrola has hired Deloitte to look for a buyer for its district heating business, as it focuses capital on electricity grids."
+      },
+      "source": {
+        "name": "elEconomista",
+        "url": "https://eleconomista.es/capital-riesgo/noticias/14026071/11/26/iberdrola-ficha-a-deloitte-para-encontrar-comprador-para-sus-redes-de-calor.html"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "Asia rebota con fuerza tras la peor semana desde 2025",
+        "en": "Asia rebounds strongly after the worst week since 2025"
+      },
+      "body": {
+        "es": "La bolsa de Taiwán subió más de un 5% y el Nikkei alrededor de un 3,5% este lunes, al disiparse los temores por la IA y Oriente Próximo. Los futuros de Wall Street apuntaban a una subida del 0,6%, mientras el dólar se mantenía firme por las apuestas de una subida de tipos de la Fed.",
+        "en": "Taiwan's market jumped more than 5% and the Nikkei rose about 3.5% on Monday, as AI and Middle East jitters faded. US stock futures pointed to a 0.6% gain, while the dollar held firm on bets of a Fed rate hike."
+      },
+      "source": {
+        "name": "Reuters / Business Recorder",
+        "url": "https://www.brecorder.com/news/40448089"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "El mercado ya da casi por hecha una subida de tipos de la Fed en diciembre",
+        "en": "Markets now see a December Fed hike as very likely"
+      },
+      "body": {
+        "es": "La economía de EE.UU. creó 165.000 empleos en octubre, más del doble de lo previsto, y los futuros descuentan ahora una probabilidad de cerca del 80% de una subida de un cuarto de punto en diciembre. El dato de inflación del martes es la próxima gran prueba.",
+        "en": "The US economy added 165,000 jobs in October, more than double forecasts, and futures now price a roughly 80% chance of a quarter-point hike in December. Tuesday's inflation figure is the next big test."
+      },
+      "why_it_matters": {
+        "es": "Unos tipos más altos en EE.UU. suelen encarecer la financiación en todo el mundo, también para las eléctricas, que necesitan mucho capital.",
+        "en": "Higher US rates tend to lift borrowing costs worldwide, including for capital-intensive utilities."
+      },
+      "source": {
+        "name": "Reuters / Business Recorder",
+        "url": "https://www.brecorder.com/news/40448089"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "Apertura de la COP31 en Antalya (Turquía), del 9 al 20 de noviembre.",
+      "en": "COP31 opens in Antalya, Turkey (9–20 November)."
+    },
+    {
+      "es": "Reacción de Wall Street a la investigación sobre Jensen Huang y a la tregua verbal con Irán; el IPC de EE.UU. llega mañana.",
+      "en": "Wall Street's reaction to the Jensen Huang inquiry and Trump's softer tone on Iran; US CPI is due tomorrow."
+    },
+    {
+      "es": "Festivo de la Almudena en Madrid; mañana empieza la huelga de maquinistas de Renfe.",
+      "en": "La Almudena holiday in Madrid; Renfe's train drivers start a strike tomorrow."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "inquiry",
+      "translation": "investigación, indagación",
+      "pos": "noun",
+      "example": "The board opened an inquiry into the reports."
+    },
+    {
+      "term": "reaffirmed",
+      "translation": "reiteró, ratificó",
+      "pos": "verb",
+      "example": "The company reaffirmed its full-year guidance."
+    },
+    {
+      "term": "compromised",
+      "translation": "comprometido, vulnerado",
+      "pos": "adj",
+      "example": "No customer data was compromised."
+    },
+    {
+      "term": "bellwether",
+      "translation": "referente, termómetro",
+      "pos": "noun",
+      "example": "Nvidia is seen as a bellwether for the AI trade."
+    },
+    {
+      "term": "slipped",
+      "translation": "cayó ligeramente",
+      "pos": "verb",
+      "example": "Shares slipped 2% in early trading."
+    },
+    {
+      "term": "in the pipeline",
+      "translation": "en camino, en preparación",
+      "pos": "phrase",
+      "example": "Several new projects are in the pipeline."
+    },
+    {
+      "term": "wipeout",
+      "translation": "hundimiento, pérdida total",
+      "pos": "noun",
+      "example": "The crash caused a record wipeout in market value."
+    },
+    {
+      "term": "slump",
+      "translation": "desplome, caída fuerte",
+      "pos": "noun",
+      "example": "The slump in chip stocks worried investors."
+    },
+    {
+      "term": "repricing",
+      "translation": "revalorización, ajuste de precio",
+      "pos": "noun",
+      "example": "The sell-off was a repricing, not a collapse."
+    },
+    {
+      "term": "appetite",
+      "translation": "apetito, interés",
+      "pos": "noun",
+      "example": "Investor appetite for new bonds remains strong."
+    },
+    {
+      "term": "compute-hungry",
+      "translation": "que consume mucha capacidad de cálculo",
+      "pos": "adj",
+      "example": "Video models are extremely compute-hungry."
+    },
+    {
+      "term": "plain-text",
+      "translation": "en texto plano (sin cifrar)",
+      "pos": "adj",
+      "example": "Never store passwords in a plain-text file."
+    },
+    {
+      "term": "plausibly",
+      "translation": "de forma verosímil",
+      "pos": "adv",
+      "example": "The claim could plausibly mislead customers."
+    },
+    {
+      "term": "misled",
+      "translation": "engañó, indujo a error",
+      "pos": "verb",
+      "example": "The advert misled many buyers."
+    },
+    {
+      "term": "misrepresentation",
+      "translation": "declaración falsa o engañosa",
+      "pos": "noun",
+      "example": "The lawsuit alleges negligent misrepresentation."
+    },
+    {
+      "term": "breach of contract",
+      "translation": "incumplimiento de contrato",
+      "pos": "phrase",
+      "example": "The supplier was sued for breach of contract."
+    },
+    {
+      "term": "plaintiffs",
+      "translation": "demandantes",
+      "pos": "noun",
+      "example": "The plaintiffs are seeking damages."
+    },
+    {
+      "term": "watermark",
+      "translation": "marca de agua",
+      "pos": "noun",
+      "example": "The image carries an invisible watermark."
+    },
+    {
+      "term": "switched on by default",
+      "translation": "activado por defecto",
+      "pos": "phrase",
+      "example": "The feature is switched on by default."
+    },
+    {
+      "term": "invoking",
+      "translation": "acogiéndose a, invocando",
+      "pos": "verb",
+      "example": "They avoided the fine by invoking an exemption."
+    },
+    {
+      "term": "resumption",
+      "translation": "reanudación",
+      "pos": "noun",
+      "example": "Traders fear a resumption of hostilities."
+    },
+    {
+      "term": "easing",
+      "translation": "relajación, distensión",
+      "pos": "noun",
+      "example": "An easing of tensions lifted markets."
+    },
+    {
+      "term": "exempted",
+      "translation": "eximió",
+      "pos": "verb",
+      "example": "The rule exempted small companies."
+    },
+    {
+      "term": "transit fees",
+      "translation": "tasas de tránsito, peajes",
+      "pos": "noun",
+      "example": "Ships must pay transit fees to cross the canal."
+    },
+    {
+      "term": "deadliest",
+      "translation": "más mortífero",
+      "pos": "adj",
+      "example": "It was the deadliest attack this year."
+    },
+    {
+      "term": "full-scale invasion",
+      "translation": "invasión a gran escala",
+      "pos": "phrase",
+      "example": "The war entered a new phase after the full-scale invasion."
+    },
+    {
+      "term": "resilience",
+      "translation": "resiliencia, capacidad de resistencia",
+      "pos": "noun",
+      "example": "Grid resilience is a priority for regulators."
+    },
+    {
+      "term": "shot down",
+      "translation": "derribó",
+      "pos": "verb",
+      "example": "Air defences shot down the drone."
+    },
+    {
+      "term": "pretrial detention",
+      "translation": "prisión preventiva",
+      "pos": "noun",
+      "example": "The judge ordered pretrial detention."
+    },
+    {
+      "term": "breach of trust",
+      "translation": "administración desleal, abuso de confianza",
+      "pos": "noun",
+      "example": "He was charged with breach of trust."
+    },
+    {
+      "term": "wrapped up",
+      "translation": "terminaron, cerraron",
+      "pos": "verb",
+      "example": "The parties wrapped up their campaigns on Sunday."
+    },
+    {
+      "term": "faced off",
+      "translation": "se enfrentaron",
+      "pos": "verb",
+      "example": "The two candidates faced off on TV."
+    },
+    {
+      "term": "walk out",
+      "translation": "ir a la huelga, abandonar el trabajo",
+      "pos": "verb",
+      "example": "Workers will walk out on Tuesday."
+    },
+    {
+      "term": "all-time high",
+      "translation": "máximo histórico",
+      "pos": "noun",
+      "example": "Electricity demand hit an all-time high."
+    },
+    {
+      "term": "layoffs",
+      "translation": "despidos",
+      "pos": "noun",
+      "example": "The firm announced 500 layoffs."
+    },
+    {
+      "term": "reiterated",
+      "translation": "reiteró",
+      "pos": "verb",
+      "example": "The CEO reiterated the investment targets."
+    },
+    {
+      "term": "scarce",
+      "translation": "escaso",
+      "pos": "adj",
+      "example": "Transformers are a scarce asset these days."
+    },
+    {
+      "term": "jitters",
+      "translation": "nervios, inquietud",
+      "pos": "noun",
+      "example": "Market jitters eased after the announcement."
+    },
+    {
+      "term": "held firm",
+      "translation": "se mantuvo firme",
+      "pos": "verb",
+      "example": "The euro held firm against the dollar."
+    },
+    {
+      "term": "capital-intensive",
+      "translation": "intensivo en capital",
+      "pos": "adj",
+      "example": "Grids are a capital-intensive business."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Nvidia's board said its independent directors, helped by outside lawyers, will examine reports that CEO Jensen Huang was the target of a foreign intelligence operation.",
+      "es": "El consejo de Nvidia anunció que sus consejeros independientes, con ayuda de abogados externos, examinarán las informaciones de que su consejero delegado, Jensen Huang, fue objetivo de una operación de inteligencia extranjera."
+    },
+    {
+      "en": "The board stressed it has found no evidence that company secrets were compromised and reaffirmed its confidence in Huang.",
+      "es": "El consejo subrayó que no ha encontrado pruebas de que se vieran comprometidos secretos de la empresa y reiteró su confianza en Huang."
+    },
+    {
+      "en": "The same day, Axios reported that Huang had admitted to an affair in an email to staff.",
+      "es": "Ese mismo día, Axios informó de que Huang había reconocido una relación extramatrimonial en un correo a la plantilla."
+    },
+    {
+      "en": "Nvidia is the bellwether of the AI trade, and its shares slipped about 3.5% in after-hours trading as analysts warned of extra volatility.",
+      "es": "Nvidia es el termómetro de la inversión en IA, y sus acciones cayeron alrededor de un 3,5% fuera de horario mientras los analistas avisaban de más volatilidad."
+    },
+    {
+      "en": "According to The Information, AI companies have sold or priced over $300 billion in shares and mandatory convertible bonds in 2026, with roughly another $100 billion in the pipeline.",
+      "es": "Según The Information, las empresas de IA han vendido o fijado precio a más de 300.000 millones de dólares en acciones y bonos convertibles obligatorios en 2026, y hay unos 100.000 millones más en camino."
+    },
+    {
+      "en": "The flood of new supply came just as the Nasdaq 100 suffered a record $2.3 trillion one-day wipeout last Thursday.",
+      "es": "Esa avalancha de nueva oferta llegó justo cuando el Nasdaq 100 sufrió el jueves pasado una pérdida récord de 2,3 billones de dólares en un solo día."
+    },
+    {
+      "en": "Some European fund managers describe the slump as a repricing of AI spending rather than the end of the boom.",
+      "es": "Algunos gestores europeos describen el desplome como una revalorización a la baja del gasto en IA, no como el final del auge."
+    },
+    {
+      "en": "If investors' appetite runs out, AI labs could struggle to fund the data centres and power plants they have promised.",
+      "es": "Si se agota el apetito de los inversores, los laboratorios de IA podrían tener problemas para financiar los centros de datos y las centrales que han prometido."
+    },
+    {
+      "en": "DeepSeek says Harness, its open-source agent app, hit 1.54 million daily active users on 4 November, less than three months after launch.",
+      "es": "DeepSeek afirma que Harness, su aplicación de agentes de código abierto, alcanzó 1,54 millones de usuarios activos diarios el 4 de noviembre, menos de tres meses después de su lanzamiento."
+    },
+    {
+      "en": "The platform processes around 92 trillion tokens a day, or about 60 million per user, a sign of how compute-hungry agents are.",
+      "es": "La plataforma procesa unos 92 billones de tokens al día, unos 60 millones por usuario, una muestra de cuánta capacidad de cálculo devoran los agentes."
+    },
+    {
+      "en": "It shows Chinese open-source AI is competing for the same agent market as US labs.",
+      "es": "Demuestra que la IA china de código abierto compite por el mismo mercado de agentes que los laboratorios estadounidenses."
+    },
+    {
+      "en": "Security firm Apiiro found that Claude Code's \"don't ask again\" option stores approved commands, credentials included, in a plain-text settings file that is not excluded from Git by default.",
+      "es": "La empresa de ciberseguridad Apiiro descubrió que la opción «no volver a preguntar» de Claude Code guarda los comandos aprobados, credenciales incluidas, en un fichero de configuración en texto plano que Git no excluye por defecto."
+    },
+    {
+      "en": "Scanning public GitHub code, it detected 2,539 distinct secrets in nearly 2,000 repositories.",
+      "es": "Al analizar código público de GitHub, detectó 2.539 secretos distintos en casi 2.000 repositorios."
+    },
+    {
+      "en": "Separately, Anthropic told enterprise customers that an outside security firm had accessed account and usage metadata in late October, though not conversations or payment data.",
+      "es": "Por otro lado, Anthropic comunicó a sus clientes empresariales que una empresa de seguridad externa accedió a finales de octubre a metadatos de cuentas y de uso, aunque no a conversaciones ni a datos de pago."
+    },
+    {
+      "en": "As coding agents spread, small convenience features can turn into serious security leaks.",
+      "es": "A medida que se extienden los agentes de programación, pequeñas funciones de comodidad pueden convertirse en graves fugas de seguridad."
+    },
+    {
+      "en": "A US judge ruled that Anthropic's claim that Max plans offer \"five or twenty times more usage\" could plausibly have misled subscribers.",
+      "es": "Un juez de EE.UU. dictaminó que la afirmación de Anthropic de que los planes Max ofrecen «cinco o veinte veces más uso» pudo razonablemente engañar a los suscriptores."
+    },
+    {
+      "en": "Claims of negligent misrepresentation and breach of contract will proceed, as plaintiffs argue the multipliers apply per five-hour session rather than per month.",
+      "es": "Seguirán adelante las acusaciones de declaraciones engañosas por negligencia y de incumplimiento de contrato, ya que los demandantes alegan que los multiplicadores se aplican por sesión de cinco horas y no por mes."
+    },
+    {
+      "en": "xAI has started embedding an invisible statistical watermark in text produced through its Grok API for seven models.",
+      "es": "xAI ha empezado a insertar una marca de agua estadística invisible en los textos generados a través de la API de Grok en siete modelos."
+    },
+    {
+      "en": "The feature is switched on by default, and customers can only turn it off by invoking an exception under the EU AI Act's transparency rules.",
+      "es": "La función viene activada por defecto y los clientes solo pueden desactivarla acogiéndose a una excepción de las normas de transparencia de la ley de IA de la UE."
+    },
+    {
+      "en": "It is one of the first big tests of Europe's rule that AI-generated content must be identifiable.",
+      "es": "Es una de las primeras grandes pruebas de la norma europea que obliga a que el contenido generado por IA sea identificable."
+    },
+    {
+      "en": "On Sunday, President Trump said a resumption of attacks on Iran was highly unlikely as long as negotiations to end the war keep moving forward.",
+      "es": "El domingo, el presidente Trump dijo que era muy improbable reanudar los ataques contra Irán mientras sigan avanzando las negociaciones para poner fin a la guerra."
+    },
+    {
+      "en": "His remarks pushed Brent crude down towards $98 a barrel in early Asian trading.",
+      "es": "Sus palabras empujaron el Brent hacia los 98 dólares por barril en las primeras horas de negociación en Asia."
+    },
+    {
+      "en": "Any easing of the conflict would relieve pressure on energy prices and inflation in Europe.",
+      "es": "Cualquier distensión en el conflicto aliviaría la presión sobre los precios de la energía y la inflación en Europa."
+    },
+    {
+      "en": "Tehran has exempted vessels from four countries from its Hormuz restrictions, charging transit fees to Indian and Chinese ships while Qatari ones pass free.",
+      "es": "Teherán ha eximido de sus restricciones en Ormuz a los barcos de cuatro países: cobra peaje a los indios y chinos, mientras que los cataríes pasan gratis."
+    },
+    {
+      "en": "Qatar is mediating talks built around an Iranian offer to reopen the strait if Washington lifts its naval blockade and sanctions.",
+      "es": "Catar media en unas conversaciones basadas en una oferta iraní de reabrir el estrecho si Washington levanta su bloqueo naval y las sanciones."
+    },
+    {
+      "en": "Analysts say the exemptions barely change oil supply for now, since more than 120 merchant ships have been hit since February.",
+      "es": "Los analistas creen que las exenciones apenas cambian por ahora el suministro de petróleo, ya que desde febrero han sido atacados más de 120 buques mercantes."
+    },
+    {
+      "en": "Moscow will send Deputy Foreign Minister Sergei Ryabkov and senior military officers to the next round of talks with Ukraine in Abu Dhabi, the first time he joins them.",
+      "es": "Moscú enviará al viceministro de Exteriores Serguéi Riabkov y a altos mandos militares a la próxima ronda de conversaciones con Ucrania en Abu Dabi, la primera vez que participa."
+    },
+    {
+      "en": "Ukraine's team will be led by Rustem Umerov.",
+      "es": "El equipo ucraniano estará encabezado por Rustem Umérov."
+    },
+    {
+      "en": "The strike on an aid distribution point in Komyshuvakha is now the deadliest Russian attack on the region since the full-scale invasion began.",
+      "es": "El ataque contra un punto de reparto de ayuda en Komishuvaja es ya el más mortífero de Rusia en la región desde el inicio de la invasión a gran escala."
+    },
+    {
+      "en": "Meanwhile, ballistic missiles damaged a major bridge in Kyiv and hit substations linking nuclear plants to the capital.",
+      "es": "Mientras tanto, misiles balísticos dañaron un gran puente de Kiev y alcanzaron subestaciones que conectan centrales nucleares con la capital."
+    },
+    {
+      "en": "Attacks on substations show why grid resilience has become a military issue in Ukraine.",
+      "es": "Los ataques a subestaciones muestran por qué la resiliencia de la red se ha convertido en una cuestión militar en Ucrania."
+    },
+    {
+      "en": "The Saudi-led coalition said it shot down a ballistic missile from Yemen's Houthis, after civil defence sirens sounded in several areas including Dhahran, home to Aramco's headquarters.",
+      "es": "La coalición liderada por Arabia Saudí afirmó haber derribado un misil balístico de los hutíes de Yemen, después de que sonaran las alarmas en varias zonas, entre ellas Dhahran, sede de Aramco."
+    },
+    {
+      "en": "A judge ordered the impeached ex-president to be held while he faces charges of breach of trust and mismanaging funds linked to the collapse of Ueno Bank.",
+      "es": "Un juez ordenó la prisión del expresidente destituido mientras afronta cargos de administración desleal y mala gestión de fondos vinculados a la quiebra del banco Ueno."
+    },
+    {
+      "en": "Party leaders wrapped up the last pre-campaign weekend with rallies in Bilbao, Málaga, Palma and Barcelona, and Catalan candidates faced off in a televised debate on Sunday night.",
+      "es": "Los líderes cerraron el último fin de semana de precampaña con mítines en Bilbao, Málaga, Palma y Barcelona, y los candidatos catalanes se midieron en un debate televisado el domingo por la noche."
+    },
+    {
+      "en": "The official campaign begins at midnight between Thursday and Friday.",
+      "es": "La campaña oficial empieza a medianoche del jueves al viernes."
+    },
+    {
+      "en": "Renfe's train drivers will walk out for three days starting Tuesday, with minimum services set by the government.",
+      "es": "Los maquinistas de Renfe harán huelga tres días a partir del martes, con servicios mínimos fijados por el Gobierno."
+    },
+    {
+      "en": "Today is a public holiday in the city of Madrid for the feast of La Almudena.",
+      "es": "Hoy es festivo en la ciudad de Madrid por la Almudena."
+    },
+    {
+      "en": "Claims for unfair dismissal have reached an all-time high, alongside a rise in collective layoffs, even though Spain has never had so many people in work.",
+      "es": "Las demandas por despido han alcanzado un máximo histórico, junto con un aumento de los despidos colectivos, pese a que España nunca había tenido tanta gente trabajando."
+    },
+    {
+      "en": "Latin American investment in Spain fell 7.8%, while Spanish investment in the region dropped almost twice as much, by 14.3%.",
+      "es": "La inversión latinoamericana en España cayó un 7,8%, mientras que la española en la región bajó casi el doble, un 14,3%."
+    },
+    {
+      "en": "At a meeting with around 300 employees, Iberdrola chairman Ignacio Galán reiterated the targets of more than €90 billion in regulated grid assets and 15,000 MW of new capacity over five years.",
+      "es": "En un encuentro con unos 300 empleados, el presidente de Iberdrola, Ignacio Galán, reiteró los objetivos de superar los 90.000 millones de euros en activos regulados de redes y sumar 15.000 MW de nueva potencia en cinco años."
+    },
+    {
+      "en": "The group expects adjusted net profit to grow about 10% a year until 2030.",
+      "es": "El grupo prevé que el beneficio neto ajustado crezca alrededor de un 10% anual hasta 2030."
+    },
+    {
+      "en": "Regulated network assets are exactly what your department plans and monitors: they drive most of Iberdrola's future earnings.",
+      "es": "Los activos regulados de redes son justo lo que tu departamento planifica y controla: generan la mayor parte de los beneficios futuros de Iberdrola."
+    },
+    {
+      "en": "According to the Financial Times, Anthropic committed around $3.4 billion to take over an order for 1.7 GW of Caterpillar gas generators placed by OnePWR Solutions.",
+      "es": "Según el Financial Times, Anthropic se comprometió a pagar unos 3.400 millones de dólares para quedarse con un pedido de 1,7 GW de generadores de gas de Caterpillar realizado por OnePWR Solutions."
+    },
+    {
+      "en": "The deal buys it a place in Caterpillar's production queue, which is now a scarce asset.",
+      "es": "El acuerdo le asegura un puesto en la cola de producción de Caterpillar, que hoy es un recurso escaso."
+    },
+    {
+      "en": "AI companies are building their own power because grid connections take years, a challenge for utilities planning network investment.",
+      "es": "Las empresas de IA construyen su propia generación porque las conexiones a la red tardan años, un reto para las eléctricas que planifican la inversión en redes."
+    },
+    {
+      "en": "The UN climate summit opens today in Antalya, Turkey, and runs until 20 November, with Australia's Chris Bowen leading the negotiations.",
+      "es": "La cumbre del clima de la ONU arranca hoy en Antalya (Turquía) y durará hasta el 20 de noviembre, con el australiano Chris Bowen al frente de las negociaciones."
+    },
+    {
+      "en": "Iberdrola has hired Deloitte to look for a buyer for its district heating business, as it focuses capital on electricity grids.",
+      "es": "Iberdrola ha contratado a Deloitte para buscar comprador para su negocio de redes de calor, mientras concentra el capital en las redes eléctricas."
+    },
+    {
+      "en": "Taiwan's market jumped more than 5% and the Nikkei rose about 3.5% on Monday, as AI and Middle East jitters faded.",
+      "es": "La bolsa de Taiwán subió más de un 5% y el Nikkei alrededor de un 3,5% este lunes, al disiparse los temores por la IA y Oriente Próximo."
+    },
+    {
+      "en": "US stock futures pointed to a 0.6% gain, while the dollar held firm on bets of a Fed rate hike.",
+      "es": "Los futuros de Wall Street apuntaban a una subida del 0,6%, mientras el dólar se mantenía firme por las apuestas de una subida de tipos de la Fed."
+    },
+    {
+      "en": "The US economy added 165,000 jobs in October, more than double forecasts, and futures now price a roughly 80% chance of a quarter-point hike in December.",
+      "es": "La economía de EE.UU. creó 165.000 empleos en octubre, más del doble de lo previsto, y los futuros descuentan ahora una probabilidad de cerca del 80% de una subida de un cuarto de punto en diciembre."
+    },
+    {
+      "en": "Tuesday's inflation figure is the next big test.",
+      "es": "El dato de inflación del martes es la próxima gran prueba."
+    },
+    {
+      "en": "Higher US rates tend to lift borrowing costs worldwide, including for capital-intensive utilities.",
+      "es": "Unos tipos más altos en EE.UU. suelen encarecer la financiación en todo el mundo, también para las eléctricas, que necesitan mucho capital."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "repricing",
+    "pos": "noun",
+    "translation": "revalorización / ajuste del precio",
+    "definition_en": "A change in the price the market is willing to pay for an asset, usually after investors reassess its risks or future returns.",
+    "example_en": "Analysts called last week's tech slump a repricing of AI spending rather than the end of the boom.",
+    "example_es": "Los analistas llamaron al desplome tecnológico de la semana pasada un ajuste del precio del gasto en IA más que el fin del auge."
+  },
+  "recommendations": [
+    {
+      "id": "aljazeera-iran-hormuz-exemptions-2026-11",
+      "type": "article",
+      "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
+      "speaker": "Redacción de Al Jazeera",
+      "outlet": "Al Jazeera",
+      "duration_min": 8,
+      "language": "en",
+      "topics": [
+        "geopolítica",
+        "petróleo"
+      ],
+      "summary": "Explica qué países pueden cruzar Ormuz, cuánto petróleo y GNL pasa ahora por el estrecho y qué condiciones pone Irán en la mediación de Catar.",
+      "why": "Contexto claro con datos de Kpler para entender el precio del Brent; inglés periodístico B2-C1.",
+      "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions"
+    },
+    {
+      "id": "cnbc-anthropic-generator-deal-2026-11",
+      "type": "article",
+      "title": "Anthropic's generator deal for AI data centers",
+      "speaker": "Redacción de CNBC",
+      "outlet": "CNBC",
+      "duration_min": 6,
+      "language": "en",
+      "topics": [
+        "IA",
+        "energía"
+      ],
+      "summary": "Cuenta cómo Anthropic se ha asegurado 1,7 GW de generadores de gas de Caterpillar para alimentar centros de datos sin esperar a la red.",
+      "why": "Muestra el choque entre la demanda de la IA y los plazos de conexión a red, clave para la planificación de inversiones en distribución.",
+      "url": "https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html"
+    },
+    {
+      "id": "on-podcast-el-periodico-de-la-energia",
+      "type": "podcast",
+      "title": "ÓN, el podcast de El Periódico de la Energía",
+      "speaker": "Periodistas y directivos del sector energético",
+      "outlet": "El Periódico de la Energía",
+      "duration_min": 30,
+      "language": "es",
+      "topics": [
+        "energía",
+        "redes",
+        "renovables"
+      ],
+      "summary": "Podcast con entrevistas y análisis sobre el sector eléctrico español: redes, renovables, regulación y mercado.",
+      "why": "Te ayuda a ponerte al día del vocabulario y los debates del sector en el que trabajas.",
+      "url": "https://open.spotify.com/show/6nq9ouKc3PrvRNARs7RTIO"
+    },
+    {
+      "id": "kleinman-center-energy-policy-podcast",
+      "type": "podcast",
+      "title": "Energy Policy Now",
+      "speaker": "Kleinman Center for Energy Policy (UPenn)",
+      "outlet": "University of Pennsylvania",
+      "duration_min": 35,
+      "language": "en",
+      "topics": [
+        "energía",
+        "regulación",
+        "economía"
+      ],
+      "summary": "Entrevistas con expertos sobre política energética, redes, mercados eléctricos y transición en EE.UU.",
+      "why": "Inglés académico pero accesible sobre regulación y economía de la energía.",
+      "url": "https://kleinmanenergy.upenn.edu/commentary/podcast/"
+    },
+    {
+      "id": "tnw-claude-max-lawsuit-ruling-2026-11",
+      "type": "article",
+      "title": "Judge lets Claude Max usage claims proceed",
+      "speaker": "Redacción de The Next Web",
+      "outlet": "The Next Web",
+      "duration_min": 5,
+      "language": "en",
+      "topics": [
+        "IA",
+        "derecho"
+      ],
+      "summary": "Resume la decisión judicial que permite seguir la demanda colectiva contra Anthropic por cómo anunció los límites de uso de sus planes Max.",
+      "why": "Buen ejemplo de vocabulario legal en inglés (misrepresentation, breach of contract) aplicado a la IA.",
+      "url": "https://thenextweb.com/news/anthropic-claude-max-lawsuit-ruling-usage-claims"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Tras la peor semana de Wall Street desde abril de 2025, con el hundimiento del Nasdaq por las dudas sobre la IA, las bolsas asiáticas rebotan este lunes: Taiwán sube más de un 5% y el Nikkei un 3,5%, y los futuros del S&P 500 ganan un 0,6%. El Brent ronda los 98 dólares después de que Trump rebajara el tono con Irán, y el oro sube más de un 1%. El sólido dato de empleo de EE.UU. eleva a cerca del 80% la probabilidad de que la Fed suba tipos en diciembre, lo que sostiene al dólar; el IPC del martes será decisivo. La investigación sobre Jensen Huang añade incertidumbre a Nvidia, que cae alrededor de un 3,5% fuera de horario.",
+      "en": "After Wall Street's worst week since April 2025, with the Nasdaq hammered by doubts over AI, Asian stocks are bouncing on Monday: Taiwan is up more than 5% and the Nikkei 3.5%, while S&P 500 futures gain 0.6%. Brent trades near $98 after Trump softened his tone on Iran, and gold is up more than 1%. Strong US jobs data has lifted the odds of a December Fed hike to about 80%, supporting the dollar; Tuesday's CPI will be decisive. The inquiry into Jensen Huang adds uncertainty for Nvidia, down about 3.5% after hours."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35 (cierre viernes)",
+        "value": 19369.5,
+        "change_pct": -0.6
+      },
+      {
+        "name": "S&P 500 (cierre viernes)",
+        "value": 7376.66,
+        "change_pct": 0.31
+      },
+      {
+        "name": "Nasdaq Composite (cierre viernes)",
+        "value": 24579.42,
+        "change_pct": 1.09
+      },
+      {
+        "name": "Dow Jones (cierre viernes)",
+        "value": 51285.73,
+        "change_pct": -0.46
+      },
+      {
+        "name": "Brent (USD/barril, lunes Asia)",
+        "value": 98.2
+      },
+      {
+        "name": "Oro (USD/onza, cierre viernes)",
+        "value": 4070.8
+      },
+      {
+        "name": "EUR/USD (lunes Asia)",
+        "value": 1.1148
+      },
+      {
+        "name": "Bitcoin (USD, lunes)",
+        "value": 74934,
+        "change_pct": 1.0
+      }
+    ],
+    "learn": {
+      "concept": "PER (ratio precio/beneficio)",
+      "explanation": "El PER divide el precio de una acción entre el beneficio por acción: indica cuántos años de beneficios actuales paga el inversor. Un PER alto (como el de muchas tecnológicas de IA) significa que el mercado espera fuerte crecimiento futuro, y por eso estas acciones caen con fuerza cuando surgen dudas: es la «revalorización» de esta semana. Las eléctricas con negocio regulado, como Iberdrola, suelen cotizar con PER más bajos y estables porque sus beneficios dependen de la retribución fijada por el regulador. Compara siempre el PER con el de empresas del mismo sector y con su crecimiento esperado."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
