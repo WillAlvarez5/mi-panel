@@ -1,0 +1,1025 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T07:00:25+01:00",
+  "last_updated": "2026-11-10T07:00:25+01:00",
+  "headline": {
+    "es": "Wall Street rebota más de un 2% y el Brent se hunde casi un 6% ante la esperanza de paz con Irán; hoy empiezan en Abu Dabi las conversaciones entre Rusia, Ucrania y EE. UU., y Anthropic ya tiene rango de precio para su salida a bolsa.",
+    "en": "Wall Street jumps more than 2% and Brent sinks almost 6% on hopes of peace with Iran; Russia-Ukraine-US talks open in Abu Dhabi today, and Anthropic has set a price range for its IPO."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic fija el rango de su salida a bolsa: hasta 69.300 millones",
+        "en": "Anthropic sets its IPO price range, aiming to raise up to $69.3bn"
+      },
+      "body": {
+        "en": "According to a filing seen by Reuters, Anthropic plans to sell roughly 867 million shares at $70 to $80 each and list on Nasdaq under the ticker ANT. Google, Nvidia, Microsoft, AMD, Broadcom, Micron and TSMC would jointly buy another $26bn in a private placement at the IPO price. Goldman Sachs and Morgan Stanley are leading the deal, and trading could begin as early as the week of November 16.",
+        "es": "Según un documento visto por Reuters, Anthropic prevé vender unos 867 millones de acciones a entre 70 y 80 dólares y cotizar en el Nasdaq con el símbolo ANT. Google, Nvidia, Microsoft, AMD, Broadcom, Micron y TSMC comprarían en conjunto otros 26.000 millones en una colocación privada al precio de la OPV. Goldman Sachs y Morgan Stanley lideran la operación, y la cotización podría empezar ya la semana del 16 de noviembre."
+      },
+      "why_it_matters": {
+        "en": "It would be the largest tech listing ever and a real-time test of how much investors are willing to pay for frontier AI.",
+        "es": "Sería la mayor salida a bolsa tecnológica de la historia y una prueba en tiempo real de cuánto están dispuestos a pagar los inversores por la IA de frontera."
+      },
+      "source": {
+        "name": "AI Weekly (citando a Reuters)",
+        "url": "https://aiweekly.co/ai-news-today"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic lanza Claude Fable 5.2 y Mythos 5.2",
+        "en": "Anthropic launches Claude Fable 5.2 and Mythos 5.2"
+      },
+      "body": {
+        "en": "Anthropic released two new models priced at $8 per million input tokens and $40 per million output tokens. The company claims a team of 1,000 Fable 5.2 agents formally verified Fermat's Last Theorem in 30 hours. It also says Mythos 5.2 uncovered about 10% more software vulnerabilities than its predecessor in a security benchmark.",
+        "es": "Anthropic ha lanzado dos modelos nuevos con un precio de 8 dólares por millón de tokens de entrada y 40 por millón de salida. La empresa asegura que un equipo de 1.000 agentes de Fable 5.2 verificó formalmente el último teorema de Fermat en 30 horas. También dice que Mythos 5.2 encontró alrededor de un 10% más de vulnerabilidades de software que su predecesor en una prueba de seguridad."
+      },
+      "why_it_matters": {
+        "en": "The launch lands days before the IPO, so the company is keen to showcase its technical lead.",
+        "es": "El lanzamiento llega días antes de la salida a bolsa, así que la empresa tiene interés en mostrar su ventaja técnica."
+      },
+      "source": {
+        "name": "AI Weekly",
+        "url": "https://aiweekly.co/ai-news-today"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "Meta lanza Muse Ember, un modelo muy barato",
+        "en": "Meta unveils Muse Ember, a low-cost model"
+      },
+      "body": {
+        "en": "Meta released Muse Ember, a cheap model priced at $0.10 per million input tokens and $0.50 per million output tokens, with a one-million-token context window. Meta's own figures show it outperforming rival small models from Anthropic and OpenAI on an automation benchmark.",
+        "es": "Meta ha lanzado Muse Ember, un modelo barato que cuesta 0,10 dólares por millón de tokens de entrada y 0,50 por millón de salida, con una ventana de contexto de un millón de tokens. Según las cifras de la propia Meta, supera a los modelos pequeños rivales de Anthropic y OpenAI en una prueba de automatización."
+      },
+      "why_it_matters": {
+        "en": "Prices for routine AI tasks keep falling, which squeezes margins for anyone selling basic models.",
+        "es": "Los precios de las tareas rutinarias de IA siguen cayendo, lo que estrecha los márgenes de quien vende modelos básicos."
+      },
+      "source": {
+        "name": "AI Weekly",
+        "url": "https://aiweekly.co/ai-news-today"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "Google amplía a cuatro su familia de chips TPU de octava generación",
+        "en": "Google expands its eighth-generation TPU family to four chips"
+      },
+      "body": {
+        "en": "Google added two chips to its TPU line: the 8tx, aimed at confidential computing, and the 8i Max, which doubles the compute and memory bandwidth of the standard 8i. Alphabet shares climbed more than 2% before the opening bell.",
+        "es": "Google ha añadido dos chips a su gama TPU: el 8tx, pensado para computación confidencial, y el 8i Max, que duplica la potencia de cálculo y el ancho de banda de memoria del 8i estándar. Las acciones de Alphabet subieron más de un 2% antes de la apertura."
+      },
+      "why_it_matters": {
+        "en": "In-house chips let Google rely less on Nvidia, just as Nvidia faces a governance scare.",
+        "es": "Los chips propios permiten a Google depender menos de Nvidia, justo cuando esta afronta un susto de gobierno corporativo."
+      },
+      "source": {
+        "name": "AI Weekly",
+        "url": "https://aiweekly.co/ai-news-today"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "Nvidia: un consejo sin expertos en seguridad nacional y sin sucesor para Huang",
+        "en": "Nvidia: a board without national-security expertise and no successor to Huang"
+      },
+      "body": {
+        "en": "Semafor points out that Nvidia's directors have served for almost 15 years on average, roughly double the S&P 500 norm, and none has a national-security background. Nvidia shares slid around 5% on Monday while the board investigates whether Jensen Huang was targeted by Chinese intelligence, and congressional leaders are pushing to write chip export curbs into the defence bill.",
+        "es": "Semafor señala que los consejeros de Nvidia llevan de media casi 15 años en el cargo, aproximadamente el doble de lo habitual en el S&P 500, y ninguno tiene experiencia en seguridad nacional. Las acciones de Nvidia cayeron cerca de un 5% el lunes mientras el consejo investiga si Jensen Huang fue objetivo de la inteligencia china, y líderes del Congreso presionan para incluir límites a la exportación de chips en la ley de defensa."
+      },
+      "why_it_matters": {
+        "en": "Nvidia reports results on November 17, and leadership risk has become part of the story.",
+        "es": "Nvidia presenta resultados el 17 de noviembre y el riesgo de liderazgo ya forma parte de la historia."
+      },
+      "source": {
+        "name": "Semafor",
+        "url": "https://www.semafor.com/article/11/09/2026/with-a-weak-board-and-no-successor-nvidia-confronts-a-governance-crisis"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "Fireworks AI sufre un segundo ataque que alcanzó datos de clientes",
+        "en": "Fireworks AI discloses a second breach that reached customer data"
+      },
+      "body": {
+        "en": "Fireworks AI told customers that an October intrusion, carried out through a compromised cloud provider, exposed billing records. For a smaller group of accounts, attackers also reached stored secrets, datasets and partial model weights.",
+        "es": "Fireworks AI ha comunicado a sus clientes que una intrusión de octubre, realizada a través de un proveedor de nube comprometido, dejó expuestos registros de facturación. En un grupo más reducido de cuentas, los atacantes también llegaron a credenciales guardadas, conjuntos de datos y pesos parciales de modelos."
+      },
+      "why_it_matters": {
+        "en": "As companies hand more data to AI platforms, supply-chain security becomes a key buying criterion.",
+        "es": "A medida que las empresas confían más datos a plataformas de IA, la seguridad de la cadena de suministro se convierte en un criterio clave de compra."
+      },
+      "source": {
+        "name": "AI Weekly",
+        "url": "https://aiweekly.co/ai-news-today"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Rusia, Ucrania y EE. UU. se sientan hoy en Abu Dabi",
+        "en": "Russia, Ukraine and the US sit down in Abu Dhabi today"
+      },
+      "body": {
+        "en": "Two days of US-brokered talks begin today in Abu Dhabi, the first three-way meeting since February. Vladimir Medinsky leads Russia's team, Rustem Umerov heads Ukraine's, and Steve Witkoff and Jared Kushner represent Washington, with security guarantees expected to top the agenda.",
+        "es": "Hoy empiezan en Abu Dabi dos días de conversaciones mediadas por EE. UU., la primera reunión a tres desde febrero. Vladímir Medinski encabeza el equipo ruso, Rustem Umérov el ucraniano, y Steve Witkoff y Jared Kushner representan a Washington; se espera que las garantías de seguridad encabecen la agenda."
+      },
+      "why_it_matters": {
+        "en": "Moscow still demands the whole of Donbas, so expectations of a breakthrough remain modest.",
+        "es": "Moscú sigue exigiendo todo el Donbás, así que las expectativas de un gran avance son modestas."
+      },
+      "source": {
+        "name": "RTÉ",
+        "url": "https://www.rte.ie/news/ukraine/2026/1110/1598616-ukraine-russia-world/"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Irán pone condiciones: levantar el bloqueo y las sanciones",
+        "en": "Iran sets conditions: lift the blockade and sanctions"
+      },
+      "body": {
+        "en": "Tehran said there can be no progress towards peace unless the US ends its naval blockade, unfreezes seized assets and removes sanctions, while Secretary of State Marco Rubio said a breakthrough was not close. Oil still fell sharply on hopes that the conflict is winding down.",
+        "es": "Teherán afirmó que no habrá avances hacia la paz si EE. UU. no levanta el bloqueo naval, libera los activos incautados y retira las sanciones, mientras el secretario de Estado, Marco Rubio, dijo que no hay un acuerdo cerca. Aun así, el petróleo cayó con fuerza ante la esperanza de que el conflicto se esté apagando."
+      },
+      "source": {
+        "name": "TheStreet",
+        "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-09-202"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "EE. UU. y China prorrogan dos meses su tregua comercial",
+        "en": "The US and China extend their trade truce by two months"
+      },
+      "body": {
+        "en": "The tariff truce between Washington and Beijing, which was due to expire today, has been extended for another two months, according to Reuters. China also published its October trade figures this morning.",
+        "es": "La tregua arancelaria entre Washington y Pekín, que vencía hoy, se ha prorrogado otros dos meses, según Reuters. China también ha publicado esta mañana sus datos comerciales de octubre."
+      },
+      "why_it_matters": {
+        "en": "The extension removes a risk of new tariffs for supply chains, chips included, at least until January.",
+        "es": "La prórroga aparta el riesgo de nuevos aranceles para las cadenas de suministro, chips incluidos, al menos hasta enero."
+      },
+      "source": {
+        "name": "ABC News (Australia)",
+        "url": "https://www.abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Trump cuestiona el resultado de las elecciones de mitad de mandato",
+        "en": "Trump questions the midterm election results"
+      },
+      "body": {
+        "en": "After Democrats took both the House and the Senate, Trump raised doubts about whether the vote was fair, less than a week after saying he would accept the outcome. Separately, the area around the White House was briefly locked down after a vehicle incident and an arrest at the barriers.",
+        "es": "Tras la victoria demócrata en la Cámara y el Senado, Trump ha puesto en duda que la votación fuera limpia, menos de una semana después de decir que aceptaría el resultado. Por otro lado, el entorno de la Casa Blanca se cerró brevemente tras un incidente con un vehículo y una detención en las vallas."
+      },
+      "source": {
+        "name": "SBS News",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008838153"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Francia culpa a la Guardia Revolucionaria iraní de un ciberataque",
+        "en": "France blames Iran's Revolutionary Guards for a cyberattack"
+      },
+      "body": {
+        "en": "France summoned Iran's ambassador after attributing last month's hack of supermarket refrigeration systems to the IRGC. Paris intends to push for sanctions at EU level.",
+        "es": "Francia ha convocado al embajador iraní tras atribuir a la Guardia Revolucionaria el hackeo del mes pasado a los sistemas de refrigeración de supermercados. París pretende impulsar sanciones a nivel de la UE."
+      },
+      "why_it_matters": {
+        "en": "Attacks on everyday infrastructure show that hybrid warfare is reaching ordinary businesses.",
+        "es": "Los ataques a infraestructuras cotidianas muestran que la guerra híbrida ya llega a negocios corrientes."
+      },
+      "source": {
+        "name": "SBS News",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008838153"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "Huelga general mañana por la vivienda y los salarios",
+        "en": "General strike tomorrow over housing and wages"
+      },
+      "body": {
+        "en": "UGT and CCOO have called a general strike for Wednesday, with demonstrations in the evening across the country. The Transport Ministry has set minimum services of 52% to 85% on flights to the islands, Ceuta and Melilla, on top of this week's strike by Renfe train drivers.",
+        "es": "UGT y CCOO han convocado una huelga general para el miércoles, con manifestaciones por la tarde en todo el país. Transportes ha fijado servicios mínimos del 52% al 85% en los vuelos con las islas, Ceuta y Melilla, que se suman a la huelga de maquinistas de Renfe de esta semana."
+      },
+      "source": {
+        "name": "Infobae / EFE",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/09/hoy-sera-noticia-martes-10-de-noviembre/"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "Aviso rojo por la borrasca Bruna en Cáceres y Ávila",
+        "en": "Red alert in Cáceres and Ávila as Storm Bruna hits"
+      },
+      "body": {
+        "en": "AEMET has issued red warnings in northern Cáceres and southern Ávila, where more than 120 litres per square metre could fall in 12 hours, with a high risk of flooding. Storm Charles is due to follow on Wednesday.",
+        "es": "La AEMET ha activado el aviso rojo en el norte de Cáceres y el sur de Ávila, donde podrían caer más de 120 litros por metro cuadrado en 12 horas, con alto riesgo de inundaciones. La borrasca Charles llegará detrás el miércoles."
+      },
+      "source": {
+        "name": "elDiario.es",
+        "url": "https://www.eldiario.es/sociedad/el-tiempo/borrasca-bruna-ceba-castilla-leon-extremadura-avisos-rojos-lluvias-acumulados-120-l-m2-pm_1_13649705.html"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "Funeral de Estado en Toledo por las víctimas de Urda",
+        "en": "State funeral in Toledo for the victims of the Urda crash"
+      },
+      "body": {
+        "en": "The King and Queen will attend a mass this evening in Toledo cathedral for the 69 people killed in the Urda rail accident on October 28. Government and opposition leaders are also expected to attend.",
+        "es": "Los Reyes asistirán esta tarde a una misa en la catedral de Toledo por los 69 fallecidos en el accidente ferroviario de Urda del 28 de octubre. También está previsto que acudan representantes del Gobierno y de la oposición."
+      },
+      "source": {
+        "name": "Infobae / EFE",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/09/temas-del-dia-de-efe-espana-del-martes-10-de-noviembre-de-2026/"
+      }
+    },
+    {
+      "id": "espana-4",
+      "section": "espana",
+      "title": {
+        "es": "Casi 5.900 migrantes llegan a Canarias en lo que va de noviembre",
+        "en": "Almost 5,900 migrants have reached the Canaries so far in November"
+      },
+      "body": {
+        "en": "The interministerial committee on immigration meets this morning at La Moncloa with Canary Islands president Fernando Clavijo, focusing on El Hierro. Official figures show 5,857 arrivals on 57 boats since November 1.",
+        "es": "La comisión interministerial de inmigración se reúne esta mañana en La Moncloa con el presidente canario, Fernando Clavijo, con El Hierro como foco. Las cifras oficiales suman 5.857 llegadas en 57 embarcaciones desde el 1 de noviembre."
+      },
+      "source": {
+        "name": "Infobae / EFE",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/09/hoy-sera-noticia-martes-10-de-noviembre/"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "La operación reforzada de Red Eléctrica ya cuesta 4.570 millones",
+        "en": "Red Eléctrica's reinforced operation has already cost €4.57bn"
+      },
+      "body": {
+        "en": "The grid operator's reinforced mode, introduced to prevent blackouts and initially expected to end in March, is still in place with no end date. Adjustment services added about €23/MWh to prices in late October, and their cumulative cost this year is 40% higher than in 2025. Utilities suspect the arrangement will become permanent.",
+        "es": "El modo reforzado del operador del sistema, introducido para evitar apagones y que en principio iba a terminar en marzo, sigue activo sin fecha de fin. Los servicios de ajuste sumaron unos 23 €/MWh al precio a finales de octubre, y su coste acumulado este año es un 40% mayor que en 2025. Las eléctricas sospechan que el esquema se volverá permanente."
+      },
+      "why_it_matters": {
+        "en": "Spain only enabled around 15 GW of the 37 GW of potential voltage-control capacity in October, a gap that new grid investment and rules need to close.",
+        "es": "España solo habilitó unos 15 GW de los 37 GW potenciales de control de tensión en octubre, una brecha que la nueva inversión en redes y la regulación deben cerrar."
+      },
+      "source": {
+        "name": "Vozpópuli",
+        "url": "https://vozpopuli.com/economia/energia/las-energeticas-sospechan-que-la-operacion-antiapagones-de-red-electrica-sera-permanente.html"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "La luz baja un 4,6% hoy, pero ocho horas superan los 200 €/MWh",
+        "en": "Power prices ease 4.6% today, but eight hours top €200/MWh"
+      },
+      "body": {
+        "en": "The average wholesale price for Tuesday is €171.38/MWh, down from €179.67 on Monday. The cheapest hour is midday, at about €90, while the evening peak climbs to roughly €221.",
+        "es": "El precio medio mayorista del martes es de 171,38 €/MWh, frente a 179,67 el lunes. La hora más barata es la del mediodía, en torno a 90 €, mientras que el pico de la tarde sube hasta unos 221 €."
+      },
+      "why_it_matters": {
+        "en": "The wide gap between solar hours and the evening peak strengthens the business case for batteries.",
+        "es": "La gran diferencia entre las horas solares y el pico de la tarde refuerza el caso de negocio de las baterías."
+      },
+      "source": {
+        "name": "Noticias Trabajo (datos de OMIE)",
+        "url": "https://www.noticiastrabajo.es/economia/consumo/precio-luz-por-horas-10-noviembre-2026/"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "Iberdrola modernizará 1.300 km de líneas de transporte en Nueva York",
+        "en": "Iberdrola to upgrade 1,300 km of transmission lines in New York"
+      },
+      "body": {
+        "en": "Iberdrola, through its US subsidiary, plans to modernise around 1,300 kilometres of high-voltage transmission lines in New York State.",
+        "es": "Iberdrola, a través de su filial estadounidense, prevé modernizar unos 1.300 kilómetros de líneas de transporte de alta tensión en el estado de Nueva York."
+      },
+      "why_it_matters": {
+        "en": "It fits the group's strategy of channelling most of its record investment into regulated networks.",
+        "es": "Encaja con la estrategia del grupo de destinar la mayor parte de su inversión récord a redes reguladas."
+      },
+      "source": {
+        "name": "Deia",
+        "url": "https://www.deia.eus/economia/2026/11/07/iberdrola-ignacio-sanchez-galan-lineas-transporte-electricidad-red-redes-electricas-11732766.html"
+      }
+    },
+    {
+      "id": "energia-4",
+      "section": "energia",
+      "title": {
+        "es": "COP31: la banca llega a Antalya con la IA y la electrificación en la agenda",
+        "en": "COP31: banks arrive in Antalya with AI and electrification on the agenda"
+      },
+      "body": {
+        "en": "Turkey, the host, wants electricity to reach 35% of global final energy use by 2035, compared with about 23% today according to the IEA. JPMorgan, HSBC, Barclays and other lenders are sending teams, expecting data-centre demand to dominate the discussions.",
+        "es": "Turquía, la anfitriona, quiere que la electricidad llegue al 35% del consumo final de energía mundial en 2035, frente a alrededor del 23% actual según la AIE. JPMorgan, HSBC, Barclays y otros bancos envían equipos, con la previsión de que la demanda de los centros de datos domine las conversaciones."
+      },
+      "source": {
+        "name": "Energy Connects (Bloomberg)",
+        "url": "https://www.energyconnects.com/news/gas-lng/2026/november/bankers-prepare-for-ai-in-every-conversation-at-climate-summit-in-turkey/"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "Citi rebaja la bolsa de EE. UU. y apuesta por Europa",
+        "en": "Citi downgrades US stocks and turns to Europe"
+      },
+      "body": {
+        "en": "Citi strategists cut US equities and the tech sector to neutral and upgraded Europe excluding the UK to overweight. They argue Europe is less exposed to the AI trade and benefits more from cheaper oil.",
+        "es": "Los estrategas de Citi han rebajado la bolsa estadounidense y el sector tecnológico a neutral y han subido Europa sin Reino Unido a sobreponderar. Argumentan que Europa está menos expuesta a la apuesta por la IA y se beneficia más del petróleo barato."
+      },
+      "source": {
+        "name": "StockTitan",
+        "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "Boeing y PepsiCo anuncian recortes de plantilla",
+        "en": "Boeing and PepsiCo announce job cuts"
+      },
+      "body": {
+        "en": "Boeing will cut about 5% of its workforce, with notices starting in December, while PepsiCo plans to eliminate around 1,000 jobs in its North American business.",
+        "es": "Boeing recortará cerca del 5% de su plantilla, con avisos a partir de diciembre, mientras que PepsiCo eliminará unos 1.000 empleos en su negocio norteamericano."
+      },
+      "why_it_matters": {
+        "en": "Layoffs at big names add to signs that the US labour market is cooling.",
+        "es": "Los despidos en grandes empresas se suman a las señales de enfriamiento del mercado laboral estadounidense."
+      },
+      "source": {
+        "name": "TheStreet",
+        "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-09-202"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "14:30 (Madrid): IPC de octubre en EE. UU., clave para la decisión de la Fed en diciembre.",
+      "en": "2:30 pm (Madrid): US October CPI, key for the Fed's December decision."
+    },
+    {
+      "es": "Abu Dabi: primer día de conversaciones de paz entre Rusia, Ucrania y EE. UU.",
+      "en": "Abu Dhabi: first day of Russia-Ukraine-US peace talks."
+    },
+    {
+      "es": "Aviso rojo por lluvias en Cáceres y Ávila; mañana, huelga general y llegada de la borrasca Charles.",
+      "en": "Red rain warning in Cáceres and Ávila; tomorrow brings a general strike and Storm Charles."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "filing",
+      "translation": "documento registrado (ante el regulador)",
+      "pos": "noun",
+      "example": "The filing reveals the company's cash position."
+    },
+    {
+      "term": "ticker",
+      "translation": "símbolo bursátil",
+      "pos": "noun",
+      "example": "The shares will trade under the ticker ANT."
+    },
+    {
+      "term": "private placement",
+      "translation": "colocación privada",
+      "pos": "noun phrase",
+      "example": "The private placement was reserved for strategic investors."
+    },
+    {
+      "term": "listing",
+      "translation": "salida a bolsa / cotización",
+      "pos": "noun",
+      "example": "It could be the largest listing of the decade."
+    },
+    {
+      "term": "frontier",
+      "translation": "de frontera, puntero",
+      "pos": "adjective",
+      "example": "Frontier models are the most capable ones available."
+    },
+    {
+      "term": "claims",
+      "translation": "afirma, asegura",
+      "pos": "verb",
+      "example": "The company claims the model is faster."
+    },
+    {
+      "term": "uncovered",
+      "translation": "descubrió, sacó a la luz",
+      "pos": "verb",
+      "example": "The audit uncovered several errors."
+    },
+    {
+      "term": "predecessor",
+      "translation": "predecesor",
+      "pos": "noun",
+      "example": "The new chip is twice as fast as its predecessor."
+    },
+    {
+      "term": "keen to",
+      "translation": "con ganas de, interesado en",
+      "pos": "adjective phrase",
+      "example": "Investors are keen to see results."
+    },
+    {
+      "term": "showcase",
+      "translation": "mostrar, exhibir",
+      "pos": "verb",
+      "example": "The fair lets startups showcase their products."
+    },
+    {
+      "term": "outperforming",
+      "translation": "superando (en rendimiento)",
+      "pos": "verb",
+      "example": "Value stocks are outperforming growth stocks."
+    },
+    {
+      "term": "squeezes",
+      "translation": "estrecha, aprieta",
+      "pos": "verb",
+      "example": "Higher costs squeeze profit margins."
+    },
+    {
+      "term": "bandwidth",
+      "translation": "ancho de banda",
+      "pos": "noun",
+      "example": "Memory bandwidth limits AI training speed."
+    },
+    {
+      "term": "opening bell",
+      "translation": "apertura de la sesión",
+      "pos": "noun phrase",
+      "example": "Futures rose before the opening bell."
+    },
+    {
+      "term": "scare",
+      "translation": "susto, alarma",
+      "pos": "noun",
+      "example": "The recall caused a health scare."
+    },
+    {
+      "term": "slid",
+      "translation": "cayó, retrocedió",
+      "pos": "verb",
+      "example": "The euro slid against the dollar."
+    },
+    {
+      "term": "curbs",
+      "translation": "restricciones, límites",
+      "pos": "noun",
+      "example": "New export curbs target advanced chips."
+    },
+    {
+      "term": "breach",
+      "translation": "brecha de seguridad, filtración",
+      "pos": "noun",
+      "example": "The breach exposed millions of records."
+    },
+    {
+      "term": "intrusion",
+      "translation": "intrusión",
+      "pos": "noun",
+      "example": "The intrusion went unnoticed for weeks."
+    },
+    {
+      "term": "brokered",
+      "translation": "mediado",
+      "pos": "adjective",
+      "example": "A US-brokered ceasefire took effect."
+    },
+    {
+      "term": "breakthrough",
+      "translation": "avance decisivo",
+      "pos": "noun",
+      "example": "Negotiators hope for a breakthrough this week."
+    },
+    {
+      "term": "winding down",
+      "translation": "apagándose, llegando a su fin",
+      "pos": "phrasal verb",
+      "example": "The project is winding down."
+    },
+    {
+      "term": "unfreezes",
+      "translation": "descongela",
+      "pos": "verb",
+      "example": "The deal unfreezes billions in assets."
+    },
+    {
+      "term": "truce",
+      "translation": "tregua",
+      "pos": "noun",
+      "example": "The truce held for three months."
+    },
+    {
+      "term": "locked down",
+      "translation": "cerrado, confinado",
+      "pos": "phrasal verb",
+      "example": "The building was locked down for an hour."
+    },
+    {
+      "term": "summoned",
+      "translation": "convocó, citó",
+      "pos": "verb",
+      "example": "The ministry summoned the ambassador."
+    },
+    {
+      "term": "hybrid warfare",
+      "translation": "guerra híbrida",
+      "pos": "noun phrase",
+      "example": "Cyberattacks are a key tool of hybrid warfare."
+    },
+    {
+      "term": "on top of",
+      "translation": "además de, sumado a",
+      "pos": "prepositional phrase",
+      "example": "On top of the delays, costs rose."
+    },
+    {
+      "term": "cumulative",
+      "translation": "acumulado",
+      "pos": "adjective",
+      "example": "The cumulative cost exceeded the budget."
+    },
+    {
+      "term": "utilities",
+      "translation": "eléctricas, compañías de servicios públicos",
+      "pos": "noun",
+      "example": "Utilities are investing heavily in grids."
+    },
+    {
+      "term": "ease",
+      "translation": "bajan, se moderan",
+      "pos": "verb",
+      "example": "Prices are expected to ease next month."
+    },
+    {
+      "term": "business case",
+      "translation": "caso de negocio, justificación económica",
+      "pos": "noun phrase",
+      "example": "The business case depends on electricity prices."
+    },
+    {
+      "term": "channelling",
+      "translation": "canalizando, destinando",
+      "pos": "verb",
+      "example": "The firm is channelling cash into networks."
+    },
+    {
+      "term": "lenders",
+      "translation": "prestamistas, bancos",
+      "pos": "noun",
+      "example": "Lenders tightened credit conditions."
+    },
+    {
+      "term": "overweight",
+      "translation": "sobreponderar",
+      "pos": "adjective",
+      "example": "The fund is overweight European banks."
+    },
+    {
+      "term": "workforce",
+      "translation": "plantilla",
+      "pos": "noun",
+      "example": "The company employs a workforce of 10,000."
+    },
+    {
+      "term": "cooling",
+      "translation": "enfriándose",
+      "pos": "adjective",
+      "example": "The cooling economy worries investors."
+    },
+    {
+      "term": "slumped",
+      "translation": "se desplomó",
+      "pos": "verb",
+      "example": "Sales slumped in the third quarter."
+    },
+    {
+      "term": "risk appetite",
+      "translation": "apetito por el riesgo",
+      "pos": "noun phrase",
+      "example": "Risk appetite returned after the data."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "underwriter",
+    "pos": "noun",
+    "translation": "banco colocador / asegurador de una emisión",
+    "definition_en": "A bank that organises a share or bond issue, helps set its price and often commits to buying any securities that investors do not take up.",
+    "example_en": "Goldman Sachs and Morgan Stanley are the lead underwriters of the IPO.",
+    "example_es": "Goldman Sachs y Morgan Stanley son los bancos colocadores principales de la OPV."
+  },
+  "recommendations": [
+    {
+      "id": "ai-show-249-anthropic-ipo-self-driving-company",
+      "type": "podcast",
+      "title": "The AI Show Ep. 249: Anthropic Files for IPO, The Self-Driving Company, AI and the Meaning of Work",
+      "speaker": "Paul Roetzer y Mike Kaput",
+      "outlet": "The Artificial Intelligence Show (SmarterX)",
+      "duration_min": 75,
+      "language": "en",
+      "topics": [
+        "IA",
+        "bolsa",
+        "empleo"
+      ],
+      "summary": "Repasan las cifras del folleto de Anthropic (ingresos, pérdidas contables, compromisos de cómputo), la idea de la 'empresa autónoma' de Replit y la oferta de bajas voluntarias de Microsoft. También comentan los resultados de Alphabet, Microsoft y Amazon.",
+      "why": "Te prepara para la salida a bolsa de esta semana y explica conceptos de un folleto real de forma sencilla.",
+      "url": "https://podcast.smarterx.ai/shownotes/249"
+    },
+    {
+      "id": "nbim-in-good-company-john-ketchum-nextera",
+      "type": "video",
+      "title": "NextEra Energy CEO: Powering AI and Nuclear's Comeback",
+      "speaker": "John Ketchum (CEO de NextEra) con Nicolai Tangen",
+      "outlet": "In Good Company (Norges Bank Investment Management)",
+      "duration_min": 40,
+      "language": "en",
+      "topics": [
+        "energía",
+        "IA",
+        "redes",
+        "nuclear"
+      ],
+      "summary": "El consejero delegado de la mayor eléctrica de EE. UU. habla de la fusión con Dominion, de cómo financiar infraestructura para los centros de datos, del papel del gas y las renovables y de los reactores modulares.",
+      "why": "Es la visión de un 'peer' de Iberdrola en EE. UU. sobre inversión en redes y demanda de la IA, justo tu área.",
+      "url": "https://www.youtube.com/watch?v=be-8EqXml1M"
+    },
+    {
+      "id": "semafor-nvidia-governance-crisis-2026-11",
+      "type": "article",
+      "title": "With a weak board and no successor, Nvidia confronts a governance crisis",
+      "speaker": "Redacción de Semafor",
+      "outlet": "Semafor",
+      "duration_min": 6,
+      "language": "en",
+      "topics": [
+        "IA",
+        "gobierno corporativo",
+        "chips"
+      ],
+      "summary": "Analiza la composición del consejo de Nvidia, su antigüedad media y la falta de plan de sucesión tras las revelaciones sobre Jensen Huang.",
+      "why": "Buen caso práctico de por qué el gobierno corporativo importa a los inversores tanto como los resultados.",
+      "url": "https://www.semafor.com/article/11/09/2026/with-a-weak-board-and-no-successor-nvidia-confronts-a-governance-crisis"
+    },
+    {
+      "id": "vozpopuli-operacion-reforzada-ree-permanente",
+      "type": "article",
+      "title": "Las energéticas sospechan que la operación antiapagones de Red Eléctrica será permanente",
+      "speaker": "Alba Pérez",
+      "outlet": "Vozpópuli",
+      "duration_min": 5,
+      "language": "es",
+      "topics": [
+        "energía",
+        "redes",
+        "regulación"
+      ],
+      "summary": "Explica el coste de la operación reforzada del sistema, cuánto añade al precio y la capacidad de control de tensión todavía sin habilitar.",
+      "why": "Toca directamente cómo se opera y se paga la red, contexto útil para hablar con tu equipo de inversiones.",
+      "url": "https://vozpopuli.com/economia/energia/las-energeticas-sospechan-que-la-operacion-antiapagones-de-red-electrica-sera-permanente.html"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "en": "Wall Street staged a strong rebound on Monday, with all three major indices up more than 2% as chipmakers recovered from last week's AI sell-off. Brent slumped almost 6% to about $92.6 on hopes of an end to the Iran conflict, and the IBEX 35 gained 1.9%. Nvidia was the exception, falling around 5% amid its board investigation. Analysts at Capital.com described the move as a tentative return of risk appetite rather than a clear reversal, and all eyes are now on today's US inflation data.",
+      "es": "Wall Street protagonizó un fuerte rebote el lunes: los tres grandes índices subieron más de un 2% gracias a la recuperación de los fabricantes de chips tras la caída de la IA de la semana pasada. El Brent se desplomó casi un 6%, hasta unos 92,6 dólares, ante la esperanza de un final del conflicto con Irán, y el IBEX 35 ganó un 1,9%. Nvidia fue la excepción, con una caída de alrededor del 5% en plena investigación de su consejo. Analistas de Capital.com lo describieron como un regreso tímido del apetito por el riesgo más que un giro claro, y ahora todas las miradas están en el dato de inflación de EE. UU. de hoy."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35",
+        "value": 19742.5,
+        "change_pct": 1.93
+      },
+      {
+        "name": "S&P 500",
+        "value": 7554.67,
+        "change_pct": 2.41
+      },
+      {
+        "name": "Nasdaq Composite",
+        "value": 25235.49,
+        "change_pct": 2.67
+      },
+      {
+        "name": "Dow Jones",
+        "value": 52417.54,
+        "change_pct": 2.21
+      },
+      {
+        "name": "Brent (USD/barril)",
+        "value": 92.57,
+        "change_pct": -5.85
+      },
+      {
+        "name": "Oro (USD/onza, aprox.)",
+        "value": 4118
+      },
+      {
+        "name": "Bitcoin (USD, aprox.)",
+        "value": 75781
+      },
+      {
+        "name": "Luz España, media diaria (€/MWh)",
+        "value": 171.38,
+        "change_pct": -4.61
+      }
+    ],
+    "learn": {
+      "concept": "Servicios de ajuste y restricciones técnicas",
+      "explanation": "Además del precio del mercado diario (OMIE), Red Eléctrica contrata 'servicios de ajuste' para que el sistema funcione con seguridad: resolver restricciones técnicas (por ejemplo, encender centrales síncronas para controlar la tensión), reservas de regulación y balance. Su coste se reparte entre los consumidores y se suma al precio final. Hoy, por ejemplo, la operación reforzada añade unos 23 €/MWh. Para una distribuidora como i-DE importa porque invertir en equipos de control de tensión (reactancias, STATCOM) o en redes más robustas puede reducir esa necesidad, y ese argumento aparece cada vez más en la planificación de inversiones."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  },
+  "sentences": [
+    {
+      "en": "According to a filing seen by Reuters, Anthropic plans to sell roughly 867 million shares at $70 to $80 each and list on Nasdaq under the ticker ANT.",
+      "es": "Según un documento visto por Reuters, Anthropic prevé vender unos 867 millones de acciones a entre 70 y 80 dólares y cotizar en el Nasdaq con el símbolo ANT."
+    },
+    {
+      "en": "Google, Nvidia, Microsoft, AMD, Broadcom, Micron and TSMC would jointly buy another $26bn in a private placement at the IPO price.",
+      "es": "Google, Nvidia, Microsoft, AMD, Broadcom, Micron y TSMC comprarían en conjunto otros 26.000 millones en una colocación privada al precio de la OPV."
+    },
+    {
+      "en": "Goldman Sachs and Morgan Stanley are leading the deal, and trading could begin as early as the week of November 16.",
+      "es": "Goldman Sachs y Morgan Stanley lideran la operación, y la cotización podría empezar ya la semana del 16 de noviembre."
+    },
+    {
+      "en": "It would be the largest tech listing ever and a real-time test of how much investors are willing to pay for frontier AI.",
+      "es": "Sería la mayor salida a bolsa tecnológica de la historia y una prueba en tiempo real de cuánto están dispuestos a pagar los inversores por la IA de frontera."
+    },
+    {
+      "en": "Anthropic released two new models priced at $8 per million input tokens and $40 per million output tokens.",
+      "es": "Anthropic ha lanzado dos modelos nuevos con un precio de 8 dólares por millón de tokens de entrada y 40 por millón de salida."
+    },
+    {
+      "en": "The company claims a team of 1,000 Fable 5.2 agents formally verified Fermat's Last Theorem in 30 hours.",
+      "es": "La empresa asegura que un equipo de 1.000 agentes de Fable 5.2 verificó formalmente el último teorema de Fermat en 30 horas."
+    },
+    {
+      "en": "It also says Mythos 5.2 uncovered about 10% more software vulnerabilities than its predecessor in a security benchmark.",
+      "es": "También dice que Mythos 5.2 encontró alrededor de un 10% más de vulnerabilidades de software que su predecesor en una prueba de seguridad."
+    },
+    {
+      "en": "The launch lands days before the IPO, so the company is keen to showcase its technical lead.",
+      "es": "El lanzamiento llega días antes de la salida a bolsa, así que la empresa tiene interés en mostrar su ventaja técnica."
+    },
+    {
+      "en": "Meta released Muse Ember, a cheap model priced at $0.10 per million input tokens and $0.50 per million output tokens, with a one-million-token context window.",
+      "es": "Meta ha lanzado Muse Ember, un modelo barato que cuesta 0,10 dólares por millón de tokens de entrada y 0,50 por millón de salida, con una ventana de contexto de un millón de tokens."
+    },
+    {
+      "en": "Meta's own figures show it outperforming rival small models from Anthropic and OpenAI on an automation benchmark.",
+      "es": "Según las cifras de la propia Meta, supera a los modelos pequeños rivales de Anthropic y OpenAI en una prueba de automatización."
+    },
+    {
+      "en": "Prices for routine AI tasks keep falling, which squeezes margins for anyone selling basic models.",
+      "es": "Los precios de las tareas rutinarias de IA siguen cayendo, lo que estrecha los márgenes de quien vende modelos básicos."
+    },
+    {
+      "en": "Google added two chips to its TPU line: the 8tx, aimed at confidential computing, and the 8i Max, which doubles the compute and memory bandwidth of the standard 8i.",
+      "es": "Google ha añadido dos chips a su gama TPU: el 8tx, pensado para computación confidencial, y el 8i Max, que duplica la potencia de cálculo y el ancho de banda de memoria del 8i estándar."
+    },
+    {
+      "en": "Alphabet shares climbed more than 2% before the opening bell.",
+      "es": "Las acciones de Alphabet subieron más de un 2% antes de la apertura."
+    },
+    {
+      "en": "In-house chips let Google rely less on Nvidia, just as Nvidia faces a governance scare.",
+      "es": "Los chips propios permiten a Google depender menos de Nvidia, justo cuando esta afronta un susto de gobierno corporativo."
+    },
+    {
+      "en": "Semafor points out that Nvidia's directors have served for almost 15 years on average, roughly double the S&P 500 norm, and none has a national-security background.",
+      "es": "Semafor señala que los consejeros de Nvidia llevan de media casi 15 años en el cargo, aproximadamente el doble de lo habitual en el S&P 500, y ninguno tiene experiencia en seguridad nacional."
+    },
+    {
+      "en": "Nvidia shares slid around 5% on Monday while the board investigates whether Jensen Huang was targeted by Chinese intelligence, and congressional leaders are pushing to write chip export curbs into the defence bill.",
+      "es": "Las acciones de Nvidia cayeron cerca de un 5% el lunes mientras el consejo investiga si Jensen Huang fue objetivo de la inteligencia china, y líderes del Congreso presionan para incluir límites a la exportación de chips en la ley de defensa."
+    },
+    {
+      "en": "Nvidia reports results on November 17, and leadership risk has become part of the story.",
+      "es": "Nvidia presenta resultados el 17 de noviembre y el riesgo de liderazgo ya forma parte de la historia."
+    },
+    {
+      "en": "Fireworks AI told customers that an October intrusion, carried out through a compromised cloud provider, exposed billing records.",
+      "es": "Fireworks AI ha comunicado a sus clientes que una intrusión de octubre, realizada a través de un proveedor de nube comprometido, dejó expuestos registros de facturación."
+    },
+    {
+      "en": "For a smaller group of accounts, attackers also reached stored secrets, datasets and partial model weights.",
+      "es": "En un grupo más reducido de cuentas, los atacantes también llegaron a credenciales guardadas, conjuntos de datos y pesos parciales de modelos."
+    },
+    {
+      "en": "As companies hand more data to AI platforms, supply-chain security becomes a key buying criterion.",
+      "es": "A medida que las empresas confían más datos a plataformas de IA, la seguridad de la cadena de suministro se convierte en un criterio clave de compra."
+    },
+    {
+      "en": "Two days of US-brokered talks begin today in Abu Dhabi, the first three-way meeting since February.",
+      "es": "Hoy empiezan en Abu Dabi dos días de conversaciones mediadas por EE. UU., la primera reunión a tres desde febrero."
+    },
+    {
+      "en": "Vladimir Medinsky leads Russia's team, Rustem Umerov heads Ukraine's, and Steve Witkoff and Jared Kushner represent Washington, with security guarantees expected to top the agenda.",
+      "es": "Vladímir Medinski encabeza el equipo ruso, Rustem Umérov el ucraniano, y Steve Witkoff y Jared Kushner representan a Washington; se espera que las garantías de seguridad encabecen la agenda."
+    },
+    {
+      "en": "Moscow still demands the whole of Donbas, so expectations of a breakthrough remain modest.",
+      "es": "Moscú sigue exigiendo todo el Donbás, así que las expectativas de un gran avance son modestas."
+    },
+    {
+      "en": "Tehran said there can be no progress towards peace unless the US ends its naval blockade, unfreezes seized assets and removes sanctions, while Secretary of State Marco Rubio said a breakthrough was not close.",
+      "es": "Teherán afirmó que no habrá avances hacia la paz si EE. UU. no levanta el bloqueo naval, libera los activos incautados y retira las sanciones, mientras el secretario de Estado, Marco Rubio, dijo que no hay un acuerdo cerca."
+    },
+    {
+      "en": "Oil still fell sharply on hopes that the conflict is winding down.",
+      "es": "Aun así, el petróleo cayó con fuerza ante la esperanza de que el conflicto se esté apagando."
+    },
+    {
+      "en": "The tariff truce between Washington and Beijing, which was due to expire today, has been extended for another two months, according to Reuters.",
+      "es": "La tregua arancelaria entre Washington y Pekín, que vencía hoy, se ha prorrogado otros dos meses, según Reuters."
+    },
+    {
+      "en": "China also published its October trade figures this morning.",
+      "es": "China también ha publicado esta mañana sus datos comerciales de octubre."
+    },
+    {
+      "en": "The extension removes a risk of new tariffs for supply chains, chips included, at least until January.",
+      "es": "La prórroga aparta el riesgo de nuevos aranceles para las cadenas de suministro, chips incluidos, al menos hasta enero."
+    },
+    {
+      "en": "After Democrats took both the House and the Senate, Trump raised doubts about whether the vote was fair, less than a week after saying he would accept the outcome.",
+      "es": "Tras la victoria demócrata en la Cámara y el Senado, Trump ha puesto en duda que la votación fuera limpia, menos de una semana después de decir que aceptaría el resultado."
+    },
+    {
+      "en": "Separately, the area around the White House was briefly locked down after a vehicle incident and an arrest at the barriers.",
+      "es": "Por otro lado, el entorno de la Casa Blanca se cerró brevemente tras un incidente con un vehículo y una detención en las vallas."
+    },
+    {
+      "en": "France summoned Iran's ambassador after attributing last month's hack of supermarket refrigeration systems to the IRGC.",
+      "es": "Francia ha convocado al embajador iraní tras atribuir a la Guardia Revolucionaria el hackeo del mes pasado a los sistemas de refrigeración de supermercados."
+    },
+    {
+      "en": "Paris intends to push for sanctions at EU level.",
+      "es": "París pretende impulsar sanciones a nivel de la UE."
+    },
+    {
+      "en": "Attacks on everyday infrastructure show that hybrid warfare is reaching ordinary businesses.",
+      "es": "Los ataques a infraestructuras cotidianas muestran que la guerra híbrida ya llega a negocios corrientes."
+    },
+    {
+      "en": "UGT and CCOO have called a general strike for Wednesday, with demonstrations in the evening across the country.",
+      "es": "UGT y CCOO han convocado una huelga general para el miércoles, con manifestaciones por la tarde en todo el país."
+    },
+    {
+      "en": "The Transport Ministry has set minimum services of 52% to 85% on flights to the islands, Ceuta and Melilla, on top of this week's strike by Renfe train drivers.",
+      "es": "Transportes ha fijado servicios mínimos del 52% al 85% en los vuelos con las islas, Ceuta y Melilla, que se suman a la huelga de maquinistas de Renfe de esta semana."
+    },
+    {
+      "en": "AEMET has issued red warnings in northern Cáceres and southern Ávila, where more than 120 litres per square metre could fall in 12 hours, with a high risk of flooding.",
+      "es": "La AEMET ha activado el aviso rojo en el norte de Cáceres y el sur de Ávila, donde podrían caer más de 120 litros por metro cuadrado en 12 horas, con alto riesgo de inundaciones."
+    },
+    {
+      "en": "Storm Charles is due to follow on Wednesday.",
+      "es": "La borrasca Charles llegará detrás el miércoles."
+    },
+    {
+      "en": "The King and Queen will attend a mass this evening in Toledo cathedral for the 69 people killed in the Urda rail accident on October 28.",
+      "es": "Los Reyes asistirán esta tarde a una misa en la catedral de Toledo por los 69 fallecidos en el accidente ferroviario de Urda del 28 de octubre."
+    },
+    {
+      "en": "Government and opposition leaders are also expected to attend.",
+      "es": "También está previsto que acudan representantes del Gobierno y de la oposición."
+    },
+    {
+      "en": "The interministerial committee on immigration meets this morning at La Moncloa with Canary Islands president Fernando Clavijo, focusing on El Hierro.",
+      "es": "La comisión interministerial de inmigración se reúne esta mañana en La Moncloa con el presidente canario, Fernando Clavijo, con El Hierro como foco."
+    },
+    {
+      "en": "Official figures show 5,857 arrivals on 57 boats since November 1.",
+      "es": "Las cifras oficiales suman 5.857 llegadas en 57 embarcaciones desde el 1 de noviembre."
+    },
+    {
+      "en": "The grid operator's reinforced mode, introduced to prevent blackouts and initially expected to end in March, is still in place with no end date.",
+      "es": "El modo reforzado del operador del sistema, introducido para evitar apagones y que en principio iba a terminar en marzo, sigue activo sin fecha de fin."
+    },
+    {
+      "en": "Adjustment services added about €23/MWh to prices in late October, and their cumulative cost this year is 40% higher than in 2025.",
+      "es": "Los servicios de ajuste sumaron unos 23 €/MWh al precio a finales de octubre, y su coste acumulado este año es un 40% mayor que en 2025."
+    },
+    {
+      "en": "Utilities suspect the arrangement will become permanent.",
+      "es": "Las eléctricas sospechan que el esquema se volverá permanente."
+    },
+    {
+      "en": "Spain only enabled around 15 GW of the 37 GW of potential voltage-control capacity in October, a gap that new grid investment and rules need to close.",
+      "es": "España solo habilitó unos 15 GW de los 37 GW potenciales de control de tensión en octubre, una brecha que la nueva inversión en redes y la regulación deben cerrar."
+    },
+    {
+      "en": "The average wholesale price for Tuesday is €171.38/MWh, down from €179.67 on Monday.",
+      "es": "El precio medio mayorista del martes es de 171,38 €/MWh, frente a 179,67 el lunes."
+    },
+    {
+      "en": "The cheapest hour is midday, at about €90, while the evening peak climbs to roughly €221.",
+      "es": "La hora más barata es la del mediodía, en torno a 90 €, mientras que el pico de la tarde sube hasta unos 221 €."
+    },
+    {
+      "en": "The wide gap between solar hours and the evening peak strengthens the business case for batteries.",
+      "es": "La gran diferencia entre las horas solares y el pico de la tarde refuerza el caso de negocio de las baterías."
+    },
+    {
+      "en": "Iberdrola, through its US subsidiary, plans to modernise around 1,300 kilometres of high-voltage transmission lines in New York State.",
+      "es": "Iberdrola, a través de su filial estadounidense, prevé modernizar unos 1.300 kilómetros de líneas de transporte de alta tensión en el estado de Nueva York."
+    },
+    {
+      "en": "It fits the group's strategy of channelling most of its record investment into regulated networks.",
+      "es": "Encaja con la estrategia del grupo de destinar la mayor parte de su inversión récord a redes reguladas."
+    },
+    {
+      "en": "Turkey, the host, wants electricity to reach 35% of global final energy use by 2035, compared with about 23% today according to the IEA.",
+      "es": "Turquía, la anfitriona, quiere que la electricidad llegue al 35% del consumo final de energía mundial en 2035, frente a alrededor del 23% actual según la AIE."
+    },
+    {
+      "en": "JPMorgan, HSBC, Barclays and other lenders are sending teams, expecting data-centre demand to dominate the discussions.",
+      "es": "JPMorgan, HSBC, Barclays y otros bancos envían equipos, con la previsión de que la demanda de los centros de datos domine las conversaciones."
+    },
+    {
+      "en": "Citi strategists cut US equities and the tech sector to neutral and upgraded Europe excluding the UK to overweight.",
+      "es": "Los estrategas de Citi han rebajado la bolsa estadounidense y el sector tecnológico a neutral y han subido Europa sin Reino Unido a sobreponderar."
+    },
+    {
+      "en": "They argue Europe is less exposed to the AI trade and benefits more from cheaper oil.",
+      "es": "Argumentan que Europa está menos expuesta a la apuesta por la IA y se beneficia más del petróleo barato."
+    },
+    {
+      "en": "Boeing will cut about 5% of its workforce, with notices starting in December, while PepsiCo plans to eliminate around 1,000 jobs in its North American business.",
+      "es": "Boeing recortará cerca del 5% de su plantilla, con avisos a partir de diciembre, mientras que PepsiCo eliminará unos 1.000 empleos en su negocio norteamericano."
+    },
+    {
+      "en": "Layoffs at big names add to signs that the US labour market is cooling.",
+      "es": "Los despidos en grandes empresas se suman a las señales de enfriamiento del mercado laboral estadounidense."
+    },
+    {
+      "en": "Wall Street staged a strong rebound on Monday, with all three major indices up more than 2% as chipmakers recovered from last week's AI sell-off.",
+      "es": "Wall Street protagonizó un fuerte rebote el lunes: los tres grandes índices subieron más de un 2% gracias a la recuperación de los fabricantes de chips tras la caída de la IA de la semana pasada."
+    },
+    {
+      "en": "Brent slumped almost 6% to about $92.6 on hopes of an end to the Iran conflict, and the IBEX 35 gained 1.9%.",
+      "es": "El Brent se desplomó casi un 6%, hasta unos 92,6 dólares, ante la esperanza de un final del conflicto con Irán, y el IBEX 35 ganó un 1,9%."
+    },
+    {
+      "en": "Nvidia was the exception, falling around 5% amid its board investigation.",
+      "es": "Nvidia fue la excepción, con una caída de alrededor del 5% en plena investigación de su consejo."
+    },
+    {
+      "en": "Analysts at Capital.com described the move as a tentative return of risk appetite rather than a clear reversal, and all eyes are now on today's US inflation data.",
+      "es": "Analistas de Capital.com lo describieron como un regreso tímido del apetito por el riesgo más que un giro claro, y ahora todas las miradas están en el dato de inflación de EE. UU. de hoy."
+    }
+  ]
+}
