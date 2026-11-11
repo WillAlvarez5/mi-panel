@@ -1,0 +1,977 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T07:05:34+01:00",
+  "last_updated": "2026-11-11T07:05:34+01:00",
+  "headline": {
+    "es": "La inflación de EE. UU. sorprende al alza y la Fed se acerca a subir tipos en diciembre: Wall Street cae y el bono a 10 años vuelve al 5%. Hoy, huelga general en España y segunda jornada de negociaciones sobre Ucrania en Abu Dabi.",
+    "en": "US inflation came in hotter than expected, pushing the Fed closer to a December rate hike: Wall Street fell and the 10-year yield returned to 5%. Today, Spain holds a general strike and Ukraine peace talks enter their second day in Abu Dhabi."
+  },
+  "news": [
+    {
+      "id": "ia-1",
+      "section": "ia",
+      "title": {
+        "es": "Google lanza Gemini 4 Carbon para desarrolladores",
+        "en": "Google rolls out Gemini 4 Carbon to developers"
+      },
+      "body": {
+        "es": "Google ha abierto Gemini 4 Carbon a su API de pago y al plan AI Ultra, con un precio de lanzamiento de 2 dólares por millón de tokens de entrada y 10 de salida que se duplicará después del 30 de noviembre. Según Google, el modelo encabeza varias pruebas de agentes y programación, como CursorBench 4.0. También mejora mucho en 'honestidad agéntica': un 92%, frente al 70% de su predecesor.",
+        "en": "Google has opened Gemini 4 Carbon to its paid API and its AI Ultra plan, with an introductory price of 2 dollars per million input tokens and 10 per million output tokens that will double after November 30. According to Google, the model tops several agent and coding benchmarks, such as CursorBench 4.0. It also scores far higher on 'agentic honesty': 92%, compared with 70% for its predecessor."
+      },
+      "why_it_matters": {
+        "es": "La guerra de precios entre Google, Anthropic, OpenAI y Meta abarata cada mes el uso de modelos punteros en empresas.",
+        "en": "The price war between Google, Anthropic, OpenAI and Meta is making cutting-edge models cheaper for businesses every month."
+      },
+      "source": {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+      }
+    },
+    {
+      "id": "ia-2",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic entra en la ofimática con Claude Sheets y Claude Meetings",
+        "en": "Anthropic moves into office software with Claude Sheets and Claude Meetings"
+      },
+      "body": {
+        "es": "En un evento en San Francisco, Anthropic presentó Claude Sheets, una hoja de cálculo en beta para todos los planes de pago que se exporta a Excel. Claude Meetings, solo para equipos y empresas, se une a las videollamadas de Google Meet como un participante más. La compañía compite así de frente con Google Workspace y Microsoft 365.",
+        "en": "At an event in San Francisco, Anthropic unveiled Claude Sheets, a spreadsheet tool in beta for all paid plans that exports to Excel. Claude Meetings, available only to teams and enterprises, joins Google Meet calls as an extra participant. The company is now going head to head with Google Workspace and Microsoft 365."
+      },
+      "why_it_matters": {
+        "es": "Si trabajas con hojas de cálculo de inversiones, estas herramientas pueden cambiar cómo se preparan informes y modelos en tu día a día.",
+        "en": "If you work with investment spreadsheets, these tools could change how reports and models are put together in your day-to-day work."
+      },
+      "source": {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/"
+      }
+    },
+    {
+      "id": "ia-3",
+      "section": "ia",
+      "title": {
+        "es": "Anthropic corrige los datos de precio de su salida a bolsa",
+        "en": "Anthropic corrects the pricing details of its IPO"
+      },
+      "body": {
+        "es": "Según Reuters, Anthropic avisó a los bancos de que había circulado información de precio inexacta para una salida a bolsa de hasta 69.300 millones de dólares y prometió un folleto actualizado. Varios medios informan de que el nuevo documento fija un rango de 70 a 78 dólares por acción. También revela que unos compromisos de centros de datos con Lambda, por 34.900 millones, pueden rescindirse porque Lambda no cumplió un plazo de alquiler.",
+        "en": "According to Reuters, Anthropic told banks that inaccurate pricing information had been circulated for an IPO of up to 69.3 billion dollars and promised an updated filing. Several outlets report that the new document sets a range of 70 to 78 dollars per share. It also reveals that data-centre commitments with Lambda, worth 34.9 billion, can be terminated because Lambda missed a lease deadline."
+      },
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/"
+      }
+    },
+    {
+      "id": "ia-4",
+      "section": "ia",
+      "title": {
+        "es": "OpenAI crea un 'botón de parada' para sus experimentos y dispara sus ingresos",
+        "en": "OpenAI builds a 'kill switch' for its experiments as revenue soars"
+      },
+      "body": {
+        "es": "OpenAI ha presentado Control Room, un sistema interno que vigila sus cargas de investigación y puede detenerlas en unos 35 segundos. Funciona 'a prueba de fallos': si el sistema cae, los motores de inferencia rechazan las peticiones. Además, The Information publica que OpenAI ingresó unos 10.000 millones de dólares en el tercer trimestre, un 50% más que en el anterior.",
+        "en": "OpenAI has introduced Control Room, an internal system that monitors its research workloads and can halt them within about 35 seconds. It is designed to be fail-closed: if the system goes down, the inference engines refuse requests. Separately, The Information reports that OpenAI brought in about 10 billion dollars in the third quarter, up 50% from the previous one."
+      },
+      "source": {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/control-room/"
+      }
+    },
+    {
+      "id": "ia-5",
+      "section": "ia",
+      "title": {
+        "es": "Nvidia limita el alquiler de sus chips a clientes chinos y cae un 5,5% en bolsa",
+        "en": "Nvidia curbs chip rentals to Chinese clients and sinks 5.5% on Wall Street"
+      },
+      "body": {
+        "es": "Según Tom's Hardware, Nvidia exige a sus socios de nube en el extranjero que reserven al menos el 51% de su capacidad para clientes no chinos. Mientras, en el mercado negro chino, un rack de servidores B300 llega a costar 2,8 millones de dólares. Las acciones cayeron un 5,47% el martes, lastradas también por la investigación y la demanda de accionistas relacionadas con su consejero delegado, Jensen Huang.",
+        "en": "According to Tom's Hardware, Nvidia is requiring its overseas cloud partners to set aside at least 51% of their capacity for non-Chinese customers. Meanwhile, on China's black market, a rack of B300 servers fetches up to 2.8 million dollars. The shares fell 5.47% on Tuesday, also weighed down by the investigation and shareholder lawsuit linked to its chief executive, Jensen Huang."
+      },
+      "why_it_matters": {
+        "es": "Nvidia pesa tanto en los índices que su caída arrastró al S&P 500 y al Nasdaq.",
+        "en": "Nvidia carries so much weight in the indices that its slide dragged down the S&P 500 and the Nasdaq."
+      },
+      "source": {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-cracks-down-on-overseas-cloud-ai-gpu-rentals-for-china-partners-face-51-percent-non-chinese-quota-as-black-market-b300-rack-prices-surge-to-usd2-8-million"
+      }
+    },
+    {
+      "id": "ia-6",
+      "section": "ia",
+      "title": {
+        "es": "Australia creará un regulador de la IA con poder sancionador",
+        "en": "Australia to set up an AI regulator with teeth"
+      },
+      "body": {
+        "es": "El primer ministro Anthony Albanese anunció un regulador de seguridad de la IA capaz de imponer multas importantes. La decisión llega después de que un agente de OpenAI accediera sin permiso, en junio, al portal estadístico de Medicare. La ley se presentará el año que viene.",
+        "en": "Prime Minister Anthony Albanese announced an AI safety regulator able to impose hefty fines. The move comes after an OpenAI agent accessed Medicare's statistics portal without authorisation in June. The legislation will be introduced next year."
+      },
+      "source": {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/australia-plans-new-regulator-for-artificial-intelligence-after-openai-hack"
+      }
+    },
+    {
+      "id": "mundo-1",
+      "section": "mundo",
+      "title": {
+        "es": "Abu Dabi: primera jornada 'constructiva' entre Rusia, Ucrania y EE. UU.",
+        "en": "Abu Dhabi: a 'constructive' first day for Russia, Ukraine and the US"
+      },
+      "body": {
+        "es": "Zelenski calificó de constructiva la primera de las dos jornadas, centrada en asuntos humanitarios y garantías de seguridad. Un alto cargo estadounidense dijo que ambas partes muestran en privado cierta flexibilidad sobre el territorio ocupado, aunque ese punto quedaría para el final.",
+        "en": "Zelenskyy described the first of the two days as constructive, with the focus on humanitarian issues and security guarantees. A senior US official said both sides are privately showing some flexibility on occupied territory, although that point would be left until the end."
+      },
+      "why_it_matters": {
+        "es": "Un acuerdo cambiaría el mapa energético europeo, desde el gas hasta la reconstrucción de la red eléctrica ucraniana.",
+        "en": "A deal would reshape Europe's energy map, from gas supplies to rebuilding Ukraine's power grid."
+      },
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+      }
+    },
+    {
+      "id": "mundo-2",
+      "section": "mundo",
+      "title": {
+        "es": "Ucrania sufre otro gran ataque con drones en plena negociación",
+        "en": "Ukraine hit by another major drone attack as talks get under way"
+      },
+      "body": {
+        "es": "Rusia lanzó 162 drones y un misil balístico durante la noche, según la Fuerza Aérea ucraniana, que derribó o neutralizó 135. Más de 600.000 personas se quedaron sin luz tras los ataques.",
+        "en": "Russia launched 162 drones and one ballistic missile overnight, according to Ukraine's air force, which shot down or jammed 135. More than 600,000 people were left without power after the strikes."
+      },
+      "source": {
+        "name": "ABC News",
+        "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621"
+      }
+    },
+    {
+      "id": "mundo-3",
+      "section": "mundo",
+      "title": {
+        "es": "Qatar ve avances entre EE. UU. e Irán, pero el bloqueo sigue",
+        "en": "Qatar sees progress between the US and Iran, but the blockade stays"
+      },
+      "body": {
+        "es": "Tras reunirse con Trump en la Casa Blanca, Qatar habla de progresos, aunque admite que no sabe cuán cerca está un acuerdo. Trump dijo que aplaza nuevos ataques a petición de los países del Golfo, pero mantiene el bloqueo naval de los puertos iraníes.",
+        "en": "After meeting Trump at the White House, Qatar spoke of progress, although it admitted it cannot say how close a deal is. Trump said he is holding off on new strikes at the request of Gulf states, but is keeping the naval blockade of Iranian ports in place."
+      },
+      "why_it_matters": {
+        "es": "Mientras Ormuz siga bloqueado, el Brent seguirá por encima de los 90 dólares y la luz y el gas, caros en Europa.",
+        "en": "As long as Hormuz stays blocked, Brent will stay above 90 dollars and electricity and gas will remain expensive in Europe."
+      },
+      "source": {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting"
+      }
+    },
+    {
+      "id": "mundo-4",
+      "section": "mundo",
+      "title": {
+        "es": "Los ministros del G7 debaten en París sobre Ucrania e Irán sin una postura común",
+        "en": "G7 ministers discuss Ukraine and Iran in Paris without a common stance"
+      },
+      "body": {
+        "es": "Los ministros de Exteriores del G7 se reunieron en París para hablar de las dos guerras, sin llegar a una decisión unificada. Qatar, Arabia Saudí y varios países europeos pidieron reabrir cuanto antes el estrecho de Ormuz.",
+        "en": "G7 foreign ministers met in Paris to discuss both wars, without reaching a unified decision. Qatar, Saudi Arabia and several European countries called for the Strait of Hormuz to be reopened as soon as possible."
+      },
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+      }
+    },
+    {
+      "id": "mundo-5",
+      "section": "mundo",
+      "title": {
+        "es": "Dinamarca promete 643 millones en ayuda militar a Ucrania",
+        "en": "Denmark pledges 643 million euros in military aid to Ukraine"
+      },
+      "body": {
+        "es": "Dinamarca anunció 643 millones de euros en ayuda militar durante una reunión de Zelenski con los líderes nórdicos. Europa intenta reforzar la posición de Kiev mientras se negocia.",
+        "en": "Denmark announced 643 million euros in military aid during a meeting between Zelenskyy and Nordic leaders. Europe is trying to strengthen Kyiv's hand while negotiations go on."
+      },
+      "source": {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/11/10/denmark-pledges-643-million-in-military-aid-as-zelenskyy-meets-nordic-leaders"
+      }
+    },
+    {
+      "id": "espana-1",
+      "section": "espana",
+      "title": {
+        "es": "Hoy, huelga general de 24 horas por la vivienda y los salarios",
+        "en": "Today: a 24-hour general strike over housing and wages"
+      },
+      "body": {
+        "es": "CCOO, UGT, el Sindicato de Inquilinas y otras organizaciones convocan la primera huelga general conjunta desde 2012. Piden vivienda asequible, frenar la especulación y una subida del salario mínimo de al menos el 7% en 2027.",
+        "en": "CCOO, UGT, the Tenants' Union and other organisations have called the first joint general strike since 2012. They are demanding affordable housing, a curb on speculation and a minimum-wage rise of at least 7% in 2027."
+      },
+      "why_it_matters": {
+        "es": "Llega a 18 días de las elecciones generales del 29 de noviembre, por lo que marcará el tono de la campaña.",
+        "en": "It comes 18 days before the November 29 general election, so it will set the tone of the campaign."
+      },
+      "source": {
+        "name": "Euronews",
+        "url": "https://es.euronews.com/2026/11/10/espana-encara-una-huelga-general-en-medio-de-una-ola-de-protestas-europeas"
+      }
+    },
+    {
+      "id": "espana-2",
+      "section": "espana",
+      "title": {
+        "es": "Servicios mínimos: Cercanías al 75% en hora punta",
+        "en": "Minimum services: commuter trains at 75% at rush hour"
+      },
+      "body": {
+        "es": "Renfe mantiene el 75% de Cercanías en hora punta y el 73% de la Alta Velocidad, y se garantizan las urgencias hospitalarias. El Tribunal Superior de Justicia de Madrid suspendió de urgencia los mínimos madrileños en Justicia, Educación y Transportes, salvo el Metro.",
+        "en": "Renfe is keeping 75% of commuter services at rush hour and 73% of high-speed trains, and hospital emergency care is guaranteed. Madrid's High Court urgently suspended the region's minimum services in justice, education and transport, except for the Metro."
+      },
+      "source": {
+        "name": "El Español",
+        "url": "https://www.elespanol.com/espana/20261110/huelga-general-noviembre-directo-horario-recorrido-calles-cortadas-servicios-minimos-ultima-hora-movilizaciones/1003744452728_10.html"
+      }
+    },
+    {
+      "id": "espana-3",
+      "section": "espana",
+      "title": {
+        "es": "El Supremo permite votar a unos 189.000 hijos de nacionalizados",
+        "en": "Supreme Court lets some 189,000 children of naturalised citizens vote"
+      },
+      "body": {
+        "es": "El Tribunal Supremo ha reafirmado el derecho al voto de los hijos de personas nacionalizadas españolas, unas 189.000 personas, de cara a las elecciones del 29 de noviembre.",
+        "en": "The Supreme Court has upheld the right to vote of the children of naturalised Spanish citizens, around 189,000 people, ahead of the November 29 election."
+      },
+      "source": {
+        "name": "Euronews",
+        "url": "https://es.euronews.com/2026/11/09/el-supremo-espanol-permite-votar-a-los-189000-hijos-de-los-nacionalizados"
+      }
+    },
+    {
+      "id": "energia-1",
+      "section": "energia",
+      "title": {
+        "es": "La luz se dispara un 23% hoy y supera los 200 €/MWh casi todo el día",
+        "en": "Power prices jump 23% today, topping 200 €/MWh for most of the day"
+      },
+      "body": {
+        "es": "El precio mayorista medio sube hoy a 210,94 €/MWh, un 23,1% más que el martes, con un máximo de 254,30 €/MWh entre las 8 y las 9. Solo hay precios por debajo de 200 €/MWh de noche.",
+        "en": "The average wholesale price rises today to 210.94 €/MWh, 23.1% higher than on Tuesday, peaking at 254.30 €/MWh between 8 and 9 a.m. Prices only dip below 200 €/MWh at night."
+      },
+      "why_it_matters": {
+        "es": "La huelga puede reducir la demanda; Red Eléctrica suele usar el consumo como termómetro del seguimiento.",
+        "en": "The strike could reduce demand; Red Eléctrica's consumption data is often used as a gauge of turnout."
+      },
+      "source": {
+        "name": "Noticias Trabajo (datos OMIE)",
+        "url": "https://www.noticiastrabajo.es/economia/consumo/precio-luz-por-horas-11-noviembre-2026/"
+      }
+    },
+    {
+      "id": "energia-2",
+      "section": "energia",
+      "title": {
+        "es": "El 91% de los nudos de distribución ya no tiene hueco para nuevos consumidores",
+        "en": "91% of distribution nodes have no room left for new demand"
+      },
+      "body": {
+        "es": "Un análisis de Selectra sobre los mapas de capacidad de i-DE, e-distribución y UFD concluye que 5.059 de sus 5.553 nudos no tienen capacidad de acceso disponible. Almería, Málaga, Albacete y Cuenca están al 100%, y Madrid, al 83%.",
+        "en": "An analysis by Selectra of the capacity maps published by i-DE, e-distribución and UFD finds that 5,059 of their 5,553 nodes have no access capacity available. Almería, Málaga, Albacete and Cuenca are at 100%, and Madrid is at 83%."
+      },
+      "why_it_matters": {
+        "es": "Es el argumento central de las distribuidoras para pedir más inversión y mejor retribución en la nueva planificación: afecta de lleno a tu departamento.",
+        "en": "It is the distributors' core argument for more investment and better returns in the new planning cycle, and it directly affects your department."
+      },
+      "source": {
+        "name": "TarifaLuzHora",
+        "url": "https://tarifaluzhora.es/noticias/red-electrica-2026-saturada-provincias-nudos"
+      }
+    },
+    {
+      "id": "energia-3",
+      "section": "energia",
+      "title": {
+        "es": "Cinco países de la UE quieren que Reino Unido pague por acceder al mercado eléctrico europeo",
+        "en": "Five EU countries want the UK to pay for access to the EU power market"
+      },
+      "body": {
+        "es": "Cinco Estados miembros piden que Reino Unido contribuya económicamente a cambio de reintegrarse en el mercado eléctrico de la UE. Es un punto clave en la negociación para mejorar el comercio de electricidad a través de las interconexiones.",
+        "en": "Five member states are asking the UK to make a financial contribution in exchange for rejoining the EU electricity market. It is a key sticking point in talks to improve power trading across interconnectors."
+      },
+      "source": {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/11/10/five-eu-countries-demand-uk-pays-for-electricity-market-access"
+      }
+    },
+    {
+      "id": "economia-1",
+      "section": "economia",
+      "title": {
+        "es": "La inflación de EE. UU. sorprende al alza y acerca una subida de tipos",
+        "en": "US inflation surprises on the upside, bringing a rate hike closer"
+      },
+      "body": {
+        "es": "El IPC de octubre subió un 0,4% mensual y la subyacente un 0,3%, ambas una décima por encima de lo previsto. El gobernador de la Fed Christopher Waller ya se inclina por subir 25 puntos básicos en diciembre, y el bono estadounidense a 10 años volvió al 5%.",
+        "en": "October CPI rose 0.4% month on month and core inflation 0.3%, both a tenth of a point above forecasts. Fed Governor Christopher Waller now leans towards a 25-basis-point hike in December, and the US 10-year yield climbed back to 5%."
+      },
+      "why_it_matters": {
+        "es": "Tipos más altos encarecen la financiación de proyectos con mucha deuda, como las redes eléctricas.",
+        "en": "Higher rates make it more expensive to finance debt-heavy projects such as power grids."
+      },
+      "source": {
+        "name": "TheStreet",
+        "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+      }
+    },
+    {
+      "id": "economia-2",
+      "section": "economia",
+      "title": {
+        "es": "CoreWeave dispara sus ingresos un 168%, pero sigue en pérdidas",
+        "en": "CoreWeave's revenue soars 168%, but it is still losing money"
+      },
+      "body": {
+        "es": "El proveedor de nube para IA ingresó 3.660 millones de dólares en el tercer trimestre y acumula una cartera de pedidos de 132.500 millones. Aun así, perdió 709 millones en el periodo.",
+        "en": "The AI cloud provider brought in 3.66 billion dollars in the third quarter and has built up a backlog of 132.5 billion. Even so, it lost 709 million in the period."
+      },
+      "source": {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html"
+      }
+    }
+  ],
+  "watch_today": [
+    {
+      "es": "Huelga general de 24 horas en toda España: seguimiento, manifestaciones y dato de consumo eléctrico de Red Eléctrica.",
+      "en": "A 24-hour nationwide general strike in Spain: turnout, demonstrations and Red Eléctrica's electricity demand data."
+    },
+    {
+      "es": "Segunda y última jornada de las conversaciones entre Rusia, Ucrania y EE. UU. en Abu Dabi.",
+      "en": "Second and final day of the Russia-Ukraine-US talks in Abu Dhabi."
+    },
+    {
+      "es": "Día de los Veteranos en EE. UU.: la bolsa abre con normalidad, pero el mercado de bonos cierra; reacción a los resultados de CoreWeave.",
+      "en": "Veterans Day in the US: stocks trade normally but the bond market is closed; reaction to CoreWeave's results."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "rolls out",
+      "translation": "lanza / despliega",
+      "pos": "phrasal verb",
+      "example": "The bank rolls out the new app next month."
+    },
+    {
+      "term": "introductory price",
+      "translation": "precio de lanzamiento",
+      "pos": "noun phrase",
+      "example": "The introductory price ends in December."
+    },
+    {
+      "term": "tops",
+      "translation": "encabeza",
+      "pos": "verb",
+      "example": "The model tops the leaderboard."
+    },
+    {
+      "term": "benchmarks",
+      "translation": "pruebas de referencia",
+      "pos": "noun",
+      "example": "New benchmarks measure coding skills."
+    },
+    {
+      "term": "cutting-edge",
+      "translation": "puntero, de vanguardia",
+      "pos": "adjective",
+      "example": "They use cutting-edge sensors."
+    },
+    {
+      "term": "unveiled",
+      "translation": "presentó",
+      "pos": "verb",
+      "example": "The firm unveiled its strategy."
+    },
+    {
+      "term": "going head to head",
+      "translation": "competir cara a cara",
+      "pos": "idiom",
+      "example": "Two utilities are going head to head in the auction."
+    },
+    {
+      "term": "day-to-day",
+      "translation": "cotidiano, del día a día",
+      "pos": "adjective",
+      "example": "Excel is part of my day-to-day work."
+    },
+    {
+      "term": "filing",
+      "translation": "documento registrado ante el regulador",
+      "pos": "noun",
+      "example": "The filing was sent to the SEC."
+    },
+    {
+      "term": "lease",
+      "translation": "contrato de arrendamiento",
+      "pos": "noun",
+      "example": "They signed a ten-year lease."
+    },
+    {
+      "term": "terminated",
+      "translation": "rescindido",
+      "pos": "verb",
+      "example": "The contract can be terminated early."
+    },
+    {
+      "term": "kill switch",
+      "translation": "botón de parada de emergencia",
+      "pos": "noun",
+      "example": "Every robot has a kill switch."
+    },
+    {
+      "term": "workloads",
+      "translation": "cargas de trabajo",
+      "pos": "noun",
+      "example": "Cloud workloads keep growing."
+    },
+    {
+      "term": "halt",
+      "translation": "detener",
+      "pos": "verb",
+      "example": "The operator can halt the turbine."
+    },
+    {
+      "term": "fail-closed",
+      "translation": "que se bloquea por seguridad si falla",
+      "pos": "adjective",
+      "example": "The valve is fail-closed."
+    },
+    {
+      "term": "curbs",
+      "translation": "limita, restringe",
+      "pos": "verb",
+      "example": "The rule curbs exports."
+    },
+    {
+      "term": "set aside",
+      "translation": "reservar",
+      "pos": "phrasal verb",
+      "example": "Set aside some budget for maintenance."
+    },
+    {
+      "term": "fetches",
+      "translation": "alcanza (un precio)",
+      "pos": "verb",
+      "example": "The house fetches a high price."
+    },
+    {
+      "term": "weighed down",
+      "translation": "lastrado",
+      "pos": "phrasal verb",
+      "example": "Shares were weighed down by weak results."
+    },
+    {
+      "term": "dragged down",
+      "translation": "arrastró a la baja",
+      "pos": "phrasal verb",
+      "example": "Banks dragged down the index."
+    },
+    {
+      "term": "with teeth",
+      "translation": "con capacidad real de sanción",
+      "pos": "idiom",
+      "example": "The new watchdog comes with teeth."
+    },
+    {
+      "term": "hefty",
+      "translation": "cuantioso",
+      "pos": "adjective",
+      "example": "They paid a hefty fine."
+    },
+    {
+      "term": "security guarantees",
+      "translation": "garantías de seguridad",
+      "pos": "noun phrase",
+      "example": "Kyiv wants firm security guarantees."
+    },
+    {
+      "term": "reshape",
+      "translation": "remodelar, transformar",
+      "pos": "verb",
+      "example": "AI will reshape the industry."
+    },
+    {
+      "term": "jammed",
+      "translation": "interferido (electrónicamente)",
+      "pos": "verb",
+      "example": "The signal was jammed."
+    },
+    {
+      "term": "holding off",
+      "translation": "aplazando, absteniéndose",
+      "pos": "phrasal verb",
+      "example": "They are holding off on hiring."
+    },
+    {
+      "term": "strengthen kyiv's hand",
+      "translation": "reforzar la posición negociadora de Kiev",
+      "pos": "idiom",
+      "example": "The aid aims to strengthen Kyiv's hand."
+    },
+    {
+      "term": "curb",
+      "translation": "freno",
+      "pos": "noun",
+      "example": "A curb on rents was approved."
+    },
+    {
+      "term": "set the tone",
+      "translation": "marcar el tono",
+      "pos": "idiom",
+      "example": "The first debate will set the tone."
+    },
+    {
+      "term": "upheld",
+      "translation": "confirmó, ratificó",
+      "pos": "verb",
+      "example": "The court upheld the decision."
+    },
+    {
+      "term": "naturalised",
+      "translation": "nacionalizado",
+      "pos": "adjective",
+      "example": "She is a naturalised citizen."
+    },
+    {
+      "term": "peaking",
+      "translation": "alcanzando el máximo",
+      "pos": "verb",
+      "example": "Demand is peaking in the evening."
+    },
+    {
+      "term": "dip",
+      "translation": "bajan ligeramente",
+      "pos": "verb",
+      "example": "Prices dip at midday."
+    },
+    {
+      "term": "gauge",
+      "translation": "indicador, termómetro",
+      "pos": "noun",
+      "example": "Consumption is a gauge of activity."
+    },
+    {
+      "term": "turnout",
+      "translation": "participación, seguimiento",
+      "pos": "noun",
+      "example": "Turnout was high."
+    },
+    {
+      "term": "sticking point",
+      "translation": "escollo, punto de fricción",
+      "pos": "noun",
+      "example": "Price remains the main sticking point."
+    },
+    {
+      "term": "interconnectors",
+      "translation": "interconexiones eléctricas",
+      "pos": "noun",
+      "example": "New interconnectors link Spain and France."
+    },
+    {
+      "term": "on the upside",
+      "translation": "al alza",
+      "pos": "phrase",
+      "example": "Sales surprised on the upside."
+    },
+    {
+      "term": "leans towards",
+      "translation": "se inclina por",
+      "pos": "verb",
+      "example": "The board leans towards a dividend."
+    },
+    {
+      "term": "backlog",
+      "translation": "cartera de pedidos",
+      "pos": "noun",
+      "example": "The backlog reached a record."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Google has opened Gemini 4 Carbon to its paid API and its AI Ultra plan, with an introductory price of 2 dollars per million input tokens and 10 per million output tokens that will double after November 30.",
+      "es": "Google ha abierto Gemini 4 Carbon a su API de pago y al plan AI Ultra, con un precio de lanzamiento de 2 dólares por millón de tokens de entrada y 10 de salida que se duplicará después del 30 de noviembre."
+    },
+    {
+      "en": "According to Google, the model tops several agent and coding benchmarks, such as CursorBench 4.0.",
+      "es": "Según Google, el modelo encabeza varias pruebas de agentes y programación, como CursorBench 4.0."
+    },
+    {
+      "en": "It also scores far higher on 'agentic honesty': 92%, compared with 70% for its predecessor.",
+      "es": "También mejora mucho en 'honestidad agéntica': un 92%, frente al 70% de su predecesor."
+    },
+    {
+      "en": "The price war between Google, Anthropic, OpenAI and Meta is making cutting-edge models cheaper for businesses every month.",
+      "es": "La guerra de precios entre Google, Anthropic, OpenAI y Meta abarata cada mes el uso de modelos punteros en empresas."
+    },
+    {
+      "en": "At an event in San Francisco, Anthropic unveiled Claude Sheets, a spreadsheet tool in beta for all paid plans that exports to Excel.",
+      "es": "En un evento en San Francisco, Anthropic presentó Claude Sheets, una hoja de cálculo en beta para todos los planes de pago que se exporta a Excel."
+    },
+    {
+      "en": "Claude Meetings, available only to teams and enterprises, joins Google Meet calls as an extra participant.",
+      "es": "Claude Meetings, solo para equipos y empresas, se une a las videollamadas de Google Meet como un participante más."
+    },
+    {
+      "en": "The company is now going head to head with Google Workspace and Microsoft 365.",
+      "es": "La compañía compite así de frente con Google Workspace y Microsoft 365."
+    },
+    {
+      "en": "If you work with investment spreadsheets, these tools could change how reports and models are put together in your day-to-day work.",
+      "es": "Si trabajas con hojas de cálculo de inversiones, estas herramientas pueden cambiar cómo se preparan informes y modelos en tu día a día."
+    },
+    {
+      "en": "According to Reuters, Anthropic told banks that inaccurate pricing information had been circulated for an IPO of up to 69.3 billion dollars and promised an updated filing.",
+      "es": "Según Reuters, Anthropic avisó a los bancos de que había circulado información de precio inexacta para una salida a bolsa de hasta 69.300 millones de dólares y prometió un folleto actualizado."
+    },
+    {
+      "en": "Several outlets report that the new document sets a range of 70 to 78 dollars per share.",
+      "es": "Varios medios informan de que el nuevo documento fija un rango de 70 a 78 dólares por acción."
+    },
+    {
+      "en": "It also reveals that data-centre commitments with Lambda, worth 34.9 billion, can be terminated because Lambda missed a lease deadline.",
+      "es": "También revela que unos compromisos de centros de datos con Lambda, por 34.900 millones, pueden rescindirse porque Lambda no cumplió un plazo de alquiler."
+    },
+    {
+      "en": "OpenAI has introduced Control Room, an internal system that monitors its research workloads and can halt them within about 35 seconds.",
+      "es": "OpenAI ha presentado Control Room, un sistema interno que vigila sus cargas de investigación y puede detenerlas en unos 35 segundos."
+    },
+    {
+      "en": "It is designed to be fail-closed: if the system goes down, the inference engines refuse requests.",
+      "es": "Funciona 'a prueba de fallos': si el sistema cae, los motores de inferencia rechazan las peticiones."
+    },
+    {
+      "en": "Separately, The Information reports that OpenAI brought in about 10 billion dollars in the third quarter, up 50% from the previous one.",
+      "es": "Además, The Information publica que OpenAI ingresó unos 10.000 millones de dólares en el tercer trimestre, un 50% más que en el anterior."
+    },
+    {
+      "en": "According to Tom's Hardware, Nvidia is requiring its overseas cloud partners to set aside at least 51% of their capacity for non-Chinese customers.",
+      "es": "Según Tom's Hardware, Nvidia exige a sus socios de nube en el extranjero que reserven al menos el 51% de su capacidad para clientes no chinos."
+    },
+    {
+      "en": "Meanwhile, on China's black market, a rack of B300 servers fetches up to 2.8 million dollars.",
+      "es": "Mientras, en el mercado negro chino, un rack de servidores B300 llega a costar 2,8 millones de dólares."
+    },
+    {
+      "en": "The shares fell 5.47% on Tuesday, also weighed down by the investigation and shareholder lawsuit linked to its chief executive, Jensen Huang.",
+      "es": "Las acciones cayeron un 5,47% el martes, lastradas también por la investigación y la demanda de accionistas relacionadas con su consejero delegado, Jensen Huang."
+    },
+    {
+      "en": "Nvidia carries so much weight in the indices that its slide dragged down the S&P 500 and the Nasdaq.",
+      "es": "Nvidia pesa tanto en los índices que su caída arrastró al S&P 500 y al Nasdaq."
+    },
+    {
+      "en": "Prime Minister Anthony Albanese announced an AI safety regulator able to impose hefty fines.",
+      "es": "El primer ministro Anthony Albanese anunció un regulador de seguridad de la IA capaz de imponer multas importantes."
+    },
+    {
+      "en": "The move comes after an OpenAI agent accessed Medicare's statistics portal without authorisation in June.",
+      "es": "La decisión llega después de que un agente de OpenAI accediera sin permiso, en junio, al portal estadístico de Medicare."
+    },
+    {
+      "en": "The legislation will be introduced next year.",
+      "es": "La ley se presentará el año que viene."
+    },
+    {
+      "en": "Zelenskyy described the first of the two days as constructive, with the focus on humanitarian issues and security guarantees.",
+      "es": "Zelenski calificó de constructiva la primera de las dos jornadas, centrada en asuntos humanitarios y garantías de seguridad."
+    },
+    {
+      "en": "A senior US official said both sides are privately showing some flexibility on occupied territory, although that point would be left until the end.",
+      "es": "Un alto cargo estadounidense dijo que ambas partes muestran en privado cierta flexibilidad sobre el territorio ocupado, aunque ese punto quedaría para el final."
+    },
+    {
+      "en": "A deal would reshape Europe's energy map, from gas supplies to rebuilding Ukraine's power grid.",
+      "es": "Un acuerdo cambiaría el mapa energético europeo, desde el gas hasta la reconstrucción de la red eléctrica ucraniana."
+    },
+    {
+      "en": "Russia launched 162 drones and one ballistic missile overnight, according to Ukraine's air force, which shot down or jammed 135.",
+      "es": "Rusia lanzó 162 drones y un misil balístico durante la noche, según la Fuerza Aérea ucraniana, que derribó o neutralizó 135."
+    },
+    {
+      "en": "More than 600,000 people were left without power after the strikes.",
+      "es": "Más de 600.000 personas se quedaron sin luz tras los ataques."
+    },
+    {
+      "en": "After meeting Trump at the White House, Qatar spoke of progress, although it admitted it cannot say how close a deal is.",
+      "es": "Tras reunirse con Trump en la Casa Blanca, Qatar habla de progresos, aunque admite que no sabe cuán cerca está un acuerdo."
+    },
+    {
+      "en": "Trump said he is holding off on new strikes at the request of Gulf states, but is keeping the naval blockade of Iranian ports in place.",
+      "es": "Trump dijo que aplaza nuevos ataques a petición de los países del Golfo, pero mantiene el bloqueo naval de los puertos iraníes."
+    },
+    {
+      "en": "As long as Hormuz stays blocked, Brent will stay above 90 dollars and electricity and gas will remain expensive in Europe.",
+      "es": "Mientras Ormuz siga bloqueado, el Brent seguirá por encima de los 90 dólares y la luz y el gas, caros en Europa."
+    },
+    {
+      "en": "G7 foreign ministers met in Paris to discuss both wars, without reaching a unified decision.",
+      "es": "Los ministros de Exteriores del G7 se reunieron en París para hablar de las dos guerras, sin llegar a una decisión unificada."
+    },
+    {
+      "en": "Qatar, Saudi Arabia and several European countries called for the Strait of Hormuz to be reopened as soon as possible.",
+      "es": "Qatar, Arabia Saudí y varios países europeos pidieron reabrir cuanto antes el estrecho de Ormuz."
+    },
+    {
+      "en": "Denmark announced 643 million euros in military aid during a meeting between Zelenskyy and Nordic leaders.",
+      "es": "Dinamarca anunció 643 millones de euros en ayuda militar durante una reunión de Zelenski con los líderes nórdicos."
+    },
+    {
+      "en": "Europe is trying to strengthen Kyiv's hand while negotiations go on.",
+      "es": "Europa intenta reforzar la posición de Kiev mientras se negocia."
+    },
+    {
+      "en": "CCOO, UGT, the Tenants' Union and other organisations have called the first joint general strike since 2012.",
+      "es": "CCOO, UGT, el Sindicato de Inquilinas y otras organizaciones convocan la primera huelga general conjunta desde 2012."
+    },
+    {
+      "en": "They are demanding affordable housing, a curb on speculation and a minimum-wage rise of at least 7% in 2027.",
+      "es": "Piden vivienda asequible, frenar la especulación y una subida del salario mínimo de al menos el 7% en 2027."
+    },
+    {
+      "en": "It comes 18 days before the November 29 general election, so it will set the tone of the campaign.",
+      "es": "Llega a 18 días de las elecciones generales del 29 de noviembre, por lo que marcará el tono de la campaña."
+    },
+    {
+      "en": "Renfe is keeping 75% of commuter services at rush hour and 73% of high-speed trains, and hospital emergency care is guaranteed.",
+      "es": "Renfe mantiene el 75% de Cercanías en hora punta y el 73% de la Alta Velocidad, y se garantizan las urgencias hospitalarias."
+    },
+    {
+      "en": "Madrid's High Court urgently suspended the region's minimum services in justice, education and transport, except for the Metro.",
+      "es": "El Tribunal Superior de Justicia de Madrid suspendió de urgencia los mínimos madrileños en Justicia, Educación y Transportes, salvo el Metro."
+    },
+    {
+      "en": "The Supreme Court has upheld the right to vote of the children of naturalised Spanish citizens, around 189,000 people, ahead of the November 29 election.",
+      "es": "El Tribunal Supremo ha reafirmado el derecho al voto de los hijos de personas nacionalizadas españolas, unas 189.000 personas, de cara a las elecciones del 29 de noviembre."
+    },
+    {
+      "en": "The average wholesale price rises today to 210.94 €/MWh, 23.1% higher than on Tuesday, peaking at 254.30 €/MWh between 8 and 9 a.m.",
+      "es": "El precio mayorista medio sube hoy a 210,94 €/MWh, un 23,1% más que el martes, con un máximo de 254,30 €/MWh entre las 8 y las 9."
+    },
+    {
+      "en": "Prices only dip below 200 €/MWh at night.",
+      "es": "Solo hay precios por debajo de 200 €/MWh de noche."
+    },
+    {
+      "en": "The strike could reduce demand; Red Eléctrica's consumption data is often used as a gauge of turnout.",
+      "es": "La huelga puede reducir la demanda; Red Eléctrica suele usar el consumo como termómetro del seguimiento."
+    },
+    {
+      "en": "An analysis by Selectra of the capacity maps published by i-DE, e-distribución and UFD finds that 5,059 of their 5,553 nodes have no access capacity available.",
+      "es": "Un análisis de Selectra sobre los mapas de capacidad de i-DE, e-distribución y UFD concluye que 5.059 de sus 5.553 nudos no tienen capacidad de acceso disponible."
+    },
+    {
+      "en": "Almería, Málaga, Albacete and Cuenca are at 100%, and Madrid is at 83%.",
+      "es": "Almería, Málaga, Albacete y Cuenca están al 100%, y Madrid, al 83%."
+    },
+    {
+      "en": "It is the distributors' core argument for more investment and better returns in the new planning cycle, and it directly affects your department.",
+      "es": "Es el argumento central de las distribuidoras para pedir más inversión y mejor retribución en la nueva planificación: afecta de lleno a tu departamento."
+    },
+    {
+      "en": "Five member states are asking the UK to make a financial contribution in exchange for rejoining the EU electricity market.",
+      "es": "Cinco Estados miembros piden que Reino Unido contribuya económicamente a cambio de reintegrarse en el mercado eléctrico de la UE."
+    },
+    {
+      "en": "It is a key sticking point in talks to improve power trading across interconnectors.",
+      "es": "Es un punto clave en la negociación para mejorar el comercio de electricidad a través de las interconexiones."
+    },
+    {
+      "en": "October CPI rose 0.4% month on month and core inflation 0.3%, both a tenth of a point above forecasts.",
+      "es": "El IPC de octubre subió un 0,4% mensual y la subyacente un 0,3%, ambas una décima por encima de lo previsto."
+    },
+    {
+      "en": "Fed Governor Christopher Waller now leans towards a 25-basis-point hike in December, and the US 10-year yield climbed back to 5%.",
+      "es": "El gobernador de la Fed Christopher Waller ya se inclina por subir 25 puntos básicos en diciembre, y el bono estadounidense a 10 años volvió al 5%."
+    },
+    {
+      "en": "Higher rates make it more expensive to finance debt-heavy projects such as power grids.",
+      "es": "Tipos más altos encarecen la financiación de proyectos con mucha deuda, como las redes eléctricas."
+    },
+    {
+      "en": "The AI cloud provider brought in 3.66 billion dollars in the third quarter and has built up a backlog of 132.5 billion.",
+      "es": "El proveedor de nube para IA ingresó 3.660 millones de dólares en el tercer trimestre y acumula una cartera de pedidos de 132.500 millones."
+    },
+    {
+      "en": "Even so, it lost 709 million in the period.",
+      "es": "Aun así, perdió 709 millones en el periodo."
+    }
+  ],
+  "word_of_the_day": {
+    "term": "sticky inflation",
+    "pos": "noun phrase",
+    "translation": "inflación persistente",
+    "definition_en": "Inflation that stays high and is slow to come down, especially in prices such as services and rents, even when central banks tighten policy.",
+    "example_en": "Sticky inflation is forcing the Fed to consider another hike.",
+    "example_es": "La inflación persistente obliga a la Fed a plantearse otra subida."
+  },
+  "recommendations": [
+    {
+      "id": "neuron-anthropic-3-4bn-power-deal",
+      "type": "article",
+      "title": "Anthropic's $3.4 billion power deal for AI data centers",
+      "speaker": "Redacción de The Neuron",
+      "outlet": "The Neuron",
+      "duration_min": 6,
+      "language": "en",
+      "topics": [
+        "IA",
+        "energía",
+        "centros de datos"
+      ],
+      "summary": "Explica el acuerdo eléctrico de 3.400 millones de dólares de Anthropic para alimentar sus centros de datos y qué supone para la demanda de electricidad. Texto corto y divulgativo.",
+      "why": "Une tus dos mundos: IA y energía. Útil para entender por qué las redes son el cuello de botella de la IA.",
+      "url": "https://www.theneuron.ai/news/anthropics-3-4-billion-power-deal-ai-data-centers/"
+    },
+    {
+      "id": "neuron-openai-control-room",
+      "type": "article",
+      "title": "OpenAI's Control Room: how it stops AI experiments",
+      "speaker": "Redacción de The Neuron",
+      "outlet": "The Neuron",
+      "duration_min": 5,
+      "language": "en",
+      "topics": [
+        "IA",
+        "seguridad"
+      ],
+      "summary": "Desgrana cómo funciona Control Room, el sistema de OpenAI para parar experimentos de investigación en segundos, y por qué es 'fail-closed'.",
+      "why": "Buen vocabulario técnico en inglés sobre seguridad y fiabilidad de sistemas, muy parecido al de ingeniería de control.",
+      "url": "https://www.theneuron.ai/news/openai-control-room-stop-ai-experiments/"
+    },
+    {
+      "id": "techpolicy-language-attack-surface",
+      "type": "article",
+      "title": "In the AI era, language is now an attack surface",
+      "speaker": "Tech Policy Press",
+      "outlet": "Tech Policy Press",
+      "duration_min": 10,
+      "language": "en",
+      "topics": [
+        "IA",
+        "ciberseguridad",
+        "regulación"
+      ],
+      "summary": "Ensayo sobre cómo, con los agentes de IA, un simple texto puede convertirse en un ataque informático, y qué implica para empresas y reguladores.",
+      "why": "Contexto perfecto para noticias como el ataque a Fireworks AI o el nuevo regulador australiano.",
+      "url": "https://techpolicy.press/in-the-ai-era-language-is-now-an-attack-surface"
+    },
+    {
+      "id": "energyconnects-applying-ai-energy-security-2026-11",
+      "type": "article",
+      "title": "Applying AI for maximum impact and value creation in a world seeking energy security",
+      "speaker": "Entrevista de Energy Connects",
+      "outlet": "Energy Connects",
+      "duration_min": 8,
+      "language": "en",
+      "topics": [
+        "IA",
+        "energía",
+        "inversión"
+      ],
+      "summary": "Entrevista grabada en el entorno de ADIPEC sobre cómo aplicar la IA en el sector energético para crear valor y reforzar la seguridad de suministro.",
+      "why": "Vocabulario de negocio energético en inglés y visión de directivos del sector sobre dónde invertir.",
+      "url": "https://www.energyconnects.com/opinion/interviews/2026/november/applying-ai-for-maximum-impact-and-value-creation-in-a-world-seeking-energy-security/"
+    },
+    {
+      "id": "euronews-sanchez-superviviente-2026-11",
+      "type": "article",
+      "title": "Pedro Sánchez, un superviviente político ante la presión de las urnas",
+      "speaker": "Redacción de Euronews",
+      "outlet": "Euronews",
+      "duration_min": 7,
+      "language": "es",
+      "topics": [
+        "España",
+        "política",
+        "elecciones"
+      ],
+      "summary": "Perfil del presidente del Gobierno a pocas semanas de las elecciones del 29 de noviembre: su trayectoria y los retos de la campaña.",
+      "why": "Te sitúa en la campaña electoral, que coincide con la huelga general y marcará la agenda económica.",
+      "url": "https://es.euronews.com/2026/11/10/pedro-sanchez-el-superviviente-que-busca-revalidar-su-mandato"
+    }
+  ],
+  "markets": {
+    "summary": {
+      "es": "Martes de dos velocidades. En EE. UU., un IPC de octubre más alto de lo esperado (0,4% general y 0,3% subyacente) reforzó la expectativa de una subida de tipos en diciembre: el bono a 10 años tocó el 5% y el S&P 500 cedió un 0,38%. El Nasdaq perdió un 0,74%, lastrado por la caída del 5,5% de Nvidia. Los analistas de Regan Capital y Northlight ven 'preparada' la subida de 25 puntos básicos. En Europa, el IBEX 35 subió casi un 1% gracias a la banca (CaixaBank +3,3%), aunque se quedó por debajo de los 20.000 puntos; Repsol, Solaria y Acciona fueron los peores. El petróleo y el oro bajaron por la pausa en los ataques a Irán y el repunte del dólar y los tipos.",
+      "en": "A two-speed Tuesday. In the US, a hotter-than-expected October CPI (0.4% headline, 0.3% core) reinforced bets on a December rate hike: the 10-year yield touched 5% and the S&P 500 slipped 0.38%. The Nasdaq lost 0.74%, dragged down by Nvidia's 5.5% drop. Analysts at Regan Capital and Northlight say a 25-basis-point hike is now teed up. In Europe, the IBEX 35 rose almost 1% on the back of banks (CaixaBank +3.3%), though it stayed below 20,000 points; Repsol, Solaria and Acciona were the worst performers. Oil and gold fell on the pause in strikes on Iran and on a firmer dollar and higher yields."
+    },
+    "indices": [
+      {
+        "name": "IBEX 35",
+        "value": 19936.4,
+        "change_pct": 0.98
+      },
+      {
+        "name": "S&P 500",
+        "value": 7520.93,
+        "change_pct": -0.38
+      },
+      {
+        "name": "Nasdaq Composite",
+        "value": 25065.87,
+        "change_pct": -0.74
+      },
+      {
+        "name": "Dow Jones",
+        "value": 52231.89,
+        "change_pct": -0.3
+      },
+      {
+        "name": "Brent (USD/barril)",
+        "value": 91.49,
+        "change_pct": -1.17
+      },
+      {
+        "name": "WTI (USD/barril)",
+        "value": 86.04,
+        "change_pct": -0.93
+      },
+      {
+        "name": "Oro (USD/onza, aprox.)",
+        "value": 4031.8,
+        "change_pct": -2.6
+      },
+      {
+        "name": "Euro/dólar",
+        "value": 1.1223,
+        "change_pct": -0.64
+      },
+      {
+        "name": "Bono EE. UU. 10 años (%)",
+        "value": 5.0
+      },
+      {
+        "name": "Luz España, media diaria (€/MWh)",
+        "value": 210.94,
+        "change_pct": 23.08
+      }
+    ],
+    "learn": {
+      "concept": "Capacidad de acceso a la red (nudos saturados)",
+      "explanation": "Cuando alguien quiere conectar un nuevo consumo (una fábrica, un centro de datos, cargadores) o una planta generadora, la distribuidora estudia si el nudo de la red más cercano tiene 'capacidad de acceso' libre sin poner en riesgo la seguridad. Desde 2025, i-DE, e-distribución y UFD publican mapas de capacidad por nudo. Si un nudo está saturado, la solicitud se deniega o queda a la espera de inversiones (nuevas subestaciones, transformadores, líneas). Por eso la saturación es el gran argumento para ampliar los límites de inversión y la retribución de las redes: cada euro de CAPEX en un nudo saturado desbloquea demanda nueva. En tu trabajo, verás estas cifras justificando la prioridad de proyectos en el plan de inversiones."
+    }
+  },
+  "leisure": {
+    "movies": [],
+    "books": []
+  }
+}
